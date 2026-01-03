@@ -294,8 +294,7 @@ Public Class ControlPanel
 
     ' Played when Commercial button is clicked.
     Private Sub btnCommercial_Click(sender As Object, e As EventArgs) Handles btnCommercial.Click
-
-        ' TODO: Stop any other sound when going to the commercial break.
+        ' Stop all game sounds before playing the commercial jingle
         Dim stopaudio As New Thread(Sub() Sounds.StopAudio("to_commercial", 500))
         stopaudio.Start()
 
