@@ -48,6 +48,12 @@ Public Class Sounds
                 sndFinal.controls.stop()
                 sndAnswer.controls.stop()
                 sndLightsDown.controls.stop()
+                sndGeneralBed.controls.stop()
+                sndLifeline1.controls.stop()
+                sndLifeline2.controls.stop()
+                LifeLineDouble.dd_Start.controls.stop()
+                LifeLineDouble.dd_Wrong.controls.stop()
+                LifeLineDouble.dd_Final.controls.stop()
             Case "question"
                 sndQuestion.controls.stop()
             Case "final"
