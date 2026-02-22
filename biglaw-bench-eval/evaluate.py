@@ -25,7 +25,7 @@ from datetime import datetime
 MODEL_UNDER_TEST = "claude-sonnet-4-20250514"
 JUDGE_MODEL = "claude-sonnet-4-20250514"
 BIGLAW_BENCH_DIR = Path("/tmp/biglaw-bench")
-OUTPUT_DIR = Path("/home/user/WBAM-anekania/biglaw-bench-eval/results")
+OUTPUT_DIR = Path(__file__).resolve().parent / "results"
 MAX_TOKENS_RESPONSE = 4096
 MAX_TOKENS_JUDGE = 2048
 
@@ -47,8 +47,10 @@ def read_pdf_text(pdf_path: str) -> str:
         for page in reader.pages:
             text += page.extract_text() or ""
         return text
-    except Exception as e:
+    except (FileNotFoundError, PermissionError) as e:
         return f"[Error reading PDF: {e}]"
+    except ImportError:
+        return "[Error reading PDF: PyPDF2 not installed]"
 
 
 def call_claude_with_pdfs(prompt: str, pdf_paths: list[str], model: str = MODEL_UNDER_TEST) -> str:
@@ -76,7 +78,7 @@ def call_claude_with_pdfs(prompt: str, pdf_paths: list[str], model: str = MODEL_
             messages=[{"role": "user", "content": content}],
         )
         return response.content[0].text
-    except Exception as e:
+    except anthropic.APIError as e:
         return f"[API Error: {e}]"
 
 
@@ -89,7 +91,7 @@ def call_claude_text(prompt: str, model: str = MODEL_UNDER_TEST) -> str:
             messages=[{"role": "user", "content": prompt}],
         )
         return response.content[0].text
-    except Exception as e:
+    except anthropic.APIError as e:
         return f"[API Error: {e}]"
 
 
@@ -156,7 +158,7 @@ Be strict but fair. Only award points when the criterion is clearly met."""
         return json.loads(judge_text)
     except json.JSONDecodeError:
         return {"error": "Failed to parse judge response", "raw": judge_text}
-    except Exception as e:
+    except anthropic.APIError as e:
         return {"error": f"Judge API error: {e}"}
 
 
@@ -264,7 +266,7 @@ def get_retrieval_documents(source: str) -> list[str]:
         return []
 
     if doc_dir.exists():
-        return sorted([str(p) for p in doc_dir.glob("*.pdf") + doc_dir.glob("*.Pdf") + doc_dir.glob("*.PDF")])
+        return sorted([str(p) for p in list(doc_dir.glob("*.pdf")) + list(doc_dir.glob("*.Pdf")) + list(doc_dir.glob("*.PDF"))])
     return []
 
 
@@ -607,7 +609,7 @@ def main():
 
     core_results = evaluate_core(core_tasks)
 
-    with open(OUTPUT_DIR / "core_results.json", 'w') as f:
+    with open(OUTPUT_DIR / "core_results.json", 'w', encoding='utf-8') as f:
         json.dump(core_results, f, indent=2, default=str)
     print(f"\nCore results saved to {OUTPUT_DIR / 'core_results.json'}")
 
@@ -623,7 +625,7 @@ def main():
 
     retrieval_results = evaluate_retrieval(retrieval_queries)
 
-    with open(OUTPUT_DIR / "retrieval_results.json", 'w') as f:
+    with open(OUTPUT_DIR / "retrieval_results.json", 'w', encoding='utf-8') as f:
         json.dump(retrieval_results, f, indent=2, default=str)
     print(f"\nRetrieval results saved to {OUTPUT_DIR / 'retrieval_results.json'}")
 
@@ -634,7 +636,7 @@ def main():
     print("-" * 40)
 
     schema_path = BIGLAW_BENCH_DIR / "blb-workflows" / "spa" / "schema.json"
-    with open(schema_path, 'r') as f:
+    with open(schema_path, 'r', encoding='utf-8') as f:
         schema = json.load(f)
 
     spa_csv = BIGLAW_BENCH_DIR / "blb-workflows" / "spa" / "spa-samples.csv"
@@ -643,7 +645,7 @@ def main():
 
     workflow_results = evaluate_workflows(schema, ground_truth)
 
-    with open(OUTPUT_DIR / "workflow_results.json", 'w') as f:
+    with open(OUTPUT_DIR / "workflow_results.json", 'w', encoding='utf-8') as f:
         json.dump(workflow_results, f, indent=2, default=str)
     print(f"\nWorkflow results saved to {OUTPUT_DIR / 'workflow_results.json'}")
 
@@ -655,7 +657,7 @@ def main():
 
     report = generate_report(core_results, retrieval_results, workflow_results)
     report_path = OUTPUT_DIR / "evaluation_report.txt"
-    with open(report_path, 'w') as f:
+    with open(report_path, 'w', encoding='utf-8') as f:
         f.write(report)
 
     print(report)
@@ -680,7 +682,7 @@ def main():
         },
     }
 
-    with open(OUTPUT_DIR / "summary.json", 'w') as f:
+    with open(OUTPUT_DIR / "summary.json", 'w', encoding='utf-8') as f:
         json.dump(summary, f, indent=2)
 
     print(f"\nSummary saved to {OUTPUT_DIR / 'summary.json'}")
