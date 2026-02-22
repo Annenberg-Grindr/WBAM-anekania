@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Private evaluation documents
+biglaw-bench-eval/IMPROVEMENT_PROPOSAL.md
