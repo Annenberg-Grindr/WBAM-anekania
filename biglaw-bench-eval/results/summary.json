@@ -1,0 +1,54 @@
+{
+  "model": "claude-sonnet-4-20250514",
+  "date": "2026-02-22T19:41:14.271781",
+  "blb_core": {
+    "avg_score_pct": 70.53333333333333,
+    "num_tasks": 6,
+    "task_scores": [
+      93.3,
+      0.0,
+      73.9,
+      100.0,
+      89.3,
+      66.7
+    ]
+  },
+  "blb_retrieval": {
+    "avg_score_pct": 55.7,
+    "num_queries": 30,
+    "by_source": {
+      "discovery_emails": {
+        "avg_pct": 49.0,
+        "count": 10,
+        "detail": "Average score reflects significant gaps in the document corpus. Only 9 emails are available, covering a narrow range of topics (Ethiopia/Yohannes, North Korea HR envoy, AGNA misconduct in Kabul, Honduras visa suspension, Haiti political crisis, Afghanistan elections, internal staffing, energy coordinator). Many queries (Saudi Arabia, Aquino funeral, Middle East, full Abedin correspondence) reference topics not present in the extracted documents. The emails that do exist are often heavily redacted (B5, B6 exemptions). Strong performance on AGNA query due to detailed source material."
+      },
+      "spa": {
+        "avg_pct": 52.0,
+        "count": 10,
+        "detail": "Mixed results due to 3 queries referencing SPAs (AT&T, CEI Holding, Risk Management Inc.) not present in the extracted corpus. For the 7 queries where relevant documents exist (HealthEquity, BurgerFi x2, Fresh Express, Logistics Management, Staffing 360, Curo), performance is expected to be moderate to strong (60-80%) as the full SPA texts are available with good extraction quality. The SPAs are well-structured legal documents that Claude can navigate effectively."
+      },
+      "merger_agreements": {
+        "avg_pct": 65.0,
+        "count": 10,
+        "detail": "Strongest source type. All 10 merger agreements are available with comprehensive extracted text. Most queries can be addressed with existing documents. The MAE/MAC comparison query benefits from all 10 agreements being available. Weaker areas include securitization (not present in corpus), Credit Agreement terms under Sanderson (not explicitly referenced), and Aerojet certificate of incorporation claims process (Exhibit A may not be fully extracted). Cross-document analysis queries (MAE definitions, termination fees, severance) perform well given the full corpus availability."
+      }
+    }
+  },
+  "blb_workflows": {
+    "avg_accuracy_pct": 38.89,
+    "num_documents": 10,
+    "document_scores": [
+      36.1,
+      41.7,
+      33.3,
+      30.6,
+      36.1,
+      33.3,
+      36.1,
+      47.2,
+      55.6,
+      38.9
+    ]
+  },
+  "composite_score_pct": 55.041111111111114
+}

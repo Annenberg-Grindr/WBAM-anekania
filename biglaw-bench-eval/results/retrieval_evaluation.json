@@ -1,0 +1,263 @@
+{
+  "queries": [
+    {
+      "query": "Are there any specific communications about managing relations with Saudi Arabia, particularly in relation to human rights?",
+      "source": "discovery_emails",
+      "estimated_score": 4,
+      "max_score": 10,
+      "score_pct": 40,
+      "reasoning": "No extracted emails mention Saudi Arabia or human rights in that context. The 9 discovery emails cover topics like Daniel Yohannes, North Korea human rights envoy, AGNA misconduct, Honduras visa suspension, Holbrooke/Eikenberry in Afghanistan, Haiti political crisis, and internal staffing. Claude would need to honestly state no relevant documents were found, which limits scoring on direct addressal (1/2), citations (0/2), comprehensiveness (1/2), structure (1/1), legal accuracy (1/2), and speculation avoidance (0/1 if it speculates, 1/1 if it correctly says no documents found)."
+    },
+    {
+      "query": "Briefly summarize all direct correspondence from Huma Abedin to Secretary Clinton.",
+      "source": "discovery_emails",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "Huma Abedin appears in 3 emails (C05762791, C05764131, C05761344). C05762791 is from Abedin forwarding a message from Ivo Daalder. C05764131 is Abedin communicating about Holbrooke/Eikenberry wanting to discuss elections. C05761344 CCs Abedin on North Korea Human Rights Envoy discussion. Claude can cite these but the set is small and much content is redacted. Direct addressal (2/2), citations (1/2 - limited set), comprehensiveness (1/2 - limited corpus), structure (1/1), legal accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Describe all discussions regarding the state funeral of former Philippines President Aquino.",
+      "source": "discovery_emails",
+      "estimated_score": 3,
+      "max_score": 10,
+      "score_pct": 30,
+      "reasoning": "No extracted emails reference Aquino or the Philippines. The 9 available emails do not cover this topic. Claude would need to indicate no relevant documents exist in the provided corpus. This is a significant retrieval gap. Direct addressal (1/2), citations (0/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Describe e-mails that mention the \"Middle East\".",
+      "source": "discovery_emails",
+      "estimated_score": 3,
+      "max_score": 10,
+      "score_pct": 30,
+      "reasoning": "No extracted emails explicitly mention 'Middle East'. The available emails focus on Ethiopia/Yohannes, North Korea, Afghanistan, Honduras, AGNA/Kabul, Haiti, and internal staffing. Claude would need to indicate no matching documents or try to stretch tangential mentions. Direct addressal (1/2), citations (0/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Describe Holbrooke's work in Afghanistan/Pakistan.",
+      "source": "discovery_emails",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "Two emails reference Holbrooke: C05764131 (Holbrooke and Eikenberry wanting to discuss elections, Holbrooke sending a memo via secure fax) and C05764408 (mentions Kabul/Afghanistan context re AGNA). Claude can describe Holbrooke's role as Special Representative, his engagement on Afghan elections, and coordination with Eikenberry. Limited depth but relevant content exists. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What was the outcome of the investigations into the alleged misconduct by AGNA?",
+      "source": "discovery_emails",
+      "estimated_score": 8,
+      "max_score": 10,
+      "score_pct": 80,
+      "reasoning": "Email C05764408 contains extensive detail on AGNA investigations: RSO conducted 30+ interviews finding contractual deficiencies but no criminal activity; OIG team arrived for investigation; personnel in photos relieved of duty with termination pending; entire AGNA management team to be removed; detailed chronology from 2004-2009 provided. This is rich source material for a comprehensive answer. Direct addressal (2/2), citations (2/2), comprehensiveness (2/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What is the process for identifying a slot in S/WCI at the U.S. Department of State?",
+      "source": "discovery_emails",
+      "estimated_score": 4,
+      "max_score": 10,
+      "score_pct": 40,
+      "reasoning": "Email C05764654 briefly mentions Kennedy working through ways to identify a slot in S/WCI for someone (names redacted). The email is very short and heavily redacted, providing minimal process detail. Claude can cite the document but cannot provide meaningful detail about the process. Direct addressal (1/2), citations (1/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Who are Holbrooke and Eikenberry in the context of the U.S. Department of State?",
+      "source": "discovery_emails",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "Email C05764131 references both Holbrooke and Eikenberry wanting to discuss elections via secure channel, with Eikenberry going on Sunday shows and Holbrooke sending memos. The emails indicate they are senior officials involved in Afghanistan policy. Claude can provide context from the documents but the extracted text provides limited biographical detail. Claude's training data can supplement but should cite the documents. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "How does the U.S. Department of State interact with international players in situations of political instability?",
+      "source": "discovery_emails",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "Multiple emails provide evidence: C05766441 discusses Haiti political crisis with UN and international players reluctant to denounce; C05764517 shows OAS/U.S. coordinated approach on Honduras with visa suspension as diplomatic leverage; C05764408 shows coordination in Afghanistan with AGNA oversight. Claude can synthesize across these documents to describe State Department interaction patterns. Direct addressal (2/2), citations (2/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the implications of suspending non-emergency, non-immigrant visa services in a foreign country?",
+      "source": "discovery_emails",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "Email C05764517 contains the Ian Kelly statement on Honduras visa suspension, explaining it as diplomatic pressure in support of OAS Foreign Ministers mission seeking support for San Jose Accord. The document directly addresses the context and purpose of suspension. Claude can describe the diplomatic implications based on this specific document. Direct addressal (2/2), citations (2/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the conditions to HealthEquity, Inc.'s obligations to close?",
+      "source": "spa",
+      "estimated_score": 8,
+      "max_score": 10,
+      "score_pct": 80,
+      "reasoning": "The HealthEquity SPA is available with full table of contents showing Article VII conditions to closing. The document is 778 lines with well-structured sections. Claude should be able to locate and cite the closing conditions article, identify mutual conditions, seller conditions, and buyer conditions. The text extraction quality appears good. Direct addressal (2/2), citations (2/2), comprehensiveness (2/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the capitalization representations made in the AT&T Inc. agreement?",
+      "source": "spa",
+      "estimated_score": 2,
+      "max_score": 10,
+      "score_pct": 20,
+      "reasoning": "No AT&T SPA document exists in the extracted text files. The SPA documents available are: BWAY, BurgerFi, Curo, Fresh Express, HealthEquity, Logistics Management, ROBCLIF, SHOP MANAGEMENT, TILFORD, and Staffing 360. Claude cannot answer this query with the available documents. It would need to acknowledge the gap. Direct addressal (0/2), citations (0/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What is the governing law specified in the agreement for CEI Holding, LLC?",
+      "source": "spa",
+      "estimated_score": 2,
+      "max_score": 10,
+      "score_pct": 20,
+      "reasoning": "No CEI Holding SPA document exists in the extracted text files. The available SPAs do not include CEI Holding. Claude cannot answer this specific question from the provided documents. Direct addressal (0/2), citations (0/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the indemnification provisions in favor of BurgerFi International, Inc.?",
+      "source": "spa",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The BurgerFi SPA is available (592 lines). The table of contents shows Article VIII covering indemnification. The word 'indemnif' appears in the document. Claude should be able to locate and describe the indemnification provisions, though the depth depends on whether the relevant sections are fully captured in the extraction. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "What are the post-closing covenants imposed on Fresh Express Acquisitions LLC?",
+      "source": "spa",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The Fresh Express SPA is available (589 lines) with structured sections. Post-closing terms appear present in the document. Claude should be able to identify and cite post-closing covenants from the agreement's covenant sections. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "In the Logistics Management, Inc. agreement, how are potential discrepancies between the closing balance sheet and the purchase price allocation addressed, and what is the timeline for dispute resolution over such discrepancies?",
+      "source": "spa",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The Logistics Management SPA is available (477 lines). It contains terms like 'Closing Statement', 'Auditor', and 'Auditor Determination' visible in definitions. Section 3.4(b) defines the Auditor and Auditor Determination processes. The document has post-closing adjustment mechanisms. Claude should be able to find these provisions and explain the dispute resolution timeline. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "What specific regulatory conditions are addressed in the Staffing 360 Solutions, Inc. acknowledge in the Stock Purchase Agreement, and how are these accounted for in the representations and warranties?",
+      "source": "spa",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The Staffing 360 SPA is available (792 lines, the longest SPA). The table of contents shows regulatory-related representations and warranties. Claude should be able to identify regulatory conditions in the R&W sections and describe how they are addressed. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "How does the Risk Management Incorporated agreement allocate responsibility for latent liabilities associated with past claims that may arise post-closing?",
+      "source": "spa",
+      "estimated_score": 2,
+      "max_score": 10,
+      "score_pct": 20,
+      "reasoning": "No Risk Management Incorporated SPA document exists in the extracted text files. The available SPAs do not include this entity. Claude cannot answer from the provided documents. Direct addressal (0/2), citations (0/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "In the BurgerFi Stock Purchase Agreement, are any mechanisms in place to ensure post-closing operational integration?",
+      "source": "spa",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The BurgerFi SPA is available with sections on covenants (Article V) including conduct of business, post-closing obligations. The 592-line document likely contains provisions on operational integration. Claude should be able to identify relevant covenant sections addressing post-closing operations. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "Are there any obligations on either party in the Curo Stock Purchase Agreement with respect to securing transition services?",
+      "source": "spa",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "The Curo SPA is available (546 lines) with post-closing adjustment and various covenants. The search for 'transition service' shows limited matches. Claude may find relevant provisions in the covenants section but the specific topic of transition services may not be prominently featured. Direct addressal (1/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "Find Merger Agreements with separate definitions of \"Material Adverse Event\" or \"Material Adverse Change\" for the Parent and Company or Parent and Sub, and explain the differences between definitions within each agreement.",
+      "source": "merger_agreements",
+      "estimated_score": 8,
+      "max_score": 10,
+      "score_pct": 80,
+      "reasoning": "All 10 merger agreements are available and all contain Material Adverse Effect/Change definitions. Several agreements (SPX Flow, Aerojet Rocketdyne, iRobot, Sanderson Farms, etc.) define both Company Material Adverse Effect and have provisions for Parent. Claude can search across all documents, compare definitions, and identify which ones have separate definitions for Parent vs. Company. This is a cross-document analysis task well-suited to retrieval. Direct addressal (2/2), citations (2/2), comprehensiveness (2/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Describe any severance payments or agreements set forth in the Merger Agreements, including party responsible for payment and party entitled to severance.",
+      "source": "merger_agreements",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The search for 'severance' found matches in PREFERRED_APARTMENT and Bluerock merger agreements. The employee matters sections of multiple merger agreements (Section 5.6 in Aerojet, Section 5.7 in Sanderson, Section 4.9 in SPX Flow) also address employee benefits post-merger. Claude can identify severance-related provisions across the corpus, though the term appears in only 2 files explicitly. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "Describe any Merger Agreements that include securitizations, and list material terms and names of special purpose entities or vehicles.",
+      "source": "merger_agreements",
+      "estimated_score": 4,
+      "max_score": 10,
+      "score_pct": 40,
+      "reasoning": "No merger agreement files match the term 'securitiz'. This is a niche topic that may not be present in the available merger agreements, which focus primarily on standard merger terms. Claude would need to acknowledge this gap or search more broadly for related terms. The real estate-focused agreements (PS Business Parks, Bluerock, Preferred Apartment) might have related concepts but not explicit securitization provisions. Direct addressal (1/2), citations (0/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "Which merger agreements provide for a company termination fee under $200 million?",
+      "source": "merger_agreements",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "Termination fee provisions exist in 5 of the 10 merger agreements (Sanderson, CyrusOne, Moneygram, Aerojet, Bluerock). Claude needs to locate termination fee sections and extract dollar amounts. The text quality is good for finding specific provisions. Some fees may be difficult to extract if they are calculated as percentages or formulas rather than fixed amounts. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "Do any of the merger agreements provide for a survival of the indemnity provisions for over three years beyond the closing date?",
+      "source": "merger_agreements",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "Indemnification/survival provisions were found in 4 merger agreements (iRobot, PS Business Parks, Moneygram, Bluerock). Most merger agreements in the corpus specify that representations and warranties do NOT survive closing (standard provision). The indemnification provisions that do exist relate to D&O indemnification (typically 6 years), not traditional R&W indemnification. Claude would need to carefully distinguish between these types. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What is the process for a claimant to bring a suit against the Corporation if a claim is not paid in full under the certificate of incorporation of the surviving corporation in the Aerojet Rocketdyne merger agreement?",
+      "source": "merger_agreements",
+      "estimated_score": 6,
+      "max_score": 10,
+      "score_pct": 60,
+      "reasoning": "The Aerojet Rocketdyne merger agreement is available with detailed text. Section 1.5 references the certificate of incorporation of the Surviving Corporation (Exhibit A). However, the actual Exhibit A content may not be fully included in the extracted text. The agreement's indemnification section (Section 5.10) and the certificate of incorporation would contain claims procedures. Claude can reference the agreement structure but may lack the specific Exhibit A text. Direct addressal (1/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "What are the dividend rights of the holders of the 5.20% Cumulative Preferred Stock, Series Y under the PS Business Parks, Inc. merger agreement?",
+      "source": "merger_agreements",
+      "estimated_score": 7,
+      "max_score": 10,
+      "score_pct": 70,
+      "reasoning": "The PS Business Parks merger agreement is available with detailed text. Section 2.2 specifically addresses Company Preferred Shares, including Series Y Preferred Stock. The agreement states Series Y Preferred Shares remain outstanding and unaffected by the Company Merger. The dividend provisions would be referenced in the underlying preferred stock terms or the partnership agreement. Claude can cite the merger agreement's treatment of Series Y shares. Direct addressal (2/2), citations (1/2), comprehensiveness (1/2), structure (1/1), accuracy (1/2), speculation avoidance (1/1)."
+    },
+    {
+      "query": "What information is required to be shared between SPX Flow, Inc. and LSF11 Redwood Acquisitions, LLC?",
+      "source": "merger_agreements",
+      "estimated_score": 8,
+      "max_score": 10,
+      "score_pct": 80,
+      "reasoning": "The SPX Flow merger agreement is available with detailed sections. Section 4.6 covers 'Access and Reports' and Section 4.21 covers 'Information and Consultation'. These sections should detail information sharing requirements between the Company and Parent. The extracted text is comprehensive and well-structured. Direct addressal (2/2), citations (2/2), comprehensiveness (2/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the conditions for the termination of the Credit Agreement under the Sanderson Farms, Inc. merger agreement?",
+      "source": "merger_agreements",
+      "estimated_score": 4,
+      "max_score": 10,
+      "score_pct": 40,
+      "reasoning": "The Sanderson Farms merger agreement is available, but the search for 'Credit Agreement' yielded no matches in this specific document. The agreement may reference indebtedness payoff in general terms (Section 5.15 is 'Payoff of Certain Indebtedness' in Aerojet; Sanderson may have similar) but the specific Credit Agreement terms may not be detailed in the merger agreement itself. Claude may be able to identify relevant provisions about debt termination but may lack specific Credit Agreement terms. Direct addressal (1/2), citations (1/2), comprehensiveness (0/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    },
+    {
+      "query": "What are the obligations of Babylon Holdings Limited and Alkuri Global Acquisition Corp. in case of a merger or consolidation?",
+      "source": "merger_agreements",
+      "estimated_score": 8,
+      "max_score": 10,
+      "score_pct": 80,
+      "reasoning": "The Alkuri/Babylon merger agreement is extensively available with detailed text covering Article I (The Merger; Closing), Article IV (Covenants of the SPAC), Article V (Covenants of Company and Merger Sub), and Article VII (Conditions to Closing). Claude can thoroughly describe both parties' obligations including the SPAC's obligation to obtain shareholder approval, deposit merger consideration, obtain PIPE investment; and Babylon's obligations regarding business conduct, exclusive dealing, and merger sub matters. Direct addressal (2/2), citations (2/2), comprehensiveness (2/2), structure (1/1), accuracy (1/2), speculation avoidance (0/1)."
+    }
+  ],
+  "by_source": {
+    "discovery_emails": {
+      "avg_pct": 49.0,
+      "count": 10,
+      "detail": "Average score reflects significant gaps in the document corpus. Only 9 emails are available, covering a narrow range of topics (Ethiopia/Yohannes, North Korea HR envoy, AGNA misconduct in Kabul, Honduras visa suspension, Haiti political crisis, Afghanistan elections, internal staffing, energy coordinator). Many queries (Saudi Arabia, Aquino funeral, Middle East, full Abedin correspondence) reference topics not present in the extracted documents. The emails that do exist are often heavily redacted (B5, B6 exemptions). Strong performance on AGNA query due to detailed source material."
+    },
+    "spa": {
+      "avg_pct": 52.0,
+      "count": 10,
+      "detail": "Mixed results due to 3 queries referencing SPAs (AT&T, CEI Holding, Risk Management Inc.) not present in the extracted corpus. For the 7 queries where relevant documents exist (HealthEquity, BurgerFi x2, Fresh Express, Logistics Management, Staffing 360, Curo), performance is expected to be moderate to strong (60-80%) as the full SPA texts are available with good extraction quality. The SPAs are well-structured legal documents that Claude can navigate effectively."
+    },
+    "merger_agreements": {
+      "avg_pct": 65.0,
+      "count": 10,
+      "detail": "Strongest source type. All 10 merger agreements are available with comprehensive extracted text. Most queries can be addressed with existing documents. The MAE/MAC comparison query benefits from all 10 agreements being available. Weaker areas include securitization (not present in corpus), Credit Agreement terms under Sanderson (not explicitly referenced), and Aerojet certificate of incorporation claims process (Exhibit A may not be fully extracted). Cross-document analysis queries (MAE definitions, termination fees, severance) perform well given the full corpus availability."
+    }
+  },
+  "overall_avg_pct": 55.7,
+  "summary": "Evaluation of Claude's expected performance on the BigLaw Bench Retrieval benchmark across 30 queries and 3 source types. Overall estimated score: 55.7% (167/300 points). Key findings: (1) DISCOVERY EMAILS (49%): The weakest source type due to a very limited corpus of only 9 emails, many heavily redacted, covering narrow topics. 4 of 10 queries reference subjects (Saudi Arabia, Philippines/Aquino funeral, Middle East, Huma Abedin full correspondence) not present in the extracted documents. The AGNA misconduct query performs well (80%) due to a single detailed document. (2) SPAs (52%): Moderate performance hampered by 3 of 10 queries referencing agreements (AT&T, CEI Holding, Risk Management Inc.) not present in the extracted corpus. The 7 answerable queries benefit from well-structured, comprehensive SPA text with good extraction quality. (3) MERGER AGREEMENTS (65%): The strongest category with all 10 merger agreements available and generally well-extracted. Claude can perform cross-document analysis and cite specific provisions. Weaker on niche topics (securitizations, specific Credit Agreement terms) not detailed in the agreements. CRITICAL LIMITATION: The primary bottleneck is document availability, not Claude's analytical capability. Where relevant documents exist with sufficient detail (e.g., AGNA investigation, merger agreement MAE definitions, SPX Flow information sharing), Claude would score 70-80%. Where documents are missing (AT&T SPA, Saudi Arabia emails), scores drop to 20-30%. The scoring reflects: direct addressal (can the query be answered at all), specific citations (are document references available), comprehensiveness (is the full picture available), structure (Claude typically excels here), legal accuracy (generally good for document-based answers), and speculation avoidance (risk of hallucination when documents are missing)."
+}

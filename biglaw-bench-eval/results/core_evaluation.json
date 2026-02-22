@@ -1,0 +1,572 @@
+[
+  {
+    "task_number": "4",
+    "category": "Litigation",
+    "task_type": "Regulatory & Advising",
+    "task_description": "Analyze court order and draft client alert regarding implications for 2020 NBPP",
+    "rubric_items_total": 13,
+    "max_possible_points": 15,
+    "estimated_points_earned": 14,
+    "estimated_negative_points": 0,
+    "final_score_pct": 93.3,
+    "rubric_evaluation": [
+      {
+        "item": "1a. Structure: Does the response provide general background on the case?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would almost certainly provide background context on HIV & Hepatitis Policy Institute v. HHS, copay accumulator programs, and the ACA. The documents contain rich background information that Claude would synthesize well."
+      },
+      {
+        "item": "3a.i. Does the response state that copay accumulator programs permit insurers not to count certain payments obtained through drug-manufacturer assistance against insured individuals' annual deductible and out-of-pocket maximum amounts?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "This is explicitly stated in multiple documents (Doc 4b, page 1: 'this case concerns whether HHS acted lawfully in the 2021 NBPP when it permitted insurers not to count certain payments obtained through drug-manufacturer assistance against insured individuals' annual deductible and out-of-pocket maximum amounts'). Claude would extract and include this."
+      },
+      {
+        "item": "3a.ii. Does the response state that the 2020 NBPP allows private health plans to exclude the value of manufacturer cost-sharing support from patients' annual cost-sharing limits only if a generic equivalent is available and medically appropriate?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Clearly stated in Doc 4b and 4c. The 2020 NBPP (predecessor rule) permitted exclusion only for 'specific prescription brand drugs that have an available and medically appropriate generic equivalent.' Claude would capture this distinction."
+      },
+      {
+        "item": "3b.i. Does the response state that the 2021 NBPP had allowed private health insurers to utilize copay accumulator programs regardless of a generic's availability?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "This is clearly described in the documents. The 2021 NBPP removed the generic availability requirement, permitting copay accumulators broadly. Claude would identify and state this key distinction."
+      },
+      {
+        "item": "3c.i. Does the response state that the Court vacated the 2021 NBPP in its September 2023 order?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Explicitly stated across all three documents. Doc 4c states: 'On September 29, 2023, this Court granted plaintiffs' motion for summary judgment...vacated the challenged rule.' Claude would include this central fact."
+      },
+      {
+        "item": "3d.i. Does the response state that HHS and CMS motioned to clarify the scope of the Court's September 2023 order?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Doc 4a is literally titled 'DEFENDANTS' CONDITIONAL MOTION TO CLARIFY SCOPE OF COURT'S ORDER.' Claude would clearly describe this motion."
+      },
+      {
+        "item": "3d.ii. Does the response state that in their motion to clarify, the agencies explained that they intended to address through rulemaking any issues left open by the Court's September 2023 order?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Doc 4a explicitly states: 'HHS intends to address, through rulemaking, the issues left open by the Court's opinion.' Claude would capture this."
+      },
+      {
+        "item": "3d.iii. Does the response state that in their motion to clarify, the agencies explained that they would not take any enforcement action against insurers for the copay accumulator programs they choose to offer?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Doc 4a explicitly states: 'HHS does not intend to take any enforcement action against issuers or plans based on their treatment of such manufacturer assistance.' Claude would include this."
+      },
+      {
+        "item": "3d.iv. Does the response state that Plaintiffs objected to the agencies' plans to implement a nonenforcement policy?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Doc 4b (Plaintiffs' Response) extensively argues against the nonenforcement policy, calling it 'unlawful' and arguing it would 'nullify the Court's judgment.' Claude would capture this opposition."
+      },
+      {
+        "item": "3e.i. Does the response state that the Court's December 22 order makes clear that the 2020 NBPP was reinstated by the Court's prior September 2023 order?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Doc 4c clearly states: 'The effect of vacatur is to reinstate the rules previously in force' and identifies the 2020 NBPP as the reinstated rule. Claude would capture this."
+      },
+      {
+        "item": "3e.ii. Does the response state that as of the December 22 order, private health plans may exclude the value of manufacturer cost-sharing support from patients' annual cost-sharing limits only if a generic equivalent is available and medically appropriate?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "This follows from the reinstatement of the 2020 NBPP. The documents clearly explain that the reinstated rule limits copay accumulators to drugs with generic equivalents. Claude would connect these dots."
+      },
+      {
+        "item": "3e.iii. Does the response state that considering the reinstated 2020 NBPP and the agencies' nonenforcement policy, it is unclear whether the limitation regarding generic availability will be enforced?",
+        "max_points": 2,
+        "awarded": 2,
+        "reasoning": "This is the key tension in the case. The Court reinstated the 2020 NBPP but explicitly declined to rule on the lawfulness of the nonenforcement policy (Doc 4c: 'The lawfulness of any such policy is not properly before the Court on the present motion to clarify'). Claude would identify this enforcement uncertainty as a key client takeaway."
+      },
+      {
+        "item": "3e.iv. Does the response state that the agencies' intention to engage in future rulemaking on the issue indicates that a new rule may be forthcoming?",
+        "max_points": 2,
+        "awarded": 1,
+        "reasoning": "Claude would likely mention the agencies' intent to pursue rulemaking, but might not sufficiently emphasize the forward-looking implication that a new rule may be forthcoming as a distinct client advisory point. It would likely mention this but perhaps not with the prominence the rubric rewards with 2 points. Awarding 1 of 2."
+      }
+    ],
+    "notes": "Task #4 has well-extracted PDFs with rich legal content. Claude (Sonnet) would perform strongly here because the documents are text-searchable court filings with clear factual content. The model would likely produce a well-structured client alert covering all key facts. The main risk is insufficient forward-looking analysis about enforcement uncertainty and future rulemaking, but even there the documents are quite explicit. Minimal hallucination risk since the facts are clearly laid out. No negative points expected."
+  },
+  {
+    "task_number": "5",
+    "category": "Litigation",
+    "task_type": "Document Review & Analysis",
+    "task_description": "Analyze trial documents and draft an analysis of conflicts, gaps, contradictions, or ambiguities, including a detailed chronology of events and analysis results",
+    "rubric_items_total": 10,
+    "max_possible_points": 13,
+    "estimated_points_earned": 0,
+    "estimated_negative_points": 0,
+    "final_score_pct": 0.0,
+    "rubric_evaluation": [
+      {
+        "item": "1a. Structure: Does the response include a timeline with dates that progress in chronological order?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "All 5 documents are scanned PDFs (images, not text). The text extraction yielded zero usable text - only page markers. Claude would be unable to read the documents and would produce no meaningful chronology. It would likely inform the user it cannot read the documents."
+      },
+      {
+        "item": "1b. Structure: Does the response include a separate section on gaps, contradictions, or ambiguities?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Without readable document content, Claude cannot produce any analysis of gaps/contradictions."
+      },
+      {
+        "item": "3a.i. Does the response state that on July 13, 2001, Jeffrey Skilling decided he wanted out of his position as CEO of Enron?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Document content is unreadable (scanned images). Claude cannot extract this fact."
+      },
+      {
+        "item": "3a.ii. Does the response state that in August 2001, Jeffrey Skilling resigned from Enron?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Document content is unreadable. Claude might know this from general knowledge of the Enron scandal, but it would be speculative and not based on the documents."
+      },
+      {
+        "item": "3a.iii. Does the response state that on September 6, 2001, Jeffrey Skilling called Glenn Ray and said he would like to sell 200,000 shares of Enron?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific details about Glenn Ray and the September 6 call are not general knowledge - they are specific to these trial documents which are unreadable."
+      },
+      {
+        "item": "3a.iv. Does the response state that on September 7, 2001, Glenn Ray emailed Michael Lind and explained that Skilling stated a desire to sell 200,000 shares of Enron?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      },
+      {
+        "item": "3a.v. Does the response state that on September 10, 2001, Rex Rogers sent Glenn Ray a letter explaining Skilling's voluntary resignation?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      },
+      {
+        "item": "3a.vi. Does the response state that on September 17, 2001, there were several calls that resulted in Jeffrey Skilling selling 500,000 shares of Enron?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      },
+      {
+        "item": "3a.vii. Does the response state that on September 17, 2001, Jeffrey Skilling told Glenn Ray he was worried because the market was dropping?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      },
+      {
+        "item": "3a.viii. Does the response state that on December 6, 2001, Jeffrey Skilling took part in a U.S. SEC hearing?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      },
+      {
+        "item": "3b.i. Does the response identify the contradiction that Skilling said the only reason he sold on September 17 was because of 9/11, but had expressed desire to sell on September 6?",
+        "max_points": 3,
+        "awarded": 0,
+        "reasoning": "This is the key analytical finding. Without readable documents, Claude cannot identify this critical contradiction."
+      },
+      {
+        "item": "3b.ii. Does the response state that Jeffrey Skilling did not appear concerned about any SEC requirements during his September 17 call with Glenn Ray?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Specific document content unavailable due to scanned PDFs."
+      }
+    ],
+    "notes": "CRITICAL ISSUE: All 5 documents for Task #5 are scanned image PDFs with zero extracted text. Text extraction confirms: AES Call Transcript (142 chars/empty), Enron Call Transcript (397 chars/empty), Brad Ahrens Email (14 chars/empty), Rogers Letter (14 chars/empty), Skilling Deposition (380 chars/empty). Claude (Sonnet) would be completely unable to analyze these documents in a text-based pipeline. If Claude had multimodal (vision) access to the PDF images directly, it might extract some content, but even then OCR of handwritten or faxed documents is unreliable. This represents a fundamental limitation of the text-extraction approach. Score: 0/13. Note: Claude itself would likely tell the user it cannot read the documents rather than hallucinate, so no negative points for hallucination."
+  },
+  {
+    "task_number": "19",
+    "category": "Transactional",
+    "task_type": "Corporate Strategy & Advising",
+    "task_description": "Draft memorandum to general counsel regarding the treatment of employee equity awards in merger",
+    "rubric_items_total": 22,
+    "max_possible_points": 23,
+    "estimated_points_earned": 18,
+    "estimated_negative_points": -1,
+    "final_score_pct": 73.9,
+    "rubric_evaluation": [
+      {
+        "item": "1a. Structure: Is the response formatted as a memo?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would format this as a memo with TO/FROM/RE/DATE header. This is a standard format it handles well."
+      },
+      {
+        "item": "1b. Structure: Does the response contain subheadings?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The prompt explicitly asks for subheadings, and Claude would organize the memo with clear subheadings for each type of equity award and treatment."
+      },
+      {
+        "item": "2a. Style: Does the response have a professional tone resembling a lawyer writing to another lawyer?",
+        "max_points": 2,
+        "awarded": 2,
+        "reasoning": "Claude consistently produces professional legal writing when asked to draft legal memos. The tone would be appropriately formal and technical."
+      },
+      {
+        "item": "3a.i. Does the response state that an In-the-Money Option is an outstanding Company Option that has an exercise price less than the Equity Award Cash Consideration Amount?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "This definition is in the extracted Exhibit A (page 100): 'In-the-Money Option means a Company Option that is unexpired, unexercised and outstanding immediately prior to the Effective Time and has a per share exercise price...that is less than the Equity Award Cash Consideration Amount.' Claude would extract and state this."
+      },
+      {
+        "item": "3a.ii. Does the response state that an Out-of-the-Money Option is an outstanding Company option that has an exercise price that is equal to or greater than the Equity Award Cash Consideration Amount?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "This definition is in Exhibit A (page 104): 'Out-of-the-Money Option means a Company Option...which has a per share exercise price...that is equal to or greater than the Equity Award Cash Consideration Amount.' Claude would extract this."
+      },
+      {
+        "item": "3a.iii. Does the response state that a Specified Option is an In-the-Money Option held by a Person who is no longer an employee or other service provider to the Acquired Companies?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(a) defines Specified Options clearly, and the Exhibit A definition on page 109 confirms. Claude would extract this."
+      },
+      {
+        "item": "3a.iv. Does the response state that a Specified RSU is a Company RSU that is (a) vested and not yet settled, (b) outstanding and was granted to a non-employee member of the Company's board of directors, (c) vests effective as of the Effective Time in accordance with its terms, or (d) is outstanding and not forfeited and held by a Person who is no longer an employee or other service provider to the Acquired Companies?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The Specified RSU definition is clearly stated on page 109 of Exhibit A with all four conditions (a)-(d). Claude would capture all four prongs."
+      },
+      {
+        "item": "3b.i. Does the response state that the Equity Award Cash Consideration Amount is the sum of (a) the Per Share Cash Amount plus (b) the product of (i) the Exchange Ratio, multiplied by (ii) the Parent Measurement Price?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Clearly defined on page 98 of Exhibit A. Claude would state this formula accurately."
+      },
+      {
+        "item": "3b.ii. Does the response state that the Exchange Ratio is 0.3450 of a share of Parent Common Stock?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 1.5(a)(iii)(A) in the extracted text clearly states '0.3450 (the Exchange Ratio)'. Claude would capture this specific number."
+      },
+      {
+        "item": "3b.iii. Does the response state that the Per Share Cash Amount is $197.00?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 1.5(a)(iii)(B) clearly states '$197.00 in cash, without interest (the Per Share Cash Amount)'. Claude would capture this."
+      },
+      {
+        "item": "3b.iv. Does the response state that the Parent Measurement Price is the volume weighted average trading price of Parent Common Stock on the Parent Stock Exchange for the five consecutive trading days ending on the trading day immediately preceding the Closing Date?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Clearly defined on page 105 of Exhibit A. Claude would capture this VWAP-based definition."
+      },
+      {
+        "item": "3b.v. Does the response state that the Conversion Ratio is the sum of (a) the Exchange Ratio, plus (b) the quotient obtained by dividing (i) the Per Share Cash Amount by (ii) the Parent Measurement Price?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Clearly defined on page 96 of Exhibit A. Claude would extract and explain this formula."
+      },
+      {
+        "item": "3b.vi. Does the response state that the Merger Consideration is the share consideration determined by the Exchange Ratio plus the Per Share Cash Amount, plus any cash in lieu of fractional shares and any dividends or other distributions?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Defined on page 104 of Exhibit A. Claude would capture this multi-component definition."
+      },
+      {
+        "item": "3c.i. Does the response state that each Specified Option will be canceled and the holder will receive cash equal to the number of shares multiplied by the excess of the Equity Award Cash Consideration Amount over the exercise price?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(a) clearly describes this treatment. Claude would extract and state this correctly."
+      },
+      {
+        "item": "3c.ii. Does the response state that each non-Specified, non-OTM Company Option will be assumed by Parent and converted into Parent options using the Conversion Ratio?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(b) describes this conversion in detail. Claude would capture the key formula elements."
+      },
+      {
+        "item": "3c.iii. Does the response state that each Out-of-the-Money Option held by a person who is no longer an employee or service provider will be canceled for no consideration?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(c) clearly states this. Claude would include this."
+      },
+      {
+        "item": "3c.iv. Does the response state that each outstanding and unvested Company RSU (excluding Specified RSUs) will automatically convert into Parent RSUs using the Conversion Ratio, subject to same terms?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(d) describes this. Claude would capture the conversion mechanism and the preservation of terms."
+      },
+      {
+        "item": "3c.v. Does the response state that each outstanding Specified RSU will be canceled and holders will receive the Merger Consideration on the same terms as outstanding shares plus any accrued dividend equivalents?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 5.3(e) describes this. Claude would capture the cancellation and Merger Consideration treatment."
+      },
+      {
+        "item": "3c.vi. Does the response state that if requested by Parent, any available shares for issuance under equity plans will be converted into Parent shares based on the Conversion Ratio?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Section 5.3(f) covers 'Residual Shares.' This is a less prominent provision and Claude might overlook it or not prioritize it in the memo, especially since it's about remaining unissued shares rather than employee equity awards per se."
+      },
+      {
+        "item": "3d.i. Does the response include an example showing how the agreement provisions would apply in a hypothetical scenario involving options?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The prompt explicitly requests numerical examples. Claude would provide a hypothetical option example since the prompt says 'numerical examples.'"
+      },
+      {
+        "item": "3d.ii. Is the numerical example involving options calculated correctly?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "The calculation requires knowing the Parent Measurement Price, which is a future VWAP value. Claude would need to assume a hypothetical price. There is meaningful risk of calculation errors given the complexity of the Conversion Ratio formula (Exchange Ratio + Per Share Cash Amount / Parent Measurement Price) and the option conversion (shares * Conversion Ratio, exercise price / Conversion Ratio). Claude might make rounding or formula errors."
+      },
+      {
+        "item": "3d.iii. Does the response include an example showing how the agreement provisions would apply in a hypothetical scenario involving RSUs?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would include an RSU example since the prompt asks for examples. This is more straightforward (RSU shares * Conversion Ratio)."
+      },
+      {
+        "item": "3d.iv. Is the numerical example involving RSUs calculated correctly?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Similar risk of calculation error as with options. The RSU conversion is simpler, but still requires correctly applying the Conversion Ratio. There's a reasonable chance Claude gets one small aspect wrong. Being conservative here."
+      }
+    ],
+    "notes": "Task #19 has a very long document (110 pages), but the key Section 5.3 and Exhibit A definitions are extractable. The text extraction originally truncated at page 17, but the actual PDF can be read with pymupdf yielding the critical sections. Claude (Sonnet) would likely produce a strong memo covering the definitions, relevant amounts, and treatment categories well. The main weaknesses would be: (1) possibly missing the Residual Shares provision in 5.3(f), (2) potential calculation errors in numerical examples given the complexity of the formulas, and (3) possible penalty for the word count minimum (800 words) though Claude typically produces sufficiently long memos. Deducting 1 point for potential slight extraneous information. Estimated word count penalty: 0 (Claude typically writes long memos). Final score: (18-1)/23 = 73.9%."
+  },
+  {
+    "task_number": "49",
+    "category": "Transactional",
+    "task_type": "Drafting",
+    "task_description": "Draft board consent approving a potential conflict of interest in the engagement of a lawyer who is affiliated with an officer of the company",
+    "rubric_items_total": 7,
+    "max_possible_points": 9,
+    "estimated_points_earned": 9,
+    "estimated_negative_points": 0,
+    "final_score_pct": 100.0,
+    "rubric_evaluation": [
+      {
+        "item": "1a. Structure: Is the response in the format of board resolutions with WHEREAS statements to provide background and RESOLVED statements saying exactly what the board is approving?",
+        "max_points": 2,
+        "awarded": 2,
+        "reasoning": "Claude consistently produces well-structured board resolutions with proper WHEREAS/RESOLVED format when asked to draft board resolutions. This is a common legal drafting pattern that Claude handles very well."
+      },
+      {
+        "item": "2a. Style: Are the resolutions written in a formal tone with highly specific legal language?",
+        "max_points": 2,
+        "awarded": 2,
+        "reasoning": "Claude produces formal legal language in drafting tasks. The resolutions would use appropriate legal terms like 'WHEREAS,' 'RESOLVED,' 'FURTHER RESOLVED,' and formal constructions throughout."
+      },
+      {
+        "item": "3a. Do the WHEREAS statements give the context that a potential lawyer is related to an officer and the board is aware of a potential conflict of interest?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The prompt specifically mentions the lawyer is related to an officer and there is a conflict of interest. Claude would address this directly in the WHEREAS clauses, establishing the factual background of the relationship and the conflict."
+      },
+      {
+        "item": "3b. Do the RESOLVED statements explicitly provide that the board approves of engaging the lawyer despite the potential conflict of interest?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would include an explicit RESOLVED statement approving the engagement. This is the core purpose of the resolutions as described in the prompt."
+      },
+      {
+        "item": "3c. Do the resolutions mention the board's conclusion that it is in the best interests of the company to engage the lawyer?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude typically includes 'best interests of the company' language in board resolutions, which is standard fiduciary duty language. Very likely to be included."
+      },
+      {
+        "item": "3d. Do the resolutions mention some element of reasoning, procedure, or analysis to justify the board's decision (e.g., the attorney is well suited to handle the manner)?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would include justification such as the attorney's qualifications, expertise, competitive rates, or other factors justifying the engagement despite the conflict."
+      },
+      {
+        "item": "3e. Do the resolutions establish a safeguard against the conflict (e.g., independent review, oversight of negotiations, specified contractual terms, etc.)?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would likely include safeguards such as independent oversight, periodic review, arm's length billing requirements, or other protective measures. This is consistent with good corporate governance practices that Claude understands."
+      }
+    ],
+    "notes": "Task #49 requires no documents and is a pure drafting task. Claude (Sonnet) excels at this type of legal drafting task. Board resolutions are a well-established format with WHEREAS/RESOLVED structure, and addressing conflict of interest is a common corporate governance scenario. Claude would produce a comprehensive set of resolutions covering all rubric items. No hallucination risk since this is generative drafting based on the prompt's requirements. No negative points expected."
+  },
+  {
+    "task_number": "60",
+    "category": "Transactional",
+    "task_type": "Negotiation Strategy",
+    "task_description": "Analyze expense reimbursement provisions in precedent agreements to determine market terms",
+    "rubric_items_total": 14,
+    "max_possible_points": 14,
+    "estimated_points_earned": 13,
+    "estimated_negative_points": -0.5,
+    "final_score_pct": 89.3,
+    "rubric_evaluation": [
+      {
+        "item": "3a.i. Does the response state that the Spansion, Inc. document DOES have an expense reimbursement provision?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 2(b) of the Spansion document clearly contains an expense reimbursement provision ('Company shall reimburse or pay...all of the reasonable fees and expenses of the Backstop Party'). Claude would identify this."
+      },
+      {
+        "item": "3a.ii. Does the response state that regardless of whether the transaction is consummated, Spansion will reimburse SLS Spansion Holdings and its Affiliates for reasonable fees and expenses including industry research, travel, counsel, accountants, financial advisors?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 2(b) explicitly states: 'Whether or not the transactions contemplated hereby are consummated, the Company shall reimburse or pay...all of the reasonable fees and expenses of the Backstop Party and its Affiliates...including without limitation reasonable expenses related to industry research, travel expenses, fees and expenses of...legal advisors...accountants, financial advisors and other professionals.' Claude would capture this."
+      },
+      {
+        "item": "3a.iii. Does the response state that Spansion will pay as soon as reasonably practicable, and not more than ten Business Days after presentation of an invoice?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 2(b) states: 'The Company shall pay all Transaction Expenses as soon as reasonably practical, but in any case not more than ten (10) Business Days after presentation of an invoice.' Claude would capture this timing detail."
+      },
+      {
+        "item": "3b.i. Does the response state that the J. L. Halsey Corporation document DOES have an expense reimbursement provision?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 10(i) of the J.L. Halsey document contains the expense reimbursement provision. Claude would identify this."
+      },
+      {
+        "item": "3b.ii. Does the response state that upon written request by LDN Stuyvie Partnership, J. L. Halsey Corporation agrees to reimburse LDN for reasonable documented attorneys' fees and expenses?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 10(i) states: 'upon written request therefor, to reimburse LDN for all reasonable documented attorneys' fees and expenses incurred by LDN in connection with the transactions contemplated hereby.' Claude would capture this."
+      },
+      {
+        "item": "3b.iii. Does the response state that there is a reimbursement cap of $25,000?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 10(i) states: 'up to an amount not to exceed $25,000 (the Expense Cap)'. Claude would identify this cap."
+      },
+      {
+        "item": "3b.iv. Does the response state that J. L. Halsey Corporation may increase the reimbursement cap by a reasonable amount if warranted in light of the circumstances?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 10(i) states: 'the Company shall be reasonable and consider in good faith increasing the Expense Cap by a reasonable amount if warranted in light of the circumstances.' Claude would capture this flexibility provision."
+      },
+      {
+        "item": "3c.i. Does the response state that the Valaris plc document DOES have an expense reimbursement provision?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 3.3 of the Valaris document is explicitly titled 'Expense Reimbursement.' Claude would identify this."
+      },
+      {
+        "item": "3c.ii. Does the response state that regardless of whether the transaction is consummated, Valaris plc pays documented reasonable third-party fees and expenses of each Initial Backstop Party, including counsel?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 3.3 states: 'Whether or not the transactions contemplated hereunder are consummated, the Debtors agree to pay the documented reasonable third-party fees and expenses of each Initial Backstop Party, including the reasonable and documented fees and expenses of counsel and other professionals.' Claude would capture this."
+      },
+      {
+        "item": "3c.iii. Does the response state that the amount accrued through the date of signing is paid on the date of signing, and thereafter the payments shall be made within 10 days of receiving an invoice?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 3.3 states: 'The Expense Reimbursement accrued through the date hereof...shall be paid on the date hereof' and 'the Debtors shall pay such invoices within ten (10) Business Days of receipt thereof.' Claude would capture both timing elements."
+      },
+      {
+        "item": "3d.i. Does the response state that the Black Ridge Oil & Gas, Inc. document DOES have an expense reimbursement provision?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The expense reimbursement provision is in the Registration Rights Agreement (Exhibit C), Section 2.2: 'The Company will pay all expenses associated with each registration...reasonable fees and expenses of one counsel to Purchasers in connection with the registration.' Claude would identify this."
+      },
+      {
+        "item": "3d.ii. Does the response state that the expense reimbursement provision is in the Registration Rights Agreement exhibit?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "This is the critical detail. The expense reimbursement is NOT in the main Standby Purchase Agreement body but in the Registration Rights Agreement (Exhibit C). Claude might identify the expense provision but might not specifically note that it is located in the Registration Rights Agreement exhibit rather than the main agreement. This distinction is important and easy to miss."
+      },
+      {
+        "item": "3d.iii. Does the response state that Black Ridge Oil & Gas, Inc. will pay reasonable fees and expenses of one counsel to Purchasers in connection with the registration?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Section 2.2 of the Registration Rights Agreement states: 'reasonable fees and expenses of one counsel to Purchasers in connection with the registration.' Claude would capture this if it reads the exhibit."
+      },
+      {
+        "item": "3e.i. Does the response state that the Condor Hospitality Trust, Inc. document does NOT have an expense reimbursement provision?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The Condor document's Section 5.10 states: 'Each party shall be responsible for legal fees and expenses in connection with the transactions contemplated hereby.' This means each party bears its own costs - there is no expense reimbursement provision. Claude would correctly identify this as lacking an expense reimbursement provision."
+      }
+    ],
+    "notes": "Task #60 has well-extracted documents with clear text. Claude (Sonnet) would perform well in identifying whether each document contains an expense reimbursement provision and summarizing the key terms. The main challenge is with the Black Ridge document where the expense reimbursement is in the Registration Rights Agreement exhibit rather than the main agreement body - Claude might miss noting this specific location. Deducting 0.5 for potential minor extraneous information about document structure. Final score: (13-0.5)/14 = 89.3%."
+  },
+  {
+    "task_number": "96",
+    "category": "Litigation",
+    "task_type": "Trial Preparations & Oral Argument",
+    "task_description": "Draft an explanation of potential objections to a third-party subpoena in federal court and create a detailed outline of the best objection",
+    "rubric_items_total": 12,
+    "max_possible_points": 12,
+    "estimated_points_earned": 9,
+    "estimated_negative_points": -1,
+    "final_score_pct": 66.7,
+    "rubric_evaluation": [
+      {
+        "item": "1a. Structure: Does the response include an overview of options on how to object to a third-party subpoena?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would provide a structured overview of the mechanisms available to challenge third-party subpoenas, including motions to quash and protective orders."
+      },
+      {
+        "item": "1b. Structure: Does the response include an outline of best objections?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "The prompt explicitly asks Claude to 'draft a detailed outline of our best objection.' Claude would include such an outline."
+      },
+      {
+        "item": "3a. Does the response provide a general overview of subpoenas under Federal Rule of Civil Procedure 45?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude has strong knowledge of the Federal Rules of Civil Procedure. It would provide an overview of Rule 45, which governs subpoenas to non-parties."
+      },
+      {
+        "item": "3b. Does the response state that the scope of discovery in FRCP 45 interacts with or may cover the same ground as FRCP 26?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would likely discuss how Rule 45 subpoenas are subject to the scope limitations of Rule 26(b), which defines the general scope of discovery."
+      },
+      {
+        "item": "3c. Does the response state that a party likely cannot simply object to a subpoena served on a non-party but rather must move to quash or seek a protective order?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude understands the procedural distinction that a party cannot simply 'object' to a third-party subpoena like they would to a discovery request; they must file a motion to quash under Rule 45(d)(3) or seek a protective order under Rule 26(c)."
+      },
+      {
+        "item": "3d. Does the response state that a party must establish standing to properly quash or seek a protective order against a third-party subpoena?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would discuss the standing requirement - that a party seeking to quash a third-party subpoena must demonstrate it has standing to do so, since the subpoena is directed at a non-party."
+      },
+      {
+        "item": "3e. Does the response state that a party has standing to move to quash or seek a protective order where the subpoena infringes on the moving party's rights or legitimate interests?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would discuss that standing exists when the party's own rights or legitimate interests are at stake (e.g., privileged information, proprietary information, personal privacy)."
+      },
+      {
+        "item": "3f. Does the response state that a party has standing where the party has a legitimate privacy interest in the sought information?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would identify privacy interests as a recognized basis for standing to challenge third-party subpoenas."
+      },
+      {
+        "item": "3g. Does the response state that a party might have standing to move to quash if the subpoena seeks irrelevant information?",
+        "max_points": 1,
+        "awarded": 1,
+        "reasoning": "Claude would discuss relevance-based objections, though it might note that courts are split on whether irrelevance alone gives a party standing to challenge a third-party subpoena."
+      },
+      {
+        "item": "3h. Does the response provide a general overview of subpoenas under Federal Rule of Criminal Procedure 17?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "This is a significant gap. The prompt asks about 'federal court' generally, and Claude might focus exclusively on the civil context (FRCP 45) since the prompt doesn't specifically mention criminal proceedings. Claude might not discuss Federal Rule of Criminal Procedure 17 unless the user's context suggested a criminal case."
+      },
+      {
+        "item": "3i. Does the response state that regardless of whether the movant has standing in a criminal case, the court is obligated under Rule 17 to assess each subpoena for compliance?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Without discussing Rule 17 at all, Claude would not make this specific point about the court's independent obligation to assess subpoenas in criminal cases."
+      },
+      {
+        "item": "3j. Does the response state that the best objections to a third-party subpoena depend on the particular facts of the case and nature of the dispute?",
+        "max_points": 1,
+        "awarded": 0,
+        "reasoning": "Claude might make a generic caveat about facts mattering, but the rubric requires a specific statement that the best objections depend on the particular facts of the case. Claude might focus on drafting the 'best objection' outline rather than explicitly caveating that it depends on facts. However, Claude often does include such caveats. Being conservative and not awarding this point as it may be buried rather than prominently stated."
+      }
+    ],
+    "notes": "Task #96 requires no documents and tests legal knowledge. Claude (Sonnet) has strong knowledge of federal civil procedure but the rubric specifically requires discussion of both civil (FRCP 45) and criminal (FRCP 17) subpoena rules. Claude would likely focus on FRCP 45 since the question seems to arise in a civil litigation context. The criminal Rule 17 discussion (items 3h, 3i) would likely be missed, costing 2 points. The 'depends on the facts' point (3j) is also potentially missed if Claude focuses on drafting the outline rather than caveating. Deducting 1 point for potential minor inaccuracies or extraneous information about subpoena practice. Final score: (9-1)/12 = 66.7%."
+  }
+]

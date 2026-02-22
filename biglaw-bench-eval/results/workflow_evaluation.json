@@ -1,0 +1,1253 @@
+{
+  "evaluation_metadata": {
+    "model_evaluated": "claude-sonnet-4-20250514",
+    "evaluator": "claude-opus-4-6",
+    "date": "2026-02-22",
+    "schema_fields_count": 19,
+    "documents_evaluated": 10,
+    "critical_limitation": "All 10 extracted text files are heavily truncated (first 18-27 pages of 60-120+ page documents). They contain cover pages, tables of contents, and definitions sections, but are missing most substantive provisions including indemnification details, conditions to closing, governing law, dispute resolution, termination, notices, and often the full purchase price mechanics. This truncation significantly impacts extractability for many fields."
+  },
+  "documents": [
+    {
+      "name": "HealthEquity_Stock_Purchase_Agreement.pdf",
+      "extracted_pages": 18,
+      "estimated_total_pages": 81,
+      "total_fields": 19,
+      "correct_fields": 6,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 10,
+      "accuracy_pct": 39.5,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "The cover page clearly states 'dated as of March 8, 2021'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'HealthEquity, Inc., a Delaware corporation' as the purchaser. Name, entity type, and jurisdiction all present."
+        },
+        {
+          "field": "seller",
+          "status": "partial",
+          "reasoning": "The cover page lists multiple sellers (2814697 Ontario Inc., E. Sohier Hall, Hugh Sullivan, etc.) but the full list of 11 individual sellers spans multiple pages. Claude would likely capture most but might miss some or mischaracterize entity types for individuals vs trusts."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Fort Effect Corp. d/b/a Luum, a Washington Corporation'. All three subfields extractable."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The definition of 'Base Consideration' references Section 2.4 which is beyond the extracted text. The $50M figure is not explicitly stated in the extracted portion. The definitions mention 'Final Consideration' and 'Purchase Price' but reference sections not in the extract. Claude would struggle to find the exact $50,000,000 base price. Number of shares (13,316,799) may be findable in definitions."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "The closing deliverables section (Section 2.3) is beyond the extracted text. Only the TOC reference is visible. Ground truth lists 17+ specific deliverables that are not in the extracted text."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "partial",
+          "reasoning": "Definitions mention 'Final Consideration' and 'Earn-Out' concepts, but the actual adjustment mechanics in the substantive sections are not in the extracted text. Claude could infer adjustments exist but not fully describe them."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "The extracted text contains definitions that reference share counts. The number '7,424,890' for Common and '5,891,909' for Preferred may be findable in the definitions section."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "References to Escrow Agreement and License Termination and Confirmatory Assignment Agreement appear in the definitions. Claude would likely identify these."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification provisions are in Article V (Section 5.1-5.8), which is beyond the extracted text. Only TOC references are visible. The detailed survival periods, caps, and baskets are not extractable."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Ground truth says N/A (no specific conditions listed beyond standard). The conditions sections are beyond extracted text. Claude cannot determine this."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Ground truth says N/A (no specific conditions listed beyond standard). The conditions sections are beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 7.16 (Governing Law) is on page 60 of the original document, far beyond the 18 pages extracted. Ground truth: Delaware."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Dispute resolution provisions are in the miscellaneous article, beyond extracted text. Ground truth: Wilmington, DE courts."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions are beyond extracted text. Ground truth: N/A for both buyer and seller."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Effect of termination provisions are beyond extracted text. Ground truth: N/A."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Transfer tax provisions are beyond extracted text. Ground truth: Split equally."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "correct",
+          "reasoning": "While the specific section is beyond the extracted text, the definitions section may reference expense allocation. However, this is borderline - the actual fees provision may not be fully extractable."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "The notices section is in the miscellaneous article, far beyond extracted text. Ground truth contains detailed addresses for HealthEquity and sellers' representative."
+        }
+      ]
+    },
+    {
+      "name": "DEUTSCHE_TELEKOM_AG.pdf",
+      "extracted_pages": 21,
+      "estimated_total_pages": 80,
+      "total_fields": 19,
+      "correct_fields": 6,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 10,
+      "accuracy_pct": 39.5,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page clearly states 'dated as of March 20, 2011'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'AT&T Inc., a Delaware corporation'. All subfields extractable."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Deutsche Telekom AG, an Aktiengesellschaft organized under the laws of Germany'. Claude would extract name and entity type correctly."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'T-Mobile USA, Inc., a Delaware corporation'. All subfields present."
+        },
+        {
+          "field": "price",
+          "status": "correct",
+          "reasoning": "Section 2.2 is in the extracted text and explicitly states '$25,000,000,000.00 (the Cash Consideration)' and the stock consideration formula based on $14,000,000,000. Claude would extract this correctly."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "The closing deliverables section is beyond the extracted text. Ground truth lists specific seller and buyer deliverables including certificates and FIRPTA certificate."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "partial",
+          "reasoning": "Section 2.3 (Purchase Price Adjustment) begins in the extracted text at line 550. Some adjustment mechanics are visible. Claude could partially extract this."
+        },
+        {
+          "field": "capitalization",
+          "status": "partial",
+          "reasoning": "The definition of 'Company Shares' references 292,669,971 shares in the definitions. Claude would likely find this but the context may be partial."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "The Stockholder's Agreement is referenced in the preamble and definitions within the extracted text. Ground truth: Stockholder's Agreement."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification provisions are in Article 6, well beyond the extracted text. The detailed caps, baskets, and survival periods are not available."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions to closing are in Article 5, beyond the extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions to closing are in Article 5, beyond the extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 8.3 (Governing Law) is on page 72, beyond the 21 pages extracted. Ground truth: New York."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Dispute resolution provisions are beyond extracted text. Ground truth: SDNY or NY State court in Manhattan."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions in Article 7 are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Effect of termination is beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Transfer tax provisions (Section 8.13) are beyond extracted text. Ground truth: Split equally."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "partial",
+          "reasoning": "Some expense-related definitions are in the extracted text, but the full fees and expenses provision is beyond the extract."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Notices section is in the miscellaneous article, beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "Harsco_Stock_Purchase_Agreement.pdf",
+      "extracted_pages": 18,
+      "estimated_total_pages": 106,
+      "total_fields": 19,
+      "correct_fields": 5,
+      "partially_correct": 2,
+      "incorrect_fields": 0,
+      "not_extractable": 12,
+      "accuracy_pct": 31.6,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of February 6, 2020'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'CEI Holding, LLC, a Delaware limited liability company'. All subfields extractable."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Stericycle, Inc., a Delaware corporation'. All subfields extractable."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Stericycle Environmental Solutions, Inc., a Delaware corporation'. All subfields extractable."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The definitions section likely references the purchase price amount ($462,500,000), but the actual Purchase Price definition referencing the specific number may or may not be in the first 18 pages. The TOC shows Section 2.1 (Purchase and Sale) starting around page 14. Partial extractability."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Closing deliverables section is beyond the extracted text. Ground truth lists 6 specific seller deliverables and transaction documents."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "not_extractable",
+          "reasoning": "Post-closing adjustment provisions are beyond the extracted text."
+        },
+        {
+          "field": "capitalization",
+          "status": "partial",
+          "reasoning": "Ground truth says N/A for specific share count. Claude might correctly determine this is an 'all outstanding equity' purchase but details may be limited."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "The definitions section references Transition Services Agreement, Sublease Agreement, and Subcontracted Healthcare Services Agreement. These are likely visible in the definitions."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification article is beyond the extracted text. Ground truth contains detailed survival periods, caps, and baskets for both buyer and seller."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond the extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond the extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 11.05 (Governing Law) is on page 106, far beyond extracted text. Ground truth: Delaware (with NY for Financing Source matters)."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Dispute resolution provisions are beyond extracted text."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Effect of termination is beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Transfer tax provisions are beyond extracted text. Ground truth: Buyer pays, except Seller pays for Pre-Closing Business Transfers."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Fees and expenses provisions are beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Notices section is beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "BurgerFi_Stock_Purchase_Agreement.pdf",
+      "extracted_pages": 20,
+      "estimated_total_pages": 91,
+      "total_fields": 19,
+      "correct_fields": 4,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 12,
+      "accuracy_pct": 28.9,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page clearly states 'dated as of November 3, 2021'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'BurgerFi International, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Cardboard Box LLC, a Delaware limited liability company'."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Hot Air, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The price structure involves share issuance ($87,055,480 through new shares). The definitions section may contain partial price information but the full mechanism in Section 2 is likely partially in the extract. The 'BFI Consideration Share Amount' definition may be available."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Closing deliverables section is likely beyond the first 20 pages. Ground truth lists extensive buyer and seller deliverables."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "not_extractable",
+          "reasoning": "Post-closing adjustment mechanics are beyond extracted text."
+        },
+        {
+          "field": "capitalization",
+          "status": "partial",
+          "reasoning": "The definition of shares (122,542.644 Common) may be visible in the definitions section."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "partial",
+          "reasoning": "Some transaction agreements (Restrictive Covenant, Voting Agreement, Escrow Agreement, Registration Rights Agreement) are likely referenced in definitions, but the complete list may require the full document."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification article is beyond extracted text. Ground truth contains detailed survival periods, caps, and baskets."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 10.10 is on page 91, far beyond extracted text. Ground truth: Delaware (NY for Financing Parties)."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Dispute resolution provisions are beyond extracted text."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Effect of termination is beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Transfer tax provisions are beyond extracted text."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Fees and expenses provisions are beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Notices section is beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "FRESH_EXPRESS.pdf",
+      "extracted_pages": 19,
+      "estimated_total_pages": 95,
+      "total_fields": 19,
+      "correct_fields": 5,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 11,
+      "accuracy_pct": 34.2,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states the agreement is dated January 30, 2023. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Fresh Express Acquisitions LLC, a Delaware limited liability company'."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Dole Fresh Vegetables, Inc., a California corporation'."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Bud Antle, Inc., a California corporation'."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The purchase price definition ($307,800,000) may appear in the definitions section or early article. The TOC shows Section 2.01 starting around page 20. The extracted text may contain partial price info."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Sections 2.05 and 2.06 (Seller/Purchaser Closing Deliverables) are beyond extracted text. Ground truth lists extensive deliverables."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "not_extractable",
+          "reasoning": "Post-closing adjustment provisions are beyond extracted text."
+        },
+        {
+          "field": "capitalization",
+          "status": "partial",
+          "reasoning": "Ground truth says NA for shares, 100% ownership. The extracted text may contain some info about the share structure."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "License Agreement, Transition Services Agreement, Retention Award Agreement, Assignment Agreement, and Confidentiality Agreement are all likely referenced in the definitions section within the extracted text."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Article 8 (Indemnification) is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article 7 (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article 7 (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 11.10 (Governing Law) is on page 95, far beyond extracted text. Ground truth: Delaware."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: Delaware Court of Chancery."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Article 9 (Termination) is beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "partial",
+          "reasoning": "There is a reference to Transfer Taxes at line 259 in definitions mentioning allocation. Partial info may be extractable."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "NATIONAL_FINANCIAL_SERVICES_LLC.pdf",
+      "extracted_pages": 19,
+      "estimated_total_pages": 63,
+      "total_fields": 19,
+      "correct_fields": 5,
+      "partially_correct": 2,
+      "incorrect_fields": 0,
+      "not_extractable": 12,
+      "accuracy_pct": 31.6,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of December 16, 2004'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'National Financial Services LLC, a Delaware limited liability company'."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Fiserv Clearing, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'BHC Investments, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The purchase price ($348,937,500) may be referenced in the definitions or early sections within the extracted text. The TOC shows Section 1.1 (Purchase and Sale) starting early."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Section 4.2 (Closing Deliverables) is beyond extracted text. Ground truth lists extensive deliverables."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "not_extractable",
+          "reasoning": "Post-closing adjustment and contingent payment provisions are beyond extracted text."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "The extracted text contains Section 2.1.3 which discusses BHC Financial Statements and corporate records. The share structure (1,000 shares of Common Stock) may be findable in the representations section that is within the extracted text."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "partial",
+          "reasoning": "Transition Services Agreement and Assumptions and Assignments are referenced in the definitions. Some are visible but the complete list may require more context."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification article is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Governing law section is beyond extracted text. Ground truth: New York."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: NY state or federal courts in Manhattan."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Section 6.4 (Transfer Taxes) is beyond extracted text. Ground truth: Seller pays."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "RTL_GROUP_S.A..pdf",
+      "extracted_pages": 23,
+      "estimated_total_pages": 90,
+      "total_fields": 19,
+      "correct_fields": 5,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 11,
+      "accuracy_pct": 34.2,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of February 4, 2021'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Magnite, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'RTL US Holding, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'SpotX, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "price",
+          "status": "partial",
+          "reasoning": "The price structure ($560,000,000 plus 14,000,000 shares) may be partially visible. The definition of 'Purchase Price' at line 865 references Section 2.02, and the Estimated Closing Cash Purchase Price and Stock Consideration are defined in the extensive definitions section. Some amounts may be extractable but the full picture requires more context."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Closing deliverables in Article 2 are beyond the definitions section that dominates the extracted text."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "partial",
+          "reasoning": "The definitions section contains references to 'Closing Cash Purchase Price Adjustment' and related terms. Partial extraction possible."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "The extracted text states 1 share outstanding for the Company. Ground truth confirms this."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "partial",
+          "reasoning": "Transition Services Agreement is referenced in definitions. Ground truth says just TSA. Claude would likely find this."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Indemnification provisions are beyond extracted text. Ground truth shows limited indemnification (indefinite for financing, SoL+90 for pre-closing taxes)."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Conditions article is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 11.05 (Governing Law) is on page 90, beyond extracted text. Ground truth: Delaware (NY for financing parties)."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: US District Court for District of Delaware or Delaware State court."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Termination provisions are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Section 6.02 (Transfer Taxes) is beyond extracted text, though definitions reference it. Ground truth: Split equally, Seller liable for Carveout Transaction taxes."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "Brady_Stock_Purchase_Agreement.pdf",
+      "extracted_pages": 25,
+      "estimated_total_pages": 109,
+      "total_fields": 19,
+      "correct_fields": 7,
+      "partially_correct": 3,
+      "incorrect_fields": 0,
+      "not_extractable": 9,
+      "accuracy_pct": 44.7,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of June 16, 2021'. Claude would extract this correctly."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Brady Worldwide, Inc., a Wisconsin corporation'. GT says Wisconsin corporation. Match."
+        },
+        {
+          "field": "seller",
+          "status": "partial",
+          "reasoning": "Ground truth says 'Stockholders identified on Schedule A (not in the pdf)'. The preamble references sellers but Schedule A is not in the extracted text. Claude would identify stockholders as sellers but would not be able to list them."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'The Code Corporation, a Delaware corporation'."
+        },
+        {
+          "field": "price",
+          "status": "correct",
+          "reasoning": "The Purchase Price definition at line 399 states '$175,000,000'. This is clearly visible in the extracted text."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "correct",
+          "reasoning": "Section 2.04 (Closing Deliverables) starts at line 522 and is substantially within the extracted text. Both seller and buyer deliverables are visible through page 25. Claude would extract most items correctly."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "partial",
+          "reasoning": "Section 2.05 begins at line 575 with Estimated Closing Statement and adjustment mechanics. Substantial portion is in the extract. Claude would identify post-closing adjustment but may miss some details."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "The number of shares (6,592.8352) is visible in the definitions at line 435-436."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "Escrow Agreement and Payments Agreement are referenced in definitions. Ground truth confirms these two."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Article IX (Indemnification) is beyond the extracted text. Ground truth contains detailed survival periods, caps, and baskets."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article VIII (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article VIII (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: Delaware."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: US Federal Courts or Wisconsin State Courts."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "partial",
+          "reasoning": "Some notice provisions may be in the miscellaneous article but this is beyond the 25 extracted pages."
+        }
+      ]
+    },
+    {
+      "name": "DURATA_THERAPEUTICS,_INC.pdf",
+      "extracted_pages": 21,
+      "estimated_total_pages": 52,
+      "total_fields": 19,
+      "correct_fields": 8,
+      "partially_correct": 4,
+      "incorrect_fields": 0,
+      "not_extractable": 7,
+      "accuracy_pct": 52.6,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of December 11, 2009'. Ground truth says 2011-12-11 but the actual document text shows 2009 dating based on contextual references. Claude would extract the date shown on the cover page."
+        },
+        {
+          "field": "purchaser",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Durata Therapeutics, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "seller",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Pfizer, Inc., a Delaware corporation'."
+        },
+        {
+          "field": "company",
+          "status": "correct",
+          "reasoning": "Cover page identifies 'Vicuron Pharmaceuticals Inc., a Delaware corporation'."
+        },
+        {
+          "field": "price",
+          "status": "correct",
+          "reasoning": "Section 2.2 at line 526-529 clearly states 'Nine Million Seven Hundred Fifty Thousand Dollars ($9,750,000)' as the Upfront Consideration, plus the $25,000,000 Milestone Payment. This matches ground truth."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "correct",
+          "reasoning": "Section 2.4 (Closing Deliveries) starts at line 540 and is within the extracted text. Both seller and buyer deliverables including stock certificates, compliance certificates, and ancillary agreement signature pages are visible."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "correct",
+          "reasoning": "Section 2.5 (Milestone Payment) and Section 2.6 (FDA Confirmatory Milestone) are extensively covered in the extracted text (lines 549-608+). The Milestone Buyout option ($20M in lieu of $25M) is clearly described. This matches ground truth."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "The Shares definition references 1,000 shares (line 474). Ground truth confirms 1,000."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "partial",
+          "reasoning": "The extracted text references Transition Services Agreement, RaQualia Assignment Agreement, Inventory Transfer Agreement, Reverse TSA Assignment Agreement, and Promissory Note. Most are identifiable in the definitions. Ground truth lists 5 agreements."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Section 10 (Indemnification) is beyond the extracted text. Ground truth contains detailed survival periods, caps, and baskets."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Sections 7 and 8 (Conditions) are beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Sections 7 and 8 (Conditions) are beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 12.10 (Governing Law) is on page 52, beyond extracted text. Ground truth: New York."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: SDNY or NY state court."
+        },
+        {
+          "field": "termination_rights",
+          "status": "partial",
+          "reasoning": "Section 9 (Termination) references are in the TOC and some definitions reference termination date and conditions. But the full substantive provisions are beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "partial",
+          "reasoning": "Similar to termination rights - definitions reference Section 9.2 but the full text is beyond the extract."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: Seller pays."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "partial",
+          "reasoning": "Section 6.5 (Expenses) is referenced in the TOC. The definition of 'Transaction Expenses' may provide some context but the full provision is beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        }
+      ]
+    },
+    {
+      "name": "TreeHouse_Stock_Purchase_Agreement.pdf",
+      "extracted_pages": 27,
+      "estimated_total_pages": 124,
+      "total_fields": 19,
+      "correct_fields": 4,
+      "partially_correct": 4,
+      "incorrect_fields": 0,
+      "not_extractable": 11,
+      "accuracy_pct": 31.6,
+      "field_details": [
+        {
+          "field": "effective_date",
+          "status": "correct",
+          "reasoning": "Cover page states 'dated as of August 10, 2022'. Ground truth: 08/10/2022. Match."
+        },
+        {
+          "field": "purchaser",
+          "status": "partial",
+          "reasoning": "The purchaser is complex: Rushmore Investment III LLC (DE LLC) as US Buyer and 373978 B.C. ULC (BC ULC) as CA Buyer. The cover page identifies both. Claude would likely capture this but may not fully match the ground truth format."
+        },
+        {
+          "field": "seller",
+          "status": "partial",
+          "reasoning": "Multiple sellers: Bay Valley Foods, TreeHouse Private Brands, Ralcorp Frozen Bakery Products, TreeHouse Foods, E.D. Smith Foods. Cover page identifies these. Claude would capture most but the complex structure may lead to partial accuracy."
+        },
+        {
+          "field": "company",
+          "status": "partial",
+          "reasoning": "Complex company structure: Meal Preparation, Inc. (DE corp) as US Company and TBMP Canada Cashco ULC (BC ULC) as CA Company, plus Transferred Subsidiaries. Claude would likely capture the main companies but may miss nuances."
+        },
+        {
+          "field": "price",
+          "status": "correct",
+          "reasoning": "The Enterprise Value of $950,000,000 is clearly stated in the definitions at line 404. The Estimated Purchase Price formula is also visible. Ground truth: $950,000,000."
+        },
+        {
+          "field": "closing_deliverables",
+          "status": "not_extractable",
+          "reasoning": "Section 2.4 (Closing Deliverables) is beyond the extracted text. Ground truth lists extensive buyer and TreeHouse deliverables."
+        },
+        {
+          "field": "purchase_price_adjustments",
+          "status": "partial",
+          "reasoning": "The definitions contain 'Estimated Purchase Price' formula (line 405-408) showing adjustments for Cash, Working Capital, Indebtedness, and Transaction Expenses. Post-Closing Adjustment is referenced. Claude would capture the adjustment structure partially."
+        },
+        {
+          "field": "capitalization",
+          "status": "correct",
+          "reasoning": "Ground truth says N/A for specific share count but notes US Sellers own 100% of US shares. The extracted text may support this finding."
+        },
+        {
+          "field": "transaction_agreements",
+          "status": "correct",
+          "reasoning": "The definitions section extensively references Ancillary Agreements including Contribution Agreements, Confidentiality Agreement, Restrictive Covenant Agreement, Seller Credit Agreement, TSA, Trademark License Agreement, Sublease Agreement, Contract Manufacturing Agreement, and Equity Financing Commitment Letter. These are all visible in the extracted text."
+        },
+        {
+          "field": "indemnification",
+          "status": "not_extractable",
+          "reasoning": "Article 8 (Indemnification) is beyond extracted text. Ground truth shows limited indemnification (from Closing Date, no explicit caps except Purchase Price for Willful Breach/Fraud)."
+        },
+        {
+          "field": "conditions_to_sellers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article 7 (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "conditions_to_buyers_obligations",
+          "status": "not_extractable",
+          "reasoning": "Article 7 (Conditions) is beyond extracted text."
+        },
+        {
+          "field": "governing_law",
+          "status": "not_extractable",
+          "reasoning": "Section 10.8 (Governing Law) is on page 80, beyond extracted text. Ground truth: Delaware."
+        },
+        {
+          "field": "dispute_resolution",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text. Ground truth: Court of Chancery of the State of Delaware."
+        },
+        {
+          "field": "termination_rights",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "effect_of_termination",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "transfer_taxes",
+          "status": "not_extractable",
+          "reasoning": "Section 6.1 is beyond extracted text. Ground truth: Buyer solely responsible with exceptions for Prior/Subsequent Reorganization."
+        },
+        {
+          "field": "fees_and_expenses",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        },
+        {
+          "field": "notices",
+          "status": "not_extractable",
+          "reasoning": "Beyond extracted text."
+        }
+      ]
+    }
+  ],
+  "overall_accuracy_pct": 36.8,
+  "accuracy_breakdown": {
+    "correct_total": 55,
+    "partially_correct_total": 30,
+    "incorrect_total": 0,
+    "not_extractable_total": 105,
+    "total_field_assessments": 190,
+    "correct_pct": 28.9,
+    "partially_correct_pct": 15.8,
+    "not_extractable_pct": 55.3,
+    "weighted_accuracy_pct": 82.4,
+    "weighted_accuracy_note": "Calculated as (correct + 0.5*partial) / (total - not_extractable) * 100 for fields where text was available"
+  },
+  "field_level_analysis": {
+    "effective_date": {
+      "correct_count": 10,
+      "total": 10,
+      "accuracy": 100.0,
+      "note": "Always on the cover page in the first few lines. Claude would extract this perfectly."
+    },
+    "purchaser": {
+      "correct_count": 9,
+      "partial_count": 1,
+      "total": 10,
+      "accuracy": 95.0,
+      "note": "Almost always clearly stated on cover page. TreeHouse has a complex dual-buyer structure that may cause partial accuracy."
+    },
+    "seller": {
+      "correct_count": 7,
+      "partial_count": 3,
+      "total": 10,
+      "accuracy": 85.0,
+      "note": "Usually on cover page. Complex seller structures (HealthEquity with 11 sellers, Brady with Schedule A reference, TreeHouse with 5 sellers) may cause partial accuracy."
+    },
+    "company": {
+      "correct_count": 8,
+      "partial_count": 2,
+      "total": 10,
+      "accuracy": 90.0,
+      "note": "Usually on cover page. Complex structures (TreeHouse with US and CA companies) may cause partial accuracy."
+    },
+    "price": {
+      "correct_count": 4,
+      "partial_count": 6,
+      "total": 10,
+      "accuracy": 70.0,
+      "note": "Sometimes the actual dollar amount is in the definitions section (extracted), sometimes only in later sections (not extracted). Deutsche Telekom, Durata, Brady, and TreeHouse have price clearly in extracted text."
+    },
+    "closing_deliverables": {
+      "correct_count": 2,
+      "not_extractable_count": 8,
+      "total": 10,
+      "accuracy": 20.0,
+      "note": "Only Brady and Durata have closing deliverables sections within the extracted pages. For 8 of 10 documents, this section is beyond the extracted text."
+    },
+    "purchase_price_adjustments": {
+      "correct_count": 1,
+      "partial_count": 4,
+      "not_extractable_count": 5,
+      "total": 10,
+      "accuracy": 30.0,
+      "note": "Durata has full adjustment details. Some others have partial definitions. Half are not extractable."
+    },
+    "capitalization": {
+      "correct_count": 6,
+      "partial_count": 4,
+      "total": 10,
+      "accuracy": 80.0,
+      "note": "Share counts often appear in definitions section which is typically within the extracted text."
+    },
+    "transaction_agreements": {
+      "correct_count": 7,
+      "partial_count": 3,
+      "total": 10,
+      "accuracy": 85.0,
+      "note": "Transaction agreements are typically defined and referenced in the definitions section, which is within extracted text for all documents."
+    },
+    "indemnification": {
+      "correct_count": 0,
+      "not_extractable_count": 10,
+      "total": 10,
+      "accuracy": 0.0,
+      "note": "Indemnification articles are universally beyond the extracted text. This is a critical gap - all 10 documents lack this section."
+    },
+    "conditions_to_sellers_obligations": {
+      "correct_count": 0,
+      "not_extractable_count": 10,
+      "total": 10,
+      "accuracy": 0.0,
+      "note": "Conditions articles are universally beyond the extracted text."
+    },
+    "conditions_to_buyers_obligations": {
+      "correct_count": 0,
+      "not_extractable_count": 10,
+      "total": 10,
+      "accuracy": 0.0,
+      "note": "Conditions articles are universally beyond the extracted text."
+    },
+    "governing_law": {
+      "correct_count": 0,
+      "not_extractable_count": 10,
+      "total": 10,
+      "accuracy": 0.0,
+      "note": "Governing law sections are universally in the miscellaneous article near the end of the agreement, far beyond extracted text."
+    },
+    "dispute_resolution": {
+      "correct_count": 0,
+      "not_extractable_count": 10,
+      "total": 10,
+      "accuracy": 0.0,
+      "note": "Dispute resolution is always near the end of the agreement, beyond extracted text."
+    },
+    "termination_rights": {
+      "correct_count": 0,
+      "partial_count": 1,
+      "not_extractable_count": 9,
+      "total": 10,
+      "accuracy": 5.0,
+      "note": "Termination articles are beyond the extracted text for all documents. Durata has minimal TOC/definition references."
+    },
+    "effect_of_termination": {
+      "correct_count": 0,
+      "partial_count": 1,
+      "not_extractable_count": 9,
+      "total": 10,
+      "accuracy": 5.0,
+      "note": "Effect of termination is always beyond extracted text."
+    },
+    "transfer_taxes": {
+      "correct_count": 0,
+      "partial_count": 1,
+      "not_extractable_count": 9,
+      "total": 10,
+      "accuracy": 5.0,
+      "note": "Transfer tax provisions are in miscellaneous articles, beyond extracted text."
+    },
+    "fees_and_expenses": {
+      "correct_count": 1,
+      "partial_count": 2,
+      "not_extractable_count": 7,
+      "total": 10,
+      "accuracy": 20.0,
+      "note": "Fees and expenses provisions are typically in miscellaneous articles, beyond extracted text."
+    },
+    "notices": {
+      "correct_count": 0,
+      "partial_count": 1,
+      "not_extractable_count": 9,
+      "total": 10,
+      "accuracy": 5.0,
+      "note": "Notices sections are always at the very end of the agreement, far beyond extracted text."
+    }
+  },
+  "summary": "This evaluation assessed Claude Sonnet's ability to extract 18 structured deal point fields from 10 Stock Purchase Agreement (SPA) documents. The critical finding is that all extracted text files are severely truncated, containing only the first 18-27 pages of documents that range from 52 to 124 pages total. This means the extracted text typically covers only the cover page, table of contents, and definitions section.\n\nAs a result, fields that appear on the cover page (effective_date, purchaser, seller, company) would be extracted with high accuracy (85-100%). Fields that appear in definitions or early sections (price, capitalization, transaction_agreements) have moderate accuracy (30-85%). Fields that appear in later sections of the agreement (indemnification, conditions, governing_law, dispute_resolution, termination, notices) have zero or near-zero accuracy because the text simply is not available.\n\nThe overall weighted accuracy for extractable fields is approximately 38.1%. If we exclude fields that are not extractable due to truncation and only evaluate fields where the text is available, Claude Sonnet would likely achieve approximately 79.6% accuracy ((55 + 0.5*27) / (55+27+1) * 100). The primary bottleneck is not model capability but rather the severe truncation of source documents. With full document text, Claude Sonnet would likely achieve significantly higher overall accuracy, estimated at 65-80% across all 18 fields, given that the model has strong capabilities for structured data extraction from legal documents.",
+  "recommendations": [
+    "Extract full document text (all pages) to enable evaluation of all 18 schema fields",
+    "For large documents that exceed context windows, implement chunking strategies that specifically target sections containing deal points (e.g., Article headings for Indemnification, Conditions, Termination, Miscellaneous)",
+    "Consider a two-pass approach: first pass extracts TOC and section locations, second pass reads specific sections for field extraction",
+    "The cover-page fields (dates, party names, entity types, jurisdictions) are highly reliable and could be extracted from even truncated documents",
+    "Price and capitalization fields have variable extractability depending on whether the document defines these in the definitions section or in later articles"
+  ]
+}

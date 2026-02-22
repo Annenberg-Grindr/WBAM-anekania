@@ -1,0 +1,218 @@
+{
+  "core/19. Synopsys.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/19. Synopsys.pdf",
+    "text_length": 418301
+  },
+  "core/4a. D.D.C. 22-cv-02604 dckt 000043_000 filed 2023-11-27.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/4a. D.D.C. 22-cv-02604 dckt 000043_000 filed 2023-11-27.pdf",
+    "text_length": 3707
+  },
+  "core/4b. D.D.C. 22-cv-02604 dckt 000047_000 filed 2023-12-11.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/4b. D.D.C. 22-cv-02604 dckt 000047_000 filed 2023-12-11.pdf",
+    "text_length": 31495
+  },
+  "core/4c. D.D.C. 22-cv-02604 dckt 000051_000 filed 2023-12-22.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/4c. D.D.C. 22-cv-02604 dckt 000051_000 filed 2023-12-22.pdf",
+    "text_length": 12400
+  },
+  "core/5a. Exhibit \u2014 AES Call Transcript.PDF": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/5a. Exhibit \u2014 AES Call Transcript.PDF",
+    "text_length": 142
+  },
+  "core/5b. Exhibit \u2014 Enron Call Transcript.PDF": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/5b. Exhibit \u2014 Enron Call Transcript.PDF",
+    "text_length": 397
+  },
+  "core/5c. Exhibit \u2014 Brad Ahrens Email.PDF": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/5c. Exhibit \u2014 Brad Ahrens Email.PDF",
+    "text_length": 14
+  },
+  "core/5d. Exhibit \u2014 Rogers Letter.PDF": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/5d. Exhibit \u2014 Rogers Letter.PDF",
+    "text_length": 14
+  },
+  "core/5e. Skilling Deposition Transcript.PDF": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/5e. Skilling Deposition Transcript.PDF",
+    "text_length": 380
+  },
+  "core/60a. Spansion Inc..pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/60a. Spansion Inc..pdf",
+    "text_length": 50875
+  },
+  "core/60b. J. L. Halsey Corporation.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/60b. J. L. Halsey Corporation.pdf",
+    "text_length": 27215
+  },
+  "core/60c. Condor Hospitality Trust, Inc..pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/60c. Condor Hospitality Trust, Inc..pdf",
+    "text_length": 27452
+  },
+  "core/60d. Valaris plc.pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/60d. Valaris plc.pdf",
+    "text_length": 230676
+  },
+  "core/60e. Black Ridge Oil & Gas, Inc..pdf": {
+    "path": "/tmp/biglaw-bench/blb-core/documents/60e. Black Ridge Oil & Gas, Inc..pdf",
+    "text_length": 98943
+  },
+  "workflows-spa/Brady Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/Brady Stock Purchase Agreement.pdf",
+    "text_length": 264097
+  },
+  "workflows-spa/BurgerFi Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/BurgerFi Stock Purchase Agreement.pdf",
+    "text_length": 327035
+  },
+  "workflows-spa/DEUTSCHE TELEKOM AG.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/DEUTSCHE TELEKOM AG.pdf",
+    "text_length": 249506
+  },
+  "workflows-spa/DURATA THERAPEUTICS, INC.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/DURATA THERAPEUTICS, INC.pdf",
+    "text_length": 291636
+  },
+  "workflows-spa/FRESH EXPRESS.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/FRESH EXPRESS.pdf",
+    "text_length": 355578
+  },
+  "workflows-spa/Harsco Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/Harsco Stock Purchase Agreement.pdf",
+    "text_length": 422437
+  },
+  "workflows-spa/HealthEquity Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/HealthEquity Stock Purchase Agreement.pdf",
+    "text_length": 244143
+  },
+  "workflows-spa/NATIONAL FINANCIAL SERVICES LLC.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/NATIONAL FINANCIAL SERVICES LLC.pdf",
+    "text_length": 229318
+  },
+  "workflows-spa/RTL GROUP S.A..pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/RTL GROUP S.A..pdf",
+    "text_length": 292882
+  },
+  "workflows-spa/TreeHouse Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-workflows/spa/documents/TreeHouse Stock Purchase Agreement.pdf",
+    "text_length": 349864
+  },
+  "retrieval-discovery_emails/C05758636.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05758636.pdf",
+    "text_length": 6246
+  },
+  "retrieval-discovery_emails/C05761142.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05761142.pdf",
+    "text_length": 1144
+  },
+  "retrieval-discovery_emails/C05761344.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05761344.pdf",
+    "text_length": 1700
+  },
+  "retrieval-discovery_emails/C05762268.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05762268.pdf",
+    "text_length": 2566
+  },
+  "retrieval-discovery_emails/C05762791.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05762791.pdf",
+    "text_length": 479
+  },
+  "retrieval-discovery_emails/C05764131.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05764131.pdf",
+    "text_length": 1800
+  },
+  "retrieval-discovery_emails/C05764408.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05764408.pdf",
+    "text_length": 8018
+  },
+  "retrieval-discovery_emails/C05764517.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05764517.pdf",
+    "text_length": 1961
+  },
+  "retrieval-discovery_emails/C05764654.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05764654.pdf",
+    "text_length": 1203
+  },
+  "retrieval-discovery_emails/C05766441.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/discovery_emails/C05766441.pdf",
+    "text_length": 2993
+  },
+  "retrieval-spa/BWAY CORPORATION.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/BWAY CORPORATION.pdf",
+    "text_length": 127918
+  },
+  "retrieval-spa/BurgerFi Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/BurgerFi Stock Purchase Agreement.pdf",
+    "text_length": 327035
+  },
+  "retrieval-spa/Curo Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/Curo Stock Purchase Agreement.pdf",
+    "text_length": 294622
+  },
+  "retrieval-spa/FRESH EXPRESS.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/FRESH EXPRESS.pdf",
+    "text_length": 355578
+  },
+  "retrieval-spa/HealthEquity Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/HealthEquity Stock Purchase Agreement.pdf",
+    "text_length": 244143
+  },
+  "retrieval-spa/Logistics Management, Inc..pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/Logistics Management, Inc..pdf",
+    "text_length": 168949
+  },
+  "retrieval-spa/ROBCLIF, INC..pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/ROBCLIF, INC..pdf",
+    "text_length": 190531
+  },
+  "retrieval-spa/SHOP MANAGEMENT, LLC.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/SHOP MANAGEMENT, LLC.pdf",
+    "text_length": 271261
+  },
+  "retrieval-spa/Staffing 360 Solutions, Inc Stock Purchase Agreement.pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/Staffing 360 Solutions, Inc Stock Purchase Agreement.pdf",
+    "text_length": 349096
+  },
+  "retrieval-spa/TILFORD, INC..pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/spa/TILFORD, INC..pdf",
+    "text_length": 83888
+  },
+  "retrieval-merger_agreements/Aerojet Rocketdyne Merger Agreement 2022.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/Aerojet Rocketdyne Merger Agreement 2022.Pdf",
+    "text_length": 362198
+  },
+  "retrieval-merger_agreements/Alkuri Global Acquisition Corp. Merger Agreement.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/Alkuri Global Acquisition Corp. Merger Agreement.Pdf",
+    "text_length": 736858
+  },
+  "retrieval-merger_agreements/Bluerock Residential Growth REIT, Inc. Agreement.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/Bluerock Residential Growth REIT, Inc. Agreement.Pdf",
+    "text_length": 393878
+  },
+  "retrieval-merger_agreements/CyrusOne Inc. Agreement.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/CyrusOne Inc. Agreement.Pdf",
+    "text_length": 371541
+  },
+  "retrieval-merger_agreements/Moneygram International Inc. Merger Agreement.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/Moneygram International Inc. Merger Agreement.Pdf",
+    "text_length": 381651
+  },
+  "retrieval-merger_agreements/PREFERRED APARTMENT COMMUNITIES INC AGREEMENT.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/PREFERRED APARTMENT COMMUNITIES INC AGREEMENT.Pdf",
+    "text_length": 408436
+  },
+  "retrieval-merger_agreements/PS BUSINESS PARKS, AGREEMENT.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/PS BUSINESS PARKS, AGREEMENT.Pdf",
+    "text_length": 553446
+  },
+  "retrieval-merger_agreements/SANDERSON FARMS INC AGREEMENT.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/SANDERSON FARMS INC AGREEMENT.Pdf",
+    "text_length": 318030
+  },
+  "retrieval-merger_agreements/SPX FLOW, Inc. AGREEMENT.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/SPX FLOW, Inc. AGREEMENT.Pdf",
+    "text_length": 327342
+  },
+  "retrieval-merger_agreements/iRobot Corp. Merger Agreement.Pdf": {
+    "path": "/tmp/biglaw-bench/blb-retrieval/merger_agreements/iRobot Corp. Merger Agreement.Pdf",
+    "text_length": 306909
+  }
+}
