@@ -1,0 +1,910 @@
+--- Page 1 ---
+EX-2.1 2 ex2-1.htm STOCK PURCHASE AGREEMENT
+ 
+ 
+Magnite, Inc. 8-K
+ 
+Exhibit 2.1 
+ 
+EXECUTION VERSION
+ 
+STOCK PURCHASE AGREEMENT
+dated as of
+February 4, 2021
+between
+MAGNITE, INC.,
+RTL US HOLDING, INC.,
+and
+RTL GROUP S.A.,
+(Solely with respect to Article 6)
+relating to the purchase and sale
+of
+100% of the Common Stock
+of
+SPOTX, INC.
+ 
+--- Page 2 ---
+ 
+ 
+TABLE OF CONTENTS
+ 
+   
+ PAGE
+  
+ARTICLE 1  
+DEFINITIONS 1
+  
+Section 1.01.   Definitions 1
+Section 1.02.   Other Definitional and Interpretative Provisions. 21
+  
+ARTICLE 2  
+PURCHASE  AND  SALE 22
+  
+Section 2.01.   Purchase and Sale 22
+Section 2.02.   Purchase Price 22
+Section 2.03.   Closing 22
+Section 2.04.   Closing Deliverables. 23
+Section 2.05.   Estimated Closing Calculations 24
+Section 2.06.   Final Closing Statement. 25
+Section 2.07.   Withholding 29
+  
+ARTICLE 3  
+REPRESENT ATIONS  AND  W ARRANTIES  OF  S ELLER 30
+  
+Section 3.01.   Existence and Power 30
+Section 3.02.   Corporate Authorization. 30
+Section 3.03.   Governmental Authorization 30
+Section 3.04.   Noncontravention 30
+Section 3.05.   Capitalization 31
+Section 3.06.   Subsidiaries. 31
+Section 3.07.   Financial Statements. 32
+Section 3.08.   Ownership of the Shares. 33
+Section 3.09.   Absence of Certain Changes. 33
+Section 3.10.   No Undisclosed Liabilities. 33
+Section 3.11.   Material Contracts. 34
+Section 3.12.   Litigation. 36
+Section 3.13.   Compliance with Laws; Permits. 37
+Section 3.14.   Properties. 37
+Section 3.15.   Intellectual Property. 38
+Section 3.16.   Employee Benefit Plans. 40
+Section 3.17.   Labor and Employees. 42
+Section 3.18.   Environmental Matters 43
+Section 3.19.   Taxes. 43
+Section 3.20.   Finders’ Fees 46
+Section 3.21.   Online Marketing 46
+Section 3.24.   Affiliate Interests and Transactions 47
+Section 3.25.   Insurance 47
+Section 3.26.   Customers 47
+ 
+i
+--- Page 3 ---
+ 
+ 
+Section 3.27.   Data Protection; Privacy. 48
+Section 3.28.   No Additional Representations or Warranties 49
+Section 3.29.   Securities Matters; Investigation; Non-reliance. 50
+  
+ARTICLE 4  
+REPRESENT ATIONS  AND  W ARRANTIES  OF  B UYER 51
+  
+Section 4.01.   Corporate Existence and Power 51
+Section 4.02.   Corporate Authorization. 51
+Section 4.03.   Governmental Authorization 52
+Section 4.04.   Noncontravention 52
+Section 4.05.   Financing 52
+Section 4.06.   Solvency 53
+Section 4.07.   Purchase for Investment 54
+Section 4.08.   Litigation 54
+Section 4.09.   Finders’ Fees 54
+Section 4.10.   SEC Reports; Financial Statements. 55
+Section 4.11.   No Undisclosed Liabilities 56
+Section 4.12.   Compliance with Laws 56
+Section 4.13.   Absence of Certain Changes 57
+Section 4.14.   Non-Reliance; Inspections; No Other Representations. 57
+  
+ARTICLE 5  
+COVENANTS 58
+  
+Section 5.01.   Conduct of the Company. 58
+Section 5.02.   Access to Information. 61
+Section 5.03.   Notices of Certain Events. 63
+Section 5.04.   Conduct of Buyer 63
+Section 5.05.   Further Assurances. 63
+Section 5.06.   Public Announcements 66
+Section 5.07.   Intercompany Arrangements; Related Party Contracts. 66
+Section 5.08.   Exclusivity 66
+Section 5.09.   Directors and Officers. 67
+Section 5.10.   Trademarks; Tradenames 67
+Section 5.11.   Non-Solicitation. 68
+Section 5.12.   Financings. 69
+Section 5.13.   Company Group Financial Statements 74
+Section 5.14.   Agreements Regarding the Buyer Common Stock. 75
+Section 5.15.   Transition Services Agreement 77
+  
+ARTICLE 6  
+TAX M ATTERS 77
+  
+Section 6.01.   Tax Covenants 78
+Section 6.02.   Transfer Taxes 78
+Section 6.03.   Tax Indemnity 78
+ 
+ii
+--- Page 4 ---
+ 
+ 
+Section 6.04.   Claims; R&W Insurance Policy. 79
+Section 6.05.   Preparation of Tax Returns for Pre-Closing Tax Periods. 79
+Section 6.06.   Allocation of Straddle Period Tax Liability 80
+Section 6.07.   Tax Contests. 81
+Section 6.08.   Refunds 82
+Section 6.09.   Tax Sharing Agreements 82
+Section 6.10.   Cooperation on Tax Matters. 83
+  
+ARTICLE 7  
+TRANSACTION  B ONUSES 83
+  
+Section 7.01.   Transaction Bonuses 83
+  
+ARTICLE 8  
+CONDITIONS  TO  C LOSING 83
+  
+Section 8.01.   Conditions to Obligations of Buyer and Seller 83
+Section 8.02.   Conditions to Obligation of Buyer. 84
+Section 8.03.   Conditions to Obligation of Seller 84
+  
+ARTICLE 9  
+SURVIVAL ; RELEASE 85
+  
+Section 9.01.   Survival 85
+Section 9.02.   Release 85
+  
+ARTICLE 10  
+TERMINA TION 86
+  
+Section 10.01.   Grounds for Termination 86
+Section 10.02.   Effect of Termination. 87
+  
+ARTICLE 11  
+MISCELLANEOUS 88
+  
+Section 11.01.   Notices 88
+Section 11.02.   Amendments and Waivers. 89
+Section 11.03.   Expenses 90
+Section 11.04.   Successors and Assigns 90
+Section 11.05.   Governing Law 90
+Section 11.06.   Jurisdiction. 90
+Section 11.07.   WAIVER OF JURY TRIAL 91
+Section 11.08.   R&W Insurance Policy 91
+Section 11.09.   Counterparts; Effectiveness; Third-Party Beneficiaries 91
+Section 11.10.   Entire Agreement 92
+Section 11.11.   Severability 92
+Section 11.12.   Disclosure Schedules 92
+Section 11.13.   Waiver of Conflicts; Attorney-Client Privilege. 92
+ 
+iii
+--- Page 5 ---
+ 
+ 
+Section 11.14.   Specific Performance 93
+Section 11.15.   No Recourse 94
+ 
+Exhibits 
+Exhibit A – Illustrative Calculations 
+Exhibit B – Transaction Accounting Principles
+ 
+Schedules 
+Schedule 1.1 – Required Information
+ 
+iv
+--- Page 6 ---
+ 
+ 
+STOCK PURCHASE AGREEMENT
+ 
+AGREEMENT (this “Agreement”) dated as of February 4, 2021 between Magnite, Inc., a Delaware corporation (“Buyer”), RTL US
+Holding, Inc., a Delaware corporation (“Seller”), and, solely for purposes of Article 6, RTL Group S.A., a Société Anonyme (“RTL”).
+ 
+W I T N E S E T H :
+ 
+WHEREAS, Seller owns 1 share of the Common Stock (the “Shares”) of SpotX, Inc., a Delaware corporation (the “Company”), which
+constitutes 100% of the issued and outstanding shares of capital stock of the Company;
+ 
+WHEREAS, prior to the date hereof, the Company entered into a Share Purchase Agreement, dated as of December 3, 2020, by and
+between SpotX Ltd and RTL Group Support Services Ltd (together with all exhibits, schedules and ancillary agreements entered in connection
+therewith, the “Yospace Carveout Agreement”), pursuant to which Yospace Enterprises Ltd (“Yospace”) and its Subsidiary (as defined herein)
+were transferred to RTL Group Support Services Ltd (the “Carveout Transaction”); and
+ 
+WHEREAS, Seller desires to sell the Shares to Buyer, and Buyer desires to purchase the Shares from Seller, upon the terms and subject to
+the conditions hereinafter set forth.
+ 
+NOW, THEREFORE, in consideration of the mutual representations, warranties, covenants and agreements contained herein, and of other
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the
+parties hereto agree as follows:
+ 
+ARTICLE 1
+DEFINITIONS
+ 
+Section 1.01.        Definitions. As used herein, the following terms have the following meanings:
+ 
+“Accounting Referee” has the meaning set forth in  Section 2.06(f).
+ 
+“Accrued Standalone Income Taxes” means an amount (which may not be less than zero) equal to the accrued but unpaid Income Tax
+liabilities of the Company and its Subsidiaries for any Pre-Closing Tax Period for which, as of 11:59 p.m. (New York time) on the day immediately
+preceding the Closing Date and immediately prior to the calculation of adjustments pursuant to Section 2.05 and 2.06, an originally filed Tax
+Return either (i) has not yet become due and has not yet been filed or (ii) has been filed and reflects Income Tax liabilities shown as due that have
+not been paid in full to the relevant Tax Authority, determined in each case: (a) by taking into account any items of loss or deduction arising from
+any Transaction Expense and allocating such losses and deductions to the Pre-Closing Tax Period, in each case to the maximum extent permitted by
+Applicable Law, at a “more likely than not” level of comfort (or higher confidence level), (b) by excluding any liabilities for accruals or reserves
+established or required to be established under IFRS methodologies for contingent Income Taxes or with respect to uncertain Income Tax positions,
+(c) by excluding any Income Taxes for which the Company or any of its Subsidiaries is liable as a result of being a member of a consolidated,
+combined, unitary or other tax group that includes the Seller or any of its Affiliates (other than any such group the only members of which are also
+members of the Company Group), (d) by excluding any Income Taxes attributable to any action taken by Buyer or any of its Affiliates (including
+the Company and its Subsidiaries) after the Closing on the Closing Date outside of the ordinary course of business in violation of  Section 6.01, (e)
+in accordance with the past practices (including reporting positions, elections and accounting methods) of the Company and its Subsidiaries, (f) by
+excluding any deferred Income Tax assets and liabilities, (g) taking into account any estimated Income Tax payments and overpayments of Income
+Taxes with respect to any Pre-Closing Tax Period to the extent that the same actually reduce the amount of Income Tax liabilities taken into account
+in computing Accrued Standalone Income Taxes, and (h) in the case of a Straddle Period, in accordance with Section 6.06.
+ 
+--- Page 7 ---
+ 
+ 
+“Action” means any formal claim, demand, action, suit, inquiry, proceeding, examination, audit or investigation by or before any
+Governmental Authority, or any other arbitration or mediation.
+ 
+“Adjustment Amount” has the meaning set forth in  Section 2.06(i).
+ 
+“Affiliate” means, with respect to any Person, any other Person who directly or indirectly controls, is controlled by or is under common
+control with such first Person, including, with respect to Buyer, from and after the Closing, the Company Group; provided that none of the
+Company Group shall be considered an Affiliate of Seller from and after the Closing. For purposes of this definition, “control” when used with
+respect to any Person means the power to direct the management and policies of such Person, directly or indirectly, whether through the ownership
+of voting securities, by contract or otherwise, and the terms “controlling” and “controlled” have correlative meanings.
+ 
+“Agreement” has the meaning set forth in the preamble.
+ 
+“Alternative Financing” has the meaning set forth in  Section 5.12(a)(iv).
+ 
+“Applicable Law” means, with respect to any Person, any domestic or foreign federal, state or local law, rule, regulation or other similar
+requirement enacted, adopted, promulgated or applied by a Governmental Authority that is binding upon or applicable to such Person.
+ 
+“Audited Financial Statements” has the meaning set forth in  Section 3.07(a).
+ 
+“Balance Sheet” means the unaudited combined balance sheet of the Company Group as of the Balance Sheet Date.
+ 
+“Balance Sheet Date” means September 30, 2020.
+ 
+2
+--- Page 8 ---
+ 
+ 
+“Base Cash Purchase Price” means USD USD560,000,000, as may be adjusted pursuant to Section 5.16.
+ 
+“Business Day” means a day, other than Saturday, Sunday or other day on which commercial banks in Denver, Colorado, the Grand
+Duchy of Luxembourg or New York, New York are customarily closed, or required by Applicable Law to close.
+ 
+“Business Systems” means all software, computer hardware (whether general or special purpose), electronic data processing,
+communications and telecommunications networks, interfaces, platforms, servers, peripherals, and computer systems that are owned or used by the
+Company Group in the conduct of its business.
+ 
+“Buyer” has the meaning set forth in the preamble.
+ 
+“Buyer Common Stock” means the Common Stock, par value $0.00001 per share, of Buyer.
+ 
+“Buyer Cure Period” has the meaning set forth in  Section 10.01(e).
+ 
+“Buyer Fundamental Warranties” means the representations and warranties contained in  Section 4.01,  Section 4.02 and  Section 4.09.
+ 
+“Buyer Indemnitee” has the meaning set forth in  Section 6.03.
+ 
+“Buyer Material Adverse Effect” means any event, change, development, occurrence or effect, that when considered individually or in
+the aggregate (a) prevents, materially delays or materially impedes the consummation by Buyer of the Transactions or (b) has a material adverse
+effect on the business, financial condition or results of operations of Buyer and its Subsidiaries, taken as a whole, excluding (in the case of clause
+(b) only) any event, change, development, occurrence or effect arising out of, attributable to or resulting from:
+ 
+(a)       changes in GAAP, IFRS or Applicable Law;
+ 
+(b)       changes in general economic or political conditions or conditions generally affecting the industries in which Buyer and its
+Subsidiaries operate;
+ 
+(c)       acts of war, sabotage, cyberattacks, terrorism, natural disasters or any pandemic or epidemic (including COVID-19);
+ 
+(d)       the performance, announcement or pendency of this Agreement and Transactions, including the effect of any of the foregoing on
+relationships, contractual or otherwise, with any customers, vendors, distributors, partners, employees or Governmental Authorities;
+ 
+(e)       any failure to meet any internal or published projections, forecasts or revenue or earnings predictions (provided that, subject in all
+respects to the exceptions set forth in clauses (a) through (d) above and (f) through (g) below, any circumstance that caused or contributed to such
+failure to meet projections, forecasts or predictions may be taken into account in determining whether a “Buyer Material Adverse Effect” has
+occurred or would be expected to occur);
+ 
+3
+--- Page 9 ---
+ 
+ 
+(f)       any action taken or omitted to be taken at the written request or with the express written consent of Seller; or
+ 
+(g)       any action taken by Buyer that is expressly required to be taken pursuant to this Agreement;
+ 
+provided, in the case of the foregoing clauses (a), (b) and (c), that if the impact of such event, change, circumstances, occurrence, effect or
+state of facts is disproportionately adverse to Buyer and its Subsidiaries, taken as a whole relative to the other participants in the industry in which
+Buyer and its Subsidiaries operates, the extent of such disproportionate impact may be taken into account in determining whether a Buyer Material
+Adverse Effect has occurred.
+ 
+“Buyer SEC Documents” has the meaning set forth in  Section 4.10.
+ 
+“CARES Act” means the Coronavirus Aid, Relief, and Economic Security Act,  Pub.L. 116–136 (116th Cong.) (Mar. 27, 2020), and any
+amendments thereof.
+ 
+“Carveout Transaction” has the meaning set forth in the preamble.
+ 
+“Cash” means, as at a specified date, the aggregate amount of all cash, certificates of deposit and other bank deposits and all other cash
+equivalents, marketable securities and short-term investments held by the Company Group, determined in accordance with the Transaction
+Accounting Principles. Cash shall include checks, ACH transactions and other wire transfers and drafts deposited or available for deposit for the
+account of any of the Company Group as reflected on the Company Group’s combined balance sheet in accordance with IFRS; provided, that the
+amount of Cash shall be reduced by the amounts of any issued or outstanding checks and drafts and pending electronic debits to the extent the
+corresponding accounts payable are not included in the calculation of Net Working Capital.
+ 
+An illustrative calculation of Cash as of the Balance Sheet Date is set forth in the Illustrative Calculations.
+ 
+“Cash Consideration” means an amount in cash equal to the Estimated Closing Cash Purchase Price, as may be adjusted and finally
+determined pursuant to  Section 2.06.
+ 
+“Child” means any individual for which the Company had actual knowledge or ought reasonably to have known that such individual was
+either: (a) below the age of 13; or (b) below the age at which the individual is deemed to have capacity to provide valid consent pursuant to
+Applicable Law.
+ 
+“Closing” has the meaning set forth in  Section 2.03.
+ 
+4
+--- Page 10 ---
+ 
+ 
+“Closing Accounts” has the meaning set forth in Section 2.06(a).
+ 
+“Closing Cash” has the meaning set forth in  Section 2.06(b)(i)(C).
+ 
+“Closing Date” means the date of the Closing.
+ 
+“Closing Indebtedness” has the meaning set forth in  Section 2.06(b)(i)(B).
+ 
+“Closing Net Working Capital” has the meaning set forth in  Section 2.06(b)(i)(A).
+ 
+“Closing Net Working Capital Adjustment Amount” means an amount, whether positive or negative, equal to (i) Closing Net Working
+Capital minus (ii) Target Net Working Capital.
+ 
+“Closing Cash Purchase Price” means the Base Cash Purchase Price, plus
+ 
+(a)       the Closing Net Working Capital Adjustment Amount, minus
+ 
+(b)       Closing Indebtedness, plus
+ 
+(c)       Closing Cash, minus
+ 
+(d)       Closing Transaction Expenses,
+ 
+each as finally determined pursuant to  Section 2.06.
+ 
+“Closing Transaction Expenses” has the meaning set forth in  Section 2.06.
+ 
+“COBRA” means the Consolidated Omnibus Budget Reconciliation Act of 1985.
+ 
+“Code” means the Internal Revenue Code of 1986, as amended.
+ 
+“Collective Bargaining Agreement” means any agreement between the Company Group and any labor organization or other authorized
+employee representative representing Company Employees.
+ 
+“Common Stock” means the common stock, par value USD 0.001 per share, of the Company.
+ 
+“Company” has the meaning set forth in the preamble.
+ 
+“Company Employee” means an employee of the Company Group.
+ 
+“Company Group” means the Company and the Company Subsidiaries, provided that, to the extent the context requires, the “Company
+Group” shall be deemed to refer to each of the Company and/or each of the Company Subsidiaries.
+ 
+5
+--- Page 11 ---
+ 
+ 
+“Company Intellectual Property Rights” means all Intellectual Property Rights owned by the Company Group.
+ 
+“Company Plan” means any (i) “employee benefit plan” as defined in Section 3(3) of ERISA, whether or not subject to ERISA; (ii)
+employment, consulting, termination, change in control, transaction bonus, retention, severance or other similar contract, agreement or
+arrangement; or (iii) other plan, contract, arrangement, policy or agreement that provides compensation, cash bonuses or commission payments or
+other forms of cash incentive compensation, equity or equity-based compensation, deferred compensation, medical or dental or vision benefits or
+other health and welfare benefits (including, but not limited to, post-termination or retiree benefits), life insurance, disability benefits, perquisites or
+fringe benefits or retirement benefits, in each case (A) that is sponsored, maintained or contributed to by the Company Group for the benefit of any
+Company Employee or director, consultant or other individual service provider of the Company Group or (B) for which any member of the
+Company Group has any liability.
+ 
+“Company Privacy Policies” has the meaning set forth in the definition of Privacy and Information Security Requirement.
+ 
+“Company Subsidiaries” means (i) SpotX Limited, (ii) SpotX Australia Pty Ltd, (iii) SpotX Singapore Pte. Ltd., (iv) SpotX Japan G.K,
+and (v) and any other indirect or direct Subsidiary of the Company.
+ 
+“Confidentiality Agreement” means the Mutual Confidentiality Agreement, dated as of September 1, 2020 between Buyer and Seller.
+ 
+“Contract” means any legally binding contract, agreement, arrangement or understanding (including any purchase order or statement of
+work).
+ 
+“Controller” means the entity which, alone or jointly with others, determines the purposes and means of the Processing of Personal
+Information.
+ 
+“COVID-19” means SARS-CoV-2 or COVID-19, and any evolutions thereof or related or associated epidemics, pandemics or disease
+outbreaks.
+ 
+“COVID-19 Measures” means any quarantine, “shelter in place,” “stay at home,” workforce reduction, social distancing, shut down,
+clampdown, closure, sequester or any other Applicable Law, order, directive, guideline or recommendation by any Governmental Authority or
+public health agency in connection with or in response to COVID-19, including, but not limited to, the CARES Act and all Occupational Safety and
+Health Administration and Centers for Disease Control and Prevention guidelines and requirements, such as social distancing, cleaning, and other
+similar or related measures.
+ 
+“Current Representation” has the meaning set forth in  Section 11.13.
+ 
+“Customary Agreement” has the meaning set forth in  Section 3.19.
+ 
+6
+--- Page 12 ---
+ 
+ 
+“Data Room” means the electronic documentation site established by Datasite on behalf of Seller containing the documents set forth in
+the index included in Section 1.01(a) of the Seller Disclosure Schedule.
+ 
+“Data Security Breach” means a breach of security leading to the unlawful destruction, loss, alteration, unauthorized disclosure of, or
+access to, Personal Information transmitted, stored or otherwise Processed by Company Group.
+ 
+“Debt Financing” has the meaning set forth in  Section 4.05.
+ 
+“Debt Financing Commitments” has the meaning set forth in  Section 4.05.
+ 
+“Decrease Amount” has the meaning set forth in  Section 2.06(j)(ii).
+ 
+“Designated Person” has the meaning set forth in  Section 11.13.
+ 
+“Determination Date” has the meaning set forth in  Section 2.06(g).
+ 
+“Disputed Matters” has the meaning set forth in  Section 2.06(f).
+ 
+“DOJ” means the Antitrust Division of the United States Department of Justice.
+ 
+“Enforceability Exception” has the meaning set forth in  Section 3.02(c).
+ 
+“Environmental Laws” means any Applicable Law relating to the protection of the environment.
+ 
+“Environmental Permits” means all Permits under any Environmental Law.
+ 
+“Equity Financing” means the issuance by Buyer of equity securities and/or any securities convertible into equity securities of Buyer,
+which Buyer may consummate prior to the Closing.
+ 
+“Equity Financing Sources” means any Person who is an investor or prospective investor in the Equity Financing.
+ 
+“Equity Interests” means any:
+ 
+(a)       shares or units of capital stock or voting or other equity securities;
+ 
+(b)       membership interests or units;
+ 
+(c)       subscriptions, calls, warrants, options, or commitments of any kind or character relating to, or entitling any Person or entity to
+purchase or otherwise acquire any of the interests in (a)-(b);
+ 
+(d)       securities or other interests convertible into or exercisable or exchangeable for any of the interests in (a)-(c) or any other equity
+securities;
+ 
+7
+--- Page 13 ---
+ 
+ 
+(e)       stock appreciation right, phantom stock, interest in the ownership or earnings of the Company or any of its Subsidiaries or other
+equity equivalent or equity-based award or right; or
+ 
+(f) bond, debenture or other indebtedness having the right to vote or convertible or exchangeable for securities having the right to vote.
+ 
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended.
+ 
+“Estimated Closing Cash” has the meaning set forth in  Section 2.05(a)(iii).
+ 
+“Estimated Closing Indebtedness” has the meaning set forth in  Section 2.05(a)(ii).
+ 
+“Estimated Closing Net Working Capital” has the meaning set forth in  Section 2.05(a)(i).
+ 
+“Estimated Closing Cash Purchase Price” means an amount equal to the Base Cash Purchase Price, plus:
+ 
+(a)       the Estimated Net Working Capital Adjustment Amount, minus
+ 
+(b)       Estimated Closing Indebtedness, plus
+ 
+(c)       Estimated Closing Cash, minus
+ 
+(d)       Estimated Closing Transaction Expenses.
+ 
+“Estimated Closing Transaction Expenses” has the meaning set forth in  Section 2.05(a)(iv).
+ 
+“Estimated Net Working Capital Adjustment Amount” means an amount, which may be positive or negative, equal to (a) Estimated
+Closing Net Working Capital minus (b) Target Net Working Capital.
+ 
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+ 
+“Final Closing Statement” has the meaning set forth in  Section 2.06(b)(iii).
+ 
+“Financial Statements” means, collectively, the Interim Financial Statements and the Audited Financial Statements.
+ 
+“Financing” means, collectively, the Debt Financing and the Equity Financing.
+ 
+“Financing Notice” has the meaning set forth in Section 5.16.
+ 
+8
+--- Page 14 ---
+ 
+ 
+“Financing Source Parties” means, collectively, the Financing Sources, their Affiliates and such Persons’ and their Affiliates’ respective
+current, former and future directors, officers, general or limited partners, shareholders, members, managers, controlling persons, employees,
+representatives and agents, and the respective successors and assigns of each of the foregoing.
+ 
+“Financing Sources” means the entities that have committed to provide or to cause to provide, or otherwise entered into agreements in
+connection with, the Financing or other financings in connection with the transactions contemplated hereby, including the parties to the Debt
+Financing Commitments and any related commitments to purchase the Debt Financing or any part thereof from such entities, and to any joinder
+agreements, credit agreements, purchase agreements or indentures (including the definitive agreements executed in connection with the Debt
+Financing Commitments (and the related fee letters) or any such related commitments) relating thereto.
+ 
+“Foreign Plan” means any Company Plan that covers Company Employees or directors, consultants or other individual service providers
+of the Company Group who are located outside of the United States.
+ 
+“Fraud” means a knowing and intentional misrepresentation by a party in the making of an express representation or warranty contained
+in this Agreement or in any certificate delivered in connection herewith (for the avoidance of doubt, excluding any theory of fraud premised upon
+constructive fraud, negligent misrepresentation or omission or recklessness or negligence).
+ 
+“FTC” means the United States Federal Trade Commission.
+ 
+“GAAP” means generally accepted accounting principles in the United States, consistently applied.
+ 
+“Governmental Authority” means any domestic or foreign federal, state or local governmental, regulatory or administrative authority,
+department, court or agency.
+ 
+“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+ 
+“IFRS” means the international accounting standards, international financial reporting standards and related interpretations issued or
+adopted by the International Accounting Standards Board.
+ 
+“Illustrative Calculations” means the illustrative calculations as of the Balance Sheet Date of Cash, Indebtedness and Net Working
+Capital, and the resulting calculation of the Purchase Price attached hereto as Exhibit A.
+ 
+“Income Tax” means any Tax imposed on or measured by reference (in whole or in part) to overall gross or net income, profits, receipts,
+capital gains and similar Taxes, including any interest, penalty, or addition thereto.
+ 
+9
+--- Page 15 ---
+ 
+ 
+“Increase Amount” has the meaning set forth in  Section 2.06(j)(i).
+ 
+“Indebtedness” means all obligations (including in respect of outstanding principal and accrued and unpaid interest) of the Company
+Group, without duplication (but before taking account the consummation of the transactions contemplated hereby), in respect of:
+ 
+(a)       premiums, penalties and other fees, expenses (if any), and other payment obligations and amounts due (including such amounts
+that would become due as a result of the consummation of the transactions contemplated by this Agreement) that would be required to be paid by
+a borrower to a lender pursuant to a customary payoff letter, in each case, in respect of indebtedness for borrowed money, obligations evidenced
+by bonds, notes, debentures or other similar instruments, and all obligations with respect to interest-rate hedging, swaps or similar financial
+arrangements (valued at the termination value thereof and net of all payments owed to the Company or its Affiliates thereunder, including any
+intercompany accounts);
+ 
+(b)       all obligations under capitalized leases with respect to which the Company or any of its Subsidiaries is liable, determined on a
+consolidated basis in accordance with IFRS (excluding any operating leases for real property that may be recognized on the balance sheet of the
+Company as a result of the application of IFRS 16 Leases);
+ 
+(c)       any amounts for the deferred purchase price of goods and services, including any earn out liabilities associated with past
+acquisitions;
+ 
+(e)       any Accrued Standalone Income Taxes;
+ 
+(f) any unpaid Taxes (including unpaid “applicable employment taxes” (as defined in Section 2302(d)(i) of the CARES Act)) that the
+Company or any of its Subsidiaries has deferred as of the Closing Date pursuant to the CARES Act or other COVID-19 Measures or other or
+similar laws;
+ 
+(g)       any Transfer Taxes for which the Seller or RTL is liable under  Section 6.02 of this Agreement;
+ 
+(h)       all deposits and monies received in advance; and
+ 
+(i) any guarantee of all obligations of the type referred to in clauses (a) through (g) of other Persons for the payment of which the
+Company Group is responsible or liable.
+ 
+provided that, for the avoidance of doubt, “Indebtedness” shall not include any amount included in Net Working Capital or Closing Transaction
+Expenses.
+ 
+An illustrative calculation of Indebtedness as of the Balance Sheet Date is set forth in the Illustrative Calculations.
+ 
+“Injunction” has the meaning set forth in  Section 8.01.
+ 
+10
+--- Page 16 ---
+ 
+ 
+“Inside Date” means April 1, 2021, or in the event that Seller has not delivered the Required Information to Buyer as of at least 15
+Business Days prior to any proposed Closing Date, the date that is 15 Business Days after the date that Seller has delivered the Required
+Information to Buyer.
+ 
+“Intellectual Property Right” means all intellectual property of any type or nature, however denominated, anywhere in the world,
+including (i) all trademarks, trade names, service marks, service names, logos, product names, corporate names, assumed names, trade dress, social
+media handles and accounts and all other indicia of source and origin, whether registered or unregistered, and all applications for the registration
+thereof, together with all of the goodwill associated therewith (“Trademarks”), (ii) Internet domain names, websites and social media accounts,
+(iii) all works of authorship (whether or not copyrightable) and all copyrights (whether registered or unregistered) and applications for registration
+thereof, (iv) proprietary data, database rights, and proprietary rights in software, (v) all classes and types of patents, including originals, reissues,
+divisions, renewals, extensions, provisionals, continuations and continuations-in-part, patent applications and patent disclosures, (vi) trade secrets,
+inventions (whether patentable or unpatentable and whether or not reduced to practice), know-how, proprietary information, methods, procedures,
+processes, specifications, plans, proposals, improvements, inventions, applications, tools, and supplier lists, and all related confidential information
+(“Trade Secrets”), (vii) any and all registrations, applications for registration, renewals, extensions, revisions or restorations, recordings, common-
+law rights, statutory rights and related rights relating to any of the foregoing and (viii) all claims or causes of action arising out of or related to past,
+present or future infringement or misappropriation of the foregoing.
+ 
+“Interim Financial Statements” has the meaning set forth in  Section 3.07(a).
+ 
+“IP License” has the meaning set forth in  Section 3.11.
+ 
+“IRS” means the Internal Revenue Service.
+ 
+“knowledge of Buyer,” “Buyer’s knowledge” or any other similar knowledge qualification in this Agreement means to the actual
+knowledge after reasonable inquiry of Michael Barrett (CEO of Buyer), David Day (CFO of Buyer), Erik Hovanec (Chief Strategy Officer) or
+Aaron Saltz (General Counsel & Corporate Secretary).
+ 
+“knowledge of Seller,” “Seller’s knowledge,” or any other similar knowledge qualification in this Agreement means to the actual
+knowledge after reasonable inquiry of Elmar Heggen (Deputy CEO and COO of RTL Group S.A.), Björn Bauer (CFO of RTL Group S.A.), Andreas
+Fischer (EVP Business Development of RTL Group S.A.), Siska Ghesquiere (General Counsel and Head of M&A at RTL Group S.A.).
+ 
+“Launch Date” has the meaning set forth in Section 5.16.
+ 
+“Leased Real Property” has the meaning set forth in  Section 3.14.
+ 
+11
+--- Page 17 ---
+ 
+ 
+“Lien” means, with respect to any property or asset, any mortgage, lien, license, pledge, charge, security interest or encumbrance in
+respect of such property or asset.
+ 
+“Lockup Securities” has the meaning set forth in  Section 5.14.
+ 
+“Lockup Period” means the period beginning on the Closing Date and ending on the date that is three months following the Closing Date.
+ 
+“Losses” means any and all losses, damages, liabilities, fines, Taxes, claims, awards, judgments, penalties, fees, costs and expenses
+(including reasonable attorneys’ fees, costs and other out-of-pocket expenses incurred in investigating, preparing or defending the foregoing).
+ 
+“Made Available” means the applicable document or information was posted to the Data Room and made accessible by Buyer prior to the
+execution of this Agreement (as evidenced by a DVD-ROM, USB drive or other fixed media with copies of all such documents and information on
+the Data Room at or prior to such time, a copy of which will be delivered to Buyer on or before the Closing in accordance with  Article 2).
+ 
+“Malicious Code” has the meaning set forth in  Section 3.15(j).
+ 
+“Management Accounts” has the meaning set forth in  Section 3.07(a).
+ 
+“Material Adverse Effect” means any event, change, development, occurrence or effect, that when considered individually or in the
+aggregate (a) prevents, materially delays or materially impedes the consummation by Seller of the Transactions or (b) has a material adverse effect
+on the business, financial condition or results of operations of the Company Group, taken as a whole, excluding (in the case of clause (b) only) any
+event, change, development, occurrence or effect arising out of, attributable to or resulting from:
+ 
+(a)       changes in GAAP, IFRS or Applicable Law;
+ 
+(b)       changes in general economic or political conditions or conditions generally affecting the industries in which the Company Group
+operates;
+ 
+(c)       acts of war, sabotage, cyberattacks, terrorism, natural disasters or any pandemic or epidemic (including COVID-19);
+ 
+(d)       the performance, announcement or pendency of this Agreement and Transactions, including the effect of any of the foregoing on
+relationships, contractual or otherwise, with any customers, vendors, distributors, partners, employees or Governmental Authorities;
+ 
+(e)       any failure to meet any internal or published projections, forecasts or revenue or earnings predictions (provided that, subject in all
+respects to the exceptions set forth in clauses (a) through (d) above and (f) through (g) below, any circumstance that caused or contributed to such
+failure to meet projections, forecasts or predictions may be taken into account in determining whether a “Material Adverse Effect” has occurred
+or would be expected to occur);
+ 
+12
+--- Page 18 ---
+ 
+ 
+(f)       any action taken or omitted to be taken at the written request or with the express written consent of Buyer; or
+ 
+(g)       any action taken by the Company Group that is expressly required or permitted to be taken pursuant to this Agreement;
+ 
+provided, in the case of the foregoing clauses (a), (b) and (c), that if the impact of such event, change, circumstances, occurrence, effect or state
+of facts is disproportionately adverse to the Company Group, taken as a whole relative to the other participants in the industry in which the
+Company Group operates, the extent of such disproportionate impact may be taken into account in determining whether a Material Adverse
+Effect has occurred.
+ 
+“Material Contracts” has the meaning set forth in  Section 3.11.
+ 
+“Multiemployer Plan” means a “multiemployer plan” as defined in Section 3(37) of ERISA.
+ 
+“NASDAQ” means the NASDAQ Global Select Market.
+ 
+“Net Working Capital” means, as of any specified date:
+ 
+(a)       the aggregate value of the combined current assets line items set forth in the Illustrative Calculations as of such date; minus
+ 
+(b)       the aggregate value of the combined current liabilities line items set forth in the Illustrative Calculations as of such date;
+ 
+in each case, as set forth on a statement of Net Working Capital of the Company Group having only the line items and in the format set
+forth in the Illustrative Calculations and calculated in accordance with the Transaction Accounting Principles; provided that
+ 
+(i)       for the avoidance of doubt, amounts included in the calculation of Indebtedness, Transaction Expenses or Cash shall not be
+included in Net Working Capital; and
+ 
+(ii)       Net Working Capital shall be calculated excluding any deferred Tax assets, any deferred Tax liabilities, and any Income
+Tax assets or liabilities.
+ 
+An illustrative calculation of Net Working Capital as of the Balance Sheet Date is set forth in the Illustrative Calculations.
+ 
+“Notice of Disagreement” has the meaning set forth in  Section 2.06(c).
+ 
+13
+--- Page 19 ---
+ 
+ 
+“Open Source Software” means any software that is distributed as “free software” (as defined by the Free Software Foundation), “open
+source software” (meaning software distributed under any license approved by the Open Source Initiative as set forth at www.opensource.org) or
+under any similar licensing or distribution model, including all versions of the GNU General Public License (GPL), the GNU Lesser General Public
+License (LGPL), the GNU Affero GPL, the MIT license, the Eclipse Public License, the Common Public License, the CDDL, the Mozilla Public
+License (MPL), the Artistic License, the Netscape Public License, the Sun Community Source License (SCSL), and the Sun Industry Standards
+License (SISL) or any other license that requires the distribution of software source code without a fee or as a condition of creating or distributing
+derivative works of such source code to any third party.
+ 
+“Ordinary Course of Business” means, with respect to any Person, the ordinary course of business consistent with the applicable
+Person’s past custom and practice; provided that actions taken (or omitted) reasonably and in good faith to respond to COVID-19 shall be deemed
+Ordinary Course of Business; provided, further, that prior to the Company Group (or Seller with respect thereto) taking (or omitting to take) any
+actions to respond to COVID-19 or COVID-19 Measures in reliance on this definition, Seller shall use commercially reasonable efforts to provide
+advance notice to Buyer and shall consider Buyer’s reasonable suggestions in connection therewith.
+ 
+“Organizational Documents” means, with respect to any Person or Persons, collectively, the certificate of incorporation, operating
+agreement, articles of association, voting agreement, stockholders agreement, certificate of formation, charter, bylaws and any other or similar
+equivalent governing documents, of such Person or Persons, in each case, as in effect on the date hereof.
+ 
+“Outside Date” has the meaning set forth in  Section 10.01(b).
+ 
+“Permits” has the meaning set forth in  Section 3.13(b).
+ 
+“Permitted Encumbrances” means:
+ 
+(a)       mechanics’, materialmen’s and similar Liens incurred in the Ordinary Course of Business with respect to any amounts not yet
+delinquent and in respect of which the Company Group is not in default or which are being contested in good faith;
+ 
+(b)       Liens for Taxes not yet due and payable or which are being contested in good faith and for which adequate reserves have been
+established in the Financial Statements accordance with IFRS;
+ 
+(c)       encumbrances and restrictions on real property (including easements, covenants, rights of way and similar restrictions of record)
+that do not materially interfere with the present uses or occupancy of such real property;
+ 
+(d)       zoning, building codes and other land use laws regulating the use or occupancy of real property or the activities conducted
+thereon which are imposed by any Governmental Authority having jurisdiction over such real property which are not violated, or interfered with,
+in any material respect by the current use or occupancy of such real property or the operation of the Company Group as currently conducted;
+ 
+14
+--- Page 20 ---
+ 
+ 
+(e)       to the extent terminated in connection with the Closing, Liens securing payment, or any other obligations, of the Company Group
+with respect to Indebtedness;
+ 
+(f)       any right, interest, Lien or title of a lessor or sublessor under a lease, sublease or occupancy agreement or in the property being
+leased;
+ 
+(g) non-exclusive licenses or sublicenses or covenants not to assert with respect to Intellectual Property Rights granted in the Ordinary
+Course of Business; and
+ 
+(h) Liens or encumbrances described in Section 1.01(c) of the Seller Disclosure Schedule.
+ 
+“Person” means an individual, corporation, partnership, limited liability company, association, trust or other entity or organization,
+including a Governmental Authority.
+ 
+“Personal Information” means information that directly or indirectly identifies, relates to, describes, or is reasonably capable of being
+associated with, any living individual or household, including but not limited to each of the following: (a) directly-identifying information (e.g.,
+name, address, telephone number, email address, financial account number, government-issued identifier, health information and any other data
+used or intended to identify, contact or precisely locate a person); (b) user-device-related information, such as Internet Protocol address, mobile
+device identifier, identifier stored in a cookie, deterministically or probabilistically-derived device fingerprint, or any other persistent identifier; and
+(c) any other information specified as “personally identifiable information”, “personal information”, or “personal data” in an applicable Privacy and
+Information Security Requirement.
+ 
+“Post-Closing Transaction Bonus Amount” means the amount payable after the Closing Date pursuant to the Transaction Bonuses, as set
+forth in  Section 7.01 of the Seller Disclosure Schedule.
+ 
+“Pre-Closing Tax Period” means any Tax period (or portion thereof) ending on or before the Closing Date, including the pre-Closing
+portion of any Straddle Period (determined in accordance with  Section 6.06).
+ 
+“Pre-Closing Taxes” means all Taxes: (a) for which any member of the Company Group is liable (i) with respect to any Pre-Closing Tax
+Period; (ii) as a result of being a member of an affiliated, consolidated, combined, unitary or similar group prior to the Closing; (iii) as a transferee
+or successor, by Contract entered into prior to the Closing (other than any Customary Agreement) or pursuant to any Applicable Law, which Taxes
+relate to an event or transaction occurring before the Closing Date; or (iv) under Section 965 of the Code (including, for the sake of clarity, any Tax
+deferred pursuant to Section 965(h), Tax payable as a result of a breach of the covenant contained in last sentence of Section 6.05, and any Tax
+payable as a result of an election under Section 965(h) of the Code with respect to the Company or any of its Subsidiaries to defer the payment of
+any “net tax liability” as such term is defined in Section 965(h)(6) of the Code); (b) any Taxes (including unpaid “applicable employment taxes” (as
+defined in Section 2302(d)(i) of the CARES Act)) that the Company or any of its Subsidiaries has deferred as of the Closing Date pursuant to the
+CARES Act or other COVID-19 Measures or similar laws; (c) attributable to any amount that would be required to be included under Section 951
+or 951A of the Code in the income of the Company or any of its Subsidiaries for its taxable year ended on the Closing Date if the taxable year of
+each Subsidiary of the Company that is a “controlled foreign corporation” within the meaning of Section 957(a) of the Code ended as of the end of
+the Closing Date; and (d) arising out of or resulting from this Agreement (including any Taxes relating to the Carveout Transaction and any Transfer
+Taxes for which Seller or RTL are liable pursuant to  Section 6.02), in each case, together with any losses incurred in connection with any of the
+foregoing. For the avoidance of doubt, Pre-Closing Taxes shall be determined without regard to any loss, credit, or tax attribute of the Buyer or its
+Affiliates (other than the Company or its Subsidiaries) for any tax period or any loss, credit, or other tax attribute of the Company and its
+Subsidiaries arising in periods (or portion thereof) commencing after the Closing Date.
+ 
+15
+--- Page 21 ---
+ 
+ 
+“Preliminary Closing Statement” has the meaning set forth in  Section 2.05(c).
+ 
+“Privacy and Information Security Requirement” means:
+ 
+(a) any and all Applicable Laws relating to the Processing of Personal Information that are applicable to the Company Group, as well as, to
+the extent applicable to the Company Group:
+ 
+(i) all rules, policies, standards, and requirements of applicable industry and self-regulatory organizations in the industry in which
+the Company Group operates (including, but not limited to, the Digital Advertising Alliance, the European Interactive Digital Advertising
+Alliance, and IAB Europe’s Transparency & Consent Framework); and
+ 
+(ii) all guidance and codes of practice issued by Governmental Authorities and final judgments issued by competent courts;
+ 
+(b) all Applicable Laws concerning the security of Company products and/or information technology assets;
+ 
+(c) any Contract to which a member of the Company Group is bound that involves the Processing of Personal Information and/or
+protecting the security or privacy of Personal Information; and
+ 
+(d) each and every public-facing Company policy and notice relating to the Processing of Personal Information (including, without
+limitation, publicly posted privacy policies; written notices provided to the public in connection with the Processing of Personal Information; public
+statements or publications by Company concerning its activities related to Personal Information; and publicly posted policies or notices concerning
+the security of Personal Information Processed in or by Company products and/or information technology assets) (collectively, the “Company
+Privacy Policies”).
+ 
+16
+--- Page 22 ---
+ 
+ 
+“Process”, “Processing” and “Processed” mean any operation or set of operations which is performed on Personal Information or on sets
+of Personal Information, whether or not by automated means, such as collection, recording, organization, structuring, storage, adaptation or
+alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination,
+restriction, erasure or destruction.
+ 
+“Processor” means any Person that Processes Personal Information on behalf of a Controller.
+ 
+“Proposal” has the meaning set forth in  Section 5.08.
+ 
+“Purchase Price” has the meaning set forth in  Section 2.02.
+ 
+“R&W Insurance Policy” means the representation and warranty insurance policy that Buyer intends to obtain with respect to this
+Agreement.
+ 
+“Real Property Lease” has the meaning set forth in  Section 3.14.
+ 
+“Registered Company Intellectual Property Rights” has the meaning set forth in  Section 3.15(a).
+ 
+“Registration Statement” means a shelf registration statement sufficient to meet the requirements of the Securities Act to register the
+resale of Lockup Securities under this Agreement, including the related prospectus and any pre- and post-effective amendments and supplements to
+each such registration statement or prospectus.
+ 
+“Regulation D” means Rules 500-507 promulgated under the Securities Act.
+ 
+“Regulation S” means Rules 901-905 promulgated under the Securities Act.
+ 
+“Related Party” means, with respect to any Person, (a) any of such Person’s former, current or future direct or indirect Affiliates,
+representatives, controlling Persons, members, general or limited partners, directors or officers, other equityholders, successors or assignees (or any
+former, current or future direct or indirect Affiliates, representatives, controlling Persons, members, general or limited partners, other equityholders,
+successors or assignees of any of the foregoing); (b) any immediate family member of a Person described in clause (a); or (c) any other Person who
+holds, individually or together with any Affiliate of such other Person and any member(s) of such Person’s immediate family, more than 10% of the
+outstanding equity or ownership interests of such specified Person.
+ 
+“Related Party Contract” means any Contract between any of the Company Group, on the one hand, and any Related Party of the
+Company Group on the other hand, in each case other than Company Plans.
+ 
+17
+--- Page 23 ---
+ 
+ 
+“Required Information” means, as of any specified date, the information set forth on Schedule 1.1.
+ 
+“Restricted Employees” means, collectively, the officers, directors and employees of the Company and its Subsidiaries.
+ 
+“Satisfaction Date” has the meaning set forth in  Section 2.03.
+ 
+“SEC” means the United States Securities and Exchange Commission.
+ 
+“Securities Act” means the United States Securities Act of 1933, as amended, and the rules and regulations pertaining thereto.
+ 
+“Seller” has the meaning set forth in the preamble.
+ 
+“Seller Cure Period” has the meaning set forth in  Section 10.01(d).
+ 
+“Seller Disclosure Schedule” means the schedule delivered by Seller to Buyer on the

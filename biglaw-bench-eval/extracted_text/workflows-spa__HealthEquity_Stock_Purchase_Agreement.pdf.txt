@@ -1,0 +1,779 @@
+--- Page 1 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 1/81EX-2.1 2 tm218956d1_ex2-1.htm EXHIBIT 2.1
+ 
+Exhibit 2.1
+ 
+Execution Version 
+ 
+STOCK PURCHASE AGREEMENT
+ 
+by and among
+ 
+HEALTHEQUITY, INC.,
+ 
+THE SELLERS LISTED ON SCHEDULE I
+ 
+and
+ 
+EVAN MCCORDICK,
+ 
+solely as the Sellers’ Representative
+ 
+Dated as of March 8, 2021
+ 
+ 
+ 
+ 
+--- Page 2 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 2/81 
+ 
+TABLE OF CONTENTS
+ 
+Page
+ 
+ARTICLE I   DEFINITIONS 1
+  
+Section 1.1 Certain Definitions 1
+Section 1.2   Terms Generally 14
+   
+ARTICLE II   SALE AND PURCHASE 15
+  
+Section 2.1   Agreement to Sell and Purchase 15
+Section 2.2   Closing 15
+Section 2.3   Closing Deliverables 15
+Section 2.4   Purchase Price 17
+Section 2.5   Closing Calculations 18
+Section 2.6   Final Consideration Calculation 18
+Section 2.7   Post-Closing Adjustment Payment 19
+Section 2.8   Escrow Amounts 20
+Section 2.9   Withholding Taxes 20
+Section 2.10   Rights Not Transferable 20
+Section 2.11   Company Options 21
+Section 2.12   Earn-Out 21
+   
+ARTICLE III   REPRESENTATIONS AND WARRANTIES OF THE SELLERS 23
+  
+Section 3.1   Organization; Good Standing; Qualification and Power 23
+Section 3.2   Authorization 24
+Section 3.3   Title 24
+Section 3.4   Non-contravention 24
+Section 3.5   Consents and Approvals 24
+Section 3.6   Capitalization of the Company 24
+Section 3.7   Subsidiaries; Equity Investments 26
+Section 3.8   Bankruptcy, Etc 26
+Section 3.9   Financial Statements 26
+Section 3.10   Liabilities 26
+Section 3.11  Internal Accounting Controls 27
+Section 3.12   Accounts Receivable 27
+Section 3.13   Certain Business Practices 27
+Section 3.14   Absence of Certain Developments 29
+Section 3.15   Compliance with Law 30
+Section 3.16   Sufficiency of Assets; Title to Properties 30
+Section 3.17   Tax Matters 31
+Section 3.18   Intellectual Property 32
+Section 3.19   Insurance 36
+Section 3.20   Litigation 36
+Section 3.21   Bank Accounts 37
+ 
+- i -
+--- Page 3 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 3/81 
+ 
+Section 3.22   Material Customers and Suppliers 37
+Section 3.23   Labor Matters 37
+Section 3.24   Employee Benefits 39
+Section 3.25   Environmental and Safety 41
+Section 3.26   Related Party Transactions 42
+Section 3.27   Material Contracts 42
+Section 3.28   Sufficiency of Assets 45
+Section 3.29   Exclusivity of Representations 45
+Section 3.30   Brokers or Finders 45
+Section 3.31   Books and Records 45
+Section 3.32   Privacy and Data Security 45
+   
+ARTICLE IV   REPRESENTATIONS AND WARRANTIES OF THE PURCHASER 46
+  
+Section 4.1   Organization; Good Standing; Qualification and Power 46
+Section 4.2   Authorization 46
+Section 4.3   Investment Intent 47
+Section 4.4   Brokers or Finders 47
+Section 4.5   Investigation; Reliance 47
+Section 4.6   No Violations; Consents and Approvals 47
+Section 4.7   Litigation 47
+   
+ARTICLE V   SURVIVAL AND INDEMNIFICATION 47
+  
+Section 5.1   Survival of Representations, Warranties 47
+Section 5.2   Indemnification by the Sellers 48
+Section 5.3   Indemnification by the Purchaser 49
+Section 5.4   Claim Procedures 50
+Section 5.5   Calculation of Losses 51
+Section 5.6   Treatment of Indemnification Payments 51
+Section 5.7   Escrow Accounts; Order of Recovery 51
+Section 5.8   Other Limitations and Agreements 52
+   
+ARTICLE VI   AGREEMENTS 53
+  
+Section 6.1   Non-Competition; Non-Solicitation and Interference 53
+Section 6.2   Termination of Related Party Contracts 54
+Section 6.3   Representative; Power of Attorney 54
+Section 6.4   Release 55
+Section 6.5   R&W Insurance Policy 55
+Section 6.6   Employee Matters 56
+Section 6.7   Director and Officer Indemnification 57
+Section 6.8   Tax Matters 57
+   
+ARTICLE VII   MISCELLANEOUS 57
+  
+Section 7.1   No Third Party Beneficiaries 57
+Section 7.2   Expenses 57
+ 
+- ii -
+--- Page 4 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 4/81 
+ 
+Section 7.3   Confidentiality 58
+Section 7.4   Entire Agreement 58
+Section 7.5   Successors and Assigns 58
+Section 7.6   Counterparts 58
+Section 7.7   Notices 58
+Section 7.8   Amendments and Waivers 58
+Section 7.9   Incorporation of Annexes, Disclosure Schedules and Exhibits 59
+Section 7.10   Disclosure Schedules 59
+Section 7.11   Construction 59
+Section 7.12   Independence of Representations and Warranties 59
+Section 7.13   Remedies 59
+Section 7.14   Further Assurances 60
+Section 7.15   Severability 60
+Section 7.16   Governing Law 60
+Section 7.17   Exclusive Jurisdiction and Service of Process 60
+Section 7.18   Waiver of Jury Trial 60
+ 
+Exhibit A Form of Escrow Agreement
+Exhibit B Form of Spousal Consent
+Exhibit C Current Assets and Current Liabilities
+Exhibit D R&W Insurance Policy
+Exhibit E License Termination and Confirmatory Assignment Agreement
+Schedule IFunds Flow Memorandum
+Schedule
+IIEarn-Out
+ 
+- iii -
+--- Page 5 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 5/81 
+ 
+STOCK PURCHASE AGREEMENT
+ 
+This STOCK PURCHASE AGREEMENT, dated as of March 8, 2021 (this “Agreement”), by and among HealthEquity, Inc., a
+Delaware corporation (the “Purchaser”), each of the shareholders of the Company set forth on Schedule I hereto (each, a “Seller,” and
+collectively, the “Sellers”) and Evan McCordick, solely in his capacity as the Sellers’ representative (the “Sellers’ Representative”).
+ 
+WHEREAS, the Sellers own 13,316,799 shares, which constitute all outstanding shares of the capital stock (the “Shares”) of
+Fort Effect Corp. d/b/a Luum, a Washington corporation (the “Company”); and
+ 
+WHEREAS, on the terms and subject to the conditions set forth in this Agreement, each Seller will sell to the Purchaser, and
+the Purchaser will purchase from each Seller, all of such Seller’s Shares.
+ 
+NOW, THEREFORE, in consideration of the mutual promises herein made and in consideration of the representations,
+warranties and covenants herein contained, and for other good and valuable consideration, the receipt and sufficiency of which are
+hereby acknowledged, each party hereto, intending to be legally bound, hereby agrees as follows:
+ 
+ARTICLE I
+DEFINITIONS
+ 
+Section 1.1           Certain Definitions. As used herein, the following terms shall have the following respective meanings:
+ 
+“2019 Balance Sheet” has the meaning set forth in Section 3.9.
+ 
+“Adjustment Escrow Account” has the meaning set forth in Section 2.3(b)(ii).
+ 
+“Adjustment Escrow Amount” means an amount in cash equal to $500,000.
+ 
+“Affiliate” means, with respect to any Person, any (a) officer or director (or the equivalent) of such Person, (b) spouse, parent,
+sibling or descendant (including adopted or stepchildren) of such Person (or a spouse, parent, sibling or descendant (including adopted
+or stepchildren) of any officer or director (or the equivalent) of such Person) and (c) any other Person that, directly or indirectly,
+through one or more intermediaries, controls, or is controlled by, or is under common control with, such Person. The terms “control”
+and “controlled” include the possession, directly or indirectly, of the power to direct the management and policies of a Person, whether
+through the ownership of voting securities, by contract or otherwise.
+ 
+“Affordable Care Act” means the Patient Protection and Affordable Care Act, as amended by the Health Care and Education
+Reconciliation Act of 2010.
+ 
+“Agreement” has the meaning set forth in the Preamble.
+ 
+“Annual Financial Statements” has the meaning set forth in Section 3.9.
+ 
+- 1 -
+--- Page 6 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 6/81 
+ 
+“Anti-Corruption Laws” has the meaning set forth in Section 3.13(a).
+ 
+“Assets” means, with respect to any Person, all of the assets, rights, interests and other properties, real, personal and mixed,
+tangible and intangible, owned by such Person.
+ 
+“Audit Firm” has the meaning set forth in Section 2.6(c).
+ 
+“Balance Sheet Date” has the meaning set forth in Section 3.9.
+ 
+“Base Consideration” has the meaning set forth in Section 2.4.
+ 
+“Bonds” has the meaning set forth in Section 3.19(a).
+ 
+“Business Day” means any day other than a Saturday, Sunday or any other day on which banking institutions in the State of
+Utah or State of Washington are not open for the transaction of normal banking business.
+ 
+“Business Employee” means each individual listed on the Business Employee List as of the date of this Agreement.
+ 
+“Business Employee List” means the letter provided by the Company to Purchaser simultaneously with the execution and
+delivery of this Agreement, which letter contains a true and complete list of each individual who is employed by, or is actively
+providing services to, the Seller Group Companies, together with such individual’s title or position, age, employing entity, work
+location, full-time or part-time status, accrued vacation, dates of service, years of credit service, current rate of hourly wage or salary,
+annual target cash bonus opportunity, any other compensatory entitlements, and each Company Plan in which he or she participates or
+is eligible to participate.
+ 
+“Cap” has the meaning set forth in Section 5.2(d).
+ 
+“CARES Act” means the Coronavirus Aid, Relief, and Economic Security Act of 2020.
+ 
+“Cash” means, with respect to the Company, all bank deposits and other cash that may be fully withdrawn on demand and
+cash equivalents, in each case, determined as of immediately prior to the Closing; provided, that to the extent not taken into account in
+the foregoing determination, the amount of Cash as of any date shall be (a) net of bank overdrafts, (b) adjusted for deposits in transit
+and outstanding checks and (c) reduced by cash or cash equivalents that (i) are not freely and immediately useable by the Company as
+of the Closing (such as security deposits and amounts held as collateral), (ii) are only freely useable if fees or taxes would become
+payable upon their immediate use or (iii) constitute (A) business interruption insurance proceeds, (B) cash reserved to repair or replace
+assets affected by a casualty loss or (C) insurance or indemnification proceeds paid to the Company to reimburse or compensate the
+Company for third-party payments made, or required to be made, by the Company or indemnifiable losses suffered by the Company.
+ 
+“Change in Control Payment” means any transaction, retention, change in control or similar bonuses, severance payments and
+other employee-related change of control payments payable by any of the Seller Group Companies as of or after the Closing Date
+relating to Contracts entered into prior to the Closing Date (including the employer portion of any withholding, payroll, employment or
+similar Taxes, if any, associated therewith, whether payable on the Closing Date or at a later time, and whether payable by the Seller
+Group Companies) as a result of, or in connection with, the consummation of the transactions contemplated by this Agreement.
+ 
+- 2 -
+--- Page 7 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 7/81 
+ 
+“Claim” has the meaning set forth in Section 5.4(a).
+ 
+“Claim Notice” has the meaning set forth in Section 5.4(a).
+ 
+“Closing” has the meaning set forth in Section 2.2.
+ 
+“Closing Balance Sheet” has the meaning set forth in Section 2.5.
+ 
+“Closing Consideration” has the meaning set forth in Section 2.4.
+ 
+“Closing Date” has the meaning set forth in Section 2.2.
+ 
+“Closing Indebtedness” means the Indebtedness determined as of immediately prior to the Closing.
+ 
+“Closing Statement” has the meaning set forth in Section 2.6(a).
+ 
+“Code” means the Internal Revenue Code of 1986.
+ 
+“Commuter Revenue” means “administrative” or “services” fee revenue (as such terms are used by the Purchaser in the
+ordinary course preparation of the Purchaser’s financial statements) of the Purchaser (and not, for the avoidance of doubt, the
+Company) generated directly from the sale of a tax-advantaged benefits program under Section 132(f) of the Code and administered on
+the Purchaser’s technology platform.
+ 
+“Company” has the meaning set forth in the Recitals.
+ 
+“Company Capital Stock” means the Company Common Stock, the Company Limited Common Stock, the Company
+Preferred Stock, and any other shares of capital stock, if any, of the Company, taken together.
+“Company Common Stock” means shares of common stock, no par value per share, of the Company.
+ 
+“Company Computer Systems” means the information technology and computer systems (including all Software, hardware,
+and firmware, and including all network, information technology and telecommunication hardware and other equipment) owned,
+leased, licensed or used by the Company relating to the transmission, storage, maintenance, organization, presentation, generation,
+processing or analysis of data and information (whether or not in electronic format) used in the conduct of the business of the
+Company.
+ 
+“Company Contributor” has the meaning set forth in Section 3.18(f).
+ 
+- 3 -
+--- Page 8 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 8/81 
+ 
+“Company Equity Plan” means the Fort Effect Corp. 2015 Stock Plan, as amended through the date hereof.
+ 
+“Company Fundamental Representations” means the representations and warranties contained in Section 3.1 (Organization;
+Good Standing; Qualification and Power), Section 3.2 (Authorization), Section 3.3 (Title), Section 3.6 (Capitalization), and Section
+3.30 (Brokers).
+ 
+“Company Intellectual Property” has the meaning set forth in Section 3.18(a).
+ 
+“Company IP Agreements” has the meaning set forth in Section 3.27(k).
+ 
+“Company Limited Common Stock” means shares of limited common stock, no par value per share, of the Company.
+ 
+“Company Option” shall mean an option to purchase shares of Company Common Stock issued under the Company Equity
+Plan, whether vested or unvested.
+ 
+“Company Plan” means each “employee benefit plan” within the meaning of Section 3(3) of ERISA (whether or not subject to
+ERISA) and all other compensation and benefits plans, policies, trust funds, programs, arrangements or payroll practices, including
+Multiemployer Plans, and each other stock purchase, stock option, restricted stock, profit sharing, pension, savings, severance,
+retention, employment, consulting, commission, change-of-control, collective bargaining, bonus, incentive, deferred compensation,
+employee loan, fringe benefit, insurance, welfare, post-retirement health or welfare, health, life, tuition refund, service award, company
+car, scholarship, relocation, disability, accident, sick pay, sick leave, accrued leave, vacation, holiday, termination, unemployment,
+restrictive covenant, and other benefit plan, policy, trust fund, program, arrangement or payroll practice, whether or not subject to
+ERISA (including any related funding mechanism now in effect or required in the future), whether formal or informal, oral or written,
+funded, unfunded, insured or self-insured, in each case, that is sponsored, established, maintained, contributed to or required to be
+contributed to by any of the Seller Group Companies, or under which any of the Seller Group Companies has any current or potential
+liability.
+ 
+“Company Preferred Stock” means shares of preferred stock, no par value per share, of the Company.
+ 
+“Company Products and Services” has the meaning set forth in Section 3.18(n).
+ 
+“Company Securities” means the Company Capital Stock and any other Equity Interests in the Company.
+ 
+“Competitive Activities” means the business of the Company as currently conducted and as currently contemplated to be
+conducted, including providing a SaaS platform for commute management and commuter benefit administration.
+ 
+- 4 -
+--- Page 9 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 9/81 
+ 
+“Contracts” means any and all written and unwritten agreements, contracts, deeds, arrangements, purchase orders, and other
+instruments and interests therein, and all amendments thereof.
+ 
+“Corporate Transaction” means, with respect to Purchaser or the Company, (a) the acquisition of a majority of the voting
+power (including, to the extent applicable, the acquisition of the ability to control the election of a majority of the directors or similar
+governing body) of such entity by another Person or group of related Persons by means of any transaction or series of related
+transactions (including, without limitation, any stock acquisition, any consolidation or merger of such entity with or into any other
+Person, or any other corporate reorganization), other than any consolidation, merger or reorganization in which the holders of shares of
+capital stock representing a majority of the voting power of such entity immediately prior to such consolidation, merger or
+reorganization continue to hold shares of capital stock representing a majority of the voting power of the surviving entity (or, if the
+surviving entity is a wholly owned subsidiary, its parent) immediately after such consolidation, merger or reorganization or (b) the sale,
+exclusive license or other disposition of all or substantially all of such entity’s assets.
+ 
+“COVID-19 Law” means the CARES Act, the Families First Coronavirus Response Act of 2020, the Consolidated
+Appropriations Act, 2021, or any other Law intended to address the consequences of COVID-19.
+ 
+“Deductible” has the meaning set forth in Section 5.2(c).
+ 
+“Disclosure Schedules” means the disclosure schedules with respect to the representations, warranties and covenants of the
+Sellers contained in this Agreement, with sections corresponding to the numbered and lettered sections contained herein, delivered
+separately by the Sellers to the Purchaser simultaneously with the execution and delivery of this Agreement.
+ 
+“Dispute Notice” has the meaning set forth in Section 2.6(c).
+ 
+“EIDL Loan” means the Secured Disaster Loan for the sum of $150,000 made by the U.S. Small Business Administration to
+the Company pursuant to a Loan Authorization Agreement dated June 25, 2020 and a Note and Security Agreement of even date
+therewith.
+ 
+“Environmental and Safety Requirements” means all Laws, Orders, contractual obligations and all common law concerning
+public health and safety, worker health and safety, and pollution or protection of the environment, including all those relating to the
+presence, use, production, generation, handling, transportation, treatment, storage, disposal, distribution, labeling, testing, processing,
+discharge, release, threatened release, control or cleanup of any hazardous materials, substances or wastes, chemical substances or
+mixtures, pesticides, pollutants, contaminants, toxic chemicals, petroleum products or byproducts, asbestos, polychlorinated biphenyls,
+noise or radiation, including the Solid Waste Disposal Act, as amended, 42 U.S.C. §§ 6901–6992k, the Clean Air Act, as amended, 42
+U.S.C. §§ 7401 et seq., the Federal Water Pollution Control Act, as amended, 33 U.S.C. §§ 1251 et seq., the Emergency Planning and
+Community Right-to-Know Act, as amended, 42 U.S.C. §§ 11001 et seq., the Comprehensive Environmental Response, Compensation,
+and Liability Act, as amended, 42 U.S.C. §§ 9601 et seq., the Hazardous Materials Transportation Uniform Safety Act, as amended, 49
+U.S.C. §§ 1804 et seq., the Occupational Safety and Health Act of 1970, as amended, 29 U.S.C. §§ 651 et seq., and the rules and
+regulations promulgated thereunder.
+ 
+- 5 -
+--- Page 10 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 10/81 
+ 
+“Equity Interests” means, with respect to any Person, (i) any share of capital stock of, or other ownership, membership,
+partnership, joint venture or equity interest in, such Person, (ii) any indebtedness, securities, options, warrants, call, subscription or
+other rights of, or granted by, such Person or any of its Affiliates that are convertible into, or are exercisable or exchangeable for, or
+giving any Person any right to acquire any such share of capital stock or other ownership, partnership, joint venture or equity interest,
+in all cases, whether vested or unvested, (iii) any stock appreciation right, phantom stock, interest in the ownership or earnings of such
+Person or other equity equivalent or equity-based award or right, or (iv) any Indebtedness having the right to vote (or convertible into
+or exchangeable for securities having the right to vote) on any matters on which any holder of securities of such Person may vote.
+ 
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the rules and regulations
+promulgated thereunder.
+ 
+“ERISA Affiliate” means each entity, trade or business that is, or was at the relevant time, a member of a group described in
+Section 414(b), (c), (m) or (o) of the Code or Section 4001(b)(1) of ERISA that includes or included any of the Seller Group
+Companies, or that is, or was at the relevant time, a member of the same “controlled group” as any of the Seller Group Companies
+pursuant to Section 4001(a)(14) of ERISA.
+ 
+“Escrow Agent” means Citibank, N.A.
+ 
+“Escrow Agreement” means that certain Escrow Agreement, dated as of the date hereof, by and among the Escrow Agent, the
+Purchaser and the Sellers’ Representative, substantially in the form attached hereto as Exhibit A.
+ 
+“Escrow Amount” means an amount in cash equal to the sum of the Adjustment Escrow Amount and the Indemnity Escrow
+Amount.
+ 
+“Escrow Excess Amount” has the meaning set forth in Section 2.7(b).
+ 
+“Escrow Shortfall Amount” has the meaning set forth in Section 2.7(b).
+ 
+“Estimated Cash” has the meaning set forth in Section 2.5.
+ 
+“Estimated Closing Indebtedness” has the meaning set forth in Section 2.5.
+ 
+“Estimated Closing Statement” has the meaning set forth in Section 2.5.
+ 
+“Estimated Net Working Capital” has the meaning set forth in Section 2.5.
+ 
+“Estimated Transaction Expenses” has the meaning set forth in Section 2.5.
+ 
+“Expiration Date” means the date that is 18 months from the date hereof.
+ 
+- 6 -
+--- Page 11 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 11/81 
+ 
+“Final Consideration” means (i) the Base Consideration, plus (ii) the amount of Cash as finally determined pursuant to Section
+2.6, less (iii) the amount of Closing Indebtedness as finally determined pursuant to Section 2.6, plus (iv) the amount, if any, by which
+the Net Working Capital as finally determined pursuant to Section 2.6 exceeds the Target Net Working Capital, less (v) the amount, if
+any, by which the Net Working Capital as finally determined pursuant to Section 2.6 is less than the Target Net Working Capital, less
+(vi) the amount of Transaction Expenses as finally determined pursuant to Section 2.6, less (vii) the Escrow Amount.
+ 
+“Financial Statements” has the meaning set forth in Section 3.9.
+ 
+“Fortitude Note” means the Demand Promissory Note issued by the Company to Fort Effect Company Corp. having a variable
+principal amount and dated March 8, 2016.
+ 
+“Fraud” means, with respect to Purchaser or the Sellers, an actual and intentional fraud with respect to the making of any
+representation or warranty in this Agreement or with respect to any certificate delivered pursuant to this Agreement, including the
+Estimated Closing Statement; provided, however, that such actual and intentional fraud of Purchaser or the Sellers shall only be
+deemed to exist if such party had knowledge of the breach when the related representations and warranties were made with the express
+intention that the other party would rely thereon to its detriment.
+ 
+“Fundamental Documents” means the documents by which any Person (other than an individual) establishes its legal existence
+or which govern its internal affairs, as in effect from time to time including any amendments thereto. For example, the “Fundamental
+Documents” of a corporation would be its certificate or articles of incorporation and bylaws, each as may be amended from time to
+time.
+ 
+“GAAP” means generally accepted accounting principles in the United States, as in effect on the date of this Agreement.
+ 
+“Government Officials” has the meaning set forth in Section 3.13(a)(i).
+ 
+“Governmental Entity” means any court, administrative agency, tribunal, department, bureau or commission or other
+governmental authority or instrumentality, domestic or foreign, federal, state or local.
+ 
+“Indebtedness” means, as of any date of determination, with respect to the Company, (a) all principal and accrued (but unpaid)
+interest owing by the Company for indebtedness for borrowed money or any notes payable, (b) all obligations of the Company as lessee
+under leases required by GAAP to be recorded by the Company as capital leases, (c) the deferred purchase price of property, assets or
+services (excluding trade payables and accrued expenses arising in the ordinary course of business) of the Company, (d) all obligations
+of the Company under exchange rate contracts or interest rate protection agreements, (e) any obligation to reimburse the issuer of any
+letter of credit, surety bond, performance bond or other guarantee of contractual performance, in each case to the extent drawn or
+otherwise not contingent, (f) any Tax Debt, (g) any liabilities with respect to past or present litigation, (h) any long-term deferred
+revenue, (i) any guaranty of any liability or obligation described in the immediately preceding clauses (a) through (h), (j) any payments,
+fines, fees, penalties or other amounts applicable to or otherwise incurred in connection with or as a result of any prepayment or early
+satisfaction of any obligation described in the immediately preceding clauses (a) through (i), and (k) any outstanding severance or
+termination obligations and associated Liabilities with respect to employees (or other service providers) whose employment (other
+service) terminated prior to the Closing Date, any unfunded or underfunded Liabilities pursuant to any pension, post-termination or
+retiree health and welfare benefit or nonqualified deferred compensation plan or arrangement and any earned but unpaid compensation
+(including salary, bonuses and paid time off) for any period prior to the Closing Date, in each case, together with the employer portion
+of any withholding, payroll, employment or similar Taxes, if any, associated therewith, whether payable on the Closing Date or at a
+later time, and whether payable by the Company.
+ 
+- 7 -
+--- Page 12 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 12/81 
+ 
+“Indemnified Party” has the meaning set forth in Section 5.4(a).
+ 
+“Indemnifying Party” has the meaning set forth in Section 5.4(a).
+ 
+“Indemnity Escrow Account” has the meaning set forth in Section 2.3(b)(iii).
+ 
+“Indemnity Escrow Amount” means an amount in cash equal to $250,000.
+ 
+“Intellectual Property” means all of the following, worldwide, whether registered, unregistered or registrable: (a) trademarks
+and service marks, trade dress, logos, product configurations, trade names and other indications of origin, applications or registrations
+in any jurisdiction and all goodwill associated therewith; (b) all patents, and all applications for patents, in any jurisdiction, including
+all provisionals, re-issues, continuations, divisions, continuations-in-part, re-examinations, renewals and extensions; (c) trade secrets
+inventions, trade secrets, discoveries, improvements, ideas, know-how, methodology, models, algorithms, formulae, systems, processes,
+technology, research, schematics, data and database rights, customer and supplier lists (whether patentable or not) and other rights in
+confidential and other nonpublic information that derive economic value from not being generally known and not being readily
+ascertainable by proper means, including the right in any jurisdiction to limit the use or disclosure thereof; (d) copyrights copyrightable
+works, writings, designs, mask works, Software (in any form or format), content and any other original works of authorship in any
+medium, including applications or registrations in any jurisdiction for the foregoing and all moral rights in the foregoing; (e) industrial
+designs, and utility models; (f) Internet websites, domain names and applications and registrations pertaining thereto; (g) social media
+accounts, the usernames and passwords associated therewith, and all content contained therein; (h) any other intellectual property or
+proprietary rights of any kind, nature or description; and (i) any tangible embodiments of the foregoing (in whatever form or medium).
+ 
+“Interfering Activities” means (i) encouraging, soliciting or inducing, or in any manner attempting to encourage, solicit or
+induce, any Person who is employed by, an agent of, or a service provider to, the Company within the 12-month period prior to the
+Closing to terminate (or, in the case of an agent or service provider, terminate or reduce) such Person’s employment, agency or service,
+as the case may be, with the Company; provided, that the foregoing shall not be violated by general advertising not targeted at
+employees of the Company; (ii) hiring any Person who was employed by the Company, within the twelve-month period prior to the
+date of such hiring; or (iii) encouraging, soliciting or inducing, or in any manner attempting to encourage, solicit or induce, any
+customer, supplier, licensee or other business relation (or any Subsidiary of any such customer, supplier, licensee or other business
+relation) of the Company to cease doing business with or materially reduce the amount of business conducted with (including by
+providing similar services or products to any such Person) the Company, or in any way interfere in an adverse manner with the
+relationship between any such customer, supplier, licensee or business relation and the Company.
+ 
+- 8 -
+--- Page 13 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 13/81 
+ 
+“Interim Balance Sheet” has the meaning set forth in Section 3.9.
+ 
+“Interim Financial Statements” has the meaning set forth in Section 3.9.
+ 
+“IRS” means the Internal Revenue Service.
+ 
+“Knowledge” means, as to any Person, all facts of which such Person shall have, or would have, notice or actual knowledge
+following reasonable inquiry. References to the “Knowledge of the Sellers” and the “Sellers’ Knowledge” mean all facts of which
+Sohier Hall, Matt Hall, Tyler Simpson, Maria Berardo and Joey McGahan shall have, or would have, notice or actual knowledge
+following reasonable inquiry.
+ 
+“Law” means any constitution, law, statute, treaty, rule, directive, requirement, regulation or Order of, or promulgated by, any
+Governmental Entity.
+ 
+“Liability” means any liability or obligation, whether known or unknown, asserted or unasserted, absolute or contingent,
+accrued or unaccrued, liquidated or unliquidated and whether due or to become due, regardless of when asserted.
+ 
+“License Termination and Confirmatory Assignment Agreement” means that certain License Termination and Confirmatory
+Assignment Agreement, to be entered into on the Closing Date, between Fortitude Corp. (formerly 1866374 Ontario Inc. and formerly
+Fort Effect Company Corp.) (“Fortitude”) and the Company, substantially in the form attached hereto as Exhibit E.
+ 
+“Licensed Software” has the meaning set forth in Section 3.18(h).
+ 
+“Lien” means any lien (statutory or otherwise), claim, security interest, pledge, bailment (in the nature of a pledge or for
+purposes of security), mortgage, deed of trust, the grant of a power to confess judgment, conditional sale or title retention agreement
+(including any lease in the nature thereof), charge, encumbrance, easement, reservation, restriction, cloud, right of first refusal or first
+offer, option, right-of-way, encroachment or other similar arrangement or rights of third parties.
+ 
+“Listed Intellectual Property” has the meaning set forth in Section 3.18(c).
+ 
+“Loss” means any loss, Liability, demand, claim, action, cause of action, cost, damage, deficiency, Tax, penalty, fine or
+expense, whether or not arising out of any claims by or on behalf of any third party, including interest, penalties, reasonable attorneys’
+fees and expenses and all reasonable amounts paid in defense or settlement of any of the foregoing.
+ 
+- 9 -
+--- Page 14 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 14/81 
+ 
+“Management Promissory Notes” means the (i) Full Recourse Secured Promissory Note dated as of September 11, 2019, by
+Sohier Hall in favor of the Company in principal amount of $92,004.84, (ii) Full Recourse Secured Promissory Note dated as of
+November 30, 2019, by Matt Hall in favor of the Company in principal amount of $92,004.84 and (iii) Full Recourse Secured
+Promissory Note dated as of November 30, 2019, by Tyler Simpson in favor of the Company in principal amount of $92,004.84.
+ 
+“Management Shareholders” means Sohier Hall, Matt Hall and Tyler Simpson.
+ 
+“Material Adverse Effect” means any condition, change, effect or event, individually or in the aggregate, that has had, or is
+reasonably expected to have, a material adverse effect on (i) the Assets, Liabilities, business, operating results, or condition (financial
+or otherwise) of the Company, or (ii) the ability of the Company to consummate the transactions contemplated hereby.
+ 
+“Material Contract” has the meaning set forth in Section 3.27.
+ 
+“Material Customer” has the meaning set forth in Section 3.22.
+ 
+“Multiemployer Plan” means a “multiemployer plan” as defined in Section 3(37) or 4001(a)(3) of ERISA or Section 414(f) of
+the Code.
+ 
+“Net Working Capital” means an amount (whether positive or negative) equal to (a) all current Assets (excluding Cash and
+deferred Tax Assets) of the Company required by GAAP to be set forth on the face of a balance sheet, which current Assets will include
+only the line items set forth on Exhibit C under the heading “Current Assets”, less (b) all current Liabilities (excluding any deferred Tax
+Liabilities) of the Company required by GAAP to be set forth on the face of a balance sheet (including all current deferred revenue, and
+excluding Indebtedness and Transaction Expenses), which current Liabilities will include only the line items set forth on Exhibit C
+under the heading “Current Liabilities”, in each case, determined as of immediately prior to the Closing in accordance with GAAP
+applied on a basis consistent with the Company’s historical accounting practices and methodology (but solely to the extent such
+practices and methodology are consistent with GAAP). For the avoidance of doubt, the calculation of Net Working Capital shall not
+include any purchase accounting adjustments or any amounts related to transactions for Tesla’s Commuter Benefit Elections (“TCBE”),
+such as amounts from invoices stating TCBE reported in the current Asset or current Liability account(s), including SVB Clearing
+Account, Accounts Receivable, Accounts Payable, AP Clearing, Customer Holdings Accounts, and Commute with Enterprise payments
+and Emburse Inc. payments included in the current Liability account(s).
+ 
+“Open Source Software” means any software that is or that contains or is derived in any manner (in whole or in part) from any
+software that is licensed under any license that has been approved by the Open Source Initiative and listed on
+https://opensource.org/licenses/alphabetical or that is based on any similar licensing or distribution models.
+ 
+“Optionholder” shall mean a holder of Company Options.
+ 
+“Orders” means judgments, writs, decrees, injunctions, orders, awards, compliance agreements or settlement agreements of or
+with any Governmental Entity or arbitrator.
+ 
+- 10 -
+--- Page 15 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 15/81 
+ 
+“Owned Intellectual Property” means (a) any Intellectual Property owned or purported to be owned by the Company, and (b)
+all Intellectual Property to be assigned by Fortitude to the Company pursuant to the License Termination and Confirmatory Assignment
+Agreement.
+ 
+“Permits” means all permits, licenses, authorizations, registrations, franchises, approvals, consents, certificates, variances and
+similar rights obtained, or required to be obtained, from Governmental Entities.
+ 
+“Permitted Liens” means only (a) statutory Liens for Taxes not yet due and payable or being contested in good faith by
+appropriate proceedings; (b) workers or unemployment compensation Liens arising in the ordinary course of business consistent with
+past practice; (c) mechanic’s, materialman’s, supplier’s, vendor’s or similar Liens arising in the ordinary course of business consistent
+with past practice securing amounts that are not delinquent or past due or that are being contested in good faith; and (d) zoning
+ordinances, easements and other restrictions of legal record affecting real property which would be revealed by a survey or a search of
+public records and would not, individually or in the aggregate, materially interfere with the value or usefulness of such real property to
+the business of the Company as presently conducted and as contemplated to be conducted.
+ 
+“Person” shall be construed broadly and shall include an individual, a partnership (general or limited), a corporation, a limited
+liability company, an association, a joint stock company, a trust, a joint venture, an unincorporated organization, any other entity and
+any Governmental Entity (or any department, agency or political subdivision thereof).
+ 
+“Personal Data” means information that identifies, relates to, describes, is reasonably capable of being associated with, or
+could reasonably be linked, directly or indirectly, with a particular individual or household, and when referring to a Data Protection
+Requirement, has the same meaning as the similar or equivalent term defined thereunder.
+ 
+“Policies” has the meaning set forth in Section 3.19(a).
+ 
+“PPP Lender” means Silicon Valley Bank.
+ 
+“PPP Loan” means the loan in principal amount of $673,184 issued to the Company by the PPP Lender pursuant to the
+promissory note dated April 20, 2020.
+ 
+“Pro Rata Consideration Share” means, with respect to each Seller, the percentage set forth opposite such Seller’s name under
+the “Pro Rata Consideration Share” column of the table set forth on Schedule I hereto.
+ 
+“Pro Rata Earn-Out Portion” means, (a) with respect to each Seller, the percentage set forth opposite such Seller’s name under
+the “Pro Rata Earn-Out Portion” column of the table set forth on Schedule I hereto and (b) with respect to each Optionholder, the
+percentage set forth opposite such Optionholder’s name under the “Pro Rata Earn-Out Portion” column of the table set forth on
+Schedule I hereto.
+ 
+- 11 -
+--- Page 16 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 16/81 
+ 
+“Pro Rata Indemnification Share” means, with respect to each Seller, the percentage set forth opposite such Seller’s name
+under the “Pro Rata Indemnification Share” column of the table set forth on Schedule I hereto.
+ 
+“Pro Rata Surplus Share” means, with respect to each Seller, the percentage set forth opposite such Seller’s name under the
+“Pro Rata Surplus Share” column of the table set forth on Schedule I hereto.
+ 
+“Proceeding” means any action, suit, proceeding, complaint, claim, charge, hearing, labor dispute, inquiry or investigation
+before or by a Governmental Entity or an arbitrator.
+ 
+“Proprietary Software” has the meaning set forth in Section 3.18(h).
+ 
+“Purchase Price” means an amount equal to the Final Consideration, plus the Escrow Amount (if any released to the Sellers).
+ 
+“Purchaser” has the meaning set forth in the Preamble.
+ 
+“Purchaser Fundamental Representations” means the representations and warranties contained in Section 4.1 (Organization;
+Good Standing; Qualification and Power), Section 4.2 (Authorization) and Section 4.4 (Brokers or Finders).
+ 
+“Purchaser Group Companies” means the Purchaser and its Subsidiaries (including the Company following the Closing).
+ 
+“Purchaser Indemnified Parties” has the meaning set forth in Section 5.2(a).
+ 
+“Qualified Revenue” means, without duplication, (1) revenue of the Company (and not, for the avoidance of doubt, the
+Purchaser) generated directly from the sale of the Company’s products and services (including the sale of such products and services
+into the Purchaser’s existing customer base), which revenue is properly booked by the Company in accordance with GAAP applied on
+a basis consistent with the Company’s historical accounting practices and methodology (including treatment of installation fees) (but
+solely to the extent such practices and methodology are consistent with GAAP) and is calculated net of any write-offs, discounts or
+rebates and excluding revenue associated with any notes or accounts receivable that are past due more than 90 days or are otherwise
+subject to contest, claim, defense or right of setoff; (2) Commuter Revenue generated following the Closing from an exclusive
+customer of the Company (i.e., a customer of the Company that is using a product or service of the Company and not a commuter
+customer of the Purchaser, in each case determined at the time of sale); and (3) Commuter Revenue generated following the Closing
+from a new or renewed commuter customer of the Purchaser (i.e., a commuter customer of the Purchaser that became or renewed as a
+customer of the Purchaser following the Closing), if such new or renewed customer is Company-Sourced;. For purposes of clause (3)
+above, a customer will be deemed to be “Company-Sourced” if such customer (a) is reflected in the Purchaser’s customer relationship
+management software program (e.g., Salesforce) as having been first introduced to the Purchaser by a Continuing Employee or (b) is a
+customer of both the Purchaser and the Company prior to the Closing and a Continuing Employee, individually or together with other
+Continuing Employees, makes a material contribution to or provides material assistance with the renewal of such customer.
+ 
+- 12 -
+--- Page 17 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 17/81 
+ 
+“R&W Insurance Policy” means the buy-side Representation and Warranty Insurance Policy to be obtained by Purchaser.
+ 
+“Related Party Contract” has the meaning set forth in Section 6.2.
+ 
+“Release” has the meaning set forth in Section 6.4(a).
+ 
+“Restricted Period” means the period commencing on the date of this Agreement and ending on the third anniversary of the
+Closing Date hereunder.
+ 
+“Seller” has the meaning set forth in the Preamble.
+ 
+“Seller Claims” has the meaning set forth in Section 6.4(a).
+ 
+“Seller Group Companies” means the Company and each of its Subsidiaries.
+ 
+“Seller Indemnified Parties” has the meaning set forth in Section 5.3(a).
+ 
+“Sellers’ Representative” has the meaning set forth in the Preamble.
+ 
+“Shortfall Amount” has the meaning set forth in Section 2.7(b).
+ 
+“Small Business Act” means the Small Business Act (15 U.S.C. 636(a)) after giving effect to the implementation of the
+CARES Act.
+ 
+“Software” means all computer software, including assemblers, applets, compilers, source code, object code, binary libraries,
+development tools, design tools, user interfaces, virtualization processes, hypervisors, application, performance and database logs, in
+any form or format, however fixed, and all associated documentation.
+ 
+“Source Code” means, collectively, any software source code, or any portion or aspect of the software source code, or any
+proprietary information or algorithm contained in or relating to any software source code, including material related documentation, of
+any Intellectual Property owned or purported to be owned by the Company or any other product or service marketed or currently
+proposed to be marketed by the Company.
+ 
+“Subsidiary” means any particular Person (other than an individual) with respect to which a specified Person has a direct or
+indirect controlling ownership interest.
+ 
+“Sullivan Note” means the Demand Promissory Note issued by the Company to Hugh Sullivan having a principal amount of
+$50,000 and dated November 13, 2017.
+ 
+“Target Net Working Capital” means $850,000.
+ 
+“Tax” or “Taxes” means (i) any and all federal, state, local, foreign and other taxes, levies, fees, imposts, duties and charges of
+whatever kind (including any interest, penalties or additions to the tax imposed in connection therewith or with respect thereto),
+including taxes imposed on, or measured by, income, franchise, profits or gross receipts, and also ad valorem, value added, sales, use,
+service, real or personal property, escheat or unclaimed property, capital stock, license, payroll, withholding, employment, social
+security, workers’ compensation, unemployment compensation, utility, severance, production, excise, stamp, occupation, premium,
+windfall profits, transfer and gains taxes and customs duties, whether disputed or not; (ii) Liability for the payment of any amounts of
+the type described in (i) as a result of being a member of an affiliated, consolidated, combined, unitary or aggregate group; and (iii)
+Liability for the payment of any amounts as a result of an express or implied obligation to indemnify any other Person with respect to
+the payment of any amounts described in (i) or (ii).
+ 
+- 13 -
+--- Page 18 ---
+1/17/24, 1:13 PM sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm
+https://www.sec.gov/Archives/edgar/data/1428336/000110465921033359/tm218956d1_ex2-1.htm 18/81 
+ 
+ 
+“Tax Debt” means, as of a particular time with respect to the Company, without duplication, (a) all Taxes deferred and unpaid
+as of such time under any COVID-19 Law and (b) all Taxes attributable to any taxable period (or portion thereof) ending on or before
+the Closing Date that are unpaid as of the Closing, which shall (i) be computed on the basis of a closing of the books of the Seller
+Group Companies as of the end of the Closing Date and (ii) include all Taxes imposed on any income deferred under Section 451(c) of
+the Code to a tax period (or portion thereof) ending after the Closing Date. For the avoidance of doubt, “Tax Debt” shall (i) be
+computed without regard of any Liabilities for Taxes reflected on a Tax Return filed after the Closing Statement becomes final pursuant
+to Section 2.6, and (ii) not include any Liability for Taxes resulting from any action by Purchaser or its Affiliates on or after the Closing
+Date, including filing or amending any Tax Return of the Seller Group Companies or making any Tax election or change in accounting
+method or accounting period.
+ 
+“Tax Return” means returns, reports, information statements and other documentation (including any additional or supporting
+material) filed or maintained, or required to be filed or maintained, in connection with the calculation, determination, assessment, claim
+for refund or collection of any Tax and shall include any amended returns required as a result of examination adjustments made by the
+IRS or other Tax Governmental Entity.
+ 
+“Transaction Expenses” means the aggregate fees and expenses of the Company incurred in connection with the transactions
+contemplated hereby that are payable as of or following the Closing and have not been paid on or prior to the Closing, including (i) any
+such fees and expenses payable to professionals (including investment bankers, attorneys, accountants and other consultants and
+advisors) retained by the Company, (ii) any Change in Control Payments, (iii) the employer portion of any withholding, payroll,
+employment or similar Taxes, if any, associated with amounts payable in respect to each Company Option, whether or not payable on
+the Closing Date or at a later time, and whether payable by the Seller Group Companies), and (iv) fifty percent (50%) of all premiums,
+fees, costs, and expenses of the R&W Insurance Policy (whether incurred by the Company directly or by the Purchaser).
+ 
+“Works” has the meaning set forth in Section 3.18(g).
+ 
+Section 1.2           Terms Generally. The definitions in Section 1.1 shall apply equa

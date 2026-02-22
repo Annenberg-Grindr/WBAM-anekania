@@ -1,0 +1,773 @@
+--- Page 1 ---
+EX-10.10 3 brog_ex1010.htm STANDBY PURCHASE AGREEMENT
+Exhibit 10.10
+ 
+STANDBY PURCHASE AGREEMENT
+ 
+This STANDBY PURCHASE AGREEMENT (this “Agreement”) is between the Purchasers identified on Exhibit A hereto
+(the “Backstop Purchasers”) and Black Ridge Oil & Gas, Inc., a Nevada corporation (the “Company”).
+ 
+WHEREAS, the Company proposes pursuant to a Registration Statement on Form S-1 to be filed with the Securities and
+Exchange Commission (the “Commission”), as it may be amended and supplemented (including each amendment and supplement
+thereto, the “Registration Statement”), to distribute, at no charge, to each holder of record of shares of common stock, $0.001 par value
+per share, of the Company (the “Common Stock”) on a record date to be set by the Board of Directors of the Company (the “Record
+Date”) non-transferable rights to subscribe for and purchase additional shares of Common Stock (the “Rights Offering”);
+ 
+WHEREAS, in the Rights Offering, the Company’s stockholders of record as of the Record Date will receive one subscription
+right for each share of Common Stock held as of the Record Date (each, a “Right”), with each Right entitling the holder to purchase
+nine (9) shares of Common Stock (the “Basic Subscription Right”) at a price of $0.012 per share (the “Subscription Price”); and
+ 
+WHEREAS, in order to facilitate the Rights Offering, the Company is offering (the “Backstop Offering”) to the Backstop
+Purchaser the opportunity to purchase at the Subscription Price, subject to the terms and conditions of this Agreement, any shares of
+Common Stock not subscribed for pursuant to the exercise of Basic Subscription Rights in the Rights Offering, up to $3.5 million (the
+“Unsubscribed Shares”).
+ 
+NOW THEREFORE, in consideration of the foregoing and the mutual covenants herein contained and other good and
+valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto, intending to be legally bound
+hereby, agree as follows:
+ 
+Section 1.                Backstop Commitment.
+ 
+(a)               Backstop Commitment. If and to the extent there are Unsubscribed Shares following the expiration of the Rights
+Offering, each of the Backstop Purchasers hereby agrees severally, and not jointly, to purchase from the Company a number of the
+Unsubscribed Shares at an a price of $0.012 per share as set forth opposite such Backstop Purchaser’s name in Exhibit A hereto (each,
+such “Backstop Purchaser’s Maximum Backstop Purchase Commitment”) as may be determined on a pro rata basis with each such
+Backstop Purchaser’s Maximum Backstop Purchase Commitment (as set forth opposite each such Backstop Purchaser’s named in
+Exhibit A hereto) the number of Available Shares up to, but not exceeding, the Maximum Backstop Purchase Commitment set forth
+opposite each such Backstop Purchaser’s name in Exhibit A.
+ 
+(b)               Backstop Warrants. In consideration of each Backstop Purchaser’s Maximum Backstop Purchase Commitment,
+each of the Backstop Purchasers will receive a five year warrant to purchase at $.01 per share that number of shares of Common Stock
+equal to 15% of such Backstop Purchaser’s Maximum Backstop Purchase Commitment (the “Backstop Warrants”). For example for a
+$500,000 Maximum Backstop Purchase Commitment, a Backstop Purchaser will receive a warrant to purchase 75,000 shares of
+Common Stock. The warrants will be issued to the Backstop Purchaser on the Closing Date regardless of the actual number of shares
+purchased by the Backstop Purchaser as long as the Backstop Purchaser has not defaulted on this Agreement. The warrants will be in
+the Form of Warrant attached as Exhibit B to this Agreement (the "Form of Warrant"). The warrants will be callable if the common
+stock of the Company trades over $0.10 per share for thirty (30) consecutive days.
+ 
+ 
+ 1  
+--- Page 2 ---
+ 
+ 
+(c)               Payment. Payment shall be made to the Company by the Backstop Purchasers, on the Closing Date, against
+delivery of the Common Stock purchased by the Backstop Purchasers, in United States dollars by means of certified or cashier’s check
+or wire transfer.
+ 
+(d)               Closing. On the basis of the representations and warranties and subject to the terms and conditions herein set forth,
+the closing of the purchase and sale of the Unsubscribed Shares (the “Closing”) shall take place at the offices of Stinson Leonard Street
+LLP simultaneously with the closing of the Rights Offering, or such other place, time or date as may be agreed by the parties hereto
+(the “Closing Date”).
+ 
+(e)               Withdrawal and Termination.
+ 
+(i)                 At any time prior to the Closing Date, the Company may in its sole discretion withdraw or terminate the
+Rights Offering. This Agreement may be terminated by the Company in the event that the Company determines in its sole discretion
+that it is not in the best interests of the Company and its stockholders to proceed with the Rights Offering.
+ 
+(ii)              At any time prior to the Closing Date, each of the Backstop Purchasers as to such Backstop Purchaser’s
+Maximum Backstop Purchase Commitment may in his or her sole discretion terminate this Agreement if (i) there is any event, state of
+facts, circumstance, development, change, effect or occurrence that is materially adverse to the Company’s ability to consummate the
+transactions contemplated by this Agreement (a “Material Adverse Change”) or (ii) trading in the Common Stock shall have been
+suspended by the Commission or the OTCQB or trading in securities generally on the OTCQB shall have been suspended (each a
+“Market Adverse Change”) and such Material Adverse Change or Market Adverse Change, as applicable, has not been cured within
+twenty-one (21) days after the occurrence thereof (the “Cure Period”), provided that the right to terminate this Agreement after the
+occurrence of each Material Adverse Change or Market Adverse Change that has not been cured within the Cure Period shall expire
+seven (7) days after the expiration of such Cure Period.
+ 
+(iii)            At any time prior to the Closing Date, either the Company or the Backstop Purchasers may terminate this
+Agreement if (x) at any time prior to the Closing Date, there is a material breach of this Agreement by the other party that is not cured
+within fifteen (15) days after the non-breaching party has delivered notice to the breaching party of such breach or (y) consummation of
+the Backstop Offering is prohibited by law, rule or regulation.
+ 
+Section 2.                Representations and Warranties of the Company. The Company represents and warrants to the Backstop
+Purchasers as follows:
+ 
+(a)               The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of
+Nevada and has all requisite corporate power and authority to carry on its business as now conducted.
+ 
+(b)               This Agreement has been duly and validly authorized, executed and delivered by the Company and constitutes a
+binding obligation of the Company enforceable against it in accordance with its terms, subject to applicable bankruptcy, insolvency,
+fraudulent conveyance, reorganization, moratorium and similar laws affecting creditors’ rights and remedies generally, and subject, as
+to enforceability, to general principles of equity, including principles of commercial reasonableness, good faith and fair dealing
+(regardless of whether enforcement is sought in a proceeding at law or in equity).
+ 
+ 
+ 2  
+--- Page 3 ---
+ 
+ 
+(c)               The Unsubscribed Shares will be duly authorized and, when issued and paid for pursuant to the terms of this
+Agreement, will be validly issued, fully paid and nonassessable, and will have the rights, preferences, and privileges specified in the
+certificate of incorporation of the Company.
+ 
+(d)               The Company’s Board of Directors have approved this Agreement and the transactions contemplated by this
+Agreement to the extent required by the laws, regulations and policies of the State of Nevada, and such laws, regulations and policies
+do not require that the Company’s stockholders approve the Agreement and the transactions contemplated by the Agreement.
+ 
+(e)               The Registration Statement at the time it becomes effective and at the Closing Date of the Rights Offering (i) will
+not include an untrue statement of a material fact or omit to state a material fact necessary in order to make the statements therein, in
+light of the circumstances under which they were made not misleading and (ii) will comply in all material respects with the applicable
+provisions of the Securities Act of 1933, as amended (the “Securities Act”).
+ 
+Section 3.                Representations and Warranties of the Backstop Purchasers. Each of the Backstop Purchasers, severally
+and not jointly, represents and warrants to the Company as follows:
+ 
+(a)               The Backstop Purchaser is an “Accredited Investor” within the meaning of Rule 501(a) of Regulation D
+promulgated under the Securities Act.
+ 
+(b)               The Backstop Purchaser is purchasing the Unsubscribed Shares for the Backstop Purchaser’s own account, for
+investment purposes only and not with a present intention of entering into or making any subsequent sale, assignment, conveyance,
+pledge, hypothecation or other transfer thereof.
+ 
+(c)               The Backstop Purchaser has no need for liquidity in the Backstop Purchaser’s investment in the Unsubscribed
+Shares and understands that there are restrictions on the subsequent resale or other transfer of the Unsubscribed Shares.
+ 
+(d)               The Backstop Purchaser is familiar with the business in which the Company is engaged, and based upon their
+knowledge and experience in financial and business matters, they are is familiar with the investments of the type that they are
+undertaking to purchase; they are fully aware of the problems and risks involved in making an investment of this type; and they are
+capable of evaluating the merits and risks of this investment.
+ 
+(e)               The Backstop Purchaser acknowledges that, prior to executing this Agreement, he or she has been given access to
+all books of account, records and other documents concerning the Company, the Common Stock and the terms and conditions of the
+Backstop Offering and the Rights Offering. In addition, the Backstop Purchaser has had the opportunity to ask questions of, and receive
+answers from, representatives of the Company, about the Company, the Common Stock, the terms and conditions of the Backstop
+Offering and the Rights Offering and any additional information deemed necessary by the Backstop Purchaser to verify the accuracy
+and adequacy of the written information provided to the Backstop Purchaser by the Company.
+ 
+(f)                Until such time as the Unsubscribed Shares are registered pursuant to the registration rights in Section 5(g), the
+Backstop Purchaser understands that the Unsubscribed Shares purchased by the Backstop Purchaser are deemed “restricted securities”
+as such term is defined in Rule 144 promulgated under the Securities Act (“Rule 144”), and they may not be sold, assigned, conveyed,
+pledged, hypothecated or otherwise transferred by a holder thereof except pursuant to Rule 144, pursuant to an effective registration
+statement registering the Unsubscribed Shares under the Securities Act or pursuant to any other available exemption from the
+registration requirements of the Securities Act then in effect. Further, the following legends (or similar language) shall be placed on
+such certificate(s) representing the shares of Common Stock:
+ 
+ 
+ 
+ 3  
+--- Page 4 ---
+ 
+ 
+THE SHARES REPRESENTED BY THIS CERTIFICATE HAVE NOT BEEN REGISTERED UNDER THE SECURITIES
+ACT OF 1933, AS AMENDED, OR UNDER THE SECURITIES LAWS OF ANY STATE. THEY MAY NOT BE SOLD,
+TRANSFERRED OR OTHERWISE DISPOSED OF IN THE ABSENCE OF AN EFFECTIVE REGISTRATION
+STATEMENT COVERING THESE SECURITIES UNDER THE SAID ACT OR LAWS, OR AN OPINION OF COUNSEL
+REASONABLY SATISFACTORY TO THE COMPANY AND ITS COUNSEL THAT REGISTRATION IS NOT REQUIRED
+THEREUNDER.
+ 
+(g)               This Agreement has been duly and validly executed and delivered by the Backstop Purchaser and constitutes a
+binding obligation of the Backstop Purchaser enforceable against him or her in accordance with its terms, subject to applicable
+bankruptcy, insolvency, fraudulent conveyance, moratorium and similar laws affecting creditors’ rights and remedies generally, and
+subject, as to enforceability, to general principles of equity, including principles of commercial reasonableness, good faith and fair
+dealing (regardless of whether enforcement is sought in a proceeding at law or in equity).
+ 
+(h)               The Backstop Purchaser is not insolvent and has sufficient cash funds on hand to purchase the Unsubscribed
+Shares on the terms and conditions contained in this Agreement and will have such funds on the Closing Date.
+ 
+(i)                 No state, federal or foreign regulatory approvals, permits, licenses or consents or other contractual or legal
+obligations are required with respect to the Backstop Purchaser in order for the Backstop Purchaser to enter into this Agreement or
+purchase the Unsubscribed Shares.
+ 
+Section 4.                Deliveries at Closing.
+ 
+(a)               At the Closing, the Company shall deliver to the Backstop Purchasers evidence of the issuance of the
+Unsubscribed Shares to the Backstop Purchasers in form and substance reasonably satisfactory to the Backstop Purchasers.
+ 
+(b)               At the Closing, each of the Backstop Purchasers shall deliver to the Company payment pursuant to Section 1(b)
+hereof in an amount equal to the Subscription Price multiplied by the number of shares of Common Stock purchased by each such
+Backstop Purchaser.
+ 
+Section 5.                Covenants.
+ 
+(a)               The Company agrees and covenants with the Backstop Purchasers, between the date hereof and the Closing Date,
+to use reasonable best efforts to effectuate the Rights Offering.
+ 
+(b)               Each of the Backstop Purchasers agrees to furnish to the Company all information with respect to such Backstop
+Purchaser that the Company may reasonably request for inclusion in the Registration Statement, relating to the offer and sale of Rights
+and Common Stock and such information shall not contain any untrue statement of material fact or omit to state a material fact required
+to be stated in the Registration Statement or necessary in order to make the statements therein, in the light of the circumstances under
+which they were made, not misleading.
+ 
+(c)               If the Company or the Backstop Purchasers determines a filing is or may be required under applicable law in
+connection with the transactions contemplated hereunder, the Company and the Backstop Purchasers shall use reasonable best efforts to
+promptly prepare and file all necessary documentation and to effect all applications that are necessary or advisable under applicable law
+with respect to the transactions contemplated hereunder so that any applicable waiting period shall have expired or been terminated as
+soon as practicable after the date hereof.
+ 
+ 
+ 
+ 4  
+--- Page 5 ---
+ 
+ 
+(d)               The Company agrees and covenants with the Backstop Purchasers, between the date hereof and the earlier of the
+Closing Date or the effective date of any termination pursuant to Section 1(e) hereof, as follows:
+ 
+(i)                 as soon as reasonably practicable after the Company is advised or obtains knowledge thereof, to advise
+the Backstop Purchasers with a confirmation in writing, of (A) the time when the final prospectus relating to the Rights Offering or any
+amendment or supplement thereto has been filed, (B) the issuance by the Commission of any stop order, or of the initiation or
+threatening of any proceeding, suspending the effectiveness of the Registration Statement or any amendment thereto or any order
+preventing or suspending the use of any preliminary prospectus or the final prospectus relating to the Rights Offering or any
+amendment or supplement thereto, and (C) the issuance by any state securities commission of any notice of any proceedings for the
+suspension of the qualification of the Unsubscribed Shares for offering or sale in any jurisdiction or of the initiation, or the threatening,
+of any proceeding for such purpose. The Company will use its reasonable best efforts to prevent the issuance of any such order or the
+imposition of any such suspension and, if any such order is issued or suspension is imposed, to obtain the withdrawal thereof as
+promptly as possible;
+ 
+(ii)              to operate the Company’s business in the ordinary course of business consistent with past practice;
+ 
+(iii)            to notify, or to cause the subscription agent for the Rights Offering (the “Subscription Agent”) to notify,
+three (3) days prior to the Closing Date, the Backstop Purchasers of the aggregate number of Rights known by the Company or the
+Subscription Agent to have been exercised pursuant to the Rights Offering as of the close of business on the preceding business day or
+the most recent practicable time before such request, as the case may be;
+ 
+(iv)             to notify the Backstop Purchasers promptly in the event of any Material Adverse Change or Market
+Adverse Change;
+ 
+(v)               not to issue any shares of capital stock of the Company, or options, warrants, purchase rights,
+subscription rights, conversion rights, exchange rights, securities convertible into or exchangeable for capital stock of the Company, or
+other agreements or rights to purchase or otherwise acquire capital stock of the Company, except for (a) securities issued in connection
+with the rights offering, (b) securities issued upon the exercise of outstanding warrants or options, and (c) shares of Common Stock
+issuable or issued to employees, consultants or directors from time to time either directly or upon the exercise of options, in such case
+granted or to be granted in the discretion of the Board of Directors of the Company (or a duly authorized committee thereof) pursuant to
+one or more stock option plans or restricted stock plans in effect as of the date hereof or adopted after the date hereof by the Board of
+Directors of the Company (or a duly authorized committee thereof) or by the Company’s stockholders;
+ 
+(vi)             not to authorize any stock split, stock dividend, stock combination or similar transaction affecting the
+number of issued and outstanding shares of Common Stock; and
+ 
+(vii)          not to declare or pay any dividends on its Common Stock or repurchase any shares of Common Stock.
+ 
+ 
+ 5  
+--- Page 6 ---
+ 
+ 
+(e)               The Backstop Purchasers shall not issue any public announcement, statement or other disclosure with respect to
+this Agreement or the transactions contemplated hereby without the prior consent of the Company, which consent shall not be
+unreasonably withheld, conditioned or delayed, except with respect to the filing by the Backstop Purchasers of any Schedule 13D or
+Schedule 13G, or any amendments thereto, to which a copy of this Agreement may be attached as an exhibit thereto.
+ 
+(f)                The Backstop Purchasers agree that at any annual or special shareholders meeting, and whenever the shareholders
+of the Company act by written consent with respect to any matter, the undersigned hereby authorizes the Board of Directors of the
+Company (by majority vote) to vote the Common Stock issued to the Backstop Purchaser under this Agreement on the Backstop
+Purchaser’s behalf until the earlier of (i) one (1) year from the date of this Agreement, which will automatically renew for subsequent
+one (1) year periods unless revoked at the discretion of the respective Backstop Purchaser at least thirty (30) days prior to the expiration
+of the annual period by written notice to the Company or (ii) the date the Backstop Purchaser sells into the public market or otherwise
+transfers or sells the shares issued under this Agreement in a bona fide private transaction to an unrelated non affiliate, the Board of
+Directors of the Company will no longer be authorized to vote such shares. A legend referring to this voting agreement will be affixed
+to the certificates evidencing the shares.
+ 
+(g)               The Company and the Backstop Purchasers agree to execute and deliver a Registration Rights Agreement,
+substantially in the form attached hereto as Exhibit C (the “Registration Rights Agreement”), pursuant to which the Company will agree
+to provide certain registration rights with respect to the Registrable Securities (as defined in the Registration Rights Agreement) under
+the Securities Act and the rules and regulations promulgated thereunder, and applicable state securities laws.
+ 
+Section 6.                Conditions to Closing.
+ 
+(a)               The obligations of the Company and the Backstop Purchasers to consummate the transactions contemplated
+hereunder in connection with the Backstop Offering are subject to the fulfillment or waiver, prior to or on the Closing Date, of the
+following conditions:
+ 
+(i)                 the Rights Offering shall have been consummated at the Subscription Price;
+ 
+(ii)              no judgment, injunction, decree, regulatory proceeding or other legal restraint shall prohibit, or have the
+effect of rendering unachievable, the consummation of the Backstop Offering or the material transactions contemplated by this
+Agreement; and
+ 
+(iii)            all approvals and consents that are required in connection with the consummation of the Rights Offering
+and the Backstop Offering shall have been duly obtained and shall be effective.
+ 
+(b)               The obligations of the Backstop Purchasers to consummate the transactions contemplated hereunder in connection
+with the Backstop Offering are subject to the fulfillment or waiver, prior to or on the Closing Date, of the following conditions:
+ 
+(i)                 the representations and warranties of the Company in Section 2 shall be true and correct in all material
+respects as of the date hereof and as of the Closing Date as if made as of such date and the Company shall have performed all of its
+obligations hereunder; and
+ 
+(ii)              there shall have been no Material Adverse Change.
+ 
+ 
+ 
+ 6  
+--- Page 7 ---
+ 
+ 
+(c)               The obligations of the Company to consummate the transactions contemplated hereunder in connection with the
+Backstop Offering are subject to the fulfillment or waiver, prior to or on the Closing Date, of the following condition:
+ 
+(i)                 that the representations and warranties of the Backstop Purchasers in Section 3 shall be made severably,
+not jointly, and shall be true and correct in all material respects as of the date hereof and as of the Closing Date as if made as of such
+date and the Backstop Purchasers shall have performed all of their obligations hereunder.
+ 
+Section 7.                Survival. The representations and warranties of the Company and the Backstop Purchasers contained in
+this Agreement or in any certificate delivered hereunder shall survive the Closing hereunder.
+ 
+Section 8.                Notices. All notices, communications and deliveries required or permitted by this Agreement shall be
+made in writing signed by the party making the same, shall specify the Section of this Agreement pursuant to which it is given or being
+made and shall be deemed given or made (a) on the date delivered if delivered in person, (b) on the date of delivery if delivered by
+facsimile or email during business hours, or on the next business day if delivered by facsimile or email outside of business hours, in
+each case upon confirmation of receipt, (c) on the third (3rd) business day after it is mailed if mailed by registered or certified mail
+(return receipt requested) (with postage and other fees prepaid) or (d) on the day after it is delivered, prepaid, to an overnight express
+delivery service that confirms to the sender delivery on such day, as follows:
+ 
+If to the Company:
+ 
+Black Ridge Oil & Gas, Inc.
+110 North 5th Street, Suite 410,
+Minneapolis, MN 55403
+Attention: Kenneth DeCubellis
+Email: ken.decubellis@blackridgeoil.com
+ 
+With a copy to:
+ 
+Stinson Leonard Street LLP
+150 South Fifth Street Suite 2300
+Minneapolis, MN 55402
+Attention: Jill R. Radloff
+Email: jill.radloff@stinson.com
+ 
+If to the Backstop Purchasers, as provided on the signature page hereto.
+ 
+Or to such other representative or at such other address of a party as such party hereto may furnish to the other parties in writing in
+accordance with this Section 8.
+ 
+Section 9.                Entire Agreement. This Agreement embodies the entire agreement and understanding between the parties
+hereto in respect of the subject matter contained herein. There are no restrictions, promises, warranties, or undertakings, other than
+those set forth or referred to herein with respect to the backstop commitment with respect to the Company’s securities. This Agreement
+supersedes all prior agreements and understandings between the parties with respect to the subject matter of this Agreement. No party
+to this Agreement shall have any legal obligation to enter into the transactions contemplated hereby unless and until this Agreement
+shall have been executed and delivered by each of the parties.
+ 
+ 
+ 7  
+--- Page 8 ---
+ 
+ 
+Section 10.            Indemnification. To the fullest extent permitted by law, each party hereto hereby agrees to indemnify and
+hold harmless the other party, its affiliates, and their respective directors, officers and authorized agents from and against any and all
+losses, claims, damages, expenses and liabilities relating to or arising out of any breach of any representation, warranty, covenant or
+undertaking made by or on behalf of such party in this Agreement.
+ 
+Section 11.            Governing Law. This Agreement and all disputes or controversies arising out of or relating to this
+Agreement or the transactions contemplated hereby shall be governed by and construed in accordance with the internal laws of the
+State of Nevada (other than its rules of conflict of laws to the extent the application of the laws of another jurisdiction would be
+required thereby).
+ 
+Section 12.            Modification. This Agreement may not be amended, modified or supplemented in any manner, whether by
+course of conduct or otherwise, except by an instrument in writing specifically designated as an amendment hereto, signed on behalf of
+each party.
+ 
+Section 13.            Severability. If any provision of this Agreement shall be held to be invalid, illegal or unenforceable in any
+respect under the applicable law of any jurisdiction, such invalidity, illegality or unenforceability shall not affect any other provision
+hereof.
+ 
+Section 14.            Extension or Modification of Rights Offering. The Company may (a) waive irregularities in the manner of
+the exercise of the Rights, and (b) waive conditions relating to the method (but not the timing) of the exercise of the Rights, in each
+case, to the extent that such waiver does not adversely affect the interests of the Backstop Purchasers.
+ 
+Section 15.            Miscellaneous.
+ 
+(a)               Notwithstanding any term to the contrary herein, no person other than the Company or the Backstop Purchasers,
+or their respective successors, shall be entitled to rely on and/or have the benefit of, as a third party beneficiary or under any other
+theory, any of the representations, warranties, agreements, covenants or other provisions of this Agreement.
+ 
+(b)               The headings in this Agreement are for purposes of reference only and shall not limit or otherwise affect the
+meaning of this Agreement.
+ 
+(c)               This Agreement may be executed in any number of counterparts, each of which shall be deemed to be an original,
+but all of which, when taken together, shall constitute one and the same instrument. This Agreement may be executed by facsimile or
+.pdf signature and a facsimile or .pdf signature shall constitute an original for all purposes.
+ 
+[Signature page follows]
+ 
+ 
+ 
+ 
+ 8  
+--- Page 9 ---
+ 
+ 
+[SIGNATURE PAGES FOR BACKSTOP PURCHASERS ON FILE WITH COMPANY AND WILL BE PROVIDED
+TO THE COMMISSION UPON REQUEST]
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 9  
+--- Page 10 ---
+ 
+ 
+ACCEPTED:
+ 
+Black Ridge Oil & Gas, Inc. 
+ 
+By: /s/ Kenneth DeCubellis  
+Name:  Kenneth DeCubellis  
+Title:Chief Executive Officer  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 10  
+--- Page 11 ---
+ 
+ 
+EXHIBIT A
+ 
+BACKSTOP COMMITMENT AMOUNT
+ 
+BACKSTOP PURCHASER BACKSTOP COMMITMENT AMOUNT
+  
+Lyle A. Berman $600,000.00
+Alice Ann Corporation $50,000.00
+William H. Baxter Trustee FBO William H. Baxter Revocable
+Trust u/a dtd 7/3/96$50,000.00
+Robert G. Allison $125,000.00
+Frances A. Gonyea $35,000.00
+Dorothy J. Hoel $25,000.00
+Richard A. Hoel $15,000.00
+Neil I. Sell $100,000.00
+Farnam Street Special Opportunities Fund I $200,000.00
+Benjamin Oehler $100,000.00
+Morris & Arlene Goldfarb JTWROS $300,000.00
+Sheldon T Fleck ROTH IRA $500,000.00
+JL Holdings $75,000.00
+Ken DeCubellis $525,000.00
+Art Petrie $100,000.00
+Tamela G. Schroll $100,000.00
+TOTAL: $2,900,000.00
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 11  
+--- Page 12 ---
+ 
+ 
+EXHIBIT B
+ 
+FORM OF WARRANT
+ 
+For the Purchase of Shares of Common Stock of
+ 
+Black Ridge Oil & Gas, Inc.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 12  
+--- Page 13 ---
+ 
+ 
+NEITHER THIS WARRANT NOR ANY OF THE SECURITIES ISSUABLE HEREUNDER HAVE BEEN REGISTERED
+UNDER THE SECURITIES ACT (AS DEFINED BELOW), OR APPLICABLE STATE SECURITIES LAWS, AND MAY NOT
+BE OFFERED FOR SALE, SOLD, TRANSFERRED OR ASSIGNED (I) IN THE ABSENCE OF (A) AN EFFECTIVE
+REGISTRATION STATEMENT FOR THE SECURITIES UNDER THE SECURITIES ACT, OR (B) AN OPINION OF
+COUNSEL, IN A GENERALLY ACCEPTABLE FORM, THAT REGISTRATION IS NOT REQUIRED UNDER SAID ACT
+(II) UNLESS SOLD OR TRANSFERRED TO A “QUALIFIED INSTITUTIONAL BUYER” WITHIN THE MEANING OF
+RULE 144A UNDER THE SECURITIES ACT IN A TRANSACTION PURSUANT TO RULE 144A OR (III) UNLESS SOLD
+PURSUANT TO RULE 144 OR RULE 144A UNDER SAID ACT. NOTWITHSTANDING THE FOREGOING, THE
+SECURITIES MAY BE PLEDGED IN CONNECTION WITH A BONA FIDE MARGIN ACCOUNT OR OTHER LOAN OR
+FINANCING ARRANGEMENT SECURED BY THESE SECURITIES.
+ 
+Black Ridge Oil & Gas, Inc.
+ 
+COMMON STOCK BACKSTOP WARRANT
+ 
+THIS CERTIFIES THAT, for value received, the Holder is entitled to purchase, and Black Ridge Oil & Gas, Inc., a Nevada
+corporation (the “Company”), promises and agrees to sell and issue to the Holder, at any time, or from time to time, during the Exercise
+Period, the number of shares of Common Stock par value $0.001 per share (the “Common Stock”), of the Company as set forth
+opposite such Holder's name in Attachment II hereto (the "Backstop Warrant Shares"), at the Exercise Price, subject to the provisions
+and upon the terms and conditions hereinafter set forth. This Backstop Warrant is being issued in consideration of each Holder's
+commitment to purchase certain shares of Common Stock in connection with the execution of a Standby Purchase Agreement (the
+"Standby Purchase Agreement").
+ 
+1.       Definitions of Certain Terms. In addition to the terms defined elsewhere in this Backstop Warrant, the following terms have the
+following meanings:
+ 
+(a)       “Business Day” means a day on which banks are open for business in the city of New York.
+ 
+(b)       “Commission” means the U.S. Securities and Exchange Commission.
+ 
+(c)       “Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated
+thereunder.
+ 
+(d)       “Exercise Price” means the price at which the Holder may purchase one share of Common Stock upon exercise of this
+Backstop Warrant as determined from time to time pursuant to the provisions hereof. The initial Exercise Price is $0.01 per share,
+subject to adjustment as provided herein.
+ 
+(e)       “Expiration Date” means the 60-month anniversary of the Issue Date.
+ 
+(f)       “Holder” means a record holder of the Backstop Warrant or shares of Common Stock obtained or obtainable upon
+exercise of the Backstop Warrant, as applicable.
+ 
+(g)       “Issue Date” means [●], 2017.
+ 
+ 
+ 
+ 13  
+--- Page 14 ---
+ 
+ 
+(h)       “Offering” shall have the meaning ascribed to such term in the Standby Purchase Agreement and is incorporated herein
+by this reference.
+ 
+(i)       “Standby Purchase Agreement” means that certain Standby Purchase Agreement, dated as of the Issue Date, between
+the Company and the purchasers of Common Stock specified therein.
+ 
+(j)        “Securities Act” means the Securities Act of 1933, as amended.
+ 
+(k)       “Backstop Warrants” means, collectively, the warrants issued to the investors under the Standby Purchase Agreement in
+the Offering, as more fully described in the Purchase Agreement.
+ 
+(l)       “Backstop Warrant” means this warrant and any warrant or warrants hereafter issued as a consequence of the exercise or
+transfer of this warrant in whole or in part.
+ 
+2.       Exercise of Backstop Warrant; Redemption.
+ 
+(a)       Manner of Exercise. This Backstop Warrant may be exercised, in whole or in part, at any time or from time to time,
+during the period commencing as of 9:30:01 a.m., New York time, on the Issue Date and ending as of 5:30 p.m., New York time, on the
+Expiration Date (the “Exercise Period”), for fully paid and non-assessable shares of Common Stock (the “Backstop Warrant Shares”),
+for an exercise price per share equal to the Exercise Price, by delivery to the Company at its headquarters, or at such other place as is
+designated in writing by the Company, of:
+ 
+(1)       a duly executed Notice of Exercise, substantially in the form of Attachment I attached hereto and
+incorporated by reference herein;
+ 
+(2)       this Backstop Warrant; and
+ 
+(3)       subject to Section 2(a)(ii) below, payment of an amount in cash equal to the product of the Exercise
+Price multiplied by the number of Backstop Warrant Shares being purchased upon such exercise, with such payment being in the form
+of a wire transfer of funds to an account designated in writing by the Company.
+ 
+The date on which the Company receives the Notice of Exercise, this Backstop Warrant, and the Exercise Price payable with
+respect to the Backstop Warrant Shares being purchased shall be deemed to be the date of exercise (the “Date of Exercise”).
+ 
+(b)       Delivery of Certificates. Subject to the provisions below, upon receipt of the Notice of Exercise, the Company shall
+immediately instruct its transfer agent to prepare certificates for the Backstop Warrant Shares to be received by the Holder upon such
+exercise. The Company shall, at its own cost and expense, cause the transfer agent to deliver such certificates to the Holder (or to such
+other nominee as may be designated by the Holder) within five Business Days following the Date of Exercise (the “Delivery Period”).
+The Holder shall be deemed for all corporate purposes to have become the holder of record of the Backstop Warrant Shares with respect
+to which this Backstop Warrant has been exercised as of the Date of Exercise, irrespective of the date such certificates are actually
+delivered by the transfer agent to the Holder or are credited to the Holder’s Depository Trust Company (“DTC”) account, as the case
+may be. If fewer than all of the Backstop Warrant Shares purchasable under the Backstop Warrant are purchased, the Company will,
+upon such partial exercise, execute and deliver to the Holder a new Backstop Warrant (dated as of the Issue Date), in the same form and
+tenor as this Backstop Warrant, evidencing that portion of the Backstop Warrant not exercised.
+ 
+ 
+ 14  
+--- Page 15 ---
+ 
+ 
+(c)       Delivery of Electronic Shares. In lieu of delivering physical certificates representing the Backstop Warrant Shares
+issuable upon exercise (provided that the transfer agent is participating in the DTC Fast Automated Securities Transfer program and
+provided further that the Holder provides the transfer agent with information required in order to issue such Backstop Warrant Shares to
+the Holder electronically), upon the request of the Holder as set forth in the Notice of Exercise, but only if the Backstop Warrant Shares
+may be issued without restrictive legends, the Company shall use its best efforts to cause its transfer agent to electronically transmit,
+within the Delivery Period, the Backstop Warrant Shares issuable upon exercise to the Holder by crediting Holder’s account with DTC
+through its Deposit Withdrawal Agent Commission system. Any delivery not effected by electronic transmission shall be effected by
+delivery of physical certificates.
+ 
+(d)       No Fractional Shares. If a fractional share of Backstop Warrant Shares would, but for the provisions of this Section
+2(d), be issuable upon exercise of the rights represented by this Backstop Warrant, the Company shall (i) round a half share or greater to
+be delivered to Holder up to the next whole share and (ii) round a less-than-half share to be delivered to Holder down to the nearest
+whole share.
+ 
+(e)       No Charge to Holder Upon Issuance. The issuance of Backstop Warrant Shares upon exercise of this Backstop Warrant
+shall be made without charge to Holder for any issuance tax in respect thereof or other cost incurred by the Company in connection
+with such exercise and the related issuance of Backstop Warrant Shares (other than any transfer taxes resulting from the issuance of
+Backstop Warrant Shares to any person other than Holder).
+ 
+(f)       Reservation of Shares. During the Exercise Period, the Company shall reserve and keep available out of its authorized
+but unissued Common Stock such number of Backstop Warrant Shares issuable upon the full exercise of this Backstop Warrant. All
+Backstop Warrant Shares which are so issuable shall, when issued and upon the payment of the applicable Exercise Price, be duly and
+validly issued, fully paid and nonassessable and free from all taxes, liens and charges and not subject to the pre-emptive rights of any
+holder of Common Stock or any other class or series of stock of the Company. During the Exercise Period, the Company shall not take
+any action which would cause the number of authorized but unissued Common Stock to be less than the number of such shares required
+to be reserved hereunder for issuance upon exercise of this Backstop Warrant.
+ 
+(g)       Redemption. We may call this Backstop Warrant for redemption, in whole and not in part, at a price of $0.01 per share
+(the “Redemption Price”) if at any time after the Issue Date, the price per share of Common Stock trades over $0.10 per share for thirty
+(30) consecutive days. This Backstop Warrant may be exercised for cash at any time after the notice of redemption shall have been
+given and prior to the date fixed for redemption. On and after the redemption date, the Holder of this Backstop Warrant shall have no
+further rights except to receive, upon surrender of this Backstop Warrant, the Redemption Price.  A redemption may only occur if all of
+the warrants issued to the investors as of the date hereof are being redeemed at the same time.
+ 
+3.       Adjustments in Certain Events. The number, class, and price of Backstop Warrant Shares for which this Backstop Warrant may be
+exercised are subject to adjustment from time to time upon the happening of certain events as follows:
+ 
+(a)       Subdivisions, Combinations and Other Issuances. If the outstanding shares of the Company’s Common Stock are
+divided into a greater number of shares, by forward stock split or otherwise, or a dividend in stock is paid on the Common Stock, then
+the number of shares of Warrant Shares for which the Backstop Warrant is then exercisable will be proportionately increased and the
+Exercise Price will be proportionately reduced. Conversely, if the outstanding shares of Common Stock are combined into a smaller
+number of shares of Common Stock, by reverse stock split or otherwise, then the number of Backstop Warrant Shares for which the
+Backstop Warrant is then exercisable will be proportionately reduced and the Exercise Price will be proportionately increased. The
+increases and reductions provided for in this Section 3(a) will be made with the intent and, as nearly as practicable, the effect that
+neither the percentage of the total equity of the Company obtainable on exercise of the Backstop Warrants nor the price payable for
+such percentage upon such exercise will be affected by any event described in this Section 3(a).
+ 
+ 
+ 
+ 15  
+--- Page 16 ---
+ 
+ 
+(b)       Merger, Consolidation, Reclassification, Reorganization, Etc. In case of any change in the Common Stock through
+merger, consolidation, reclassification, reorganization, partial or complete liquidation, purchase of all or substantially all the assets of
+the Company, or other change in the capital structure of the Company, then, as a condition of such change, lawful and adequate
+provision will be made so that the Holder will have the right thereafter to receive upon the exercise of the Backstop Warrant the kind
+and amount of shares of stock or other securities or property to which he would have been entitled if, immediately prior to such event,
+he had held the number of Backstop Warrant Shares obtainable upon the exercise of the Backstop Warrant. In any such case,
+appropriate adjustment will be made in the application of the provisions set forth herein with respect to the rights and interest thereafter
+of the Holder, to the end that the provisions set forth herein will thereafter be applicable, as nearly as reasonably may be, in relation to
+any shares of stock or other property thereafter deliverable upon the exercise of the Backstop Warrant. The Company will not permit
+any change in its capital structure to occur unless the issuer of the shares of stock or other securities to be received by the Holder, if not
+the Company, agrees to be bound by and comply with the provisions of this Backstop Warrant.
+ 
+(c)       Stock Dividends. If securities of the Company or securities of any subsidiary of the Company are distributed pro rata to
+holders of Common Stock, such number of securities will be distributed to the Holder or its assignee upon exercise of its rights
+hereunder as such Holder or assignee would have been entitled to if this Backstop Warrant had been exercised prior to the record date
+for such distribution. The provisions with respect to adjustment of the Common Stock provided in this Section 3 will also apply to the
+securities to which the Holder or its assignee is entitled under this Section 3(d).
+ 
+4.       No Rights as a Stockholder. Except as otherwise provided herein, the Holder will not, by virtue of ownership of the Backstop
+Warrant, be entitled to any rights of a stockholder of the Company but will, upon written request to the Company, be entitled to receive
+such quarterly or annual reports as the Company distributes to its stockholders.
+ 
+5.       Restrictions on Transfer; Legends.
+ 
+(a)       Registration or Exemption Required. Assuming the accuracy of the representations and warranties of the Holder
+contained in the Purchase Agreement, this Backstop Warrant has been issued in a transaction exempt from the registration requirements
+of the Securities Act by virtue of Regulation D and exempt from state registration or qualification under applicable state laws. Neither
+this Backstop Warrant nor the Backstop Warrant Shares may be pledged, transferred, sold or assigned except pursuant to an effective
+registration statement or an exemption to the registration requirements of the Securities Act and applicable state laws. If, at the time of
+the surrender of this Backstop Warrant in connection with any transfer of this Backstop Warrant, or upon surrender of the Backstop
+Warrant Shares for transfer, the transfer of this Warrant, or where applicable the Backstop Warrant Shares, shall not be registered
+pursuant to an effective registration statement under the Securities Act and under applicable state securities or blue sky laws, the
+Company may require, as a condition of allowing such transfer (i) that the Holder or transferee of this Backstop Warrant or the
+Backstop Warrant Shares, as the case may be, furnish to the Company a written opinion of counsel (which opinion shall be in form,
+substance and scope customary for opinions of counsel in comparable transactions) to the effect that such transfer may be made without
+registration under the Securities Act and under applicable state securities or blue sky laws, (ii) that the holder or transferee execute and
+deliver to the Company an investment letter in form and substance acceptable to the Company and (iii) that the transferee be an
+“accredited investor” as defined in Rule 501(a)(1), (a)(2), (a)(3), (a)(7), or (a)(8) promulgated under the Securities Act or a “qualified
+institutional buyer” as defined in Rule 144A(a) under the Securities Act in a transaction pursuant to Rule 144A.
+ 
+(b)       Restrictive Legend. The Holder understands that until such time as the Backstop Warrant Shares have been registered
+under the Securities Act as contemplated by the Registration Rights Agreement, or otherwise may be sold pursuant to Rule 144 under
+the Securities Act or an exemption from registration under the Securities Act without any restriction as to the number of securities as of
+a particular date that can then be immediately sold, this Backstop Warrant and the Backstop Warrant Shares, as applicable, shall bear a
+restrictive legend in substantially the form set forth on the cover page of this Backstop Warrant (and a stop-transfer order may be placed
+against transfer of the certificates for such securities).
+ 
+ 
+ 
+ 16  
+--- Page 17 ---
+ 
+ 
+(c)       Removal of Restrictive Legends. The certificates evidencing the Backstop Warrant Shares shall not contain any legend
+restricting the transfer thereof: (A) while a registration statement (including a Registration Statement, as defined in the Registration
+Rights Agreement) covering the sale or resale of the Backstop Warrant Shares is effective under the Securities Act, or (B) following any
+sale of such Backstop Warrant Shares pursuant to Rule 144, or (C) if such Backstop Warrant Shares are eligible for sale under Rule
+144(b)(1), or (D) if such legend is not required under applicable requirements of the Securities Act (including judicial interpretations
+and pronouncements issued by the staff of the Commission) and the Company shall have received an opinion of counsel to the Holder
+in form reasonably acceptable to the Company to such effect (collectively, the “Unrestricted Conditions”). The Company shall cause its
+counsel to issue a legal opinion to its transfer agent if required by the transfer agent to effect the issuance of the Backstop Warrant
+Shares, as applicable, without a restrictive legend or removal of the legend hereunder. The Company agrees that at such time as the
+Unrestricted Conditions are met, it will, no later than seven (7) trading days following the delivery by the Holder to the Company or the
+transfer agent of a certificate representing Backstop Warrant Shares, issued with a restrictive legend, deliver or cause to be delivered to
+such Holder a certificate (or electronic transfer) representing such Backstop Warrant Shares that is free from all restrictive and other
+legends.
+ 
+6.       Notices; Adjustments.
+ 
+(i)       All notices required or permitted hereunder shall be in writing and shall be deemed effectively given: (i) upon
+personal delivery to the party to be notified; (ii) when sent by confirmed electronic mail or facsimile if sent during normal business
+hours of the recipient, and if not, then on the next business day; (iii) two (2) Business Days after having been sent by registered or
+certified mail, return receipt requested, postage prepaid; or (iv) one (1) Business Day after deposit with a nationally recognized
+overnight courier, specifying next day delivery, with written verification of receipt. All communications shall be sent to the Company or
+to Holder, as applicable, at the respective addresses set forth on the signature page to the Purchase Agreement or at such other
+address(es) as they may designate, respectively, by ten (10) days advance written notice to the other party hereto.
+ 
+(ii)       Upon the occurrence of any adjustments pursuant to Section 3 hereof, the Company at its expense shall, as
+promptly as reasonably practicable but in any event not later than 10 days thereafter, compute such adjustment in accordance with the
+terms hereof and furnish to Holder a certificate setting forth such adjustment and showing in detail the facts upon which such
+adjustment is based.
+ 
+7.       Non-Circumvention. The Company hereby covenants and agrees that the Company will not, by amendment of its articles of
+incorporation, bylaws or through any reorganization, transfer of assets, consolidation, merger, scheme of arrangement, dissolution, issue
+or sale of securities, or any other action, avoid or seek to avoid the observance or performance of any of the terms of this Backstop
+Warrant, and will at all times in good faith carry out all the provisions of this Backstop Warrant and take all action as may be
+reasonably required to protect the rights of the Holder.
+ 
+8.       Governing Law. This Backstop Warrant shall be governed by and construed in accordance with the laws of the State of Nevada,
+without regard to conflict of law principles, and notwithstanding the fact that one or more counterparts hereof may be executed outside
+of the state, or one or more of the obligations of the parties hereunder are to be performed outside of the state.
+ 
+9.       Loss, Theft, Destruction or Mutilation of Backstop Warrant. Upon receipt 

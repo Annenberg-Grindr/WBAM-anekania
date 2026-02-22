@@ -1,0 +1,598 @@
+--- Page 1 ---
+EX-10.1 2 dex101.htm STOCK PURCHASE AGREEMENT
+Exhibit 10.1
+EXECUTION COPY
+STOCK PURCHASE AGREEMENT
+by and among
+WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORPORA TION,
+STANDARD CAR TRUCK COMP ANY
+and
+ROBCLIF , INC.
+Dated September 12, 2008
+--- Page 2 ---
+TABLE OF  CONTENTS
+(continued)
+ 
+         Page
+ARTICLE I   DEFINITIONS    1
+ARTICLE II   TRANSACTIONS; PURCHASE PRICE   10
+2.1   Sale of Shares and Durox Shares   10
+2.2   Purchase Price   10
+2.3   Payment of Closing Payment and Escrow Amount   11
+2.4   Tax Treatment of Sale of Shares and Durox Shares   11
+2.5   Allocation of Purchase Price   11
+ARTICLE III   ADJUSTMENTS TO PURCHASE PRICE   11
+3.1   Pre-Closing Calculation   11
+3.2   Post-Closing Calculation   11
+3.3   Dispute Notice   12
+3.4   Adjustments   12
+3.5   Payment   13
+ARTICLE IV   REPRESENT ATIONS AND WARRANTIES OF THE COMP ANY   13
+4.1   Corporate Existence   13
+4.2   Corporate Authority   13
+4.3   Absence of Conflicts   14
+4.4   Capitalization   14
+4.5   Subsidiaries   14
+4.6   Governmental Approvals; Consents   14
+4.7   Financial Statements   15
+4.8   Absence of Changes   15
+4.9   Real Property   16
+4.10   Contracts   16
+4.11   Litigation; Orders   17
+4.12   Intellectual Property Rights   18
+4.13   Tax Matters   18
+4.14   Labor Matters   19
+4.15   Employee Benefit Plans; Employees   20
+4.16   Permits; Compliance with Laws   21
+4.17   Assets, Inventories and Receivables   22
+4.18   Environmental Matters   22
+ 
+- i -
+--- Page 3 ---
+TABLE OF  CONTENTS
+(continued)
+ 
+         Page
+4.19   Insurance   23
+4.20   Absence of Undisclosed Liabilities   23
+4.21   Related Party Transactions   23
+4.22   Product Warranties   24
+4.23   Product Liability   24
+4.24   Finders; Brokers   24
+ARTICLE V   REPRESENT ATIONS AND WARRANTIES OF SELLER   25
+5.1   Corporate Existence   25
+5.2   Corporate Authority and Ownership   25
+5.3   Absence of Conflicts   25
+5.4   Governmental Approvals; Consents   25
+ARTICLE VI   REPRESENT ATIONS AND WARRANTIES OF THE BUYING P ARTIES   26
+6.1   Corporate Existence   26
+6.2   Corporate Authority   26
+6.3   Absence of Conflicts   26
+6.4   Governmental Approvals; Consents   26
+6.5   Finders; Brokers   27
+6.6   Purchase for Investment   27
+6.7   Financing   27
+6.8   Litigation   27
+6.9   Independent Investigation   27
+ARTICLE VII   AGREEMENTS OF ALL  PARTIES   28
+7.1   Operation of the Business   28
+7.2   Mutual Cooperation; No Inconsistent Action   29
+7.3   Public Disclosures   31
+7.4   Access to Records and Personnel   31
+7.5   Employee Relations and Benefits   33
+7.6   Update to Disclosure   34
+7.7   Director and Of ficer Indemnification.   35
+7.8   Tax Matters   36
+7.9   No Negotiation   38
+ 
+- ii -
+--- Page 4 ---
+TABLE OF  CONTENTS
+(continued)
+ 
+         Page
+7.10   Divestiture   38
+ARTICLE VIII   CONDITIONS   39
+8.1   Conditions to the Obligations of the Buying Parties   39
+8.2   Conditions to the Obligations of Seller   39
+8.3   Conditions to Obligations of Buying Parties and Seller   40
+8.4   Frustration of Closing Conditions   40
+ARTICLE IX   CLOSING   40
+9.1   Closing Date   40
+9.2   The Buying Parties’  Deliveries to Seller   41
+9.3   The Buying Parties’  Delivery to Escrow Agent   41
+9.4   Seller ’s Deliveries   41
+ARTICLE X   INDEMNIFICA TION   42
+10.1   Agreement to Indemnify   42
+10.2   Survival of Representations and Warranties   44
+10.3   Notice of Claims for Indemnification   45
+10.4   Defense of Claims   45
+10.5   Settlement or Compromise   46
+10.6   Subrogation and Mitigation   46
+10.7   Environmental Actions   46
+10.8   Indemnification Calculations   48
+10.9   Tax Treatment   48
+10.10   Escrow Amount   48
+10.11   Asbestos Losses, Designated Losses and Designated Environmental Losses   50
+10.12   Exclusive Remedy   51
+ARTICLE XI   TERMINA TION   51
+11.1   Termination Events   51
+11.2   Effect of Termination   52
+ARTICLE XII   GUARANTEE   52
+12.1   Buyer Guarantee   52
+12.2   Joint and Several Obligations   53
+ARTICLE XIII   MISCELLANEOUS AGREEMENTS OF THE P ARTIES   53
+ 
+- iii -
+--- Page 5 ---
+TABLE OF  CONTENTS
+(continued)
+ 
+         Page
+13.1   Notices   53
+13.2   Transfer Taxes   54
+13.3   Expenses   54
+13.4   Non-Assignability   54
+13.5   Amendment; Waiver   54
+13.6   Third Parties   55
+13.7   Currency   55
+13.8   Governing Law; Submission to Jurisdiction; Waivers   55
+13.9   Specific Performance   55
+13.10   Entire Agreement   56
+13.11   Interpretation and Rules of Construction   56
+13.12   Severability   56
+13.13   Disclosure Letter   57
+13.14   Language   57
+13.15   Counterparts   57
+ 
+- iv -
+--- Page 6 ---
+STOCK PURCHASE AGREEMENT
+This ST OCK PURCHASE AGREEMENT , dated this 12th day of September , 2008, is by and among Westinghouse Air Brake Technologies
+Corporation, a Delaware corporation (“ Buyer ”), Standard Car Truck Company , a Delaware corporation (the “ Company ”), and Robclif, Inc., a
+Delaware corporation (“ Seller ”). Buyer , the Company and Seller may be referred to in this Agreement individually as a “ Party ” or collectively as
+“Parties .” Capitalized terms used herein shall have the meanings set forth in Article I  unless otherwise defined herein.
+WHEREAS, the Company owns 100% of the Durox Shares and the Company desires to sell to RFPC Holding Corp., a Delaware corporation and
+Subsidiary of Buyer (“ RFPC ”), and RFPC desires to purchase from the Company , all, but not less than all, of the Durox Shares upon the terms and
+subject to the conditions set forth in this Agreement. As a result of the transactions contemplated hereby , RFPC will acquire all of the Durox Shares,
+and Seller , as the parent of the Company , will receive the consideration described in Article II  of this Agreement; and
+WHEREAS, Seller owns 100% of the Shares and Seller desires to sell to Buyer , and Buyer desires to purchase from Seller , all, but not less than
+all, of the Shares upon the terms and subject to the conditions set forth in this Agreement. As a result of the transactions contemplated hereby , Buyer
+will acquire all of the Shares, and Seller will receive the consideration described in Article II  of this Agreement.
+NOW , THEREFORE, in consideration of the premises, promises and covenants set forth herein, and intending to be legally bound hereby , the
+Parties agree as follows:
+ARTICLE I
+DEFINITIONS
+Defined terms used in this Agreement shall have the meanings set forth below:
+“Affiliate ” means, with respect to any Person, any other Person that controls, is controlled by , or is under common control with such Person. The
+term “control” means the possession, directly or indirectly , of the power to direct or cause the direction of the management and policies of a Person, by
+ownership of securities, contract, credit arrangement or otherwise.
+“Agreement ” means this Stock Purchase Agreement, including all Exhibits, Schedules, the Disclosure Letter and the Buyer Disclosure Letter , as
+each may be amended, modified or supplemented from time to time in accordance with its terms or this Agreement.
+“Allocation ” has the meaning set forth in Section 2.4 .
+“Anchor  Obligations ” has the meaning set forth in Section 7.10 .
+“Ancillary Agreements ” has the meaning set forth in Section 13.13 .
+“Antitrust Laws ” means the Sherman Act, the Clayton Act, the HSR Act, the Federal Trade Commission Act and all other applicable Laws
+issued by any Governmental Authority that are designed or intended to prohibit, restrict or regulate actions having the purpose or ef fect of
+monopolization or restraint of trade or lessening of competition through mer ger or acquisition.
+ 
+- 1 -
+--- Page 7 ---
+“Asbestos Claims ” means (a) any claims against the Company or any SCT  Subsidiary arising out of or relating to the use, sale, distribution or
+handling of asbestos or any asbestos containing product prior to the Closing Date by the Company , any SCT  Subsidiary , any of their Affiliates or any of
+their predecessors or successors (including products liability claims or premises liability claims) and (b) any claims described on Exhibit I .
+“Asbestos Loss ” means cash paid by the Company , any SCT  Subsidiary or Buying Parties to an unaf filiated third party of Buying Parties with
+respect to an Asbestos Claim and the reasonable out-of-pocket costs, fees and expenses incurred in defending such Asbestos Claim.
+“Asbestos Pr otocol ” means the Company’ s and the SCT  Subsidiaries’  historical practice, as of the Closing Date, of managing, communicating
+and reporting the Asbestos Claims as set forth on Exhibit F .
+“Benefit Plans ” means all material employee benefit plans (as defined in Section 3.3  of ERISA), pension, retirement savings, stock purchase,
+stock option, welfare, severance, employment, change-in-control, vacation, fringe benefit, collective bar gaining, bonus, incentive and deferred
+compensation plans and agreements maintained on or before the Closing Date by the Company or any of the SCT  Subsidiaries or to which on or before
+the Closing Date the Company or any of the SCT  Subsidiaries contributes or is a party or is bound or under which it may have liability .
+“Books and Records ” has the meaning set forth in Section 7.4(b) .
+“Brake Shoe Business ” means the business conducted by Anchor Brake Shoe Company , including the sintered brake shoe business.
+“Business ” means the business of designing, manufacturing, distributing, marketing and selling railway-related components, parts and products
+to the railroad freight car and locomotive markets as conducted by the Company and the SCT  Subsidiaries on the date hereof, other than the Brake
+Shoe Business.
+“Business Day ” means any day , excluding Saturday , Sunday and any other day on which commercial banks in Chicago, Illinois are authorized or
+required by Law to close.
+“Buyer ” has the meaning set forth in the introductory paragraph of this Agreement.
+“Buyer  Disclosur e Letter ” means the letter delivered by the Buying Parties to Seller in a letter executed by the Buying Parties dated the date
+hereof.
+“Buyer  Indemnitees ” has the meaning set forth in Section 10.1(a) .
+“Buyer  Material Adverse Effect ” means a material adverse ef fect on the ability of any of the Buying Parties to consummate the Transactions
+and perform all of their obligations hereunder .
+ 
+- 2 -
+--- Page 8 ---
+“Buying Parties ” means the Buyer , RFPC and the Designated Buyer , if any .
+“Cash ” means all cash and cash equivalents of the Company and SCT  Subsidiaries.
+“Clayton Act” means the Clayton Act of 1914, as amended, and the rules and regulations promulgated thereunder , and any successor to such
+statute, rules or regulations.
+“Closing ” has the meaning set forth in Section 9.1 .
+“Closing Date ” has the meaning set forth in Section 9.1 .
+“Closing Payment ” means $300,000,000 less (i) the Preliminary Net Funded Debt, (ii) the Preliminary Customer Deposits and (iii) the Escrow
+Amount.
+“Code ” means the Internal Revenue Code of 1986, as amended, and the rules and regulations promulgated thereunder , and any successor to such
+statute, rules or regulations.
+“Company ” has the meaning set forth in the introductory paragraph of this Agreement.
+“Company Intellectual Pr operty ” has the meaning set forth in Section 4.12(a) .
+“Company’ s Auditors ” means Grant Thornton LLP .
+“Confidentiality Letter ” means the letter agreement dated April 4, 2008 between the Company and Buyer .
+“Contract ” means any contract or other legally binding agreement, whether written or oral.
+“Customer  Deposits ” means the cash deposit by Companhia Vale Do Rio Doce.
+“Deemed Asset Sale ” has the meaning set forth in Section 2.4 .
+“Designated Buyer ” shall be a 100% wholly-owned Subsidiary of Buyer designated by Buyer to purchase the Shares by Buyer providing prior
+written notice to Seller at least ten (10) Business Days prior to the Closing Date.
+“Designated Claims ” means the claims specifically described on Exhibit D  attached hereto.
+“Disclosed Contracts ” has the meaning set forth in Section 4.10(a) .
+“Designated Envir onmental Conditions ” means the conditions specifically described on Exhibit E  attached hereto.
+“Designated Envir onmental Conditions Pr otocol ” means the Company’ s and the SCT  Subsidiaries’  historical practice, as of the Closing Date,
+of managing communicating and reporting the Designated Environmental Conditions as set forth on Exhibit G .
+ 
+- 3 -
+--- Page 9 ---
+“Designated Envir onmental Losses ” means cash paid by the Buying Parties after the Closing Date as a result of any Third Party Claim with
+respect to any Designated Environmental Conditions.
+“Designated Losses ” means cash paid by the Company , any SCT  Subsidiary or Buying Parties to an unaf filiated third party of Buying Parties
+with respect to a Designated Claim and the reasonable out-of-pocket costs, fees and expenses incurred in defending such Designated Claim.
+“Disclosur e Letter ” means the letter delivered by Seller to the Buying Parties dated the date hereof.
+“Dispute Notice ” has the meaning set forth in Section 3.3 .
+“Divestitur e” means the sale of Anchor Brake Shoe Company and the Brake Shoe Business.
+“Divestitur e Adjustment ” means the adjustment to the Purchase Price, if any , as set forth on Exhibit C  attached hereto.
+“Durox” means Durox Company , an Ohio corporation and a wholly-owned Subsidiary of the Company .
+“Durox Shar es” means all of the issued and outstanding shares of capital stock of Durox.
+“Employees ” has the meaning set forth in Section 4.15(a)
+“Envir onmental Law ” means all federal, state and local statutes and regulations having the force of law and as in force on the date of this
+Agreement and concerning pollution or protection of the environment, including all those relating to the presence, use, production, generation,
+handling, transportation, treatment, storage, disposal, distribution, labeling, testing, processing, dischar ge, release, threatened release, control,
+investigation, remediation, remedial action, or cleanup of any Hazardous Substances.
+“Envir onmental Work” has the meaning set forth in Section 10.7(b) .
+“ERISA ” means the Employee Retirement Income Security Act of 1974, as amended, and the rules and regulations promulgated thereunder , and
+any successor to such statute, rules or regulations.
+“Escr ow Agent ” means Manufacturers and Traders Trust Company , a New York commercial bank with trust powers.
+“Escr ow Agreement ” means the Escrow Agreement in the form attached hereto as Attachment I.
+“Escr ow Amount ” means an amount equal to Twenty-Five Million Dollars ($25,000,000).
+ 
+- 4 -
+--- Page 10 ---
+“Escr ow Fund ” has the meaning set forth in Section 10.10(a) .
+“Exchange Rate ” means the applicable exchange rate for converting the relevant foreign currency into U.S. currency that was used to calculate
+the Preliminary Working Capital.
+“Executive Incentive Plan ” means the Standard Car Truck Company and Affiliates Executive Incentive Compensation Plan, as amended and
+restated ef fective as of January 1, 2005.
+“Federal Trade Commission Act” means the Federal Trade Commission Act of 1914, as amended, and the rules and regulations promulgated
+thereunder , and any successor to such statute, rules or regulations.
+“Final Closing Balance Sheet ” has the meaning set forth in Section 3.2 .
+“Final Distribution Date ” has the meaning set forth in Section 10.10(b)(iii) .
+“Financial Statements ” has the meaning set forth in Section 4.7(a) .
+“First Distribution Date ” has the meaning set forth in Section 10.10(b)(i) .
+“Funded Debt ” means all interest rate swap agreements and debt for borrowed money of the Company and the SCT  Subsidiaries owed to any
+bank or other financial institution as of the Closing Date, excluding trade accounts payable of the Company and the SCT  Subsidiaries.
+“GAAP ” means United States generally accepted accounting principles.
+“Governmental Authority ” means any foreign, federal, state, provincial or local governmental or regulatory commission, board, bureau, agency ,
+court or regulatory or administrative body .
+“Hazardous Substances ” means any chemical, material or substance whether solid, liquid or gaseous, designated as a hazardous waste,
+hazardous substance, hazardous material, pollutant, contaminant or toxic substance by any applicable Environmental Law , including any petroleum,
+petroleum products or other hydrocarbon products, by-products, derivatives, additives or fractions (including used or spent products), asbestos or
+asbestos containing materials, polychlorinated biphenyls, or radioactive materials.
+“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and the rules and regulations promulgated
+thereunder , and any successor to such statute, rules or regulations.
+“Indemnifying Party ” has the meaning set forth in Section 10.3 .
+“Indemnitees ” has the meaning set forth in Section 10.1(c) .
+“Independent Auditor ” has the meaning set forth in Section 3.3 .
+ 
+- 5 -
+--- Page 11 ---
+“Intellectual Pr operty ” means any of the following intellectual property: (a) patents and patent applications, (b) trademarks, service marks,
+trade names, trade dress and domain names, together with the goodwill associated exclusively therewith, (c) copyrights, including copyrights in
+computer software, (d) confidential and proprietary information, including Trade Secrets and (e) registrations and applications for registration of the
+foregoing.
+“Interim Loss ” means cash paid at any time by or on behalf of any Buyer Indemnitee to an unaf filiated third party of any Buyer Indemnitee and
+the reasonable out-of-pocket costs, fees and expenses incurred in defending any related Third Party Claim.
+“Knowledge ”, when used to qualify any representation or warranty , means that such Party has no actual knowledge after reasonable inquiry that
+such representation or warranty is not true and correct to the same extent as provided in the applicable representation or warranty . For the purpose of
+this definition, the “actual knowledge” of the Company shall mean the actual present awareness, upon reasonable inquiry , of Rick Mathes, Dan
+Schroeder , Mark Pace, David Watson and Mickey Korzeniowski and the “actual knowledge” of a Buying Party for purposes of Article VI and
+Section 7.2(e)  shall mean the actual present awareness, upon reasonable inquiry , of Mark Cox, David M. Seitz and Pat Dugan.
+“Law ” means any foreign, federal, state or local law , statute, ordinance, regulation, rule, constitution, code, order or treaty of any Governmental
+Authority .
+“Lease ” has the meaning set forth in Section 4.9(b) .
+“Leased Real Pr operty ” has the meaning set forth in Section 4.9(b) .
+“Liens ” mean all liens, char ges, security interests, pledges, mortgages or other material encumbrances (other than restrictions on transfer
+generally arising under the Securities Act or other applicable securities Laws).
+“Loss ” means any liability , expense (including reasonable attorney’ s fees), loss, damage, or obligation, including Asbestos Losses, Interim
+Losses, Designated Environmental Losses and Designated Losses.
+“Management ” means the members of management of the Company who are entitled to receive payments under the Management Incentive
+Program.
+“Management Escr ow Amount ” means that portion of the Escrow Amount to be contributed by Management, which amount will be provided to
+Buyer three (3) days prior to the Closing.
+“Management Incentive Compensation Pr ogram ” means the Standard Car Truck Company Senior Management Incentive Compensation
+Program dated October 24, 2006.
+“Management Incentive Payment ” means the aggregate amount to be paid to Management pursuant to the Management Incentive
+Compensation Program less the Management Escrow Amount.
+ 
+- 6 -
+--- Page 12 ---
+“Material Adverse Effect ” means a material adverse ef fect on (a) the results of operations or financial condition of the Company and the SCT
+Subsidiaries taken as a whole, after taking into ef fect any insurance recoveries; provided , however , that none of the following shall be deemed in and of
+themselves, either alone or in combination, to constitute, and none of the following shall be taken into account in determining whether there has been
+or will be, a Material Adverse Ef fect: (i) any failure by the Company and the SCT  Subsidiaries to meet internal projections or forecasts or revenue or
+earnings predictions for any period ending (or for which revenues or earnings are released) on or after the date of this Agreement, (ii) changes, ef fects,
+events, occurrences or circumstances that generally af fect the United States or the global economy or the securities, financial capital or credit markets
+in the United States or elsewhere or the industries in which the Company and the SCT  Subsidiaries operate, (iii) general economic, financial or
+securities market conditions in the United States or elsewhere, (iv) the execution, delivery or announcement of this Agreement or the announcement or
+pendency of the Transactions (including any cancellations of or delays in customer orders, any reductions in sales, any disruption in supplier ,
+distributor , partner or similar relationships or any loss of employees), (v) changes in GAAP  or legal requirements applicable to the Company and the
+SCT Subsidiaries, (vi) changes in Laws or interpretations thereof by a Governmental Authority , (vii) changes, ef fects or events caused by or resulting
+from the taking of any action required by this Agreement or approved by Buyer , (viii) any actions required to be taken under this Agreement to obtain
+any approval or authorization under any Antitrust Laws for the consummation of the Transactions, (ix) national or international political or social
+conditions, including the engagement by the United States in hostilities, whether or not pursuant to the declaration of a national emer gency or war , any
+outbreak or material escalation of hostilities in which the United States is involved or the occurrence of any military or any terrorist attack upon the
+United States, or any of its territories, possessions or diplomatic or consular of fices or upon any military installation, equipment or personnel of the
+United States or directed against United States’  facilities or citizens wherever located or (x) as described on Exhibit H ; or (b) the ability of the
+Company or Seller to consummate the Transactions.
+“Maximum Amount ” has the meaning set forth in Section 10.1(b)(ii) .
+“Media ” has the meaning set forth in Section 10.7(a) .
+“Minimum Amount ” has the meaning set forth in Section 10.1(b)(i) .
+“Multiple Employer  Plan ” has the meaning set forth in Section 4.15(a) .
+“Net Funded Debt ” means the amount equal to the Funded Debt less Cash, in each case as of the Closing Date.
+“Owned Real Pr operty ” has the meaning set forth in Section 4.9(a) .
+“Party ” or “ Parties ” has the meaning set forth in the introductory paragraph of this Agreement.
+“Permits ” means licenses, permits or franchises issued by any Governmental Authority and other certificates, authorizations and approvals of
+any Governmental Authority .
+ 
+- 7 -
+--- Page 13 ---
+“Permitted Liens ” means all (a) Liens set forth on Section 1.1 of the Disclosure Letter ; (b) Liens disclosed in the Financial Statements; (c) Liens
+for Taxes, assessments and other governmental char ges not yet due and payable or , if due, (i) not delinquent or (ii) being contested in good faith by
+appropriate proceedings described on Section 4.13(d) of the Disclosure Letter ; (d) materialmen’ s, mechanics’, workmen’ s, repairmen’ s,
+warehousemen’ s, carriers’  or other like Liens arising or incurred in the ordinary course of business; (e) Liens associated with original purchase price
+conditional sales contracts and equipment leases with third parties entered into in the ordinary course of business; and (f) with respect to any parcel of
+the Real Property: (i) easements, licenses, covenants, rights-of-way and other similar restrictions, including any other agreements or restrictions which
+would be shown by a current title report or other similar report or listing, (ii) any conditions that may be shown by a current survey or physical
+inspection of the Real Property and (iii) zoning, building and other similar restrictions, so long as none of (i), (ii) or (iii) prevent the use of such Real
+Property substantially as currently used.
+“Permitted Transactions ” has the meaning set forth in Section 7.1 .
+“Person ” means any individual, firm, partnership, association, trust, corporation, joint venture, unincorporated or ganization, limited liability
+company , Governmental Authority or other entity .
+“Post-Signing Supplemental Information ” has the meaning set forth in Section 7.6(a) .
+“Post-Signing Supplemental Information Losses ” has the meaning set forth in Section 7.6(c) .
+“Pre-Signing Supplemental Information ” has the meaning set forth in Section 7.6(a) .
+“Preliminary Closing Balance Sheet ” has the meaning set forth in Section 3.1 .
+“Preliminary Customer  Deposits ” means the good faith estimate of Customer Deposits as of the Closing Date as determined in accordance with
+Article III .
+“Preliminary Net Funded Debt ” means the good faith estimate of the Net Funded Debt as of the Closing Date as determined in accordance with
+Article III .
+“Proceeding ” means any action, arbitration, litigation, suit or formal investigation (whether civil, criminal, administrative, judicial or
+investigative) commenced, brought, conducted or heard by or before any Governmental Authority or arbitrator .
+“Product ” has the meaning set forth in Section 4.23(a) .
+“Proper  Courts ” has the meaning set forth in Section 13.8 .
+“Purchase Price ” has the meaning set forth in Section 2.2 .
+“QSub Election ” has the meaning set forth in Section 4.13(f) .
+“Qualified Claims ” has the meaning set forth in Section 10.1(b)(i) .
+ 
+- 8 -
+--- Page 14 ---
+“Real Pr operty ” has the meaning set forth in Section 4.9(d) .
+“Recalls ” has the meaning set forth in Section 4.23(a) .
+“Release ” means any spilling, leaking, emitting, dischar ging, disposing, injecting, depositing, escaping, leaching, dumping, or other releasing
+into the environment, whether intentional or unintentional.
+“Restrictions ” means any transfer restrictions, proxies, voting agreements, agreements to sell or purchase and similar restrictions (other than
+restrictions on transfer generally arising under the Securities Act or other applicable securities Laws).
+“RFPC ” has the meaning set forth in the recitals of this Agreement.
+“S Corporation Par ent” has the meaning set forth in Section 4.13(f) .
+“S Election ” has the meaning set forth in Section 4.13(f) .
+“SCT  Subsidiary ” or SCT  Subsidiaries ” means any or all Standard Research and Design Corporation, SanCasT , Inc., Durox Company ,
+Standard Car Truck-Asia, Inc., Barber Truck International, Inc., Standard Car Truck of Canada, Inc., SCT  Europe Ltd., SCT  Technology , LLC, Barber
+Tian Rui Railway Supply , LLC and Barber Brake Beam LLC.
+“Second Distribution Date ” has the meaning set forth in Section 10.10(b)(ii) .
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder , and any successor to such
+statute, rules or regulations.
+“Seller ” has the meaning set forth in the introductory paragraph of this Agreement.
+“Seller  Indemnitees ” has the meaning set forth in Section 10.1(c) .
+“Seller  Repr esentative ” shall mean H.S. Russell, or such other person as designated, from time to time, by Seller in writing to Buyer .
+“Shar es” means all of the issued and outstanding shares of capital stock of the Company .
+“Sherman Act” means the Sherman Act of 1890, as amended, and the rules and regulations promulgated thereunder , and any successor to such
+statute, rules or regulations.
+“Straddle Period ” has the meaning set forth in Section 7.8(b) .
+“Subsidiary ” or “ Subsidiaries ” of any Person means any corporation, partnership, limited liability company or other legal entity in which such
+Person (either alone or through or together with any other Subsidiary), owns, directly or indirectly , 25% or more of the stock or other equity or
+ownership interests.
+“Taxes” means any federal, state, provincial, local, territorial and foreign income, profits, franchise, gross receipts, payroll, sales, employment,
+use, property , real estate, excise, value added, estimated, stamp, withholding and any other taxes, duties or assessments, together with all interest,
+penalties and additions imposed with respect to such amounts.
+ 
+- 9 -
+--- Page 15 ---
+“Tax Returns ” means all federal, state, local, provincial and foreign tax returns, declarations, statements, reports, schedules, forms and
+information returns and any amended tax return relating to Taxes (as they relate to the Business).
+“Termination Date ” means December 31, 2008; provided , however , that the Parties may , by mutual agreement, extend such date if the Closing
+has not occurred due to the condition set forth in Section 8.3(b)  not being fulfilled.
+“Third Party Claim ” has the meaning set forth in Section 10.4 .
+“Trade Secr ets” means all secret, proprietary or confidential information of the Company or any SCT  Subsidiary , including any and all
+information not generally known to, or ascertainable by , Persons not employed by the Company or any SCT  Subsidiary , the disclosure or knowledge of
+which would permit those Persons to derive actual material economic value therefrom or to cause material economic or material financial harm to the
+Company or any SCT  Subsidiary .
+“Transactions ” means the transactions contemplated by this Agreement.
+“Working Capital ” has the meaning set forth in Section 3.2 . Any amounts which are to be included in any calculation of Working Capital which
+are expressed in a currency other than U.S. dollars shall be converted into U.S. dollars at the Exchange Rate.
+ARTICLE II
+TRANSACTIONS; PURCHASE PRICE
+2.1 Sale of Shares and Durox Shares . Subject to the satisfaction or waiver of the conditions set forth in Article VIII, at the Closing and as of the
+Closing Date:
+(a) The Company shall sell, convey , assign and transfer to RFPC, and RFPC shall purchase, acquire and accept from the Company , all of
+the Company’ s right, title and interest in and to all of the Durox Shares free and clear of any Liens; and
+(b) Immediately after the transfer of the Durox Shares to RFPC pursuant to Section 2.1(a)  above, Seller shall sell, convey , assign and
+transfer to Buyer , and Buyer shall purchase, acquire and accept from Seller , all of Seller ’s right, title and interest in and to all of the Shares free and
+clear of any Liens.
+2.2 Purchase Price . The aggregate purchase price for the Durox Shares and the Shares shall be $300,000,000 less (a) Net Funded Debt and
+(b) Customer Deposits, subject to adjustment pursuant to Article III  below (the “ Purchase Price ”); provided , however , that the Purchase Price shall be
+adjusted by the Divestiture Adjustment, if any .
+ 
+- 10 -
+--- Page 16 ---
+2.3 Payment of Closing Payment and Escrow Amount . At the Closing, Buyer shall (a) pay to Seller in immediately available U.S. federal funds
+the Closing Payment and (b) deposit with Escrow Agent in immediately available U.S. federal funds the Escrow Amount pursuant to the Escrow
+Agreement.
+2.4 Tax Treatment of Sale of Shares and the Durox Shares . Pursuant to Treasury Regulation Section 1.1361-5(b), the Parties shall treat the
+purchase and sale of the Shares and the purchase and sale of the Durox Shares hereunder for U.S. federal income tax purposes (and, where applicable,
+for state and local income tax purposes), as a sale of the assets of the Company and each of the SCT  Subsidiaries for which a QSub election has been
+made by Seller to Buyer in exchange for the Purchase Price plus the amount of liabilities as of the Closing Date of the Company and the SCT
+Subsidiaries for which a QSub election has been made (the “ Deemed Asset Sale ”). Any amounts received by Seller for the purchase and sale of the
+Durox Shares shall be deemed received by the Company and distributed by the Company to Seller immediately prior to the Buyer ’s purchase and sale
+of the Shares. Consistent with such treatment, Seller will include any income, gain, loss, deduction or other Tax item resulting from the Deemed Asset
+Sale on its Tax Returns in accordance with applicable Law .
+2.5 Allocation of Purchase Price . The Purchase Price (as adjusted pursuant to Article III ) plus the amount of liabilities as of the Closing Date of
+the Company and each of the SCT  Subsidiaries for which a QSub election has been made shall be allocated among the assets pursuant to the
+methodology set forth on the attached Exhibit A (the “ Allocation ”). Buyer and Seller shall prepare all relevant Tax Returns in a manner consistent with
+the Allocation and shall cooperate with each other in the preparation thereof. At least five (5) Business Days prior to the Closing, the Parties shall
+submit a mutually acceptable Allocation of the Purchase Price, which Allocation will not be changed without both Parties’  written consent.
+ARTICLE III
+ADJUSTMENTS TO PURCHASE PRICE
+3.1 Pre-Closing Calculation . Three (3) Business Days prior to the Closing Date, the Company shall prepare and deliver to Parent a consolidated
+balance sheet of the Company and the SCT  Subsidiaries (the “ Preliminary Closing Balance Sheet ”) setting forth the Preliminary Net Funded Debt
+and the Preliminary Customer Deposits. The Preliminary Closing Balance Sheet shall be calculated in accordance with GAAP  and the Financial
+Statements and shall be reasonably acceptable to Buyer .
+3.2 Post-Closing Calculation . Within seventy-five (75) days following the Closing Date, Buyer shall, at its sole expense, prepare and deliver to
+Seller a consolidated balance sheet of the Company and the SCT  Subsidiaries as of the Closing Date (the “ Final Closing Balance Sheet ”) setting forth
+in reasonable detail the Net Funded Debt, the Customer Deposits and the Working Capital. The Final Closing Balance Sheet shall be prepared in
+accordance with GAAP  and the Financial Statements. In connection therewith, from and after Closing, the Buying Parties shall provide Seller and its
+advisors with reasonable access during normal working hours to all Company records and work papers used in preparing the Final Closing Balance
+Sheet and necessary to compute the Net Funded Debt, the Customer Deposits and the Working Capital, as
+ 
+- 11 -
+--- Page 17 ---
+well as the right to make copies of all such records and work papers. The Buying Parties shall also make available to Seller and its advisors the
+Company’ s personnel and advisors involved in preparing the foregoing. Without limiting or prejudicing Seller ’s rights with respect to access to records,
+work papers, personnel and advisors as set forth above, the Parties, however , agree that in the event that there is a dispute with respect to the
+calculations, the Parties shall not have the right to discovery under the Federal Rules of Procedures. The calculation of the Net Funded Debt, the
+Customer Deposits and the Working Capital as delivered to Seller shall be final and binding on the Parties unless, within thirty (30) Business Days after
+delivery to Seller , Seller shall deliver to Buyer a Dispute Notice. After delivery of a Dispute Notice, Buyer and Seller shall promptly negotiate in good
+faith with respect to the subject of the Dispute Notice, and if they are unable to reach an agreement within fifteen (15) Business Days after delivery to
+Buyer of the Dispute Notice, the dispute shall be submitted to the Independent Auditor . In the event that Buyer and Seller disagree on the process and
+procedure relating to the resolution of the dispute, the Independent Auditor shall conclusively resolve such dispute and establish the process and
+procedure to be used in connection with its review of the disputed items. The Independent Auditor shall be directed to issue a final and binding decision
+within thirty (30) days of submission of the Dispute Notice, as to the issues of disagreement referred to in the Dispute Notice and not resolved by the
+Parties. The calculation of the Net Funded Debt, the Customer Deposits and the Working Capital, as so adjusted by agreement or by the Independent
+Auditor (if required), shall be final and binding on the Parties. “ Working Capital ” shall mean the amount equal to Seller ’s total current assets
+(excluding Cash) less Seller ’s total current liabilities, calculated in accordance with GAAP  consistently applied and applied on a basis consistent with
+the Financial Statements (including the calculation of the value of inventory on a “last in-first out” basis) as of the Closing Date. A sample calculation
+of the Working Capital as of December 31, 2007 is attached hereto as Exhibit B .
+3.3 Dispute Notice . In connection with the calculations of the Net Funded Debt, the Customer Deposits and the Working Capital, a “ Dispute
+Notice ” shall mean a written notice from Seller indicating disagreement with the calculations of the Net Funded Debt, the Customer Deposits and/or
+the Working Capital and summarizing the items in dispute. The “ Independent Auditor ” shall mean a national public accounting firm with no material
+relationship to either of the Parties or their respective Affiliates chosen by agreement of the Parties, or , if they are unable to agree, shall mean a national
+firm with no such material relationship chosen by lot. The fees and expenses of the Independent Auditor retained as a result of any dispute related to
+any statement shall be equitably allocated by the Independent Auditor , based on the accuracy of the Parties’  positions relative to the final determination
+by the Independent Auditor .
+3.4 Adjustments .
+(a) If the Net Funded Debt as determined pursuant to Section 3.2  is more than the Preliminary Net Funded Debt, then Buyer shall be
+entitled to recover from the Escrow Fund the amount of the dif ference within three (3) Business Days following the determination thereof. If the Net
+Funded Debt as determined pursuant to Section 3.2  is less than the Preliminary Net Funded Debt, then Buyer shall promptly , but in no event later than
+three (3) Business Days following the determination thereof, pay the amount of the dif ference to Seller .
+ 
+- 12 -
+--- Page 18 ---
+(b) If the Customer Deposits as determined pursuant to Section 3.2  are more than the Preliminary Customer Deposits, then Buyer shall be
+entitled to recover from the Escrow Fund the amount of the dif ference within three (3) Business Days following the determination thereof. If the
+Customer Deposits as determined pursuant to Section 3.2  are less than the Preliminary Customer Deposits, then Buyer shall promptly , but in no event
+later than three (3) Business Days following the determination thereof, pay the amount of the dif ference to Seller .
+(c) If the Working Capital as determined pursuant to Section 3.2  is less than $40,349,000, then Buyer shall be entitled to recover from the
+Escrow Fund the amount of the dif ference within three (3) Business Days following the determination thereof. If the Working Capital as determined
+pursuant to Section 3.2  is more than $40,349,000, then Buyer shall promptly , but in no event later than three (3) Business Days following the
+determination thereof, pay the amount of the dif ference to Seller .
+3.5 Payment . Any amounts due to Buyer or to Seller under Section 3.4 shall be netted against one another such that only one payment shall be
+necessary to satisfy the Parties’  obligations under Section 3.4 . Amounts due to Seller under Section 3.4  shall be reduced by any payments required to be
+paid under the Management Incentive Compensation Program as a result of the adjustments to the Purchase Price set forth herein, such amounts to be
+paid to Management by the Company or the Buyer at the same time payment is made to Seller . The Seller Representative shall provide Buyer in
+writing no later than two (2) Business Days prior to the payment date with the amounts to be paid to each member of Management along with wire
+transfer instructions.
+ARTICLE IV
+REPRESENT ATIONS AND WARRANTIES OF THE COMP ANY
+Except as set forth on the Disclosure Letter , the Company hereby represents and warrants to Buying Parties that, as of the date of this Agreement:
+4.1 Corporate Existence . The Company and each SCT  Subsidiary is a corporation or limited liability company validly existing and in good
+standing under the laws of the jurisdiction of its incorporation or or ganization and has all necessary corporate power and authority to carry on its
+business as now conducted. The Company and each SCT  Subsidiary is legally qualified to transact business as a foreign corporation and is in good
+standing in each jurisdiction where the nature of its properties and the conduct of its business requires such qualification, except for those jurisdictions
+where the failure to so qualify or be in good standing would not reasonably be expected to have a Material Adverse Ef fect.
+4.2 Corporate Authority . This Agreement and the consummation of the Transactions have been duly authorized by all requisite corporate acts or
+proceedings of the Company prior to Closing, and the Company has all necessary corporate power and authority to execute and deliver this Agreement
+and to perform its obligations hereunder . This Agreement has been duly executed and delivered by the Company and, assuming due authorization,
+execution and delivery hereof by the Buying Parties, constitutes a valid and binding obligation of the Company , enforceable in accordance with its
+terms.
+ 
+- 13 -
+--- Page 19 ---
+4.3 Absence of Conflicts . Except as set forth on Section 4.3 of the Disclosure Letter , the execution and delivery of this Agreement by the
+Company and, subject to the required compliance with Antitrust Laws related to the Transactions, the consummation by the Company of the
+Transactions will not (a) violate, conflict with or result in the breach of the certificate of incorporation, bylaws or operating agreement (or similar
+organizational documents) of the Company or any of the SCT  Subsidiaries, (b) conflict with or violate any Law , judgment or decree of any
+Governmental Authority applicable to the Company or any of the SCT  Subsidiaries or (c) conflict with, result in any breach of, constitute a default (or
+event which with the giving of notice or lapse of time, or both, would become a default) under , require any consent under , or give to others any rights
+of termination or cancellation, modification or acceleration of, any Disclosed Contract to which the Company or any of the SCT  Subsidiaries is a party .
+4.4 Capitalization . Section 4.4 of the Disclosure Letter  sets forth the authorized, issued and outstanding shares of capital stock of the Company .
+Seller is the sole record and beneficial owner of, and has good and valid title to, all of the Shares, free and clear of all Liens and Restrictions. The
+Company is the sole record and beneficial owner of, and has good and valid title to, all of the Durox Shares, free and clear of all Liens and Restrictions.
+All of the Shares and the Durox Shares are duly authorized, validly issued, fully paid and nonassessable. There are no outstanding options, warrants,
+preemptive rights, agreements or other rights of any kind relating to the sale or issuance of additional shares of capital stock or other securities
+convertible into, exchangeable for or evidencing the right to purchase, any shares of capital stock or other securities in the Company .
+4.5 Subsidiaries .
+(a) Section 4.5(a) of the Disclosure Letter  sets forth for each SCT  Subsidiary (i) its name and jurisdiction of formation, (ii) the authorized,
+issued and outstanding equity ownership interests of such entity , and (iii) the names of the holders thereof, and the number of ownership interests held
+by each such holder .
+(b) Each holder of the ownership interests of each SCT  Subsidiary has good and valid title to, and is the sole record and beneficial owner
+of, such ownership interests, free and clear of all Liens and Restrictions.
+(c) All of the equity ownership interests of each SCT  Subsidiary are duly authorized, validly issued, fully paid and nonassessable. Except
+as set forth on Section 4.5(c) of the Disclosure Letter , there are no outstanding options, warrants, agreements or other rights of any kind relating to the
+sale or issuance of additional shares of capital stock or other securities convertible into, exchangeable for or evidencing the right to purchase any shares
+of capital stock or other securities in any SCT  Subsidiary . Except for the ownership of the equity interests in each SCT  Subsidiary , neither the Company
+nor any SCT  Subsidiary legally and beneficially owns any equity interest in any other Person.
+4.6 Governmental Approvals; Consents . No claim, legal action, suit, arbitration, governmental investigation or other legal or administrative
+Proceeding is pending or , to the Knowledge of the Company , threatened in writing against the Company or any SCT  Subsidiary which would enjoin or
+delay the Transactions. Except as set forth on Section 4.6 of the
+ 
+- 14 -
+--- Page 20 ---
+Disclosure Letter  and except as required by Antitrust Laws, no consent, approval, order or authorization of, license or permit from, notice to or
+registration, declaration or filing with any Governmental Authority , or any third party with respect to a Disclosed Contract, is required on the part of the
+Company or any SCT  Subsidiary in connection with the execution and delivery of this Agreement or the consummation of the Transactions, except for
+such consents, approvals, orders or authorizations of, licenses or permits, filings, registrations, declarations or notices which have been obtained or
+which may be necessary as a result of any facts relating solely to the Buying Parties or their Affiliates.
+4.7 Financial Statements .
+(a) The Company has heretofore delivered to Buyer the following consolidated financial statements of the Company (the “ Financial
+Statements ”), copies of which are attached as Section 4.7(a) of the Disclosure Letter :
+(i) audited financial statements of the Company for the fiscal years ended December 31, 2006 and December 31, 2007;
+(ii) consolidated balance sheet as of June 30, 2008;
+(iii) consolidated statement of operations for the six-month period ended June 30, 2008; and
+(iv) consolidated cash flow statement for the six-month period ended June 30, 2008.
+(b) The Financial Statements have been prepared from the books, records and accounts of the Company and the SCT  Subsidiaries in
+accordance with GAAP  consistently applied during the periods covered thereby (except for the absence of footnotes in the interim period Financial
+Statements). Each balance sheet included in the Financial Statements fairly presents in all material respects the consolidated financial position of the
+Company and the SCT  Subsidiaries as of the respective dates thereof, and the consolidated operations and cash flow statements included in the
+Financial Statements fairly present in all material respects the results of operations and the cash flows of the Company and the SCT  Subsidiaries for the
+respective periods indicated therein, in accordance with GAAP  (except for the absence of footnotes in the interim period Financial Statements). The
+books of account, ledgers and other records of the Company and each of the SCT  Subsidiaries are complete and correct in all material respects.
+4.8 Absence of Changes . Except as set forth in Section 4.8 of the Disclosure Letter , since June 30, 2008 to the date hereof:
+(a) except as contemplated or permitted by this Agreement, the Business has been conducted in all material respects in the ordinary course
+consistent with past practice; and
+(b) there has not occurred any change or event that has resulted in, or would reasonably be expected to have, a Material Adverse Ef fect.
+ 
+- 15 -
+--- Page 21 ---
+4.9 Real Property .
+(a) Section 4.9(a) of the Disclosure Letter  lists all of the real property and interests therein owned by the Company or any of the SCT
+Subsidiaries (with all easements and other rights appurtenant to such property , the “ Owned Real Pr operty ”). The Company or a SCT  Subsidiary , as
+the case may be, holds fee simple title to the applicable parcel of Owned Real Property , free and clear of any Liens, except Permitted Liens.
+(b) Section 4.9(b) of the Disclosure Letter  lists all of the real property and interests therein leased or subleased by the Company or any of
+the SCT  Subsidiaries (the “ Leased Real Pr operty ”). For each item of Leased Real Property , Section 4.9(b) of the Disclosure Letter  lists the lease or
+sublease, pursuant to which the Company or a SCT  Subsidiary , as the case may be, holds a possessory interest in the Leased Real Property and all
+material amendments, renewals, or extensions thereto (each, a “ Lease ”). The leasehold interest of the Company or a SCT  Subsidiary , as the case may
+be, with respect to each item of Leased Real Property is held free and clear of any Liens, except Permitted Liens. Except as set forth on Section 4.9(b)
+of the Disclosure Letter , neither the Company nor any of the SCT  Subsidiaries is a sublessor of, and has not assigned any Lease covering, any portion
+of the Leased Real Property .
+(c) Each Lease is valid and binding on the Company or the applicable SCT  Subsidiary and, to the Knowledge of the Company , is valid and
+binding on the other parties thereto. The Company or the applicable SCT  Subsidiary that is a party to the Lease and, to the Knowledge of the Company ,
+the other parties thereto are not in material default or breach under any such Lease, and there are no pending claims af fecting the Leases as of which the
+Company and the SCT  Subsidiaries have written notice.
+(d) The Owned Real Property and the Leased Real Property (collectively , the “ Real Pr operty 

@@ -1,0 +1,287 @@
+--- Page 1 ---
+EX-99.1 2 dex991.htm BACKST OP AGREEMENT
+Exhibit 1
+BACKST OP AGREEMENT
+This Backstop Agreement (the “ Agreement ”) is made as of August 16, 2006 by and between J. L. Halsey Corporation (the
+“Company ”) and LDN Stuyvie Partnership (“ LDN ”). Except as otherwise indicated herein, capitalized terms used herein are defined in
+Section 8 hereof.
+WHEREAS, the Company has determined to conduct a rights of fering (the “ Rights Of fering ”) to allow its stockholders (as of a
+record date to be determined) the right to purchase that number of shares (or fraction of a share, as the case may be) of its common stock,
+par value $0.01 per share (the “ Common Stock ”), to be set forth in a registration statement to be filed by the Company with the
+Commission (the “ Registration Statement ”) for each share of Common Stock that each stockholder of the Company owns as of the record
+date established for the Rights Of fering (each a “ Right ” and, collectively , the “ Rights ”), at a price of $0.85 per share (the “ Subscription
+Price ”);
+WHEREAS, LDN has committed (the “ Backstop Commitment ”) to purchase such number of shares of Company Common Stock so
+that, together with all Rights subscribed for and exercised in the Rights Of fering (including any Rights subscribed for by LDN), the
+Company will receive gross proceeds (including of fsets of principal amount of the Promissory Note, as hereinafter defined, as set forth in
+Section 2) in the Rights Of fering of at least $10,000,000 (the “ Backstop Amount ”) at the Subscription Price (it being understood that other
+stockholders of the Company will not be of fered the right to purchase Common Stock in respect of any Rights that go unsubscribed in the
+Rights Of fering); and
+WHEREAS, in consideration of LDN’ s agreeing to provide the Backstop Commitment, the Company has agreed to grant LDN the
+option (the “ Option ”) to purchase an additional number of shares of Common Stock equal to the number of shares of Common Stock
+purchasable pursuant to any Rights that remain unsubscribed for in the Rights Of fering after LDN has fulfilled its Backstop Commitment
+(the “ Option Amount ”) at the Subscription Price (it being understood that other stockholders of the Company will not be of fered the right
+to purchase Common Stock in respect of any Rights that go unsubscribed in the Rights Of fering).
+NOW , THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the
+receipt and suf ficiency of which are hereby acknowledged, the parties hereby agree as follows:
+Section 1. Material Terms; Backstop; and Option .
+(a) Material Terms of the Rights Of fering . The material terms of the Rights Of fering shall be as set forth on Exhibit A hereto.
+The Company shall not alter the terms of the Rights Of fering set forth on Exhibit A hereto without the prior consent of LDN.
+(b) Backstop . Pursuant to the terms and subject to the conditions of this Agreement, in connection with the Rights Of fering, the
+Company hereby of fers LDN the right to purchase that number of shares of Company Common Stock having an aggregate value
+equal to the Backstop Amount at a price per share equal to the Subscription Price. As soon as reasonably practicable following the
+expiration date of the Rights Of fering as
+--- Page 2 ---
+set forth in the Registration Statement (the “ Expiration Date ”), the Company and the subscription agent for the Rights Of fering shall
+determine the Backstop Amount and provide notice thereof to LDN (the “ Notice Date ”). At the Closing (as hereinafter defined), LDN
+hereby agrees to purchase that number of shares of Company Common Stock having an aggregate value equal to the Backstop
+Amount at a price per share equal to the Subscription Price (it being understood that other stockholders of the Company will not be
+offered the right to purchase Common Stock in respect of any Rights that go unsubscribed in the Rights Of fering).
+(c) Option . Pursuant to the terms and subject to the conditions of this Agreement, the Company hereby grants LDN the right, in
+connection with the Rights Of fering, to purchase up to that number of shares of Company Common Stock having an aggregate value
+equal to the Option Amount at a price per share equal to the Subscription Price. As soon as reasonably practicable following the
+Expiration Date, the Company and the subscription agent for the Rights Of fering shall determine the Option Amount. On the Notice
+Date, the Company shall provide notice of the Option Amount to LDN. If LDN determines to exercise the Option, it shall give the
+Company written notice (the “ LDN Notice ”) of such exercise (including the number of shares of Company Common Stock within the
+Option Amount that LDN elects to purchase) within two business days after receipt by LDN of notice of the Option Amount (the
+“Option Expiration Date ”). The number of shares of Company Common Stock that LDN elects to purchase pursuant to the LDN
+Notice is hereinafter referred to as the “ LDN Option Amount .” At the Closing, LDN agrees to purchase that number of shares of
+Company Common Stock equal to the LDN Option Amount at a price per share equal to the Subscription Price (it being understood
+that other stockholders of the Company will not be of fered the right to purchase Common Stock in respect of any Rights that go
+unexercised in the Rights Of fering).
+Section 2. The Closing . LDN’ s subscription for the Backstop Amount, if applicable, and the LDN Option Amount, if applicable, hereunder
+shall take place as soon as reasonably practicable following the Option Expiration Date at a place mutually agreeable to the Company and
+LDN (the “ Closing ”). At the Closing, the Company shall deliver to LDN the certificates evidencing the shares of Common Stock
+subscribed for pursuant to Section 1, and LDN shall deliver to the Company the Promissory Note, the principal amount of which shall be
+offset by the amount of the Subscription Price multiplied by the sum of the LDN Option Amount and the number of shares of Company
+Common Stock included in the Backstop Amount (such aggregate amount is referred to herein as the “ Total Price ”), with any remainder of
+the amount of the Total Price above the principal amount of the Promissory Note being paid by LDN by delivering to the Company a
+cashier ’s check or wire transfer of immediately available funds to a bank designated by the Company . In the event that the Total Price is
+less than the outstanding principal amount of the Promissory Note and all accrued but unpaid interest thereon, at the Closing the Company
+shall pay such remaining balance in cash or additional shares of Company Common Stock (as provided in the Promissory Note) and cancel
+the Promissory Note.
+ 
+2
+--- Page 3 ---
+Section 3. Repr esentations and Warranties of the Company . As a material inducement to LDN to enter into this Agreement and
+subscribe for the Rights, the Company hereby represents and warrants that:
+(a) Organization and Corporate Power . The Company is a corporation duly or ganized, validly existing and in good standing
+under the laws of Delaware and is qualified to do business in every jurisdiction in which its ownership of property or conduct of
+business requires it to qualify . The Company has all requisite corporate power and authority and all material licenses, permits and
+authorizations necessary to own and operate its properties and to carry on its business as now conducted and presently proposed to be
+conducted, and all requisite corporate power and authority to carry out the transactions contemplated by this Agreement, including,
+without limitation, the Rights Of fering.
+(b) Capital Stock . All of the issued and outstanding shares of capital stock of the Company have been duly and validly
+authorized and issued. The Company has reserved suf ficient authorized but unissued shares of Common Stock to consummate the
+Rights Of fering on the terms set forth on Exhibit A hereto and the transactions contemplated hereby . All shares of Common Stock to
+be purchased by LDN from the Company pursuant to this Agreement have been duly authorized for issuance and sale pursuant to this
+Agreement and, when issued and delivered by the Company pursuant to this Agreement against payment therefor , will be validly
+issued, fully paid and nonassessable.
+(c) Authorization; No Breach; Compliance with Laws . The execution, delivery and performance of this Agreement and any
+other agreement contemplated hereby to which the Company is a party (including the Promissory Note) have been duly authorized by
+the Company . The execution, delivery and performance of this Agreement by the Company and the consummation of the transactions
+contemplated hereby will not (i) conflict with or result in a breach or violation of any of the terms or provisions of, or constitute a
+default under , any indenture, mortgage, deed of trust, loan agreement or other agreement or instrument to which the Company is a
+party or by which the Company is bound or to which any of the property or assets of the Company is subject, (ii) result in any
+violation of the provisions of the charter or by-laws of the Company or (iii) result in any violation of any statute, including, without
+limitation, the Delaware General Corporation Law , or any order , rule or regulation of any court or governmental agency or body
+having jurisdiction over the Company or any of its properties or assets. Except for the registration of the Rights under the Securities
+Act and such consents, approvals, authorizations, registrations or qualifications as may be required under the Exchange Act and
+applicable state securities laws in connection with the Rights Of fering, no consent, approval, authorization or order of, or filing or
+registration with, any such court or governmental agency or body is required for the execution, delivery and performance of this
+Agreement by the Company and the consummation of the transactions contemplated hereby .
+(d) Broker ’s Fees . There is no investment banker , broker , finder or other intermediary or advisor that has been retained by or is
+authorized to act on behalf of the
+ 
+3
+--- Page 4 ---
+Company or any of its Affiliates who might be entitled to any fee, commission or reimbursement of expenses from LDN as a result of
+consummation of the transactions contemplated hereby (including, without limitation, the Rights Of fering).
+Section 4. Repr esentations and Warranties of LDN . As a material inducement to the Company to enter into this Agreement, LDN hereby
+represents and warrants that:
+(a) Organization and Corporate Power . LDN is a partnership duly or ganized, validly existing and in good standing and is
+qualified to do business in every jurisdiction in which its ownership of property or conduct of business requires it to qualify . LDN has
+all requisite partnership power and authority and all material licenses, permits and authorizations necessary to own and operate its
+properties and to carry on its business as now conducted and presently proposed to be conducted.
+(b) Authorization; No Breach . The execution of this Agreement by LDN and the consummation by LDN of the transactions
+contemplated hereby will not conflict with or result in a breach or violation of any of the terms or provisions of, or constitute a
+default under , any indenture, mortgage, deed of trust, loan agreement or other agreement or instrument to which LDN is a party or by
+which LDN is bound or to which any of its property or assets is subject, nor will such actions result in any violation of the provisions
+of any statute or any order , rule or regulation of any court or governmental agency or body having jurisdiction over LDN or its
+property or assets in each case in a manner that would adversely impact LDN’ s ability to subscribe for the Rights hereunder; and,
+except for the registration of the Rights under the Securities Act and such consents, approvals, authorizations, registrations or
+qualifications as may be required under the Exchange Act and applicable state securities laws in connection with the Rights Of fering,
+no consent, approval, authorization or order of, or filing or registration with, any such court or governmental agency or body is
+required for the execution, delivery and performance of this Agreement by LDN and the consummation by LDN of the transactions
+contemplated hereby in each case in a manner that would adversely impact LDN’ s ability to subscribe for the Rights and perform its
+obligations hereunder .
+(c) Investment Representations . LDN hereby represents that it is acquiring the Company Common Stock included in the
+Backstop Amount and the LDN Option Amount (the “ Restricted Securities ”) and the Rights purchased hereunder or acquired
+pursuant hereto and for its own account with the present intention of holding such securities for purposes of investment, and that it
+has no intention of selling such securities in a public distribution in violation of the federal securities laws or any applicable state
+securities laws. In addition, LDN hereby represents that it is sophisticated in financial matters and is able to evaluate the risks and
+benefits of the investment in the Rights and the Restricted Securities.
+(d) Accredited Investor Status . LDN is an “accredited investor” as that term is defined in Rule 501(a) of Regulation D.
+(e) Reliance on Exemptions . LDN understands that the Restricted Securities are being of fered and sold to it in reliance on
+specific exemptions from the registration
+ 
+4
+--- Page 5 ---
+requirements of United States federal and state securities laws and that the Company is relying in part upon the truth and accuracy of,
+and LDN’ s compliance with, the representations and warranties of LDN set forth herein in order to determine the availability of such
+exemptions and the eligibility of LDN to acquire the Restricted Securities hereunder .
+(f) Transfer or Resale . LDN understands that (i) the Restricted Securities have not been and are not being registered under the
+Securities Act or any state securities laws, and may not be of fered for sale, sold, assigned or transferred unless (A) subsequently
+registered thereunder , (B) LDN shall have delivered to the Company an opinion of counsel, in form and substance reasonably
+satisfactory to the Company , to the ef fect that the Restricted Securities to be sold, assigned or transferred may be sold, assigned or
+transferred pursuant to an exemption from such registration, or (C) LDN provides the Company with reasonable assurance that the
+Restricted Securities can be sold, assigned or transferred pursuant to Rule 144 promulgated under the Securities Act or a successor
+rule thereto (“ Rule 144 ”); (ii) any sale of Restricted Securities made in reliance on Rule 144 may be made only in accordance with
+the terms of Rule 144 and further , if Rule 144 is not applicable, any resale of Restricted Securities under circumstances in which the
+seller (or the Person through whom the sale is made) may be deemed to be an underwriter (as that term is defined in the Securities
+Act) may require compliance with some other exemption under the Securities Act or the rules and regulations of the Commission
+thereunder; and (iii) neither the Company nor any other Person is under any obligation to register the Restricted Securities under the
+Securities Act or any state securities laws or to comply with the terms and conditions of any exemption thereunder .
+(g) Legends . LDN understands that the certificates representing the Restricted Securities shall initially bear a restrictive legend
+in customary form (and a stop-transfer order may be placed against the transfer of such stock certificates).
+(h) Broker ’s Fees . There is no investment banker , broker , finder or other intermediary or advisor that has been retained by or is
+authorized to act on behalf of LDN who might be entitled to any fee, commission or reimbursement of expenses from either the
+Company or any of its Affiliates as a result of consummation of the transactions contemplated hereby (including, without limitation,
+the Rights Of fering).
+(i) Shares of Common Stock Beneficially Owned . As of the date hereof, LDN is the beneficial owner of 15,216,955 shares of
+Common Stock.
+Section 5. Conditions to Obligations of Each Party to Effect the Closing . The respective obligations of each party to consummate the
+transactions contemplated hereby are subject to the satisfaction on or prior to the Closing of each of the following conditions:
+(a) All consents by third parties (government or otherwise) that are required for the consummation of the transactions
+contemplated hereby (including, without limitation, the consummation of the Rights Of fering) have been obtained on terms mutually
+agreeable to each party .
+ 
+5
+--- Page 6 ---
+(b) The Registration Statement shall have been filed with the Commission and declared ef fective; no stop order suspending the
+effectiveness of the Registration Statement or any part thereof shall have been issued and no proceeding for that purpose shall have
+been initiated or threatened by the Commission; and any request of the Commission for inclusion of additional information in the
+Registration Statement or otherwise shall have been complied with.
+(c) No action, suit or proceeding shall be pending or threatened before any court or quasi-judicial or administrative agency of
+any jurisdiction or before any arbitrator wherein an unfavorable judgment, decree, injunction, order or ruling would prevent the
+performance of this agreement or any of the transactions contemplated hereby (including, without limitation, the Rights Of fering),
+declare unlawful the transactions contemplated by this Agreement (including, without limitation, the Rights Of fering) or cause such
+transactions to be rescinded.
+(d) The Rights Of fering shall have been consummated in conformity with the requirements and conditions set forth in the
+Registration Statement.
+Section 6. Conditions to Obligations of the Company to Effect the Closing . Subject to Section 5 above, the obligations of the Company
+to consummate the transactions contemplated hereby are subject to each of the representations and warranties of LDN contained in this
+Agreement being true and correct in all material respects as of the date hereof and at and as of the date of the Closing as if made at and as
+of such time, except that, to the extent such representations and warranties address matters only as of a particular date, such representations
+and warranties shall, to such extent, be true and correct in all material respects at and as of such particular date as if made at and as of such
+particular date.
+Section 7. Conditions to Obligations of LDN to Effect the Closing . Subject to Section 5 above, the obligations of LDN to consummate
+the transactions contemplated hereby and to purchase the Backstop Amount are subject to each of the representations and warranties of the
+Company contained in this Agreement being true and correct in all material respects as of the date hereof and at and as of the date of the
+Closing as if made at and as of such time, except that, to the extent such representations and warranties address matters only as of a
+particular date, such representations and warranties shall, to such extent, be true and correct in all material respects at and as of such
+particular date as if made at and as of such particular date.
+Section 8. Definitions . For the purposes of this Agreement, the following terms have the meanings set forth below:
+“Affiliate ” means, with respect to any Person, any other Person directly or indirectly controlling, controlled by or under direct or
+indirect common control with such Person. For purposes of this definition, “control” when used with respect to any specified Person
+means the power to direct or cause the direction of the management and policies of such Person, directly or indirectly , whether
+through the ownership of voting securities, by Contract or otherwise, and the terms “controlling” and “controlled” have meanings
+correlative of the foregoing.
+ 
+6
+--- Page 7 ---
+“Commission ” means the Securities and Exchange Commission or any governmental body or agency succeeding to the
+functions thereof.
+“Exchange Act” means the Securities Exchange Act of 1934, as amended.
+“Person ” means an individual, a partnership, a corporation, a limited liability company , association, a joint stock company , a
+trust, a joint venture, an unincorporated or ganization and a governmental entity or any department, agency or political subdivision
+thereof.
+“Securities Act” means the Securities Act of 1933, as amended, or any similar federal law then in force.
+Section 9. Termination . This Agreement may be terminated at any time prior to the Closing, as follows:
+(a) by mutual written consent of the Company and LDN;
+(b) by either the Company or LDN if any governmental entity shall institute any suit or action challenging the validity or
+legality of, or seeking to restrain the consummation of, the transactions contemplated by this Agreement (including, without
+limitation, the issuance of Rights pursuant to the Rights Of fering);
+(c) by the Company , in the event LDN has breached any representation, warranty , or covenant contained in this Agreement, in
+any material respect, provided that the Company has notified LDN of the breach, and the breach has continued without cure for a
+period of 15 days after the notice of such breach or for such longer period so long as such breach is curable by LDN through the
+exercise of its reasonable ef forts, and LDN continues to exercise such reasonable ef forts;
+(d) by LDN, in the event that the Company has breached any representation, warranty , or covenant contained in this Agreement,
+in any material respect, provided that LDN has notified the Company of the breach, and the breach has continued without cure for a
+period of 15 days after the notice of such breach or for such longer period so long as such breach is curable by the Company through
+the exercise of its reasonable ef forts, and the Company continues to exercise such reasonable ef forts; and
+(e) automatically and without any action on the part of either of the parties hereto if the Registration Statement has not been
+declared ef fective by the Commission by 5:30 p.m. ET  on January 1, 2007; and
+(f) automatically and without any action on the part of either of the parties hereto if the Registration Statement has been
+declared ef fective by the Commission by 5:30 p.m. ET  on January 31, 2007, but the Rights of fered in the Rights Of fering have not
+expired by 1 1:59 p.m. ET  on March 31, 2007.
+ 
+7
+--- Page 8 ---
+Section 10. Miscellaneous .
+(a) Successors and Assigns . All covenants and agreements in this Agreement by or on behalf of any of the parties hereto will
+bind and inure to the benefit of the respective successors and assigns of the parties hereto whether so expressed or not; provided that
+neither this Agreement nor any of the rights, interests, or obligations hereunder may be assigned by any party without the prior
+written consent of the other party .
+(b) Survival of Representations and Warranties . All representations and warranties contained herein or made in writing by any
+party in connection herewith shall survive the execution and delivery of this Agreement and the consummation of the transactions
+contemplated hereby .
+(c) Severability . Whenever possible, each provision of this Agreement shall be interpreted in such manner as to be ef fective and
+valid under applicable law , but if any provision of this Agreement is held to be invalid, illegal or unenforceable in any respect under
+any applicable law or rule in any jurisdiction, such invalidity , illegality or unenforceability shall not af fect any other provision or any
+other jurisdiction, but this Agreement shall be reformed, construed and enforced in such jurisdiction as if such invalid, illegal or
+unenforceable provision had never been contained herein.
+(d) Construction . Whenever the context requires, each term stated in either the singular or the plural shall include the singular
+and the plural, and pronouns stated in either the masculine, the feminine or the neuter gender shall include the masculine, feminine
+and neuter . All references to Sections and Paragraphs refer to sections and paragraphs of this Agreement. The use of the word
+“including” in this Agreement shall be by way of example rather than limitation.
+(e) Amendment and Waiver . The provisions of this Agreement may be amended and waived only with the prior written consent
+of the parties hereto.
+(f) Counterparts; Facsimile Signature . This Agreement may be executed simultaneously in two or more counterparts, any one of
+which need not contain the signatures of more than one party , but all such counterparts taken together shall constitute one and the
+same Agreement. This Agreement may be executed by facsimile signature.
+(g) Governing Law . This Agreement will be governed in all respects by the laws of the State of Delaware, without regard to the
+principles of conflicts of law of such state.
+(h) Notices . All notices, demands or other communications to be given or delivered under or by reason of the provisions of this
+Agreement shall be in writing and shall be deemed to have been given when delivered personally to the recipient, sent to the recipient
+by reputable express courier service (char ges prepaid) or mailed to the recipient by certified or registered mail, return receipt
+requested and postage prepaid.
+ 
+8
+--- Page 9 ---
+(i) Payment of Expenses . The Company agrees to pay all costs, fees and expenses incurred in connection with the performance
+of its obligations hereunder and, upon written request therefor , to reimburse LDN for all reasonable documented attorneys’  fees and
+expenses incurred by LDN in connection with the transactions contemplated hereby and in the Promissory Note up to an amount not
+to exceed $25,000 (the “ Expense Cap ”), it being acknowledged and agreed, however , that the Company shall be reasonable and
+consider in good faith increasing the Expense Cap by a reasonable amount if warranted in light of the circumstances. Except as
+provided in this Section (i), LDN shall pay its own expenses, including the fees and disbursements of its counsel.
+ 
+9
+--- Page 10 ---
+IN WITNESS WHEREOF , the parties hereto have executed this Backstop Agreement on the date first written above.
+ 
+J. L. HALSEY  CORPORA TION
+By: /s/ David R. Burt
+Name:  David Burt
+Its:  Chief Executive Of ficer
+LDN STUYVIE P ARTNERSHIP
+By:  /s/ William T. Comfort, III
+Name:  William T. Comfort, III
+Its:  General Partner
+ 
+S-1
+--- Page 11 ---
+EXHIBIT  A
+Material Terms of Rights Of fering
+ 
+Issuer  J.L. Halsey Corporation
+Rights  Pro rata rights to Purchase Halsey Common Stock distributed to existing stockholders
+Transferability  Non-transferable and non-assignable
+Aggregate Of fering Price  $20,000,000
+Offering Price  $0.85/share
+Offered Shares  23,529,412 common shares (=$20M/$0.85)
+Standby Underwriter  LDN
+Standby Commitment  LDN commitment to purchase the Backstop Amount
+Option  LDN option to purchase the Option Amount
+ 
+S-1

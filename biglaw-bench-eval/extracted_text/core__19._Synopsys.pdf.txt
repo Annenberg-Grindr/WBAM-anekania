@@ -1,0 +1,524 @@
+--- Page 1 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 1/110EX-2.1 2 d706106dex21.htm EX-2.1
+Exhibit 2.1
+EXECUTION COPY
+   
+AGREEMENT AND PLAN OF MERGER
+by and among:
+S Y N O P S Y S, I N C.,
+a Delaware corporation;
+ALTA A C Q U I S I T I O N C O R P.,
+a Delaware corporation;
+and
+A N S Y S, I N C.,
+a Delaware corporation
+ 
+ 
+Dated as of January 15, 2024
+ 
+ 
+ 
+  
+--- Page 2 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 2/110TABLE OF CONTENTS
+ 
+       Page 
+SECTION 1. THE TRANSACTION    1 
+ 1.1  The Merger    1 
+ 1.2  Effects of the Merger    1 
+ 1.3  Closing; Effective Time    1 
+ 1.4  Certificate of Incorporation and Bylaws; Directors and Officers    2 
+ 1.5  Conversion of Shares    2 
+ 1.6  Closing of the Company’s Transfer Books    4 
+ 1.7  Exchange of Company Stock Certificates    4 
+ 1.8  Dissenting Shares    7 
+ 1.9  Further Action    7 
+SECTION 2. REPRESENTATIONS AND WARRANTIES OF THE COMPANY    8 
+ 2.1  Subsidiaries; Due Organization; Etc    8 
+ 2.2  Certificate of Incorporation and Bylaws    8 
+ 2.3  Capitalization, Etc    9 
+ 2.4  SEC Filings; Financial Statements    10 
+ 2.5  Absence of Changes    11 
+ 2.6  Title to Tangible Assets    12 
+ 2.7  Real Property; Equipment; Leasehold    12 
+ 2.8  Intellectual Property; Data Privacy and Security    13 
+ 2.9  Material Contracts    17 
+ 2.10 Company Products    20 
+ 2.11 Major Customers and Suppliers    20 
+ 2.12 Liabilities    20 
+ 2.13 Compliance with Legal Requirements    21 
+ 2.14 Governmental Authorizations    22 
+ 2.15 Tax Matters    22 
+ 2.16 Employee and Labor Matters; Benefit Plans    24 
+ 2.17 Environmental Matters    27 
+ 2.18 Insurance    28 
+ 2.19 Legal Proceedings; Orders    28 
+ 2.20 Authority; Binding Nature of Agreement    28 
+ 2.21 Takeover Statutes; No Rights Plan    28 
+ 2.22 Vote Required    29 
+ 2.23 Non-Contravention; Consents    29 
+ 2.24 Fairness Opinion    29 
+ 2.25 Advisors’ Fees    30 
+ 2.26 Related Person Transactions    30 
+ 2.27 Disclosure    30 
+ 2.28 No Other Representations    30 
+SECTION 3. REPRESENTATIONS AND WARRANTIES OF PARENT    31 
+ 3.1  Due Organization    31 
+ 3.2  Capitalization, Etc    31 
+ 3.3  SEC Filings; Financial Statements    32 
+ 3.4  Absence of Changes    33 
+ 3.5  Compliance with Legal Requirements    34 
+ 3.6  Governmental Authorizations    34 
+--- Page 3 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 3/110T A B L E O F C O N T E N T S
+(continued)
+ 
+       Page 
+ 3.7  Legal Proceedings; Orders    35 
+ 3.8  Liabilities    35 
+ 3.9  Authority; Binding Nature of Agreement    35 
+ 3.10 Non-Contravention; Consents    35 
+ 3.11 Stock Ownership    36 
+ 3.12 Capitalization and Operations of Merger Sub    36 
+ 3.13 Tax Matters    36 
+ 3.14 Financing    38 
+ 3.15 Solvency    40 
+ 3.16 Disclosure    40 
+ 3.17 No Other Representations    40 
+SECTION 4. CERTAIN COVENANTS OF THE COMPANY AND PARENT    41 
+ 4.1  Access and Investigation    41 
+ 4.2  Operation of the Company’s Business and Parent’s Business    42 
+ 4.3  No Solicitation    47 
+SECTION 5. ADDITIONAL COVENANTS OF THE PARTIES    50 
+ 5.1  Registration Statement; Proxy Statement/Prospectus    50 
+ 5.2  Company Stockholders’ Meeting    51 
+ 5.3  Treatment of Company Equity Awards    55 
+ 5.4  Treatment of Company ESPP    57 
+ 5.5  Employee Benefits and Employee Matters    58 
+ 5.6  Indemnification of Officers and Directors    60 
+ 5.7  Regulatory Approvals and Related Matters    61 
+ 5.8  Disclosure    65 
+ 5.9  Resignation of Officers and Directors    65 
+ 5.10 Delisting    65 
+ 5.11 Parent Stock Listing    66 
+ 5.12 Section 16 Matters    66 
+ 5.13 Stockholder Litigation    66 
+ 5.14 Takeover Statutes and Rights    66 
+ 5.15 Financing    66 
+SECTION 6. CONDITIONS PRECEDENT TO CONSUMMATION OF THE MERGER    71 
+ 6.1  Conditions to Obligations of Each Party    71 
+ 6.2  Additional Conditions to Obligations of Parent and Merger Sub    72 
+ 6.3  Additional Conditions to Obligations of the Company    73 
+SECTION 7. TERMINATION    74 
+ 7.1  Termination    74 
+ 7.2  Effect of Termination    76 
+ 7.3  Expenses; Termination Fees    76 
+SECTION 8. MISCELLANEOUS PROVISIONS    79 
+ 8.1  Amendment    79 
+ 8.2  Waiver    79 
+ 8.3  No Survival of Representations and Warranties    79 
+ 8.4  Entire Agreement; Counterparts; Exchanges by Facsimile or Electronic Delivery    79 
+ 8.5  Applicable Law; Jurisdiction; Waiver of Jury Trial    80 
+ 
+ii
+--- Page 4 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 4/110T A B L E O F C O N T E N T S
+(continued)
+ 
+        Page 
+ 8.6  Disclosure Schedules    81 
+ 8.7  Attorneys’ Fees    81 
+ 8.8  Assignability; No Third-Party Beneficiaries    81 
+ 8.9  Notices    82 
+ 8.10  Severability    83 
+ 8.11  Remedies    83 
+ 8.12  Construction    83 
+ 
+iii
+--- Page 5 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 5/110E X H I B I T S
+ 
+Exhibit A  -   Certain Definitions
+Exhibit B  -   Form of Certificate of Incorporation of the Surviving Corporation
+ 
+iv
+--- Page 6 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 6/110AGREEMENT AND PLAN OF MERGER
+T H I S A G R E E M E N T A N D P L A N O F M E R G E R (this “Agreement”) is made and entered into as of January 15, 2024, by and among: S Y N O P S Y S,
+I N C., a Delaware corporation (“Parent”); ALTA A C Q U I S I T I O N C O R P., a Delaware corporation and a wholly owned Subsidiary of Parent (“Merger
+Sub”); and A N S Y S, I N C., a Delaware corporation (the “Company”). Certain capitalized terms used in this Agreement are defined in Exhibit A.
+R E C I T A L S
+A.    Parent, Merger Sub and the Company intend to effect a merger of Merger Sub with and into the Company (the “Merger”) in accordance with
+this Agreement and the General Corporation Law of the State of Delaware (the “DGCL”). Upon consummation of the Merger, Merger Sub will cease to
+exist and the Company will become a wholly owned Subsidiary of Parent.
+B.    The respective boards of directors of Parent, Merger Sub and the Company have approved this Agreement and the Merger.
+A G R E E M E N T
+The parties to this Agreement, intending to be legally bound, agree as follows:
+Section 1.    T H E T R A N S A C T I O N
+1.1    The Merger. Upon the terms and subject to the conditions set forth in this Agreement, at the Effective Time, Parent, Merger Sub and the
+Company shall cause Merger Sub to be merged with and into the Company, whereupon the separate existence of Merger Sub shall cease and the
+Company shall continue as the surviving corporation in the Merger (the “Surviving Corporation”).
+1.2    Effects of the Merger. The Merger shall have the effects set forth in this Agreement and in the applicable provisions of the DGCL. At the
+Effective Time, the Surviving Corporation shall possess all the rights, powers, privileges and franchises and be subject to all of the obligations, liabilities
+and duties of the Company and Merger Sub, all as provided under the DGCL.
+1.3    Closing; Effective Time. Parent, Merger Sub and the Company shall consummate the Contemplated Transactions (the “Closing”) by means
+of a virtual closing through electronic exchange of signatures at 8:00 a.m. (California Time) on a date to be jointly designated by Parent and the
+Company, which shall be no later than the 15th calendar day after the satisfaction or waiver of the last to be satisfied or waived of the conditions set forth
+in Section 6 (other than those conditions that by their terms are to be satisfied at the Closing, but subject to the satisfaction or waiver of those conditions
+at the Closing), or at such other place, time or date as Parent and the Company may agree in writing. Notwithstanding the foregoing, if the 15th calendar
+day referred to in the preceding sentence is not a Business Day, then, subject to the continued satisfaction or waiver of the conditions set forth in
+Section 6 (other than those conditions that by their terms are to be satisfied at the Closing, but subject to the satisfaction or waiver of those conditions at
+the Closing), the date to be jointly designated by Parent and the Company pursuant to the preceding sentence shall be no later than the first Business
+Day after the 15th calendar day referred to in the preceding sentence. The date on which the Closing actually takes place is referred to as the “Closing
+Date.” The Merger shall become effective at the time of the filing by the Company and Merger Sub of a duly executed certificate of merger with the
+Secretary of State of the State of Delaware or at such later time as may be mutually agreed by Parent and the Company in writing and specified in such
+certificate of merger (the time at which the Merger becomes effective being referred to as the “Effective Time”).
+--- Page 7 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 7/1101.4    Certificate of Incorporation and Bylaws; Directors and Officers. Unless otherwise mutually agreed by Parent and the Company prior to
+the Effective Time:
+(a)    at the Effective Time, the Certificate of Incorporation of the Surviving Corporation shall be amended and restated to conform to
+Exhibit B;
+(b)    at the Effective Time, the bylaws of the Surviving Corporation shall be amended and restated to conform to the bylaws of Merger Sub
+as in effect immediately prior to the Effective Time, which shall conform with the rights and responsibilities of the Surviving Corporation under
+this Agreement, including the provisions of Section 5.6; and
+(c)    the directors and officers of the Surviving Corporation immediately after the Effective Time shall be the respective individuals who
+were the directors and officers of Merger Sub immediately prior to the Effective Time.
+Prior to the Effective Time, Parent shall take all necessary corporate action to cause two Designated Directors to become members of the board of
+directors of Parent as of the Effective Time; provided that (i) prior to the Effective Time, each Designated Director shall have completed Parent’s
+director nomination process and shall have satisfied all applicable eligibility requirements of the Corporate Governance and Nominating Committee of
+Parent’s board of directors, (ii) for purposes of Section 16(a) of the Exchange Act, each Designated Director will become a member of the Parent board
+of directors immediately following the Effective Time and (iii) if the Effective Time occurs less than six months prior to the next annual meeting of
+Parent’s stockholders, Parent shall nominate each Designated Director for election at such meeting (unless such person is unable or unwilling to serve as
+a result of illness, death, resignation or other reason). For purposes of this Agreement, “Designated Director” means a member of the board of directors
+of the Company that is selected by mutual written agreement of Parent and the Company to become a member of the board of directors of Parent.
+1.5    Conversion of Shares.
+(a)    At the Effective Time, by virtue of the Merger and without any further action on the part of Parent, Merger Sub, the Company or any
+stockholder of the Company:
+(i)    any shares of Company Common Stock held, directly or indirectly, by any wholly owned Subsidiary of the Company
+immediately prior to the Effective Time shall be unaffected by the Merger and shall remain outstanding as an equal number of shares of
+common stock of the Surviving Corporation;
+(ii)    any shares of Company Common Stock held by the Company (or held in the Company’s treasury) or held, directly or indirectly,
+by Parent, Merger Sub or any other wholly owned Subsidiary of Parent immediately prior to the Effective Time shall be canceled and
+retired and shall cease to exist, and no consideration shall be delivered in exchange therefor;
+ 
+2
+--- Page 8 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 8/110(iii)    except as provided in Sections 1.5(a)(i) and 1.5(a)(ii), and subject to Sections 1.5(b), 1.5(c), 1.5(d), 1.7 and 1.8, each share of
+Company Common Stock outstanding immediately prior to the Effective Time will be converted into the right to receive (A) 0.3450 (the
+“Exchange Ratio”) of a share of Parent Common Stock and (B) $197.00 in cash, without interest (the “Per Share Cash Amount”); and
+(iv)    each share of the common stock, $0.01 par value per share, of Merger Sub outstanding immediately prior to the Effective Time
+will be converted into one share of common stock of the Surviving Corporation.
+(b)    If, during the period commencing on the date of this Agreement and ending at the earlier of (i) the valid termination of this
+Agreement pursuant to Section 7.1 and (ii) the Effective Time (the “Pre-Closing Period”), the outstanding shares of Company Common Stock are
+changed into a different number or class of shares by reason of any stock split, division or subdivision of shares, stock dividend, reverse stock split,
+consolidation of shares, reclassification, recapitalization or other similar transaction, or if a stock dividend is declared by the Company during the
+Pre-Closing Period, or a record date with respect to any such event occurs during the Pre-Closing Period, then the Exchange Ratio and the Per Share
+Cash Amount will be adjusted to the extent appropriate to provide the same economic effect as contemplated by this Agreement prior to such action. If,
+during the Pre-Closing Period, the outstanding shares of Parent Common Stock are changed into a different number or class of shares by reason of any
+stock split, division or subdivision of shares, stock dividend, reverse stock split, consolidation of shares, reclassification, recapitalization or other similar
+transaction, or if a stock dividend is declared by Parent during the Pre-Closing Period, or a record date with respect to any such event occurs during the
+Pre-Closing Period, then the Exchange Ratio (but not the Per Share Cash Amount) will be adjusted to the extent appropriate to provide the same
+economic effect as contemplated by this Agreement prior to such action.
+(c)    No fraction of a share of Parent Common Stock shall be issued in connection with the Merger, and no certificates or scrip for any
+such fractional share shall be issued. Any holder of Company Common Stock who would otherwise be entitled to receive a fraction of a share of Parent
+Common Stock (after aggregating all shares of Parent Common Stock issuable to such holder hereunder) shall, in lieu of such fraction of a share, upon
+surrender of such holder’s Company Stock Certificate(s) or the transfer of Uncertificated Company Shares, be paid in cash the dollar amount (rounded
+up to the nearest whole cent), without interest, determined by multiplying such fraction by the closing price of Parent Common Stock on the Parent
+Stock Exchange on the trading day immediately preceding the Closing Date.
+(d)    If the aggregate number of shares of Parent Common Stock to be issued in connection with the Merger (including all shares of Parent
+Common Stock which may be issued after the Effective Time pursuant to Converted Options, Converted RSUs and Assumed Shares) would exceed
+19.9999% of the issued and outstanding shares of Parent Common Stock immediately prior to the Effective Time (the “Maximum Share Number”),
+(i) the Exchange Ratio shall be reduced to the minimum extent necessary (rounded down to four decimal places) such that the aggregate number of
+shares of Parent Common Stock to be issued in connection with the Merger (including all shares of Parent Common Stock which may be issued after the
+Effective Time pursuant to Converted Options and Converted RSUs and Assumed Shares) does not exceed the Maximum Share Number (the amount of
+such reduction in the Exchange Ratio, the “Exchange Ratio Reduction Amount”) and (ii) the Per Share Cash Amount shall be increased by an amount
+equal to (A) the closing trading price of Parent Common Stock on the Parent Stock Exchange for the trading day immediately preceding the Closing
+Date, multiplied by (B) the Exchange Ratio Reduction Amount (rounded down to the nearest one-hundredth of a cent). For the avoidance of doubt,
+nothing in this Section 1.5(d) shall be deemed to limit or otherwise affect any right of Parent to invoke the failure of any condition set forth in Section 6,
+or to terminate this Agreement pursuant to Section 7.1, if Parent would otherwise have such right under Section 6 or Section 7.1, respectively.
+ 
+3
+--- Page 9 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 9/1101.6    Closing of the Company’s Transfer Books. At the Effective Time: (a) except for shares of Company Common Stock that continue to be
+held by a Subsidiary of the Surviving Corporation following the Effective Time in accordance with Section 1.5(a)(i), all shares of Company Common
+Stock outstanding immediately prior to the Effective Time shall automatically be canceled and retired and shall cease to exist, and all holders of
+certificates representing shares of Company Common Stock outstanding immediately prior to the Effective Time (each such certificate, a “Company
+Stock Certificate”) or uncertificated shares of Company Common Stock represented by book-entry positions (each such share, an “Uncertificated
+Company Share”) shall cease to have any rights as stockholders of the Company; and (b) the stock transfer books of the Company shall be closed with
+respect to all shares of Company Common Stock outstanding immediately prior to the Effective Time. No further transfer of any such shares of
+Company Common Stock shall be made on such stock transfer books after the Effective Time. If, after the Effective Time, a valid Company Stock
+Certificate or Uncertificated Company Share is presented to the Exchange Agent or to the Surviving Corporation or Parent, such Company Stock
+Certificate or Uncertificated Company Share shall be canceled and shall be exchanged as provided in Section 1.7.
+1.7    Exchange of Company Stock Certificates.
+(a)    On or prior to the Closing Date, Parent shall select Parent’s transfer agent (after consultation with the Company) or another reputable
+bank or trust company reasonably acceptable to the Company to act as exchange agent in the Merger (the “Exchange Agent”). At or promptly after the
+Effective Time, Parent shall cause to be deposited with the Exchange Agent: (i) certificates or book-entry positions representing the shares of Parent
+Common Stock issuable pursuant to Section 1.5(a)(iii); and (ii) cash sufficient to make payments of the cash consideration payable pursuant to
+Section 1.5(a)(iii) (including payments to be made in lieu of fractional shares in accordance with Section 1.5(c)). The Parent Common Stock and cash
+amounts so deposited with the Exchange Agent, together with any dividends or distributions received by the Exchange Agent with respect to the
+deposited shares of Parent Common Stock are referred to collectively as the “Exchange Fund.” In the event the Exchange Fund shall be insufficient to
+make the payments contemplated by Section 1.5, Parent shall promptly deposit, or cause to be deposited, additional funds with the Exchange Agent in
+an amount that is equal to the deficiency, which additional funds will be deemed to be part of the Exchange Fund. Parent shall cause the Exchange Fund
+to be (A) held for the benefit of the holders of Company Common Stock and (B) applied promptly to make payments pursuant to Section 1.5. The
+Exchange Fund shall not be used for any purpose other than to fund payments pursuant to Section 1.5, except as expressly provided for in this
+Agreement. The cash portion of the Exchange Fund may be invested by the Exchange Agent as directed by Parent.
+(b)    Promptly after the Effective Time, Parent shall use reasonable best efforts to cause the Exchange Agent to mail to the Persons who,
+as of the Effective Time, were record holders of Company Stock Certificates: (i) a notice advising such holder of the effectiveness of the Merger; (ii) a
+letter of transmittal in customary form as reasonably acceptable to each of Parent, the Company and the Exchange Agent (including a provision
+confirming that delivery of a Company Stock Certificate will be effected, and risk of loss and title to such Company Stock Certificate will pass, only
+upon proper delivery of such Company Stock Certificate to the Exchange Agent); and (iii) instructions for use in effecting the surrender
+ 
+4
+--- Page 10 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 10/110of Company Stock Certificates in exchange for Merger Consideration. Upon surrender of a Company Stock Certificate to the Exchange Agent for
+exchange, together with the delivery of a duly executed letter of transmittal and such other customary documents as may be reasonably required by the
+Exchange Agent in connection with the surrender of such Company Stock Certificate, (A) Parent shall cause the Exchange Agent to issue the number of
+whole shares of Parent Common Stock, if any, that the holder of such Company Stock Certificate is entitled to receive pursuant to Section 1.5(a)(iii) in
+exchange therefor, in non-certificated book-entry form in the name of such holder, and to mail to such Person, as promptly as reasonably practicable
+thereafter, (1) a statement reflecting the number of whole shares of Parent Common Stock so issued and (2) a check in the amount (after giving effect to
+any required Tax withholdings as provided in Section 1.7(i)) of the cash consideration that the holder of such Company Stock Certificate is entitled to
+receive pursuant to Section 1.5(a)(iii) (including payments to be made in lieu of fractional shares in accordance with Section 1.5(c) and any unpaid
+dividends or distributions that such Person has the right to receive pursuant to Section 1.7(c), as applicable), in full satisfaction of all rights pertaining to
+the shares of Company Common Stock formerly represented by such Company Stock Certificate, and (B) the Company Stock Certificate so surrendered
+shall be canceled. Until surrendered as contemplated by this Section 1.7(b), each Company Stock Certificate shall be deemed, from and after the
+Effective Time, to represent only the right to receive Merger Consideration as contemplated by Section 1.5.
+(c)    Any holder of Uncertificated Company Shares will not be required to deliver a Company Stock Certificate or an executed letter of
+transmittal to the Exchange Agent to receive the Merger Consideration payable with respect to such Uncertificated Company Shares. Upon receipt of an
+“agent’s message” in customary form after the Effective Time with respect to such holder, (i) Parent shall cause the Exchange Agent to (A) issue the
+number of whole shares of Parent Common Stock, if any, that such holder is entitled to receive pursuant to Section 1.5(a)(iii) in exchange therefor, in
+non-certificated book-entry form in the name of such holder, and (B) mail to such Person, as promptly as reasonably practicable thereafter, (1) a
+statement reflecting the number of whole shares of Parent Common Stock so issued and (2) a check in the amount (after giving effect to any required
+Tax withholdings as provided in Section 1.7(i)) of the cash consideration that the holder of such Uncertificated Company Shares is entitled to receive
+pursuant to Section 1.5(a)(iii) (including payments to be made in lieu of fractional shares in accordance with Section 1.5(c) and any unpaid dividends or
+distributions that such Person has the right to receive pursuant to Section 1.7(c), as applicable), in full satisfaction of all rights pertaining to the shares of
+Company Common Stock formerly represented by such Uncertificated Company Shares, and (ii) the Uncertificated Company Shares so transferred shall
+be canceled. The Exchange Agent shall accept transferred Uncertificated Company Shares upon compliance with such reasonable instructions as the
+Exchange Agent may impose to cause an orderly exchange thereof in accordance with customary exchange practices. Until transferred as contemplated
+by this Section 1.7(c), each Uncertificated Company Share shall be deemed, from and after the Effective Time, to represent only the right to receive
+Merger Consideration as contemplated by Section 1.5.
+(d)    No dividends or other distributions declared or made with respect to Parent Common Stock with a record date after the Effective
+Time shall be paid to the holder of any unsurrendered Company Stock Certificate or Uncertificated Company Share that has not been transferred, in
+each case with respect to the Parent Common Stock that such holder has the right to receive in the Merger, until such holder surrenders such Company
+Stock Certificate or transfers such Uncertificated Company Share in accordance with this Section 1.7 (at which time such holder shall be entitled,
+subject to the effect of applicable escheat or similar laws, to receive all such dividends and distributions, without interest).
+ 
+5
+--- Page 11 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 11/110(e)    In the event of a transfer of ownership of any shares of Company Common Stock which are not registered in the transfer records of
+the Company, payment of Merger Consideration may be made to a Person other than the holder in whose name the Company Stock Certificate formerly
+representing such shares or Uncertificated Company Shares is registered if: (i) any such Company Stock Certificate is properly endorsed or otherwise in
+proper form for transfer; and (ii) such holder has paid any fiduciary or surety bonds and any transfer or other similar Taxes required by reason of the
+payment of such Merger Consideration to a Person other than such holder (or has established to the reasonable satisfaction of Parent that such bonds and
+Taxes have been paid or are not applicable).
+(f)    If any Company Stock Certificate is lost, stolen or destroyed, Parent may, in its discretion and as a condition precedent to the payment
+of any Merger Consideration with respect to the shares of Company Common Stock previously represented by such Company Stock Certificate, require
+the owner of such lost, stolen or destroyed Company Stock Certificate to provide an appropriate affidavit and to deliver a bond (in such reasonable
+amount as Parent may direct) as indemnity against any claim that may be made against the Exchange Agent, Parent or the Surviving Corporation with
+respect to such Company Stock Certificate. No interest will be paid or will accrue on any Merger Consideration payable to holders of Company Stock
+Certificates or in respect of Uncertificated Company Shares.
+(g)    Any portion of the Exchange Fund that remains undistributed to former holders of shares of Company Common Stock as of the date
+that is 12 months after the date on which the Merger becomes effective will be delivered to Parent upon demand, and any former holders of shares of
+Company Common Stock who have not theretofore surrendered their Company Stock Certificates, or complied with the procedures established by the
+Exchange Agent for transfer of Uncertificated Company Shares, in accordance with this Section 1.7 shall thereafter look only to Parent for satisfaction
+of their claims for Merger Consideration.
+(h)    If any Company Stock Certificate has not been surrendered, or any Uncertificated Company Share has not been transferred, by the
+earlier of (i) the fifth anniversary of the date on which the Merger becomes effective and (ii) the date immediately prior to the date on which the Merger
+Consideration that such Company Stock Certificate or Uncertificated Company Share represents the right to receive would otherwise escheat to or
+become the property of any Governmental Body, then such Merger Consideration shall, to the extent permitted by applicable Legal Requirements,
+become the property of Parent, free and clear of any claim or interest of any Person previously entitled thereto. None of Parent, the Surviving
+Corporation or the Exchange Agent shall be liable to any holder or former holder of Company Common Stock or to any other Person with respect to any
+Merger Consideration delivered to any public official pursuant to any applicable abandoned property law, escheat law or similar Legal Requirement.
+(i)    Notwithstanding any other provision of this Agreement, each of the Company, Parent, the Surviving Corporation and the Exchange
+Agent shall be entitled (i) to deduct and withhold (or cause to be deducted or withheld) from any consideration payable or otherwise deliverable
+pursuant to this Agreement, such amounts as may be required to be deducted or withheld therefrom under any Legal Requirement and (ii) to timely
+request any necessary Tax forms to minimize any such deductions or withholdings, including IRS Form W-9 or the appropriate series of IRS Form W-8,
+as applicable, or any similar forms, from the Company or any other Person before a payment is made to the Company or such other Person, as
+applicable, pursuant to this Agreement. To the extent such amounts are so deducted or withheld and timely paid to the appropriate Governmental Body,
+such amounts shall be treated for all purposes under this Agreement as having been paid to the Person to whom such amounts would otherwise have
+been paid.
+ 
+6
+--- Page 12 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 12/1101.8    Dissenting Shares.
+(a)    Notwithstanding anything to the contrary contained in this Agreement, shares of Company Common Stock held by a holder who has
+made a proper demand for appraisal of such shares of Company Common Stock in accordance with Section 262 of the DGCL and who has otherwise
+complied with all applicable provisions of Section 262 of the DGCL (any such shares being referred to as “Dissenting Shares” until such time as such
+holder fails to perfect or otherwise loses such holder’s appraisal rights under Section 262 of the DGCL with respect to such shares) shall not be
+converted into or represent the right to receive Merger Consideration in accordance with Section 1.5(a)(iii), but shall be entitled only to such rights as
+are granted by the DGCL to a holder of Dissenting Shares.
+(b)    If any Dissenting Shares lose their status as such (through failure to perfect or otherwise), then, effective as of the later of the
+Effective Time and the date of loss of such status, such shares will be deemed automatically to have been converted into, and shall represent only, the
+right to receive Merger Consideration in accordance with Section 1.5(a)(iii), without interest thereon, upon surrender of the Company Stock Certificate
+representing such shares or, if such shares are Uncertificated Company Shares, upon compliance with the procedures established by the Exchange Agent
+for the transfer of such Uncertificated Company Shares, in each case in accordance with Section 1.7.
+(c)    The Company shall give Parent: (i) prompt notice of any demand for appraisal received by the Company prior to the Effective Time
+pursuant to the DGCL, any withdrawal of any such demand and any other demand, notice or instrument delivered to the Company prior to the Effective
+Time pursuant to the DGCL and relating to any demand for appraisal; and (ii) the opportunity to participate in (but not direct) all negotiations and
+proceedings with respect to any such demand, notice or instrument relating to any demand for appraisal. The Company shall not make any payment or
+settlement offer prior to the Effective Time with respect to any such demand, notice or instrument unless Parent has given its prior written consent to
+such payment or settlement offer.
+1.9    Further Action. If, at any time after the Effective Time, any further action is determined by Parent to be necessary or desirable to carry out
+the purposes of this Agreement or to vest the Surviving Corporation with full right, title and possession of and to all rights and property of the Company
+and Merger Sub, then the officers and directors of Parent and the Surviving Corporation shall be fully authorized (in the name of the Company, in the
+name of Merger Sub or otherwise) to take such action.
+ 
+7
+--- Page 13 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 13/110Section 2.    R E P R E S E N T A T I O N S A N D W A R R A N T I E S O F T H E C O M P A N Y
+The Company represents and warrants to Parent and Merger Sub as follows (it being understood that the representations and warranties contained
+in this Section 2 are subject to: (a) the exceptions and disclosures set forth in the Company Disclosure Schedule (subject to Section 8.6); and (b) the
+disclosures in any Company SEC Report filed with the SEC at least two Business Days before the date of this Agreement (but (i) without giving effect
+to any amendment thereto filed with the SEC thereafter, (ii) excluding any disclosure contained under the heading “Risk Factors” or any similar heading
+or caption, any disclosure of risks included in any “forward-looking statements” disclaimer and any other statement or other disclosure that is similarly
+predictive or forward-looking, and (iii) excluding any Company SEC Reports that are not publicly available on the SEC’s Electronic Data Gathering
+Analysis and Retrieval System (“EDGAR”) on the date at least two Business Days before the date of this Agreement)):
+2.1    Subsidiaries; Due Organization; Etc.
+(a)    Part 2.1(a) of the Company Disclosure Schedule contains an accurate and complete list, as of the date of this Agreement, of the name
+and jurisdiction of organization of each Subsidiary of the Company. Neither the Company nor any of the other Acquired Companies owns any capital
+stock of, or any equity interest of any nature in, any other Entity other than another Acquired Company or equity securities of publicly traded Entities
+acquired for cash management or passive investment purposes in the ordinary course of business. None of the Acquired Companies is obligated to make,
+or is bound by any Contract under which it is or may become obligated to make, any future investment in or capital contribution to any other Entity
+except to any other Acquired Company.
+(b)    Each of the Acquired Companies is duly organized, validly existing and in good standing (in jurisdictions that recognize the concept
+of good standing) under the laws of the jurisdiction of its organization and has all requisite corporate or similar power and authority: (i) to conduct its
+business in the manner in which its business is currently being conducted; and (ii) to own and use its assets in the manner in which its assets are
+currently owned and used, except, in each case, as would not reasonably be expected to have a Material Adverse Effect on the Company. Each of the
+Acquired Companies is qualified to do business as a foreign entity and is in good standing (in jurisdictions that recognize the concept of good standing),
+under the laws of all jurisdictions where the character of its properties and assets owned or leased or the nature of its activities make such qualification
+necessary, except where the failure to be so qualified or in good standing would not reasonably be expected to have a Material Adverse Effect on the
+Company.
+2.2    Certificate of Incorporation and Bylaws. The Company has Made Available to Parent true, complete and correct copies of the certificate
+of incorporation, bylaws and other charter and organizational documents of the Company and each of the Company’s Significant Subsidiaries as in
+effect as of the date of this Agreement. No Acquired Company is in violation of any of the provisions of the certificate of incorporation or bylaws (or
+equivalent charter and organizational documents) of such Entity, except as would not, individually or in the aggregate, reasonably be expected to be
+material to the Acquired Companies as a whole.
+ 
+8
+--- Page 14 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 14/1102.3    Capitalization, Etc.
+(a)    The authorized capital stock of the Company consists of: (i) 300,000,000 shares of Company Common Stock; and (ii) 2,000,000
+shares of preferred stock, $0.01 par value per share (“Company Preferred Stock”). As of 5:00 p.m. (California time) on January 11, 2024 (the “Company
+Listing Date”): (A) 86,917,171 shares of Company Common Stock were issued and outstanding; (B) no shares of Company Preferred Stock were issued
+and outstanding; and (C) 8,350,136 shares of Company Common Stock were held by the Company as treasury shares. All of the outstanding shares of
+Company Common Stock have been duly authorized and validly issued and are fully paid and nonassessable and free of any preemptive rights. There
+are no shares of Company Common Stock held by any of the Company’s Subsidiaries. There is no Company Contract relating to the voting or
+registration of any shares of Company Common Stock. Except pursuant to Company Equity Plans and the agreements evidencing outstanding Company
+Equity Awards issued thereunder, none of the Acquired Companies is under any obligation, or is bound by any Contract pursuant to which it is, or may
+become, obligated, to repurchase, redeem or otherwise acquire any outstanding shares of Company Common Stock or other securities of the Company.
+(b)    As of 5:00 p.m. (California time) on the Company Listing Date: (i) 100,670 shares of Company Common Stock were subject to
+issuance pursuant to Company options granted and outstanding under the Company Equity Plans ( “Company Options”); (ii) 671,653 shares of
+Company Common Stock are reserved for future issuance pursuant to the Company’s 2022 Employee Stock Purchase Plan (the “Company ESPP”); (iii)
+1,346,526 shares of Company Common Stock were issuable upon settlement or vesting of outstanding Company restricted stock units (“Company
+RSUs”) (which includes any deferred stock units); (iv) no shares of Company Common Stock were subject to stock appreciation rights, whether granted
+under the Company Equity Plans or otherwise; (v) no Company Equity Awards were outstanding other than those granted under the Company Equity
+Plans; and (vi) 3,050,285 shares of Company Common Stock were reserved for future issuance pursuant to Company Equity Awards not yet granted
+under the Company Equity Plans. The exercise price of each Company Option is no less than the fair market value of a share of Company Common
+Stock as determined on the date of grant of such Company Option.
+(c)    Part 2.3(c) of the Company Disclosure Schedule accurately sets forth the following information with respect to each Company Equity
+Award outstanding as of 5:00 p.m. (California time) on the Company Listing Date: (i) the Company Equity Plan (if any) pursuant to which such
+Company Equity Award was granted; (ii) the identification number of the holder of such Company Equity Award; (iii) the number of shares of Company
+Common Stock subject to such Company Equity Award (including, for Company Equity Awards subject to performance-based vesting requirements, if
+any, both the target and the maximum number of shares of Company Common Stock); (iv) the exercise price (if any) of such Company Equity Award;
+(v) the date on which such Company Equity Award was granted; (vi) the applicable vesting schedule, and the extent to which such Company Equity
+Award is vested and/or exercisable; (vii) the date on which such Company Equity Award expires; and (viii) if such Company Equity Award is a
+Company Option, whether it is an “incentive stock option” (as defined in the Code) or a non-qualified stock option.
+(d)    Except (x) as set forth in Sections 2.3(a) and 2.3(b) and in Part 2.3(c) of the Company Disclosure Schedule, (y) for changes since
+5:00 p.m. (California time) on the Company Listing Date resulting from the exercise of Company Options or the vesting of Company RSUs, in each
+case, outstanding as of the Company Listing Date and in accordance with their terms and (z) as may be issued in compliance with Section 4.2(b)(ii):
+(i) the Company does not have any shares of capital stock or other equity interests outstanding; and (ii) there is no (A) outstanding equity-based
+compensation award, subscription, option, call, warrant or right (whether or not currently exercisable) to acquire any shares of the capital stock or other
+securities of any of the Acquired Companies, (B) outstanding security, instrument or obligation that is or may become convertible into or exchangeable
+for any shares of the capital stock or other securities of any of the Acquired Companies or (C) stockholder rights plan (or similar plan commonly
+referred to as a “poison pill”) or Contract under which any of the Acquired Companies is, or may become, obligated to sell or otherwise issue any shares
+of its capital stock or any other securities.
+ 
+9
+--- Page 15 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 15/110(e)    All outstanding shares of Company Common Stock, options, warrants, equity-based compensation awards (whether payable in
+equity, cash or otherwise) and other securities of the Acquired Companies have been issued and granted in compliance with: (i) all applicable Legal
+Requirements; and (ii) all requirements set forth in Contracts to which the Company is a party.
+(f)    All outstanding Company Options and Company RSUs were issued and granted in compliance with the Company Equity Plan and all
+applicable Legal Requirements.
+(g)    All of the outstanding shares of capital stock of each of the Company’s Subsidiaries have been duly authorized and validly issued and
+are fully paid and nonassessable and free of preemptive rights (other than in favor of the Company or a wholly owned Subsidiary of the Company), and
+are owned directly or indirectly by the Company (except for de minimis equity interests held by a third party for local regulatory reasons), free and clear
+of any Encumbrances, other than Permitted Encumbrances and restrictions on transfer under applicable securities laws.
+2.4    SEC Filings; Financial Statements.
+(a)    The Company has timely filed or furnished all registration statements, proxy statements, Certifications (as defined below) and other
+statements, reports, schedules, forms and other documents required to be filed or furnished by the Company with the SEC since January 1, 2021 (the
+“Company SEC Reports”). None of the Company’s Subsidiaries is required to file any documents with the SEC. As of the time it was filed with the SEC
+(or, if amended or superseded by a filing prior to the date of this Agreement, then on the date of such filing): (i) each of the Company SEC Reports
+complied in all material respects with the applicable requirements of the Securities Act, the Exchange Act and the Sarbanes-Oxley Act (as the case may
+be); and (ii) none of the Company SEC Reports contained any untrue statement of a material fact or omitted to state a material fact required to be stated
+therein or necessary in order to make the statements therein, in the light of the circumstances under which they were made, not misleading. With respect
+to each annual report on Form 10-K and each quarterly report on Form 10-Q included in the Company SEC Reports, the principal executive officer and
+principal financial officer of the Company have made all certifications required by Rules 13a-14 and 15d-14 under the Exchange Act and Sections 302
+and 906 of the Sarbanes-Oxley Act (each such required certification, a “Certification”), and the statements contained in each Certification are accurate
+and complete in all material respects as of its date. For purposes of this Agreement, “principal executive officer” and “principal financial officer” shall
+have the meanings given to such terms in the Sarbanes-Oxley Act. As of the date of this Agreement, there are no unresolved comments issued by the
+staff of the SEC with respect to any of the Company SEC Reports. As of the date of this Agreement, to the Knowledge of the Company, none of the
+Company SEC Reports is the subject of any ongoing review by the SEC.
+(b)    The consolidated financial statements (including any related notes and auditor reports) contained or incorporated by reference in the
+Company SEC Reports: (i) complied as to form in all material respects with the published rules and regulations of the SEC applicable thereto; (ii) were
+prepared in accordance with GAAP applied on a consistent basis throughout the periods covered (except as may be indicated in the notes to such
+financial statements or, in the case of unaudited financial statements, as permitted by Form 10-Q of the SEC, and except that the unaudited financial
+statements may not contain
+ 
+10
+--- Page 16 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 16/110footnotes and are subject to normal and recurring year-end adjustments that will not be material in amount to the Acquired Companies, taken as a
+whole); and (iii) fairly present in all material respects the consolidated financial position of the Company and its consolidated Subsidiaries as of the
+respective dates thereof and the consolidated results of operations and cash flows of the Company and its consolidated Subsidiaries for the periods
+covered thereby. No financial statements of any Person other than the Acquired Companies are required by GAAP to be included in the consolidated
+financial statements of the Company.
+(c)    The Company maintains a system of internal control over financial reporting (as such term is defined in Rule 13a-15(f) under the
+Exchange Act) that complies with the applicable requirements of the Exchange Act and has been designed to provide reasonable assurance that:
+(i) transactions are executed in accordance with management’s general or specific authorizations; (ii) transactions are recorded as necessary to permit
+preparation of financial statements in conformity with GAAP and to maintain asset accountability; (iii) access to assets is permitted only in accordance
+with management’s general or specific authorization; and (iv) the recorded accountability for assets is compared with the existing assets at reasonable
+intervals and appropriate action is taken with respect to any differences.
+(d)    Since January 1, 2021, to the Knowledge of the Company, the Company has not had: (i) any significant deficiency or material
+weakness in the design or operation of its internal control over financial reporting that is reasonably likely to adversely affect the Company’s ability to
+record, process, summarize and report financial information; or (ii) any fraud that involves management or any other employee who has (or has had) a
+significant role in the Company’s internal control over financial reporting.
+(e)    The Company maintains disclosure controls and procedures required by Rule 13a-15 or 15d-15 under the Exchange Act. Such
+disclosure controls and procedures comply with the applicable requirements of the Exchange Act and have been designed to ensure that all material
+information concerning the Acquired Companies is made known on a timely basis to the individuals responsible for the preparation of the Company’s
+filings with the SEC and other public disclosure documents.
+(f)    Since January 1, 2021, none of the Acquired Companies has entered into or effected any securitization transactions or any
+“off-balance sheet arrangements” of the type required to be disclosed pursuant to Item 303 of Regulation S-K under the Exchange Act.
+(g)    The reserves reflected in such financial statements have been determined and established in accordance with GAAP in all material
+respects and have been calculated in a consistent manner.
+2.5    Absence of Changes. Between the date of the Company Balance Sheet and the date of this Agreement: (a) there has not been any Material
+Adverse Effect on the Company; and (b) none of the Acquired Companies has taken any action, or authorized, approved, committed, agreed or offered
+to take any action, that if taken during the Pre-Closing Period would require Parent’s consent under Section 4.2(b)(i), Section 4.2(b)(iii) Section 4.2(b)
+(v), Section 4.2(b)(x), Section 4.2(b)(xiii) or Section 4.2(b)(xv).
+ 
+11
+--- Page 17 ---
+1/16/24, 9:45 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1013462/000119312524008112/d706106dex21.htm 17/1102.6    Title to Tangible Assets. Except with respect to real property or Intellectual Property Rights, the Acquired Companies own, and have good
+and valid title to, all material tangible assets owned or purported to be owned by them, including: (a) all material assets reflected on the Company
+Balance Sheet; and (b) all other material assets reflected in the books and records of the Acquired Companies as being owned by the Acquired
+Companies. All of such material assets are owned by the Acquired Companies free and clear of any Encumbrances, except for Permitted Encumbrances
+(including those Permitted Encumbrances listed on Part 2.6 of the Company Disclosure Schedule).
+2.7    Real Property; Equipment; Leasehold.
+(a)    Part 2.7(a)(i) of the Company Disclosure Schedule sets forth the address of each parcel of material real property owned by the
+Acquired Companies as of the date of this Agreement (the “Owned Real Property”). Other than the Owned Real Property, none of the Acquired
+Companies owns any real property or any interest in real property as of the date of this Agreement. The Acquir

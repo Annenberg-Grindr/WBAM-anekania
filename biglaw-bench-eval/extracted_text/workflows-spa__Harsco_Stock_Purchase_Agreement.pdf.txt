@@ -1,0 +1,573 @@
+--- Page 1 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 1/118EX-2.1 2 d870021dex21.htm EX-2.1
+Exhibit 2.1
+EXECUTION VERSION
+STOCK PURCHASE AGREEMENT
+dated as of
+February 6, 2020
+by and between
+STERICYCLE, INC.,
+HARSCO CORPORATION
+and
+CEI HOLDING, LLC
+--- Page 2 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 2/118TABLE OF CONTENTS
+ 
+ ARTICLE I   
+ DEFINITIONS   
+Section 1.01 Definitions    1 
+Section 1.02 Cross References    16 
+Section 1.03 Other Definitional and Interpretative Provisions    18 
+ ARTICLE II   
+ PURCHASE AND SALE   
+Section 2.01 Purchase and Sale of the Purchased Shares    19 
+Section 2.02 Pre-Closing Restructuring    19 
+Section 2.03 Purchase Price; Withholding    21 
+Section 2.04 Closing    21 
+Section 2.05 Adjustment Amount    23 
+ ARTICLE III   
+ REPRESENTATIONS AND WARRANTIES OF SELLER   
+Section 3.01 Existence and Power    26 
+Section 3.02 Authorization    26 
+Section 3.03 Governmental Authorization    26 
+Section 3.04 Noncontravention    27 
+Section 3.05 Group Companies    27 
+Section 3.06 Financial Statements and Other Information    29 
+Section 3.07 Absence of Certain Changes    31 
+Section 3.08 No Undisclosed Liabilities; Reserves    31 
+Section 3.09 Material Contracts    31 
+Section 3.10 Litigation    34 
+Section 3.11 Compliance with Laws    34 
+Section 3.12 Real Property    34 
+Section 3.13 Intellectual Property    36 
+Section 3.14 Title to and Sufficiency of Assets    37 
+Section 3.15 Permits    37 
+Section 3.16 Employee Benefit Plans    38 
+Section 3.17 Employees    40 
+Section 3.18 Environmental Compliance    41 
+Section 3.19 Taxes    43 
+Section 3.20 Insurance    45 
+Section 3.21 Finders’ Fees    45 
+Section 3.22 Customers and Suppliers    45 
+Section 3.23 Bank Accounts    46 
+Section 3.24 Affiliate Transactions    46 
+Section 3.25 Control Areas    46 
+Section 3.26 Economic Sanctions    46 
+Section 3.27 Unclaimed Property    46 
+Section 3.28 No Other Representations and Warranties    46 
+ 
+i
+--- Page 3 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 3/118 ARTICLE IV   
+ REPRESENTATIONS AND WARRANTIES OF BUYER   
+Section 4.01 Existence and Power    47 
+Section 4.02 Authorization    47 
+Section 4.03 Governmental Authorization    48 
+Section 4.04 Noncontravention    48 
+Section 4.05 Financial Ability    48 
+Section 4.06 Litigation    48 
+Section 4.07 Solvency    48 
+Section 4.08 Purchase for Investment    49 
+Section 4.09 Finders’ Fees    49 
+Section 4.10 No Additional Representations; No Reliance    49 
+ ARTICLE V   
+ COVENANTS   
+Section 5.01 Conduct of the Business    51 
+Section 5.02 Pre-Closing Access    54 
+Section 5.03 Notifications    55 
+Section 5.04 Regulatory Filings    56 
+Section 5.05 Shared Contracts    59 
+Section 5.06 Third Party Approvals    60 
+Section 5.07 Post-Closing Asset Transfers    62 
+Section 5.08 Intercompany Balances; Affiliate Transactions    62 
+Section 5.09 Group Company Guarantees    63 
+Section 5.10 Use of Retained Marks    63 
+Section 5.11 Insurance    65 
+Section 5.12 Legal Proceedings; Production of Witnesses    67 
+Section 5.13 Retention of Books and Records and Post-Closing Access    68 
+Section 5.14 Confidentiality    69 
+Section 5.15 Public Announcements    71 
+Section 5.16 Non-Solicitation; Non-Competition    71 
+Section 5.17 Resignations    73 
+Section 5.18 Further Assurances    73 
+Section 5.19 Contact with Employees, Customers and Suppliers    73 
+Section 5.20 No Shop    73 
+Section 5.21 Data Room    74 
+Section 5.22 Financing and Reporting Cooperation    74 
+Section 5.23 Transaction Bonuses    77 
+Section 5.24 Employee List    78 
+Section 5.25 R&W Insurance Policy    78 
+Section 5.26 Maritime Services Agreement Term Sheet    78 
+Section 5.27 New Holding Company    78 
+Section 5.28 Reimbursement and Negotiation of Buyer Ticking Fees    78 
+Section 5.29 Legacy Liens    79 
+ 
+ii
+--- Page 4 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 4/118 ARTICLE VI   
+ TAX MATTERS   
+Section 6.01 Tax Returns; Allocation of Taxes    79 
+Section 6.02 Cooperation on Tax Matters    81 
+Section 6.03 Buyer Covenants    82 
+Section 6.04 Tax Sharing Agreements    82 
+Section 6.05 Tax Claims    83 
+Section 6.06 Post-Closing Payments    84 
+ ARTICLE VII   
+ EMPLOYEE MATTERS   
+Section 7.01 Employee Communications and Consultations    84 
+Section 7.02 Employee Transfers    84 
+Section 7.03 Effect of Transfer    84 
+Section 7.04 Continuation of Benefits    85 
+Section 7.05 Service Credit    85 
+Section 7.06 Work Authorization    86 
+Section 7.07 Vacation    86 
+Section 7.08 Health and Welfare Benefits    86 
+Section 7.09 Workers’ Compensation    86 
+Section 7.10 401(k) Plan    87 
+Section 7.11 Restrictive Covenants    87 
+Section 7.12 Payroll Services    87 
+Section 7.13 Third-Party Rights    88 
+ ARTICLE VIII   
+ CONDITIONS TO CLOSING   
+Section 8.01 Conditions to the Obligations of Buyer and Seller    88 
+Section 8.02 Conditions to the Obligations of Buyer    88 
+Section 8.03 Conditions to the Obligations of Seller    89 
+Section 8.04 Frustration of Conditions    90 
+ ARTICLE IX   
+ INDEMNIFICATION   
+Section 9.01 Survival    90 
+Section 9.02 Indemnification    91 
+Section 9.03 Certain Limitations on Indemnification    93 
+Section 9.04 Environmental Indemnity Matters    94 
+Section 9.05 Procedures    97 
+Section 9.06 Calculation of Damages    99 
+Section 9.07 Assignment of Claims    101 
+Section 9.08 Indemnification Sole and Exclusive Remedy    101 
+ 
+iii
+--- Page 5 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 5/118 ARTICLE X   
+ TERMINATION   
+Section 10.01 Termination    102 
+Section 10.02 Effect of Termination    103 
+ ARTICLE XI   
+ MISCELLANEOUS   
+Section 11.01 Notices    104 
+Section 11.02 Waiver    105 
+Section 11.03 Expenses    105 
+Section 11.04 Assignment    105 
+Section 11.05 Governing Law    106 
+Section 11.06 Jurisdiction; Waiver of Jury Trial    106 
+Section 11.07 Captions; Counterparts    107 
+Section 11.08 Rights of Third Parties    107 
+Section 11.09 Entire Agreement    107 
+Section 11.10 Amendments    108 
+Section 11.11 Severability    108 
+Section 11.12 Disclosure Schedules    108 
+Section 11.13 Enforcement    108 
+Section 11.14 Non-Recourse    109 
+Section 11.15 Privileged Matters; Conflicts of Interest    109 
+Section 11.16 Guarantee    110 
+EXHIBITS
+ 
+Exhibit A  Accounting Principles
+Exhibit B  Group Companies
+Exhibit C  Sample Closing Statement
+Exhibit D  Form of Subcontracted Healthcare Services Agreement
+Exhibit E  Form of Sublease Agreement
+Exhibit F  Form of Transition Services Agreement
+Exhibit G  Form of FIRPTA Certificate
+Exhibit H  Maritime Services Agreement Term Sheet
+ 
+iv
+--- Page 6 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 6/118STOCK PURCHASE AGREEMENT
+This STOCK PURCHASE AGREEMENT (this “Agreement”), dated as of February 6, 2020, is made by and among Stericycle, Inc., a Delaware
+corporation (“Seller”), and CEI Holding, LLC, a Delaware limited liability company, (“Buyer”), and, solely with respect to Section 11.16 and Article XI
+(solely as such Article relates to Section 11.16), Harsco Corporation, a Delaware corporation (the “Guarantor”). Each of Seller, Buyer and Guarantor is
+referred to herein as a “Party” and collectively as the “Parties”.
+W I T N E S S E T H:
+WHEREAS, Seller owns all of the issued and outstanding shares of common stock, par value $10.00 per share (the “Purchased Shares”), of
+Stericycle Environmental Solutions, Inc., a Delaware corporation (the “Company”);
+WHEREAS, in connection with the transactions contemplated by this Agreement, Seller shall, and shall cause its Subsidiaries to, use
+commercially reasonable efforts to effect the Pre-Closing Business Transfers (as defined below), upon the terms and subject to the conditions hereinafter
+set forth;
+WHEREAS, the Company and its Subsidiaries, after giving effect to the Pre-Closing Business Transfers, are engaged in the environmental
+solutions business that provides comprehensive hazardous waste, disposal, recycling and management services, including reporting, collection,
+transportation, disposal, recycling, remediation, lab packing, training and emergency response in the United States and Puerto Rico to retail and
+commercial businesses (collectively, the “Business”); provided that the Business shall exclude the Retained Businesses;
+WHEREAS, Buyer desires to acquire the Business by purchasing the Purchased Shares from Seller, and Seller desires to sell the Business by
+selling the Purchased Shares to Buyer, in each case, upon the terms and subject to the conditions hereinafter set forth; and
+WHEREAS, Guarantor is an Affiliate of Buyer, and Guarantor desires to become a party to this Agreement solely with respect to Section 11.16
+and Article XI (solely as such Article relates to Section 11.16) and to perform its obligations set forth in Section 11.16 in order to induce Seller to enter
+into this Agreement.
+NOW, THEREFORE, in consideration of the premises and mutual covenants contained herein and other good and valuable consideration, the
+receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+ARTICLE I
+DEFINITIONS
+Section 1.01    Definitions. As used herein, the following terms have the following meanings:
+“Accounting Principles” means the accounting principles, practices, policies, judgments and methodologies set forth in Exhibit A to this
+Agreement.
+--- Page 7 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 7/118“Action” means any claim, action, suit, audit, proceeding, hearing, assessment or arbitration by or before any Governmental Authority.
+“Affiliate” means, with respect to any Person, any other Person directly or indirectly controlling, controlled by, or under common control with
+such other Person. For purposes of this definition, “control” when used with respect to any Person means the power to direct the management and
+policies of such Person, directly or indirectly, whether through the ownership of voting securities or other ownership interests, by contract or otherwise,
+and the terms “controlling” and “controlled” have correlative meanings. For purposes of this Agreement, (i) prior to the Closing, Buyer and its Affiliates
+shall not constitute Affiliates of Seller or any of the Group Companies, and the Group Companies shall not constitute Affiliates of Buyer or Guarantor
+and (ii) following the Closing, Seller and its Affiliates shall not constitute Affiliates of Buyer, Guarantor or any of the Group Companies, and the Group
+Companies shall not constitute Affiliates of Seller.
+“Aggregate Reserved Amount” means $14,000,000, representing the negotiated present value of the aggregate amount of all Reserved Amounts.
+“Antitrust Law” means the HSR Act, the Federal Trade Commission Act, as amended, the Sherman Act, as amended, the Clayton Act, as
+amended, and any other applicable Laws, including any state, national or multi-jurisdictional Laws, that are designed or intended to prohibit, restrict or
+regulate actions having the purpose or effect of monopolization or lessening of competition through merger or acquisition.
+“Business Day” means any day that is not a Saturday, a Sunday or other day on which the commercial banks in New York, New York are closed.
+“Business Employees” means (a) the employees of Seller and its Subsidiaries (including any Group Companies) listed on Schedule 1.01(a)(i) who
+satisfy the Service Condition, (b) the Choice Employees listed on Schedule 1.01(a)(ii) and (c) any employees hired by Seller and its Subsidiaries
+(including any Group Companies or any Retained Companies) after the date of this Agreement who satisfy the Service Condition in accordance with and
+subject to Section 5.01, but, in each case, excluding the Retained Employees.
+“Business Intellectual Property Rights” means (a) the Intellectual Property Rights owned or licensed by the Group Companies and (b) any other
+Intellectual Property Rights owned or licensed by Seller or any of its other Subsidiaries and used solely in the conduct of the Business.
+“Business Records” means all books, records, files, plans, studies, reports, manuals, handbooks, catalogs, brochures, ledgers, drawings and other
+similar materials to the extent related to the Business, including (a) all lists, including lists of customers, suppliers or personnel, (b) all product, business
+and marketing plans, (c) operating and personnel records and (d) all Tax-related records and receipts (or portions thereof) exclusively related to the
+Group Companies.
+“Buyer Ticking Fees” means any non-refundable ticking or duration fee accruing pursuant to Buyer’s Financing and payable by Buyer or any of
+its Affiliates until the earlier of the Closing Date and termination of this Agreement pursuant to Section 10.01.
+ 
+2
+--- Page 8 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 8/118“Cash and Cash Equivalents” of any Person as of any date means the cash and cash equivalents and deposits required to be reflected as cash and
+cash equivalents and deposits on a consolidated balance sheet of such Person and its Subsidiaries prepared in accordance with the Accounting
+Principles; provided, however, that Cash and Cash Equivalents shall (i) include all uncleared checks, drafts and payments received by such Person and
+(ii) be calculated net of (A) any restricted cash held as security deposits by third parties, (B) all issued but uncleared checks, drafts and payments issued
+by such Person, (C) any insurance cash proceeds and indemnification payments actually received by such Person with respect to any casualty loss or
+otherwise in respect of Liabilities to the extent such losses or Liabilities have not been discharged or otherwise paid as of immediately prior to the
+Closing, (D) any Cash and Cash Equivalents held for the benefit of third parties, (E) any Cash and Cash Equivalents which are not freely usable by such
+Person because they are subject to restrictions or limitations on use or distribution by applicable Law or Contracts (including Cash and Cash Equivalents
+held in escrow) and (F) any Cash and Cash Equivalents of such Person held as collateral in support of outstanding letters of credit, bonds or similar
+credit support obligations.
+“Choice Employee” means an employee of the Seller or its Subsidiaries (i) who does not satisfy the Service Condition and (ii) whom Buyer and
+Seller mutually agree to treat as a Business Employee.
+“Closing Date Cash” means the aggregate amount of Cash and Cash Equivalents of the Group Companies as of immediately prior to the Closing.
+“Closing Date Indebtedness” means the aggregate amount of outstanding Indebtedness of the Group Companies that remains unpaid as of
+immediately prior to the Closing.
+“Closing Date Net Working Capital” means the Net Working Capital of the Group Companies as of immediately prior to the Closing.
+“Closing Date Transaction Expenses” means the aggregate amount of Transaction Expenses that remain unpaid as of immediately prior to the
+Closing (but calculated assuming consummation of the transactions contemplated by this Agreement such that any amount included in the definition of
+“Transaction Expenses” solely as a consequence of, or upon, the Closing, is included).
+“Closing Date Working Capital Adjustment Amount” which may be positive or negative, means the Closing Date Net Working Capital minus the
+Target Closing Net Working Capital.
+“Code” means the United States Internal Revenue Code of 1986, as amended.
+“Collective Bargaining Agreement” means each written labor contract entered into with a union or other labor organization governing the terms
+and conditions of employment of any Business Employee.
+“Combined Tax Position” means the historic combined filing position of the Group Companies with respect to sales and use Taxes.
+“Combined Tax Return” means each Income Tax Return for the Seller Group.
+ 
+3
+--- Page 9 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 9/118“Compliant” means, as of any time of determination during the Marketing Period, the Seller’s independent accountants have not withdrawn or
+informed the Seller in writing that they intend to withdraw any audited financial statements contained in the Required Information.
+“Confidentiality Agreement” means that certain Confidentiality Agreement by and between Stifel, Nicolaus & Company, Incorporated by and on
+behalf of Seller and Guarantor, dated August 13, 2019.
+“Consumer Takeback Business” means the pharmaceutical consumer takeback business, which includes medication collection drop-boxes (i.e., the
+so-called “Collection Kiosk Program” or “Kiosk Business”) and mail-in envelopes (i.e., the so-called “Seal&Send MailBack Program”) for safe disposal
+of unused and/or expired pharmaceuticals, in each case, as conducted by Seller and its Subsidiaries (including the Group Companies) on the date of this
+Agreement.
+“Continuing Employee” means each Business Employee who remains employed by Buyer or any Subsidiary of Buyer (including the Group
+Companies) immediately after the Closing; provided, that any Inactive Employee shall become a Continuing Employee solely to the extent provided
+under, and consistent with, Section 7.03.
+“Contract” means any legally binding contract, agreement, arrangement, commitment, obligation, undertaking, engagement, lease, sublease,
+license, sublicense, sales order or purchase order, instrument or other agreement (together with any amendment, restatement or other modification
+thereto).
+“COTS License” means a “shrink-wrap,” “click-through” or “off-the-shelf” software license, or any other license of uncustomized software that is
+commercially available to the public generally, with one-time or annual license, maintenance, support and other fees of $100,000 or less.
+“Credit Facility” means that certain Credit Agreement, dated as of November 17, 2017, among Seller and certain of its Subsidiaries, Bank of
+America, N.A., as administrative agent, swing line lender, a lender and a letter of credit issuer, and the other lenders party thereto, as amended.
+“Customer Contract” means a Contract (or group of related Contracts) pursuant to which any Group Company, after giving effect to the
+Pre-Closing Business Transfers, licenses or otherwise provides products and services to customers of the Business.
+“Damages” means all Liabilities, Taxes, losses, damages, causes of action, suits, claims, judgments, penalties, fines, fees and out-of-pocket costs
+and expenses, including reasonable attorney’s and other third party professional fees, disbursements and expenses, and all amounts paid in investigation,
+defense or settlement of any of the foregoing.
+“Deferred Consideration Notes” means those certain notes of the Group Companies listed in Schedule 1.01(b).
+“Disclosure Schedules” means the disclosure schedules delivered by Seller to Buyer concurrently with the execution and delivery of this
+Agreement.
+ 
+4
+--- Page 10 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 10/118“Employee Plan” means any “employee benefit plan”, as defined in Section 3(3) of ERISA, and any Contract, plan, practice, arrangement or
+policy providing for severance, equity compensation, profit-sharing, incentive or deferred compensation, vacation or other paid-time-off, health or
+welfare benefits, sick pay, pension or retirement benefits, consulting fees, retention, sale bonus, change in control, fringe benefit, or other compensation
+or employee benefits, in each case, (i) that is sponsored, maintained or contributed to or obligated to be contributed to by Seller or any of its Subsidiaries
+for the benefit of, or that otherwise covers, any Business Employee, or (ii) under which Seller or any of its Subsidiaries have or may reasonably be
+expected to have any Liability (contingent or otherwise) with respect to a Business Employee, but excluding the Group Company Plans and any plan
+that is required to be maintained by applicable Law or that is sponsored by any union.
+“Environmental Laws” means any Law relating to pollution, protection of the environment or natural resources or protection of the health and
+safety of individuals from exposures to Hazardous Substances.
+“Environmental Permits” shall mean any and all Permits required under any applicable Environmental Law.
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended.
+“ERISA Affiliate” means any trade or business, whether or not incorporated, that, together with Seller or any of its Subsidiaries, is or would have
+been, at any date of determination occurring after January 1, 2012 and prior to the date of this Agreement, treated as a single employer within the
+meaning of Section 414 of the Code or Section 4001 of ERISA.
+“Estimated Working Capital Adjustment Amount” which may be positive or negative, means the Estimated Closing Date Net Working Capital
+minus the Target Closing Net Working Capital.
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+“Excluded Tax Matter” means that certain obligation described on Schedule 1.01(c).
+“Financing” means any credit facility debt financings in connection with the transactions contemplated by this Agreement, including any
+borrowing of loans and any related commitment letter or engagement letter in respect of such credit facility debt financing.
+“Financing Sources” means the agents, arrangers, lenders and other entities that have committed to provide or arrange or otherwise entered into
+agreements in connection with any Financing, or that are considering any such commitment or agreement, including the parties to any commitment
+letter or engagement letter in respect of such Financing or to any joinder agreements, credit agreements or other agreements entered pursuant thereto or
+relating thereto, together with their respective Affiliates and the current, former or future officers, directors, employees, partners, trustees, shareholders,
+equityholders, managers, members, limited partners, controlling persons, agents and other Representatives of each of them and their respective Affiliates
+and the successors and assigns of the foregoing Persons.
+ 
+5
+--- Page 11 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 11/118“Fraud” shall mean common law fraud to the extent such fraud cannot be waived as a matter of Delaware public policy with respect to contracts
+as contemplated by Abry Partners V, L.P. v. F&W Acquisition LLC, 891 A.2d 1032 (Del. Ch. 2006).
+“GAAP” means United States generally accepted accounting principles, consistently applied.
+“Governmental Authority” means any federal, state, provincial, municipal, local or foreign government, governmental authority, regulatory or
+administrative agency, governmental commission, department, board, bureau, agency or instrumentality, court, tribunal or arbitral body.
+“Governmental Order” means any order, judgment, injunction, decree, writ, stipulation, determination or award, in each case, entered by or with
+any Governmental Authority.
+“Group Companies” means, after giving effect to the Pre-Closing Business Transfers, all of the entities identified on Exhibit B.
+“Group Company Guarantees” means all guarantees, letters of credit, bonds, sureties and other credit support or assurances provided by any
+Retained Company in support of any obligation of the Business, including those obligations listed in Schedule 1.01(d).
+“Group Company Interests” means, with respect to each Group Company, any shares of capital stock of, or other equity interests in, such Group
+Company.
+“Group Company Plan” means any “employee benefit plan”, as defined in Section 3(3) of ERISA, and any Contract, plan, practice, arrangement
+or policy providing for severance, equity compensation, profit-sharing, incentive or deferred compensation, vacation or other paid-time-off, health or
+welfare benefits, sick pay, pension or retirement benefits, consulting fees, retention, sale bonus, change in control, fringe benefit, or other compensation
+or employee benefits, in each case, (i) that is sponsored, maintained or contributed to or obligated to be contributed to by any Group Company, or
+(ii) under which any Group Company has or may reasonably be expected to have any Liability (contingent or otherwise), in each case of clauses (i) and
+(ii) after giving effect to the Pre-Closing Business Transfers.
+“Hazardous Substances” means any pollutant, contaminant, chemical, waste and any other toxic, infectious, carcinogenic, radioactive, ignitable,
+corrosive, reactive or otherwise hazardous substances or materials (whether solids, liquids or gases), and any other substance or material subject to
+regulation, control or remediation, or that would result in Liability, under any Environmental Law based upon its toxic, hazardous or deleterious nature
+or characteristics, including petroleum, its derivatives, by-products and other hydrocarbons, urea formaldehyde, lead-based paint, PCBs, 1,4-dioxane,
+perfluoroalkyl and polyfluoroalkyl substances, silica and asbestos.
+“Healthcare Business” means, collectively, (i) the environmental solutions business that provides comprehensive hazardous waste management
+services, including reporting, collection, transportation, disposal, recycling, remediation, lab packing, training and emergency response in the United
+States to healthcare businesses and (ii) the pharmaceutical consumer takeback business, which includes medication collection drop-boxes and mail-in
+envelopes for safe disposal of unused
+ 
+6
+--- Page 12 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 12/118and/or expired pharmaceuticals, as conducted by Seller and its Subsidiaries (including the Group Companies) on the date of this Agreement solely with
+respect to hospitals, doctors’ offices and similar healthcare businesses, but in each of the foregoing clauses (i) and (ii), excluding any Healthcare
+Services (as defined in the Subcontracted Healthcare Services Agreement) and associated products and services to be provided from and after Closing
+by Buyer and its Subsidiaries, including the Group Companies, pursuant to the Subcontracted Healthcare Services Agreement.
+“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and the rules and regulations promulgated thereunder.
+“Inactive Employee” means a Business Employee who is on short-term disability, long-term disability or administrative or parental or family
+leave as of the Closing Date.
+“Income Tax” means any Tax that is, in whole or in part, based on or measured by net income or profit.
+“Income Tax Return” means any Tax Return with respect to Income Taxes.
+“Indebtedness” means, without duplication, after giving effect to the Pre-Closing Business Transfers and as calculated in accordance with the
+Accounting Principles and whether or not they constitute Transferred Liabilities, (a) all obligations of the Group Companies for borrowed money, (b) all
+obligations of the Group Companies evidenced by notes, bonds (other than surety bonds), debentures or other similar instruments, including obligations
+of the Group Companies under the Deferred Consideration Notes (to the extent they are obligations of the Group Companies), (c) all reimbursement or
+repayment obligations of the Group Companies under letters of credit and surety bonds, performance bonds, closure bonds, keep-well, bankers’
+acceptances or similar arrangements solely to the extent such letters of credit have been drawn or claims have been made that remain unpaid under such
+surety bonds, performance bonds, closure bonds, keep-well, bankers’ acceptances or similar arrangements, (d) all obligations of the Group Companies
+under leases classified as finance leases (and not operating leases) to the extent that they have been or are required to be, in accordance with the
+Accounting Principles, recorded as capitalized leases, (e) all accrued payment obligations in respect of contributions, including employer matching
+contributions, of the Group Companies or the Business under the Seller 401(k) Plans in respect of any Business Employee for the 2019 fiscal year and
+any prior fiscal years, (f) all obligations of the Group Companies in respect of deferred compensation, post-retirement welfare benefits (other than under
+the Consolidated Omnibus Budget Reconciliation Act of 1985 and similar obligations) and unfunded or underfunded pensions, including for Business
+Employees, (g) all obligations of the Group Companies in respect of accrued bonuses, accrued commissions, or accrued severance payable to any
+current or former employee, officer, director or individual independent contractor of the Group Companies for the 2019 fiscal year and any prior fiscal
+years, including the employer portion of any payroll or other similar Taxes and “tax gross-up” payments, if any, due or payable as a result of or in
+connection therewith, (h) all obligations of the Group Companies for the deferred purchase price of property, assets or services or for earn-outs,
+purchase price adjustments, holdbacks or other similar obligations (including the amount of future payment obligations), in each case, in an amount
+equal to, in the case of any holdback, the actual amount of such holdback and, in all other cases, the amount reflected on the Unaudited Financial
+Statements, (i) the net
+ 
+7
+--- Page 13 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 13/118obligations of the Group Companies under any derivative, hedging, swap and similar instruments or transactions, in each case, calculated at the
+termination value thereof as if terminated immediately prior to the Closing, (j) the Aggregate Reserved Amount, (k) to the extent not paid prior to the
+Closing, the costs and expenses set forth on Schedule 1.01(e) for the replacement of the containment liner described in such schedule, (l) an amount to
+be determined based on the healthcare Liabilities of the Business calculated in accordance with the methodology set forth on Schedule 1.01(f), (m) all
+accrued interest, fees and expenses (including prepayment or termination premiums), penalties or similar contractual charges in respect of any of the
+items set forth in clauses (a) through (l), and (n) all obligations of the Group Companies with respect to guarantees of another Person in respect of any
+obligation of the kind set forth in clauses (a) through (m) incurred by such other Person (including the obligations of the Group Companies with respect
+to guarantees of the obligations incurred under the Credit Facility and the Private Placement Notes if, and only to the extent, such guarantees are not
+released and terminated at or prior to the Closing). For the avoidance of doubt, any liability of the Group Companies included in the calculation of Net
+Working Capital or Transaction Expenses shall not be included in the calculation of Indebtedness for any purpose hereunder.
+“Intellectual Property Rights” means all intellectual property rights in any and all jurisdictions throughout the world, including all: (a) Patents; (b)
+Trademarks; (c) trade secrets and other intellectual property rights in inventions (whether or not patentable and whether or not reduced to practice),
+confidential information, data, know-how, product designs, methods and processes, including customer information and marketing materials;
+(d) copyrights (including copyrights, if any, in IT Assets) and mask works, whether or not registered, and registrations and applications for registration
+thereof and (e) Internet domain names.
+“Intentional and Willful Breach” means a material breach of this Agreement that is a consequence of an act or omission knowingly undertaken or
+knowingly omitted by the breaching party with the actual knowledge that such act or omission would or would be reasonably likely to cause a material
+breach of this Agreement.
+“IP Contract” means Contracts that relate to the receiving or granting of rights in or to use any Business Intellectual Property Rights, but
+excluding Customer Contracts and COTS Licenses.
+“IT Asset” means all of the computers, computer systems, applications, databases, hardware, middleware, firmware, workstations, routers, hubs,
+switches, circuits, servers and other information technology equipment of the Group Companies and any other computer systems, workstations, routers,
+hubs, switches, circuits, servers and other information technology equipment of Seller and its Subsidiaries used exclusively in the conduct of the
+Business. For the avoidance of doubt, each enterprise resource planning system used in the conduct of the Business shall constitute an IT Asset.
+“knowledge of Buyer”, “Buyer’s knowledge” or any other similar knowledge qualification in this Agreement means to the actual knowledge, after
+reasonable investigation, of the Persons set forth in Schedule 1.01(g).
+ 
+8
+--- Page 14 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 14/118“knowledge of Seller”, “Seller’s knowledge” or any other similar knowledge qualification in this Agreement means to the actual knowledge, after
+reasonable investigation, of the Persons set forth in Schedule 1.01(h).
+“Law” means, with respect to any Person, any statute, law, bylaw, ordinance, rule, regulation, or Governmental Order, in each case, of any
+Governmental Authority that is binding upon or applicable to such Person.
+“Leases” means the leases, subleases, and other agreements (written or oral), including all amendments, extensions, renewals, guaranties, and
+other agreements with respect thereto, pursuant to which any Group Company, after giving effect to the Pre-Closing Business Transfers, uses or
+occupies the Leased Real Property.
+“Legacy Liens” means the Liens set forth in Schedule 1.01(i).
+“Liability” means any liability, cost, expense, debt, commitment or obligation of any kind, character or description, and whether known or
+unknown, choate or inchoate, liquidated or unliquidated, accrued, absolute, contingent or otherwise, and regardless of when asserted or by whom.
+“Lien” means, with respect to any property, equity interest or other asset, any mortgage, deed of trust, lien, adverse ownership interest,
+encumbrance, lease, sublease, occupancy agreement, pledge, security interest, right of way, covenant, condition, use restriction, easement,
+encroachment, option or conditional sale agreement, in each case, in respect of such property, equity interest or other asset.
+“Marketing Period” means the first period of fifteen (15) consecutive Business Days throughout and at the end of which (x) Buyer shall have all of
+the Required Information and (y) all Required Information shall be Compliant; provided, however, that, (1) the Marketing Period shall commence no
+earlier than February 24, 2020 and (2) the Marketing Period shall not be deemed to have commenced if prior to the completion of the Marketing Period,
+(a) Ernst & Young LLP shall have withdrawn its audit opinion with respect to any of the audited financial statements included in the Required
+Information, in which case the Marketing Period may not commence unless and until a new unqualified audit opinion is issued with respect to such
+audited consolidated financial statements included in the Required Information, by Ernst & Young LLP or another independent public accounting firm
+of recognized national standing reasonably approved by Buyer (such approval not to be unreasonably delayed or withheld) or (b) Seller’s or the
+Company’s board of directors (or audit committee thereof) shall have determined that a restatement of any financial statements included in the Required
+Information is required in accordance with GAAP, in which case such Marketing Period may not commence unless and until such restatement has been
+completed or Seller and the Group Companies have determined and confirmed in writing to Buyer that no such restatement is required in accordance
+with GAAP; provided, further, that in all circumstances the Marketing Period shall end on any earlier date that is the date on which the Financing is
+consummated and the proceeds thereof are received by Buyer. If Seller reasonably believes (in good faith) that it has provided all of the Required
+Information, it may deliver to Buyer a written notice to that effect (stating when it believes it completed such delivery), in which case Seller shall be
+deemed to have satisfied its requirements on the date specified in such notice and,
+ 
+9
+--- Page 15 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 15/118subject to the provisos in the preceding sentence, the “Marketing Period” shall be deemed to have commenced on the date specified in such notice,
+unless Buyer reasonably believes (in good faith) that Seller has not completed the delivery of the Required Information and within forty-eight (48) hours
+after the delivery of such notice by Seller, Buyer delivers a written notice to Seller to that effect (stating with specificity which Required Information
+Seller has not yet delivered to satisfy its obligations) (it being understood and agreed that, subject to the provisos in the preceding sentence, the
+Marketing Period shall commence on the first (1st) Business Day following the date on which Seller delivers, or causes to be delivered, the Required
+Information specifically identified by Buyer in such notice).
+“Material Adverse Effect” means a material adverse effect on the business, results of operations or financial condition of the Group Companies,
+taken as a whole, or the Business; provided, however, that in no event would any of the following, alone or in combination, be deemed to constitute, nor
+shall any of the following (including the effect of any of the following) be taken into account in determining whether there has been or will be, a
+“Material Adverse Effect”: (a) any change after the date hereof in applicable Law or GAAP or any interpretation thereof; (b) general economic, political
+or business conditions or changes therein (including commencement, continuation or escalation of war, armed hostilities or national or international
+calamity); (c) financial and capital markets conditions, including interest rates and currency exchange rates, or changes therein; (d) any change generally
+affecting the industries in which the Business or the Group Companies operate; (e) the entry into or announcement of this Agreement, the consummation
+of the transactions contemplated hereby or the performance of this Agreement or any other Transaction Document, including any adverse change in
+customer, supplier, governmental, landlord, employee or similar relationships resulting therefrom (provided, however, that this clause (e) shall not apply
+with respect to any representation or warranty in this Agreement, any other Transaction Document or any certificate to be delivered hereunder or
+thereunder or any related closing condition to the extent that such portion of such representation or warranty expressly addresses the consequences
+resulting from the execution, delivery, performance or announcement of this Agreement or any other Transaction Document); (f) the taking of any action
+(or the omission of any action) at the written request of Buyer; (g) any act of God or natural disaster; (h) any acts of terrorism or changes in geopolitical
+conditions; (i) any failure of the Business or the Group Companies to meet any projections, business plans or forecasts (provided that, this clause
+(i) shall not prevent a determination that any change or effect underlying such failure to meet projections, business plans or forecasts has resulted in a
+Material Adverse Effect (to the extent such change or effect is not otherwise excluded from this definition of Material Adverse Effect)); or (j) any
+Retained Liability; except, in the case of the foregoing clauses (a), (b), (c), (d), (g) and (h), to the extent that such matters materially and
+disproportionately impact the Group Companies (taken as a whole) or the Business relative to other Persons in the industries in which the Business or
+the Group Companies operate.
+“Net Working Capital” means, after giving effect to the Pre-Closing Business Transfers and as calculated in accordance with the Accounting
+Principles, and in a manner consistent with the Sample Closing Statement, the Group Companies’ current assets minus current liabilities; provided that
+all current and deferred Tax assets and Tax liabilities will be excluded. For the avoidance of doubt, any liability of the Group Companies included in the
+calculation of Indebtedness or Transaction Expenses, as well as any amounts with respect to Cash and Cash Equivalents, shall, in each case, not be
+included in the calculation of Net Working Capital for any purpose hereunder.
+ 
+10
+--- Page 16 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 16/118“Organizational Documents” means any charter, certificate of incorporation, certificate of formation, articles of incorporation, articles of
+association, memorandum of association, bylaws, operating agreement, partnership agreement or similar formation or governing documents and
+instruments.
+“Owned Business Intellectual Property Rights” means (a) the Intellectual Property Rights owned by the Group Companies and (b) any other
+Intellectual Property Rights owned by Seller or any of its Subsidiaries (other than the Group Companies) and used solely in the conduct of the Business.
+“Patents” means patents and patent applications (including any provisional applications, continuations, continuations-in-part, divisionals,
+re-examinations, reissues, revisions and extensions), utility models, industrial designs and other statutory invention registrations and applications for any
+of the foregoing.
+“Permitted Liens” means (a) Liens for Taxes, assessments or other governmental charges, in each case, not yet delinquent or the amount or
+validity of which is being contested in good faith by (if then appropriate) appropriate proceedings and for which adequate reserves have been provided
+on the Financial Statements in accordance with GAAP, (b) mechanics’, carriers’, workers’, repairers’ and similar Liens arising or incurred in the
+ordinary course of business that are not yet delinquent or the amount or validity of which is being contested in good faith by (if then appropriate)
+appropriate proceedings and for which adequate reserves have been provided on the Financial Statements in accordance with GAAP, (c) zoning,
+building, entitlement and other land use and environmental regulations promulgated by any Governmental Authority that are not violated by the current
+use of any Real Property, (d) covenants, conditions, restrictions, easements, rights of way, encumbrances, defects, imperfections, irregularities of title or
+other Liens, if any, that do not and would not reasonably be expected to materially impair the current use or occupancy of any Real Property subject
+thereto, (e) with respect to any Leased Real Property, (i) statutory or contractual Liens of lessors pursuant to Real Property Leases and/or applicable Law
+and (ii) liens granted by lessors solely on the fee interest of any Leased Real Property, (f) Liens created by Buyer or its successors and assigns, (g) Liens
+disclosed in the Financial Statements or listed in Schedule 1.01(j), (h) non-exclusive licenses to Intellectual Property Rights granted in the ordinary
+course of business, (i) the Legacy Liens and (j) Liens securing Indebtedness outstanding under the Credit Facility (to the extent such Liens relating to
+the Purchased Shares and the Group Companies’ assets are released as of the Closing or are required to be released upon consummation of the
+transactions contemplated hereby under the terms thereof).
+“Person” means any individual, firm, corporation, partnership, limited liability company, incorporated or unincorporated association, joint venture,
+joint stock company, governmental agency or instrumentality or other entity of any kind.
+“Post-Closing Tax Period” means any Tax period beginning after the Closing Date and, with respect to a Straddle Tax Period, the portion of such
+Tax period beginning after the Closing Date.
+ 
+11
+--- Page 17 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 17/118“Pre-Closing Tax” means any Tax for a Pre-Closing Tax Period.
+“Pre-Closing Tax Period” means any Tax period ending on or before the Closing Date and, with respect to a Straddle Tax Period, the portion of
+such Tax period ending on the Closing Date.
+“Privacy Policy” means any written policy adopted by the Seller and its Subsidiaries with respect to the Business, which relates to data privacy, or
+the use or disclosure of personal information.
+“Private Placement Notes” means the 5.375% senior notes due 2024, issued under that certain Indenture, dated as of June 14, 2019, among Seller
+and certain of its Subsidiaries, and U.S. Bank National Association, as trustee, as amended.
+“PSC Reorganization” means the Philip Services Corporation and its affiliate’s December 10, 2003 Order Confirming Second Amended and
+Restated Joint Plan of Reorganization under Chapter 11 of the United States Bankruptcy Code in United States Bankruptcy Court for the Southern
+District of Texas, Houston Division, Case No. 03-37718-H2-11.
+“R&W Insurance Policy” means the representation and warranty insurance policy to be issued to Buyer with respect to this Agreement in
+substantially the form delivered to Seller prior to the execution of this Agreement.
+“Real Property” means the Owned Real Property and the Leased Real Property.
+“Reconciliation Statements” means, with respect to any statement of income provided under this Agreement, such statement of income eliminating
+the financial information pertaining to the Retained Business (including the Retained ESOL Business) therefrom, in substantially the form attached
+hereto as Schedule 1.01(k).
+“Representative” means, with respect to any Person, such Person’s directors, officers, employees, counsel, accountants, consultants (including any
+investment banker or financial advisor), agents and other authorized representatives.
+“Reserved Amount” means the amount of legal reserves accrued in respect of each applicable individual site or facility of the Business.
+“Retained Businesses” means (a) the Retained ESOL Businesses and (b) all other businesses, products and/or services, other than the Business,
+now, previously or (subject to Section 5.16(c)) hereafter conducted and/or provided (as applicable) by Seller or any of its Affiliates, together with
+reasonable extensions or development of the businesses, products and/or services described in this sentence.
+“Retained Companies” means Seller and all of the direct and indirect Subsidiaries of Seller, other than the Group Companies.
+ 
+12
+--- Page 18 ---
+1/16/24, 8:27 AM EX-2.1
+https://www.sec.gov/Archives/edgar/data/45876/000119312520033273/d870021dex21.htm 18/118“Retained Employee” means an employee of Seller or its Subsidiaries set forth on Schedule 1.01(l) who satisfies the Service Condition and would
+otherwise constitute a Business Employee but for Buyer’s and Seller’s mutual agreement that such individual (a) will not be a Business Employee for
+purposes of this Agreement and (b) will remain an employee of the Retained Companies prior to the Closing.
+“Retained ESOL Businesses” means the Healthcare Business and the Consumer Takeback Business, in each case, including the products and
+services sold thereby.
+“Retained Marks” means the name “Stericycle” and all other Trademarks owned by Seller and its Subsidiaries (other than the Group Companies)
+as of the Closing Date after giving effect to the Pre-Closing Business Transfers and all related registrations and applications; provided, however, that
+Retained Marks shall not include Trademarks that constitute Business Intellectual Property Rights.
+“Sample Closing Statement” means the sample calculation of (a) Net Working Capital, (b) Indebtedness, (c) Cash and Cash Equivalents, and
+(d) Transaction Expenses of the Group Companies as of December 31, 2019, in each case prepared in accordance with the Accounting Principles, and
+attached hereto as Exhibit C.
+“SEC” means the United States Securities and Exchange Commission.
+“Securities Act” means the Securities Act of 1933, as amended, and the rules and regulations promulgated thereunder.
+“Seller Fundamental Representations” means the representations and warranties of Seller contained in Section 3.01 (Existence and Power),
+Section 3.02 (Authorization), Section 3.05 (Group Companies) (other than Section 3.05(e)) and Section 3.21 (Finders’ Fees).
+“Seller Group” means, with respect to Seller, the affiliated group of entities filing a consolidated federal income Tax Return of which Seller and
+the Group Companies are members (with Seller being the common parent of the Seller Group).
+“Shared Contract” means any Contract to which Seller or any of its Subsidiaries is a party with any non-Affiliated third party and which benefits
+both the Business and any Retained Business.
+“Specified Matter” means that certain investigation described on Schedule 1.01(m).
+“Straddle Tax Period” means a Tax period that begins on or

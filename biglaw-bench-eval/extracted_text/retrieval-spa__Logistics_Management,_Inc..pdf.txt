@@ -1,0 +1,478 @@
+--- Page 1 ---
+EX-2.2 3 dex22.htm STOCK PURCHASE AGREEMENT
+Exhibit 2.2
+STOCK PURCHASE AGREEMENT
+BY AND AMONG
+NEWGISTICS, INC.
+AND
+LOGISTICS MANAGEMENT , INC.,
+ELMWOOD TRANSPOR TATION SER VICES, INC.
+AND PRIME ADV ANT AGE CORPORA TION
+Dated as of Mar ch 9, 2007
+ 
+1
+--- Page 2 ---
+STOCK PURCHASE AGREEMENT
+This Stock Purchase Agreement (this “Agreement”) is made and entered into as of March 9, 2007, by and among Newgistics, Inc., a Delaware
+corporation (the “Purchaser), Logistics Management, Inc., a Massachusetts corporation (the “Company”), Elmwood Transportation Services, Inc., a
+Massachusetts corporation (“Elmwood”), and Prime Advantage Corporation, a Delaware corporation (the “Seller”).
+Recitals
+A. The Seller owns all of the issued and outstanding shares of the capital stock of the Company and of Elmwood (the “Shares”).
+B. The Seller desires to sell to the Purchaser all of the Shares, and the Purchaser desires to purchase all of the Shares from the Seller , upon the
+terms and subject to the conditions contained in this Agreement.
+Agreement
+In consideration of the premises and the respective mutual agreements, covenants, representations and warranties contained herein, the parties to
+this Agreement agree as follows:
+ARTICLE I
+DEFINITIONS
+1.1 Defined Terms.
+In addition to terms defined elsewhere in this Agreement, the following terms when utilized in this Agreement, unless the context otherwise
+requires, shall have the meanings indicated:
+“Affiliate” has the meaning set forth in Rule 12b-2 of the regulations promulgated under the Securities Exchange Act.
+“Affiliated Group” means any af filiated group within the meaning of Section 1504 of the Code.
+“Aggregate Deductible” is defined in Section 9.4(a) of this Agreement.
+“Aggregate Purchase Price” is defined in Section 2.1 of this Agreement.
+“Agreement” is defined in the preamble of this Agreement.
+“Audit” is defined in Section 8.4(f) of this Agreement.
+“Auditor” is defined in Section 3.4(b) of this Agreement.
+“Auditor Determination” is defined in Section 3.4(b) of this Agreement.
+ 
+2
+--- Page 3 ---
+“Authority” means any federal, state, local or foreign governmental regulatory agency , commission, bureau, authority , court or arbitration
+tribunal.
+“Benefit Plans” is defined in Section 5.18(a) of this Agreement.
+“Business Day” shall mean any day other than a Saturday , a Sunday or a day on which banks in New York, New York are authorized or obligated
+to close.
+“Cash” means the cash and cash equivalents of the Company and Elmwood (including marketable securities and short-term investments, but
+excluding amounts reserved in a freight payment cash account) calculated in accordance with GAAP  applied on a basis consistent with the preparation
+of the Financial Statements (which amount may be negative).
+“CERCLA” means the Comprehensive Environmental Response, Compensation and Liability Act of 1980, as amended.
+“Closing” is defined in Section 3.1 of this Agreement.
+“Closing Cash” is defined in Section 2.1 of this Agreement.
+“Closing Date” is defined in Section 3.1 of this Agreement.
+“Closing Indebtedness” is defined in Section 2.1 of this Agreement.
+“Closing Net Working Capital” means the Net Working Capital determined immediately prior to the Closing Time.
+“Closing Net Working Capital Target” means $335,000.
+“Closing Statement” is defined in Section 3.4(a) of this Agreement.
+“Closing Time” means 1 1:59 p.m., Eastern Standard Time, on the day immediately preceding the Closing Date.
+“COBRA” means the Consolidated Omnibus Budget Reconciliation Act of 1986, as amended, and the regulations promulgated thereunder .
+“Code” means the Internal Revenue Code of 1986, as amended, and the regulations promulgated thereunder .
+“Company” is defined in the preamble of this Agreement.
+“Company Common Stock” means, collectively , the common stock of the Company , no par value.
+“Confidentiality Agreement” is defined in Section 10.2 of this Agreement.
+“Current Assets” means (a) all current assets of the Company and Elmwood, other than (i) Cash, (ii) accrued Income Tax receivables and
+deferred tax assets, (iii) intercompany
+ 
+3
+--- Page 4 ---
+receivables between the Company and Elmwood, and (iv) freight payment receivables to the extent of fset by a corresponding freight payment payable,
+all determined in accordance with GAAP , except as set forth on Schedule 3.4, applied consistently with the principles applied in the preparation of the
+Most Recent Balance Sheet.
+“Current Liabilities” means all current liabilities of the Company and Elmwood, other than (i) accrued Income Tax payable and deferred tax
+liabilities, (ii) accrued interest expense, (iii) the current portion of Indebtedness, (iv) intercompany payables between the Company and Elmwood, and
+(v) freight payables to the extent of fset by freight payment receivables and amounts reserved in a freight payment cash account, all determined in
+accordance with GAAP , except as set forth on Schedule 3.4, applied consistently with the principles applied in the preparation of the Most Recent
+Balance Sheet.
+“Damages” means all damages, dues, penalties, fines, reasonable amounts paid in settlement, taxes, costs, obligations, losses, expenses, and fees
+(including court costs and reasonable attorneys’  fees and expenses), including, as the context may require, any of the foregoing that arise out of or in
+connection with any actions, suits, proceedings, hearings, investigations, char ges, complaints, claims, demands, injunctions, judgments, orders, decrees
+or rulings.
+“Elmwood” is defined in the preamble of this Agreement.
+“Elmwood Common Stock” means, collectively , the common stock of Elmwood, no par value.
+“Employee Pension Benefit Plan” has the meaning set forth in Section 3(2) of ERISA.
+“Employee Welfare Benefit Plan” has the meaning set forth in Section 3(1) of ERISA.
+“Environmental, Health and Safety Laws” means all existing and applicable Laws of federal, state and local Authorities concerning pollution or
+protection of the environment, public health and safety or employee health and safety , including Laws relating to emissions, dischar ges, releases or
+threatened releases of Materials of Environmental Concern into ambient air , surface water , ground water or lands or otherwise relating to the
+manufacture, processing. distribution, use, treatment, storage, disposal, transport or handling of Materials of Environmental Concern, as such
+requirements are enacted and in ef fect on the Closing Date.
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the regulations promulgated thereunder .
+“ERISA  Plan” is defined in Section 5.18(a) of this Agreement.
+“Estimated Purchase Price Calculation Statement” is defined in Section 2.3 of this Agreement.
+“Financial Statements” is defined in Section 5.9 of this Agreement.
+“Forward-Looking Statements” is defined in Section 8.5 of this Agreement.
+ 
+4
+--- Page 5 ---
+“GAAP” means generally accepted accounting principles as in ef fect in the United States of America from time to time.
+“Income Tax” means any federal, state, local or foreign Tax based on, measured by or with respect to income, net worth or capital, including any
+interest, penalty or addition thereto.
+“Indebtedness” as applied to any Person means (without duplication) all indebtedness of such Person for borrowed money , whether current or
+funded, or secured or unsecured, including (a) all obligations of such Person evidenced by bonds, debentures, notes or other similar instruments or debt
+securities, (b) all indebtedness of such Person created or arising under any conditional sale or other title retention agreement with respect to property
+acquired by such Person (even though the rights and remedies of the seller or lender under such agreement in the event of default are limited to
+repossession or sale of such property), (c) all indebtedness of such Person secured by a purchase money security interest or other Lien to secure all or
+part of the purchase price of the property subject to such Lien, (d) all obligations under leases that shall have been or must be, in accordance with
+GAAP , recorded as capital leases in respect of which such Person is liable as lessee, (e) any liability of such Person in respect of banker ’s acceptances
+or letters of credit, (f) all interest, fees, prepayment premiums and other expenses owed with respect to the indebtedness referred to above and (g) all
+indebtedness referred to above that is directly or indirectly guaranteed by such Person or that such Person has agreed (contingently or otherwise) to
+purchase or otherwise acquire or in respect of which it has otherwise assured a creditor against loss.
+“Indemnified Party” is defined in Section 9.3(a) of this Agreement.
+“Indemnifying Party” is defined in Section 9.3(a) of this Agreement.
+“Initial Purchase Price” is defined in Section 2.1 of this Agreement.
+“Insurance Policies” is defined in Section 5.13 of this Agreement.
+“Interim Financial Statements” is defined in Section 5.9 of this Agreement.
+“IRS” means the Internal Revenue Service.
+“Knowledge” of the Seller , the Company and Elmwood means the actual knowledge of Peter Jones, Michael Desmarais, Paul Forand, Timothy
+Walsh, Paul Fiocci, Anthony Charland and Terry Rice, and the knowledge such individuals reasonably should have obtained in the course of the
+performance of their respective duties for the Seller , the Company and Elmwood.
+“Law” means any law , statute, rule or regulation, and any judgment or order of any Authority .
+“Leased Property” is defined in Section 5.1 1 of this Agreement.
+“Lien” means any mortgage, lien, pledge, char ge, encumbrance or other security interest.
+“Listed Intellectual Property” is defined in Section 5.12 of this Agreement.
+ 
+5
+--- Page 6 ---
+“Material Adverse Change” or “Material Adverse Ef fect” means any change or ef fect that is materially adverse to the business, results of
+operations or financial condition of the Company and Elmwood, taken as a whole, or on the ability of the Company , Elmwood, or the Seller to
+consummate timely the transactions contemplated hereby; provided, however , that none of the following shall be deemed to constitute a Material
+Adverse Ef fect or Material Adverse Change: (a) any adverse change, event, development, or ef fect that impacts generally the industry in which the
+Company and/or Elmwood operates or that arises from or relates to (i) general business or economic conditions, (ii) national or international political
+or social conditions, including the engagement by the United States in hostilities, whether or not pursuant to the declaration of a national emer gency or
+war, or the occurrence of any military or terrorist attack upon the United States, or any of its territories, possessions, or diplomatic or consular of fices
+or upon any military installation, equipment or personnel of the United States, (iii) financial, banking, or securities markets (including any disruption
+thereof and any decline in the price of any security or any market index), (iv) changes in GAAP , (v) changes in Laws, or (vi) any adverse change in or
+effect on the business of the Company and Elmwood that is timely cured by the Company , Elmwood, or the Seller .
+“Material Contract” means any written contract or agreement (including any and all amendments thereto) to which the Company or Elmwood is
+a party and which (a) relates to Indebtedness or is a letter of credit, pledge, bond or similar arrangement that is for the account of or for the benefit of
+the Company or Elmwood, (b) relates to the purchase, maintenance or acquisition, or sale or furnishing of materials, supplies, merchandise, machinery ,
+equipment, parts or any other property or services (excluding any such contract made in the Ordinary Course of Business and which is expected to be
+fully performed within one year of the date thereof or that involves revenues or expenditures of less than $25,000), (c) obligates the Company or
+Elmwood not to compete with any business, or to conduct any business with only certain parties, or that otherwise restrains or prevents the Company or
+Elmwood from carrying on any lawful business or that restricts the right of the Company or Elmwood to use or disclose any information in its
+possession (excluding in each case customary restrictive covenants contained in agreements entered into in the Ordinary Course of Business and
+confidentiality agreements entered into between the Company and prospective purchasers of the Company), (d) employment, compensation, severance,
+or consulting agreements between the Company or Elmwood and any of its of ficers or directors, or other employees or consultants of the Company or
+Elmwood who are entitled to compensation thereunder in excess of $100,000 per year or involve severance payments, (e) is a lease or sublease of real
+property , (t) is a lease, sublease or other title retention agreement or conditional sales agreement involving annual payments in excess of $25,000 for
+any machinery , equipment, vehicle or other tangible personal property (whether the Company or Elmwood is a lessor or lessee), (g) is a contract for
+capital expenditures or the acquisition or construction of fixed assets for or in respect of any real property involving payments in excess of $25,000,
+(h) is a contract granting any Person a Lien on any of the assets of the Company or Elmwood, in whole or in part (other than Permitted Liens), (i) is a
+contract by which the Company or Elmwood retains any manufacturer ’s representative, broker or other sales agent, distributor or representative, or
+advertising or marketing entity or through which the Company or Elmwood is appointed or authorized as sales agent, distributor or representative, (j) is
+a contract under which the Company or Elmwood has granted or received a license or sublicense or under which the Company or Elmwood is obligated
+to pay or has the right to receive a royalty , license fee or similar payment (excluding of f-the-shelf or “shrink wrap” software license agreements),
+ 
+6
+--- Page 7 ---
+(k) is a joint venture or partnership contract or a limited liability company operating agreement, (1) is an agreement or arrangement with the Seller or
+any Affiliate of the Seller , or (m) is a non-compete agreement prohibiting or impairing the Company’ s or Elmwood’ s ability to conduct its respective
+business.
+“Materials of Environmental Concern” means any hazardous waste, as defined by 42 U.S.C. Section 6903(5), any hazardous substance as defined
+by 42 U.S.C. Section 9601(14), any pollutant or contaminant as defined by 42 U.S.C. Section 9601(33) and any toxic substance, oil or hazardous
+material or other chemical or substance regulated by any Environmental, Health and Safety Laws.
+“Most Recent Balance Sheet” is defined in Section 5.9 of this Agreement.
+“Multiemployer Plan” has the meaning set forth in ERISA  Section 3(37).
+“Multiple Employer Plan” is defined in Section 5.18(b) of this Agreement.
+“Net Working Capital” means Current Assets minus Current Liabilities.
+“Net Working Capital Adjustment” means (a) if the amount of Closing Net Working Capital is less than the Closing Net Working Capital Target,
+a dollar for dollar decrease to the Purchase Price by the amount of the deficiency in Closing Net Working Capital (for example, if the Closing Net
+Working Capital is $300,000, the Purchase Price would be decreased by $35,000), and (b) if the amount of the Closing Net Working Capital is greater
+than the Closing Net Working Capital Target, a dollar for dollar increase to the Purchase Price by the amount of the excess of Closing Net Working
+Capital (for example, if the Closing Net Working Capital is $400,000, the Purchase Price would be increased by $65,000).
+“Non-ERISA  Plan” is defined in Section 5.18(a) of this Agreement.
+“Objections Statement” is defined in Section 3.4(b) of this Agreement.
+“Ordinary Course of Business” means the ordinary course of business consistent with the past custom and practice of the Company and/or
+Elmwood in the operation of its business.
+“Organizational Documents” means (a) the articles or certificate of incorporation and the bylaws of a corporation, (b) the certificate of formation
+or articles of or ganization and the operating agreement of a limited liability company , (c) the partnership agreement and any statement of partnership of
+a general partnership, (d) the limited partnership agreement and the certificate of limited partnership of a limited partnership, (e) any charter or similar
+document adopted or filed in connection with the creation, formation, or or ganization of a Person and (f) any amendment to or restatement of any of the
+foregoing.
+“PBGC” means the Pension Benefit Guaranty Corporation or any entity succeeding to any or all of its functions under ERISA.
+ 
+7
+--- Page 8 ---
+“Permits” means all material licenses, permits, orders, approvals, registrations, authorizations, and qualification filings with all Authorities
+required under Laws in connection with the operation of the business of the Company and Elmwood.
+“Permitted Liens” means (i) Liens set forth on Schedules 5.10 or 5.1 1 or noted in the Financial Statements, (ii) Liens for Taxes, assessments and
+other governmental char ges that are not yet due and payable or that may thereafter be paid without penalty , (iii) Liens arising under original purchase
+price conditional sales contracts and equipment leases with third parties, (iv) easements, covenants, conditions and restrictions of record, (v) easements,
+covenants, conditions and restrictions not of record as to which no material violation or encroachment exists or , if such violation or encroachment
+exists, as to which the cure of such violation or encroachment would not materially interfere with the conduct of the business of the Company or
+Elmwood, (vi) any zoning or other governmentally established restrictions or encumbrances, (vii) pledges or deposits to secure obligations under
+workers or unemployment compensation Laws or similar legislation or to secure public or statutory obligations, (viii) mechanic’ s, materialman’ s,
+supplier ’s, vendor ’s or similar Liens arising or incurred in the Ordinary Course of Business securing amounts that are not overdue for a period of more
+than 60 days, (ix) railroad trackage agreements, utility , slope and drainage easements, right-of-way easements and leases regarding signs and (x) other
+imperfections of title, licenses or encumbrances, if any , that do not materially impair the continued use and operation of the assets to which they relate
+in the conduct of the business of the Company and Elmwood as presently conducted.
+“Person” means any natural person, corporation, limited liability company , unincorporated or ganization, partnership, association, joint-stock
+company , joint venture, trust or government, or any agency or political subdivision of any government.
+“Pre-Closing Tax Period” means (i) any Taxable Period ending on or before the Closing Date and (ii) with respect to the period to and including
+the Closing Date for a Taxable Period beginning before and ending after the Closing Date.
+“Photocircuits Bankruptcy Complaint” means that certain Complaint filed by Richard L. Stern, Esq., as Liquidating Trustee of PC Liquidation
+Corp., f/k/a Photocircuits Corporation, as plaintif f against the Company , as defendant in the United States Bankruptcy Court Eastern District of New
+York at Central ISLIP . Case No. 05-89022-288, Chapter 1 1, Adversary Proceeding No. 07-08083-SB.
+“Purchaser” is defined in the preamble of this Agreement.
+“Purchaser Group” is defined in Section 9.4(e) of this Agreement.
+“Purchaser Indemnitee(s)” means the Purchaser and, following the Closing, the Company , Elmwood, and their respective directors, of ficers,
+partners, employees, Affiliates, controlling persons, agents and representatives, and successors and assigns, as the case may be.
+“Purchaser ’s Proposed Calculations” is defined in Section 3.4(a) of this Agreement.
+“Realty Lease” is defined in Section 5.1 1(a) of this Agreement.
+ 
+8
+--- Page 9 ---
+“Required Consents” means those third party consents and other items listed on Schedule 7.1(f) that are necessary in connection with the
+execution and delivery of this Agreement by the Seller , the Company and Elmwood.
+“Return” means any return, declaration (including any declaration of estimated Taxes), report, claim for refund, or information return or
+statement relating to Taxes with respect to any income, assets or properties of the Company or Elmwood, including any schedule or attachment thereto.
+“Securities Act” means the Securities Act of 1933, as amended.
+“Securities Exchange Act” means the Securities Exchange Act of 1934, as amended.
+“Seller” is defined in the preamble of this Agreement.
+“Seller Indemnitee(s)” means the Seller and its directors, shareholders, of ficers, employees, partners, Affiliates (other than the Company and
+Elmwood after Closing), controlling persons, agents, representatives, and successors and assigns, as the case may be.
+“Shares” is defined in the recitals to this Agreement.
+“Subsidiary” means, with respect to any Person, each other Person (other than a natural person) of which the Person owns, beneficially and of
+record, securities or interests representing 50% or more of the aggregate ordinary voting power (without regard to the occurrence of any contingencies
+affecting voting power).
+“Supplier Agreement” is defined in Section 8.9 of this Agreement.
+“Survival Date” means the date on which the representations, warranties, covenants and agreements of the parties set forth in this Agreement
+expire as specified in Section 9.1 of this Agreement.
+“Tax Authority” means any federal, state, local, or foreign tax service, agency , office, commission, department, bureau or similar or ganization,
+including any court, tribunal, or similar judicial agency , with regulatory authority to assess, assert or otherwise impose Tax adjustments or collect
+unpaid Taxes of any Person.
+“Taxable Period” means any taxable year or any other period that is treated as a taxable year (or other period, or portion thereof, in the case of a
+tax imposed with respect to such other period, e.g., a quarter) with respect to which any Tax may be imposed under any applicable Law .
+“Taxes” means all federal, state, local and foreign taxes (including income or profits taxes, premium taxes, excise taxes, sales taxes, use taxes,
+gross receipts taxes, franchise taxes, ad valorem taxes, severance taxes, capital levy taxes, transfer taxes, value added taxes, employment and payroll-
+related taxes, property taxes, business license taxes, occupation taxes, import duties and other governmental char ges and assessments), of any kind
+whatsoever , including interest, additions to tax and penalties with respect thereto. For the avoidance of doubt, the foregoing shall include all Income
+Taxes and all Taxes other than Income Taxes.
+ 
+9
+--- Page 10 ---
+‘Third Party Claim” is defined in Section 9.3(a) of this Agreement.
+1.2 Interpretation. As used in this Agreement, the word “including” means without limitation, the word “or” is not exclusive and the words
+“herein,” “hereof,” “hereby ,” “hereto” and “hereunder” refer to this Agreement as a whole, Each defined term used in this Agreement shall have a
+comparable meaning when used in its plural or singular form. Unless the context otherwise requires, references herein: (a) to Articles, Sections,
+Exhibits and Schedules mean the Articles and Sections of and the Exhibits and Schedules attached to this Agreement, (b) to an agreement, instrument
+or document means such agreement, instrument or document as amended, supplemented and modified from time to time to the extent permitted by the
+provisions thereof and not prohibited by this Agreement and (c) to a statute means such statute as amended from time to time and includes any
+successor legislation thereto. The headings and captions used in this Agreement, in any Schedule or Exhibit, in the table of contents or in any index
+hereto are for convenience of reference only and do not constitute a part of this Agreement and shall not be deemed to limit, characterize or in any way
+affect any provision of this Agreement or any Schedule or Exhibit, and all provisions of this Agreement and the Schedules and Exhibits shall be
+enforced and construed as if no caption or heading had been used herein or therein. Any capitalized terms used in any Schedule or Exhibit and not
+otherwise defined therein shall have the meanings set forth in this Agreement (or , in the absence of any ascribed meaning, the meaning customarily
+ascribed to any such term in the Company’ s industry or in general commercial usage). The Schedules and Exhibits referred to herein shall be construed
+with and as an integral part of this Agreement to the same extent as if they were set forth verbatim herein. The parties have participated jointly in the
+negotiation and drafting of this Agreement. In the event an ambiguity or question of intent or interpretation arises, this Agreement shall be construed as
+if drafted jointly by the parties, and no presumption or burden of proof shall arise favoring or disfavoring any party by virtue of the authorship of any of
+the provisions of this Agreement. All references to dollars (or the symbol “$”) contained herein shall be deemed to refer to United States dollars.
+ARTICLE II
+PURCHASE PRICE; PURCHASE AND SALE OF SECURITIES; ESCROW
+2.1 Aggregate Purchase Price. For purposes of this Agreement, the term “Aggregate Purchase Price” means an amount equal to the sum of
+(a) $17,550,000 (the “Initial Purchase Price”), plus (b) the aggregate Cash balances of the Company and Elmwood immediately prior to the Closing
+Time (the “Closing Cash”), plus (c) $1,950,000 (the “Escrow Amount”) to be paid to Wells Far go Bank, N.A. to be held in escrow pursuant to the
+terms of the Escrow Agreement attached hereto as Exhibit A (the ‘Escrow Agreement”), minus (d) the aggregate amount of all Indebtedness of the
+Company and Elmwood that is funded and outstanding immediately prior to the Closing Time (the “Closing Indebtedness”), plus or minus (e) the
+amount of the Net Working Capital Adjustment.
+2.2 Purchase and Sale of Shares. On the terms and subject to the conditions set forth in this Agreement, at the Closing, the Seller agrees to sell to
+the Purchaser , free and clear of Liens, claims, demands and restrictions on transfer (other than any restrictions under the
+ 
+10
+--- Page 11 ---
+Securities Act and applicable state securities Laws), and the Purchaser agrees to purchase from the Seller , all of the Shares for the Aggregate Purchase
+Price.
+2.3 Estimated Purchase Price Calculation Statement. At the Closing, the Company shall deliver to the Purchaser a written statement (the
+“Estimated Purchase Price Calculation Statement”) setting forth (A) the Company’ s good faith estimate of the amount of the Closing Cash, (B) the
+Company’ s good faith estimate of the amount of the Closing Indebtedness, (C) the Company’ s good faith estimate of the Closing Net Working Capital
+and the Net Working Capital Adjustment calculated by reference thereto and (D) the calculation of the Aggregate Purchase Price based upon the Initial
+Purchase Price and such estimates.
+ARTICLE III
+CLOSING; POST -CLOSING PURCHASE PRICE TRUE-UP
+3.1 Closing. Subject to the fulfillment or waiver of the conditions precedent set forth in Article VII, the closing of the transactions contemplated
+by this Agreement (the “Closing”) shall take place at the of fices of BB&T  Capital Markets in Boston, Massachusetts, at 9:00 a.m. (local time) on the
+date hereof (the “Closing Date”). Except as otherwise provided in this Agreement, all proceedings to be taken and all documents to be executed at the
+Closing shall be deemed to have been taken, delivered and executed simultaneously , and no proceeding shall be deemed taken nor documents deemed
+executed or delivered until all have been taken, delivered and executed.
+3.2 Payment of Closing Indebtedness. At the Closing, the Purchaser shall pay and dischar ge (or cause to be paid and dischar ged), on behalf of the
+Company and Elmwood, all Closing Indebtedness evidenced on the Estimated Purchase Price Calculation Statement, by wire transfer of immediately
+available funds pursuant to written instructions provided to the Purchaser by the Seller concurrently with the delivery of the Estimated Purchase Price
+Calculation Statement.
+3.3 Closing Transactions.
+(a) Delivery of Stock Certificates. At the Closing, the Seller shall cause to be delivered to the Purchaser , free and clear of any Lien and restriction
+on transfer (other than any restrictions under the Securities Act and applicable state securities Laws), all certificates representing the Shares, each duly
+endorsed in blank or with duly executed stock powers attached.
+(b) Payment. At the Closing, the Purchaser shall pay or cause to be paid to the Seller an amount equal to the estimated amount of the Aggregate
+Purchase Price as set forth on the Estimated Purchase Price Calculation Statement by wire transfer of immediately available funds pursuant to
+instructions delivered to the Purchaser by the Seller at least two Business Days prior to the Closing Date.
+(c) Other Closing Deliveries. The Seller will deliver to the Purchaser the other certificates and documents referred to in Section 7.1, and the
+Purchaser will deliver to the Seller the other certificates and documents referred to in Section 7.2.
+ 
+11
+--- Page 12 ---
+3.4 Post-Closing Purchase Price True-Up.
+(a) As promptly as possible, but in any event within 60 days after the Closing Date, Purchaser will deliver to Seller , a written statement (the
+“Closing Statement”) setting forth the Purchaser ’s calculations (the “Purchaser ’s Proposed Calculations”) of (i) the amount of the Closing Cash, (ii) the
+amount of the Closing Indebtedness and (iii) the amount of the Closing Net Working Capital and the Net Working Capital Adjustment calculated by
+reference thereto, which calculations shall be made in accordance with GAAP , except as set forth on Schedule 3.4, applied on a basis consistent with
+the Most Recent Balance Sheet. The Closing Statement shall contain a recalculation, if any , of the Aggregate Purchase Price based on the foregoing
+amounts.
+(b) After delivery of the Closing Statement, the Seller and its accountants shall be permitted reasonable access to review the Company’ s and
+Elmwood’ s books and records and work papers related to the preparation of the Closing Statement. The Seller and its accountants may make inquiries
+of Purchaser , the Company , Elmwood and their respective accountants and employees regarding questions concerning or disagreements with the
+Closing Statement arising in the course of their review thereof, and Purchaser shall use its, and shall cause the Company and Elmwood to use their ,
+reasonable best ef forts to cause any such accountants and employees to cooperate with and respond to such inquiries. If the Seller has any objections to
+the Closing Statement, the Seller shall deliver to Purchaser a statement setting forth a description in reasonable detail of its objections thereto (an
+“Objections Statement”). If an Objections Statement is not delivered to Purchaser within 60 days after the delivery of the Closing Statement, the
+Closing Statement shall be final, binding and non-appealable by the parties hereto. The Seller and Purchaser shall negotiate in good faith to resolve any
+objections set forth in the Objections Statement (and all such discussions related thereto shall, unless otherwise agreed by Purchaser and the Seller , be
+governed by Rule 408 of the Federal Rules of Evidence (and any applicable similar state rule)), but if they do not reach a final resolution within 15
+days after the delivery of the Objections Statement, the Seller and Purchaser shall submit such dispute to Ernst & Young LLP  (or if Ernst & Young LLP
+refuses to accept the engagement, then such other party as Purchaser and the Seller shall use reasonable ef forts to mutually agree upon) (the “Auditor”)
+who shall resolve all such disagreements in accordance with this Agreement and to the extent not inconsistent with this Agreement in accordance with
+GAAP , except as set forth on Schedule 3.4. applied on a basis consistent with the Company’ s accounting practices and procedures, subject to any
+adjustments or deviations set forth on the Disclosure Schedules attached hereto. Purchaser and Seller shall immediately enter into a customary
+engagement letter with the Auditor at the time the issues in dispute are submitted to the Auditor . The Seller and Purchaser shall use their commercially
+reasonable ef forts to cause the Auditor to resolve all such disagreements as soon as practicable. The Auditor shall address only those issues in dispute,
+and may not assign a value to any item greater than the greatest value for such item claimed by a party or lower than the lowest value claimed by a
+party . Neither the Seller nor Purchaser shall have any ex parte conversations or meetings with the Auditor with respect to any issues for which the
+Auditor is engaged pursuant to this Agreement, without the prior consent of the other parties. The resolution of the dispute by the Auditor shall be final,
+binding and non-appealable on the parties hereto (the “Auditor Determination”). The fees and expenses of the Auditor shall be allocated to be paid by
+Purchaser , on the one hand, and/or the Seller , on the other hand, based upon the percentage which the portion of the contested amount not awarded to
+each party bears to the amount actually contested by such party , as determined by the Auditor .
+ 
+12
+--- Page 13 ---
+(c) Upon the determination, in accordance with Section 3.4(b), of the Closing Statement and the final calculations of the amounts of the Closing
+Cash, the Closing Indebtedness, the Closing Net Working Capital and the Net Working Capital Adjustment calculated by reference thereto, the
+Aggregate Purchase Price shall be recalculated using such finally determined amounts in lieu of the estimates of such amounts used in the calculation
+of the estimated Aggregate Purchase Price payable at Closing as follows:
+(i) If the Aggregate Purchase Price as calculated pursuant to this Section 3.4(c) is greater than such estimated Aggregate Purchase Price, then the
+Purchaser shall pay to, or cause to be paid to, the Seller an amount equal to any such excess; and
+(ii) If the Aggregate Purchase Price as calculated pursuant to this Section 3.4(c) is less than such estimated Aggregate Purchase Price then the
+Seller shall pay to or as directed by the Purchaser an amount equal to any such deficiency .
+Any payments made by the Purchaser to the Seller or by the Seller to the Purchaser pursuant to this Section 3.4(c) shall be made by wire transfer
+of immediately available funds no later than three Business Days after the final determination referred to in the first sentence of this Section 3.4(c) and
+shall be deemed to be adjustments to the Aggregate Purchase Price for all Tax purposes.
+ARTICLE IV
+REPRESENT ATIONS AND WARRANTIES OF THE PURCHASER
+To induce the Company , Seller and Elmwood to enter into this Agreement and to consummate the transactions contemplated hereby , the
+Purchaser hereby represents and warrants to the Company , Elmwood and the Seller as follows:
+4.1 Or ganization and Standing. The Purchaser is a corporation duly or ganized. validly existing and in good standing under the Laws of Delaware.
+Copies of the Or ganizational Documents of the Purchaser and all amendments thereto as in ef fect on the date hereof have been delivered to the Seller
+and are complete and correct as of the date of this Agreement. The Purchaser is not in default under or in violation of its Or ganizational Documents.
+4.2 Authority , Authorization: Enforceability . The Purchaser has the requisite corporate power and authority to execute and deliver this
+Agreement, to perform its obligations hereunder , and to consummate the transactions contemplated by this Agreement. The execution, delivery and
+performance by the Purchaser of this Agreement and the consummation of the transactions contemplated hereby have been duly and validly authorized
+by all necessary corporate action on the part of the Purchaser . This Agreement is a valid and binding obligation of the Purchaser enforceable against it
+in accordance with its terms, except as enforceability may be limited by bankruptcy , insolvency , moratorium, fraudulent conveyance and other similar
+Laws af fecting creditors’  rights generally and by general principles of equity .
+4.3 Noncontravention. Neither the execution, delivery or performance by the Purchaser of this Agreement nor the consummation by the
+Purchaser of the transactions contemplated hereby , nor compliance by the Purchaser with any of the provisions hereof will (a)
+ 
+13
+--- Page 14 ---
+violate, or result in the violation of, the Or ganizational Documents or any resolutions adopted by the stockholders, board of directors or other
+governing body of the Purchaser , (b) violate any Law , writ, injunction or decree of any Authority , in each case applicable to the Purchaser or its assets
+or properties or (c) with or without the passage of time or the giving of notice or both, result in the breach of, or constitute a default or require any
+consent under , or result in the creation of any Lien upon any property or assets of the Purchaser pursuant to, any material instrument or agreement to
+which the Purchaser is a party or by which the Purchaser or its properties may be bound or af fected, except (in the case of clauses (b) and (c)) where
+the violation, conflict, breach or default would not reasonably be expected to have a material adverse ef fect on the ability of the Purchaser to
+consummate the transactions contemplated by this Agreement.
+4.4 Governmental Approvals. Except as set forth on Schedule 4.4, no filing with, and no permit, authorization, consent or approval of any
+Authority is necessary for the consummation by the Purchaser of the transactions contemplated hereby .
+4.5 Brokers. The Purchaser has not retained, utilized or been represented by any broker or finder in connection with the transactions
+contemplated by this Agreement.
+4.6 Securities Act. The Purchaser is acquiring the Shares hereunder solely for the purpose of investment and not with a view to, or in connection
+with, any distribution thereof in violation of the Securities Act or any state securities laws. The Purchaser acknowledges that the Shares are not
+registered under the Securities Act or any applicable state securities Law , and that the Shares may not be sold except pursuant to the registration
+provisions of the Securities Act or pursuant to an applicable exemption therefrom and pursuant to state securities Laws and regulations as applicable.
+4.7 Availability of Funds. The Purchaser has suf ficient cash available to enable it to pay the full Aggregate Purchase Price payable at the Closing
+hereunder and to make all other payments required of the Purchaser in connection with the transactions contemplated hereby .
+ARTICLE V
+REPRESENT ATIONS AND WARRANTIES OF THE COMP ANY  AND ELMWOOD
+To induce the Purchaser to enter into this Agreement, and to consummate the transactions contemplated hereby , the Company and Elmwood
+hereby represent and warrant to the Purchaser as follows:
+5.1 Or ganization and Standing. Each of the Company and Elmwood is a corporation duly or ganized and validly existing under the Laws of
+Massachusetts.
+5.2 Authority to Conduct Business. Each of the Company and Elmwood has the requisite corporate power and authority to own, lease and operate
+its properties and to conduct its business in the manner where now conducted and each of the Company and Elmwood is duly licensed or qualified to
+do business as a foreign corporation in each jurisdiction in which the nature of its properties and assets or the conduct of its business requires it to be so
+licensed or qualified, except where the failure to be duly licensed or qualified to do business would not
+ 
+14
+--- Page 15 ---
+reasonably be expected to have a Material Adverse Ef fect. Schedule 5.2 sets forth a list of each jurisdiction in which the Company and Elmwood are
+licensed or qualified to do business as a foreign corporation.
+5.3 Or ganizational Documents. Copies of the Or ganizational Documents of the Company and Elmwood and all amendments thereto as in ef fect
+on the date hereof have been delivered to the Purchaser and are complete and correct as of the date hereof. Neither the Company nor Elmwood is in
+default under or in violation of its Or ganizational Documents.
+5.4 Authority; Authorization; Enforceability . Each of the Company and Elmwood has the requisite corporate power and authority to execute and
+deliver this Agreement, to perform its obligations hereunder , and to consummate the transactions contemplated by this Agreement. The execution,
+delivery and performance by the Company and Elmwood of this Agreement and the consummation of the transactions contemplated hereby have been
+duly and validly authorized by all necessary corporate action on the part of the Company and Elmwood. This Agreement is a valid and binding
+obligation of the Company and Elmwood, enforceable against each of them in accordance with the terms hereof, except as enforceability may be
+limited by bankruptcy , insolvency , moratorium, fraudulent conveyance and other similar Laws af fecting creditors’  rights generally and by general
+principles of equity .
+5.5 Noncontravention. Except (a) for notices, consents or approvals required under agreements or commitments evidencing, or entered into by
+the Company or Elmwood in connection with Indebtedness of the Company or Elmwood to be paid and dischar ged at Closing pursuant to Section 3.2
+and (b) as set forth on Schedule 5.5, none of the execution, delivery or performance by the Company and Elmwood of this Agreement, nor the
+consummation by the Company and Elmwood of the transactions contemplated hereby , nor compliance by the Company and Elmwood with any of the
+provisions hereof will (i) violate, or result in the violation of, their Or ganizational Documents or any resolutions adopted by the stockholders, board of
+directors or other governing body of the Company or Elmwood, (ii) violate any Law , writ, injunction or decree of any Authority , in each case
+applicable to the Company , Elmwood, or their respective assets or properties or (iii) with or without the passage of time or the giving of notice or both,
+result in the breach of, or constitute a default or require any consent under , or result in the creation of any Lien upon any property or assets of the
+Company or Elmwood pursuant to, any instrument or agreement to which the Company or Elmwood is a party or by which the Company , Elmwood, or
+their respective properties may be bound or af fected.
+5.6 Governmental Approvals. Except as set forth on Schedule 5.6, no filing with, and no permit, authorization, consent or approval of any
+Authority is necessary for the consummation by the Company and Elmwood of the transactions contemplated hereby .
+5.7 Investments in Other Persons. Neither the Company nor Elmwood has any Subsidiaries and neither such party has any direct or indirect
+equity interest by stock ownership or otherwise in any other Person.
+5.8 Capitalization of Company .
+ 
+15
+--- Page 16 ---
+(a) The Company’ s authorized capital stock consists of 15,000 shares of Common Stock, of which 100 shares are issued and outstanding. All of
+the issued and outstanding shares of the Company Common Stock (x) are duly authorized, validly issued, fully paid and nonassessable, (y) are held
+beneficially or of record by the Seller and (z) were not (or will not be) issued in violation of the preemptive rights of any Person or any agreement or
+Law by which the Company at the time of issuance was bound.
+(b) Elmwood’ s authorized capital stock consists of 200,000 shares of Common Stock, of which 100 shares are issued and outstanding. All of the
+issued and outstanding shares of Elmwood (x) are duly authorized, validly issued, fully paid and nonassessable, (y) are held beneficially or of record by
+Seller and (z) were not issued in violation of the preemptive rights of any Person or any agreement or Law by which Elmwood at the time of issuance
+was bound.
+(c) There are no outstanding subscriptions, warrants, options or other agreements or rights of any kind to purchase or otherwise receive or be
+issued, or securities or obligations of any kind convertible into, any shares of capital stock or any other security of the Company or Elmwood. There is
+no outstanding contract or other agreement of the Seller , the Company or Elmwood or any other Person to purchase, redeem or otherwise acquire any
+outstanding shares of the capital stock of the Company or Elmwood, or securities or obligations of any kind convertible into any shares of the capital
+stock of the Company or Elmwood. There are no outstanding or authorized stock appreciation, phantom stock, stock plans or similar rights with respect
+to the Company or Elmwood.
+5.9 Financial Statements. The Company and Elmwood have delivered the following financial statements (the “Financial Statements”) to the
+Purchaser , which are attached to Schedule 5.9: (i) the unaudited combined balance sheets of the Company and Elmwood as of December 31, 2005 and
+December 31, 2004, and the related unaudited combined statements of operations of the Company and Elmwood for each of the years then ended, and
+(ii) the unaudited combined balance sheet of the Company and Elmwood as of December 31, 2006 (the “Most Recent Balance Sheet”), and the related
+unaudited combined statement of operations of the Company and Elmwood for the twelve months then ended (the “Interim Financial Statements”).
+Solely as to the balance sheets and statements of operations of the Company and Elmwood set forth in the Financial Statements and the Interim
+financial Statements, except as disclosed on Schedule 5.9, each of the Financial Statements has been prepared in accordance with GAAP  applied on a
+basis consistent with prior periods (except as may be indicated in any notes thereto); each of such balance sheets fairly presents in all material respects
+the financial condition of the Company and Elmwood as of its respective date; and each of such statements of operations, insofar as they relate to the
+Company and Elmwood, fairly presents in all material respects the results of operations of the Company and Elmwood for the period covered thereby;
+provided, however , that the Interim Financial Statements are subject to normal year -end adjustments and lack footnotes and other presentation items.
+5.10 Tangible Personal Property . Except as set forth on Schedule 5.10, the Company and Elmwood each has (i) good title to all of the material
+tangible personal property and assets that are used in the operation of its business that it owns or purports to own, and (ii) valid leasehold interests in all
+leases of material tangible personal property that it leases or purports to lease, in each case free and clear of any Liens, other than Permitted Liens. The
+Company and
+ 
+16
+--- Page 17 ---
+Elmwood enjoy peaceful and undisturbed possession under all of such leases of personal property under which they are operating. Except as set forth
+on Schedule 5.10, there are no existing defaults, or events that with the passage of time or the giving of notice, or both, would constitute defaults by the
+Company or Elmwood thereunder or , to the Knowledge of the Company and Elmwood, by any other party to any such lease, except for (i) such
+defaults and events as to which requisite waivers or consents have been obtained, and (ii) defaults that, in the aggregate, would not reasonably be
+expected to have a Material Adverse Ef fect.
+5.11 Real Property . All real property and interests in real property that are leased or subleased to the Company or Elmwood are referred to herein
+as “Leased Property”. Neither the Company nor Elmwood owns any real property . Schedule 5.1 1 sets forth a list of all Leased Property , with the nature
+of the interest of the Company or Elmwood indicated therein. Except as otherwise set forth on Schedule 5.1 1 or any other Schedule in this Agreement,
+with respect to the Leased Property:
+(a) each lease or sublease of Leased Property and any assignment thereof pursuant to which the Company or Elmwood leases any Leased
+Property (each, a “Realty Lease”) is a legal, valid, and binding obligation of the Company or Elmwood, enforceable against the Company or Elmwood,
+as applicable, (except as enforceability may be limited by bankruptcy , insolvency , moratorium, fraudulent conveyance and other similar Laws af fecting
+creditors’  rights generally and by general principles of equity); and
+(b) to the Knowledge of the Company and Elmwood, neither the Company , Elmwood, nor any other party to any such Realty Lease, is in
+material breach or material default under such Realty Lease, except for (A) such defaults and events as to which requisite waivers or consents have
+been obtained, and (B) breaches or defaults that, in the aggregate, would not reasonably be expected to have a Material Adverse Ef fect.
+5.12 Intellectual Property . Schedule 5.12 contains a complete and correct list of (i) all patents, trademarks, trade names and registered copyrights
+owned by the Company and Elmwood that are material to their respective businesses, and (ii) all patents, trademarks, trade names, copyrights, and
+computer software (other than non-negotiated licenses of commercially available software and licenses with respect to software embedded in purchased
+equipment) used by the Company or Elmwood in their respective businesses that are material to such business and are used pursuant to a license o

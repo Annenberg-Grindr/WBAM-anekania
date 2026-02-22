@@ -1,0 +1,153 @@
+--- Page 1 ---
+1 UNITED STATES DISTRICT COURT  
+FOR THE DISTRICT OF COLUMBIA 
+ 
+HIV AND HEPATITIS POLICY 
+INSTITUTE et al.,  
+Plaintiff s,  
+v. Civil Action No. 22-2604 (JDB)  
+UNITED STATES DEPARTMENT OF 
+HEALTH AND HUMAN SERVICES  et al., 
+      Defendants.   
+MEMORANDUM OPINION & ORDER  
+Plaintiffs, three individuals and three patient advocacy groups, challenge d a rule 
+promulgated by defendants , the U.S. Department of Health and Human Services  (“HHS”) , its 
+component agency the Centers for Medicare and Medicaid Services, and the leadership of those 
+agencies (collectively, the “ agencies ”).  That rule , the “2021 NBPP,”  affirmatively permitted , but 
+did not require, health insurance issuers and group health plans to decline to credit certain financial 
+assistance provided to patients by drug manufacturers when calculating whether those patients have met their cost -sharing obligations under the Affordable Care Act.  On September 29, 2023, 
+this Court granted plaintiffs’ motion for summary judgment, denied the agencies’  cross -motion for 
+summary judgment, vacated the challenged rule, and remanded the matter to the agencies .  See  
+HIV & Hepatitis Pol’y Inst. v. U.S. Dep’t of Health & Hum. Servs., Civ. A. No. 22-2604 (JDB), 
+2023 WL 6388932 (D.D.C. Sept. 29, 2023)  [ECF No. 42] (“SJ Op.”); Summ. J. Order [ECF No. 
+41].  The agencies now move for clarification of the scope of the Court’s decision .  For the reasons 
+that follow, the Court will grant the motion.  Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 1 of 6
+--- Page 2 ---
+2 Background 
+The Court assumes familiarity with  its prior opinion and the factual and procedural history 
+set forth therein.  As relevant here, the Court vacated the rule challenged by plaintiffs  and 
+remanded to the agencies for further consideration.  Summ. J. Order ; SJ Op. at *14.1  The Court 
+also noted that “[s]hould the agencies need further clarification as to what rule is in effect while 
+they consider the matter on remand, they may seek guidance from the Court.”  SJ Op.  at *14 n.5. 
+On November 27, 2023, the agencies filed a motion to clarify the scope of the Court’s 
+order .  Defs.’ Conditional Mot. to Clarify [ECF No. 43]  (“Mot.”) .  The agencies indicate their 
+intent “to address, through rulemaking, the issues left open by the Court’s  opinion” and to refrain 
+from “tak[ing] any enforcement action against issuers or plans based on their treatment of  such 
+manufacturer assistance ” pending the issuance of a new final rule.  Id. at 2.  They  seek to “clarif[y]”  
+their understanding of the Court’s decision as “vacat[ing] the relevant portion of the 2021 NBPP  
+but . . . not order[ing] any additional relief.”   Id.  In particular, they seek confirmation that the 
+Court’s order does not “require HHS to take enforcement action.”  Id. 
+The next day, the agencies filed a notice of appeal to the D.C. Circuit.  Notice of Appeal 
+[ECF No. 44]. 
+On December 11, 2023, plaintiffs filed their own notice of appeal.  Notice of Appeal [ECF 
+No. 46].  They also opposed the agencies’ motion to clarify .  Pls.’ Resp. to Mot. [ECF No. 47]  
+(“Opp’n”).  Plaintiffs  argue that the Court’s vacatur of the 2021 NBPP restores the prior rule and 
+that the agencies’ newly announced nonenforcement policy is unlawful.  See id. at 3 –10. 
+The agencies filed a reply in support of the ir motion , Defs.’ Reply in Further Supp. of Mot. 
+[ECF No. 49]  (“Reply”) , and plaintiffs filed a motion for leave to file a surreply , Mot. for Leave 
+ 
+1 Citations to the Court’s prior opinion follow the Westlaw pagination. Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 2 of 6
+--- Page 3 ---
+3 to File Surreply & Surreply [ECF No. 50].  The agencies have indicated that they oppose plaintiffs’  
+motion for leave to file a surreply but will not file a separate opposition.  Id.  at 1.  The agencies’ 
+motion  to clarify  is thus fully briefed and ripe for decision. 
+Legal Standard 
+“A ‘motion for clarification ’ is not a formal creature of civil procedure; it appears nowhere 
+in the Federal Rules.”  All. of Artists & Recording Cos. v. Gen. Motors Co., 306 F. Supp. 3d 413, 
+418 (D.D.C. 2016).  Even so, courts generally “ permit parties to tender motions that beseech the 
+court ‘ to explain or clarify something ambiguous or vague ’ about a ruling.”  Id. (quoting United 
+States v. Philip Morris USA, Inc., 793 F. Supp. 2d 164, 168 (D.D.C. 2011)).  Such motions “have 
+a limited role,” and are not a proper vehicle for “seek[ing] to alter or modify the result” of the prior 
+ruling.  Steele v. United States , Civ. A. No. 14-1523 ( RCL ), 2023 WL 6215790, at *5 (D.D.C. 
+Sept. 25, 2023)  (quoting Sai v. Transp. Sec. Admin., Civ. A. No. 14- 403 (RDM), 2015 WL 
+13889866, at *3 (D.D.C. Aug. 19, 2015) ). 
+Analysis 
+I. Jurisdiction  
+The Court will first consider whether it has jurisdiction to entertain the agencies’ request.  
+Neither party disputes the Court ’s jurisdiction —plaintiffs address this issue briefly in a footnote, 
+while the agencies do not address it at all.  See Opp’n at 3 n.1; see generally  Mot.; Reply.2 
+An appeal generally “divests the district court of its contr ol over those aspects of the case 
+involved in the appeal.”  Coinbase, Inc. v. Bielski, 143 S. Ct. 1915, 1919 (2023) (quoting Griggs 
+v. Provident Consumer Discount Co., 459 U.S. 56, 58 (1982)  (per curiam)); see also  16A Wright 
+ 
+2 Because the Court will conclude  that it has jurisdiction, it need not reach the question whether jurisdiction 
+is waivable or forfeitable in this situation.  
+ Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 3 of 6
+--- Page 4 ---
+4 & Miller, Federal Practice and Pro cedure § 3949.1 (5th ed. April 2023  update) (“ Wright & 
+Miller ”).3  However, this is “not a per se rule ,” but rather  “a judicially crafted rule rooted in the 
+interest of judicial economy , designed ‘ to avoid confusion or waste of time resulting from having 
+the same issues before two courts at the same time. ’”  United States v. Rodgers, 101 F.3d 247, 251 
+(2d Cir. 1996)  (quoting United States v. Salerno , 868 F.2d 524, 540 (2d Cir. 1984)).  Hence, “ its 
+application is guided by concerns of efficiency and is not automatic .”  Id.   District courts generally 
+retain jurisdiction to act “in aid of the appeal,” including by clarifying an ambiguity in the 
+appealed -from decision.  See, e.g. , United States v. Viola , 555 F. App’ x 57, 59–60 (2d Cir. 2014) ; 
+Lytle v. Griffith , 240 F.3d 404, 407 n.2 (4th Cir. 2001) ; Barnstead Broad. Corp. v. Offshore Broad. 
+Corp., 869 F. Supp. 35, 38–39 (D.D.C. 1994) ; see generally  Wright & Miller .  Applying that 
+principle to the particular circumstances here—where the Court specifically invited the agencies 
+to seek clarification if necessary, the agencies did so prior to noticing their appeal, the relief sought 
+is clarification of ambiguity rather than a substantive alteration, and the appeal is still in its infancy —the Court concludes that it may properly consider the agencies’ motion. 
+II. Merits  
+A. Effect of Vacatur of 2021 NBPP  
+The Court’s prior decision vacated the 2021 NBPP  but did not explicitly specify what rule 
+was in effect on remand .  See SJ Op. at * 14 n.5; cf. id. at *6 (alluding to fact that prior rule would 
+ 
+3 Had the agencies filed their motion to clarify within 28 days of entry of the Court’s judgment, the Court 
+could arguably have construed the motion as made under Federal Rule of Civil Procedure 59 or 60 so as to retain 
+jurisdiction pending the disposition of the motion.   Federal Rule of Appellate Procedure 4(a)(4)(B)(1)  provides that 
+“[i]f a party files a notice of appeal after the court . . . enters a judgment —but before it disposes of [certain timely 
+post-judgment motions] —the notice becomes effective to appeal . . . when the order disposing of the last such 
+remaining motion is entered.”  Fed. R. App . P. 4(a)(4)(B)(1).   These post -judgment motions include timely filed 
+motions under Federal Rules of Civil Procedure 59 and 60 (the latter if “filed within the time allowed for filing a 
+motion under Rule 59”).  Id.  4(a)(4)(A).  The relevant time period under Rule 59 is 28 days .  Fed. R. Civ. P. 59(b), 
+(e).  Here, however, the agencies filed their motion outside of this 28- day window  so the motion cannot toll the 
+effective date of their  notice of appeal.  Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 4 of 6
+--- Page 5 ---
+5 govern on remand).  Clarification of this ambiguity is warranted.  See, e.g. , All. of Artists & 
+Recording Cos., 306 F. Supp. 3d at 418. 
+The effect of vacatur is to “reinstate the rules previously in force.”  Georgetown Univ. 
+Hosp. v. Bowen, 821 F.2d 750, 757 (D.C. Cir. 1987) (cleaned up) (quoting Action on Smoking & 
+Health v. CAB, 713 F.2d 795, 797 (D.C. Cir. 1983) ), aff’d , 488 U.S. 204  (1988) ; see also, e.g., 
+Am. Great Lakes Ports Ass’n v. Zukunft, 301 F. Supp. 3d 99, 103–04 (D.D.C. 2018), aff’d sub 
+nom. Am. Great Lakes Ports Ass’n v. Schultz, 962 F.3d 510 (D.C. Cir. 2020) ; Nat’l Parks 
+Conservation Ass ’n v. Je well, 62 F. Supp. 3d 7, 21 (D.D.C. 2014) .  As the Court has previously 
+noted, there is some tension in D.C. Circuit case law on this point.  See AFL -CIO v. Chao, 496 F. 
+Supp. 2d 76, 83 n.1 (D.D.C. 2007) (discussing Small Refiner Lead Phase- Down Task Force v. 
+U.S. E.P.A., 705 F.2d 506, 545 (D.C. Cir. 1983)).  But the weight of circuit precedent  favors the 
+reinstatement -on-vacatur principle, and this principle is also “consistent with the unanimous body 
+of law from other circuits.”  Id.  In any event, here the agencies never argued that vacatur did not 
+restore the prior rule.  
+The  prior (and thus reinstated) rule  is the “ 2020 NBPP .”  See Patient Protection and 
+Affordable Care Act; HHS Notice of Benefit and Payment Parameters for 2020, 84 Fed. Reg. 
+17454, 17568 (April 25, 2019) ( previously codified at 45 C.F.R. § 156.130(h) from June 24, 2019 
+to July 12, 2020) .4  The Court expresses no view on plaintiffs’ proffered interpretation of this rule .  
+See Opp’n at 4–5. 
+ 
+4 The Court agrees with plaintiffs ’ position (uncontested by the agencies) that, by its own terms,  the 
+nonenforcement policy announced in August 2019 expired upon issuance of the 2021 NBPP.  See Opp’n at 5 n.2; 
+Admin. Rec. [ECF No. 40 -2] at 4321 (“Until the 2021 NBPP is issued and effective, the Departments will not initiate 
+an enforcement  action  . . . .”).  Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 5 of 6
+--- Page 6 ---
+6 B. Nonenforcement Policy  
+The Court’s prior decision vacated the 2021 NBPP.  It did not purport to interpret the 2020 
+NBPP or to rule on the legality of any nonenforcement policy.  And for good reason: these issues 
+were not before the Court .  Plaintiffs ’ amended complaint challenges only the 2021 NBPP.  See 
+Am. Compl. [ECF No. 10] at 28–29; see also , e.g., Reply Supp. Pls.’ Mot. for Summ. J. & Opp ’n 
+to Defs. ’ Cross -Mot. [ECF No. 32]  at 11 ( “[T]he statutory validity of the pre -existing regulations  
+[i.e., the 2020 NBPP] is simply not at issue in this case .”). 
+Plaintiffs take issue with the agencies’  a pparent announcement , in their motion  to clarify , 
+of a new nonenforcement policy.  See Mot. at 2; Opp’n at 6–9.  The lawfulness of any such policy 
+is not properly before the Court on the present motion to clarify.  A ruling on this issue would go far beyond merely “ clarify [ing] something ambiguous or vague” in the Court’s prior decision.  All. 
+of Artists & Recording Cos., 306 F. Supp. 3d at 418 (quoting Philip Morris USA,  Inc., 793 F. 
+Supp. 2d at  168); see Steele, 2023 WL 6215790, at *5.  Hence, the Court declines to reach this 
+question, and expresses no view on it. 
+*              *              * 
+For the foregoing reasons, and upon consideration of the entire record herein, it is hereby  ORDERED that [50] plaintiffs’ motion for leave to file a surreply is GRANTED; and it 
+is further  
+ORDERED that [43] defendants’ motion to clarify [41] [42] the Court’s September 29, 
+2023 order and memorandum opinion is GRANTED.  
+ 
+                       /s/                        
+                              JOHN D. BATES              
+            United States District Judge  
+Dated:  December 22, 2023  Case 1:22-cv-02604-JDB   Document 51   Filed 12/22/23   Page 6 of 6

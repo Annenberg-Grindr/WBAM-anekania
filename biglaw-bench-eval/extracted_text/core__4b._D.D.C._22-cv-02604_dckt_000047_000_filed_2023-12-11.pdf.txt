@@ -1,0 +1,411 @@
+--- Page 1 ---
+ 
+ 
+ IN THE UNITED STATES DISTRICT COURT  
+FOR THE DISTRICT OF COLUMBIA 
+HIV AND HEPATITIS POLICY 
+INSTITUTE , et al. , 
+ 
+Plaintiffs ,  
+v.  UNITED STATES DEPARTMENT OF 
+HEALTH AND HUMAN SERVICES,  
+et al. , 
+ 
+Defendant s.  
+ 
+     
+No. 1:22- cv-2604 (JDB)  
+PLAINTIFFS’ RESPONSE TO THE GOVERNMENT’S MOTION FOR 
+CLARIFICATION  
+ 
+ 
+ 
+ Paul W. Hughes  (D.C. Bar No. 997235 ) 
+Andrew A. Lyons -Berg ( D.C. Bar No. 230182)  
+MCDERMOTT WILL & EMERY LLP 
+500 North Capitol Street NW  
+Washington, DC 20001  
+(202) 756 -8000 
+phughes@mwe.com  
+ 
+Counsel  for Plaintiff s 
+ Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 1 of 14
+--- Page 2 ---
+ 
+i TABLE OF CONTENTS  
+Table of Authorities  ........................................................................................................................ ii 
+Introduction and Background ..........................................................................................................1  
+Argument  .........................................................................................................................................3  
+A. The Court’s vacatur of the 2021 NBPP restores the prior rule.  .....................................3  
+B. The requested clarification would nullify the Court’s judgment, and the 
+government’s across -the-board declaration of non -enforcement is unlawful.  ..............6  
+Conclusion  .......................................................................................................................................9  
+ 
+  
+  Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 2 of 14
+--- Page 3 ---
+ 
+ii 
+ 
+ 
+ TABLE OF AUTHORITIES†
+ 
+Cases Am. Great Lakes Ports Ass’n v. Zukunft , 
+301 F. Supp. 3d 99 (D.D.C. 2018)  .............................................................................................3 
+Azar v. Allina Health Servs. , 
+139 S. Ct. 1804 (2019)  ...............................................................................................................8 
+Barnstead Broad. Corp. v. Offshore Broad. Corp., 
+869 F. Supp. 35 (D.D.C. 1994)  ..................................................................................................3 
+Becerra v. U.S. Dep’t of Interior , 
+276 F. Supp. 3d 953 (N.D. Cal. 2017)  .......................................................................................7 
+California v. U.S. Bureau of Land Mgmt., 
+277 F. Supp. 3d 1106 (N.D. Cal. 2017)  .....................................................................................7 
+*Clean Air Council v. Pruitt , 
+862 F.3d 1 (D.C. Cir. 2017)  ...............................................................................................7, 8, 9 
+Envt’l Def. Fund, Inc. v. EPA , 
+716 F.2d 915 (D.C. Cir. 1983)  ...................................................................................................7 
+Georgetown Univ. Hosp. v. Bowen, 
+821 F.2d 750 (D.C. Cir. 1987)  ...................................................................................................3 
+Grand Jury Proc. Under Seal v. United States , 
+947 F.2d 1188 (4th Cir. 1991)  ...................................................................................................3 
+Nasdaq Stock Mkt. LLC v. SEC , 
+38 F.4th 1126 (D.C. Cir. 2022)  ..................................................................................................4 
+Nat. Res. Def. Council v. Abraham , 
+355 F.3d 179 (2d Cir. 2004) .......................................................................................................7 
+Nat. Res. Def. Council v. EPA , 
+683 F.2d 752 (3d Cir. 1982) .......................................................................................................7 
+*Nat. Res. Def. Council v. Nat’l Highway Traffic Safety Admin., 
+894 F.3d 95 (2d Cir. 2018) .................................................................................................7, 8, 9 
+Nat’l Parks Conservation Ass’n v. Jewell , 
+62 F. Supp. 3d 7 (D.D.C. 2014)  .................................................................................................4 
+Nat’l Venture Capital Ass’n v. Duke , 
+291 F. Supp. 3d 5 (D.D.C. 2017)  ...............................................................................................7 
+*National Association of Manufacturers v. SEC , 
+631 F. Supp. 3d 423 (W.D. Tex. 2022)  ..................................................................................8, 9 
+ 
+† Authorities on which we chiefly rely are marked with asterisks.  Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 3 of 14
+--- Page 4 ---
+ 
+iii 
+ 
+ 
+ Cases—continued  
+Open Communities Alliance v. Carson, 
+286 F. Supp. 3d 148 (D.D.C. 2017)  ...........................................................................................7 
+S.C. Coastal Conservation League v. Pruitt , 
+318 F. Supp. 3d 959 (D.S.C. 2018)  ............................................................................................7 
+Texas v. Becerra , 
+2022 WL 18034483 (N.D. Tex. Nov. 15, 2022)  ........................................................................3 
+Statutes, Rules, and Regulations  
+45 C.F.R. § 156.130(h)(1) (version effective June 24, 2019, to July 12, 2020)  .................... passim  
+Patient Protection and Affordable Care Act; HHS Notice of  
+ Benefit and Payment Parameters for 2020,  
+ 84 Fed. Reg. 17,454 (April 25, 2019)  ................................................................................1, 4, 6 
+Fed. R. Civ. P. 62.1(a)  .....................................................................................................................3 
+Other Authorities  
+Hearing Before the Ohio House Public Health Policy Committee, The Ohio 
+Channel (Nov. 1, 2023)  ..........................................................................................................1, 4 
+Matt Wetzel & Heath R. Ingram, Federal Court Strikes Down Copay 
+Accumulator Programs , Goodwin (Oct. 9, 2023) ......................................................................5 
+Theresa C. Carnegie, et al., Court Strikes Down HHS Rule on Copay 
+Accumulators: Implications for Health Plans and PBMs , Mintz (Oct. 9, 2023)  .......................5 
+Theresa C. Carnegie, et al., HHS Court Filings Indicate that Agency Intends to 
+Preserve Copay Accumulators, Mintz (Dec. 4, 2023)  .......................................................7, 8, 9 
+ Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 4 of 14
+--- Page 5 ---
+ 
+1 INTRODUCTION AND BACKGROUND  
+As the Court is aware, this case concerns whether HHS acted lawfully in the 2021 Notice 
+of Benefit and Payment Parameters (2021 NBPP)  when it permitted insurers not to count certain 
+payments obtained through drug- manufacturer assistance against insured individuals ’ annual de-
+ductible and out -of-pocket maximum amounts.  In its September 29 Memorandum Opinion, the 
+Court held that HHS’s regulation purporting to do so was arbitrary and capricious. See  Op. 15-17. 
+And it therefore ordered “that the [2021 NBPP] is V ACATED to the extent that it amends [ 45] 
+C.F.R. § 156.130(h),” the regulatory provision in question. Dkt. 41. 
+The previous version of the regulation , which under well -established doctrine was returned 
+to force by virtue of the 2021 NBPP’s vacatur , had permitted manufacturer assistance to be ex-
+cluded from these cost -sharing amounts only with respect to “specific prescription brand drugs 
+that have an available and medically appropriate generic equivalent.” 45 C.F.R. § 156.130(h)(1) 
+(version effective June 24, 2019, to July 12, 2020). Under that version of the regulation, as the 
+preamble of the adopting rule itself explained, “[w]here there is no generic equivalent available or 
+medically appropriate . . . amounts paid toward cost sharing using any form of direct support of-fered by drug manufacturers must be counted toward the annual limitation on cost sharing.” 
+Patient 
+Protection and Affordable Care Act; HHS Notice of Benefit and Payment Parameters for 2020, 84 
+Fed. Reg. 17 ,454, 17,545 (April 25, 2019) (emphasis added); see Op. 5- 6. 
+A representative of AHIP —the leading trade association representing health insurance plans, 
+which participated as an amicus  in favor of the government in this case —testified that the effect of this 
+decision is clear : The prior version of Section 156.130(h)(1) is now in force. Ohio House Public 
+Health Policy Committee, The Ohio Channel (Nov. 1, 2023), at 01: 37 – 01:38 (testimony of Keith 
+Lake, AHIP) (emphases added), https://www.ohiochannel.org/video/ohio- house -public -health -
+policy -committee -11-1-2023. Multiple independent commentators reached the same conclusion, 
+which is plainly dictated by governing law.  Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 5 of 14
+--- Page 6 ---
+ 
+2 
+ Now, after losing on the merits, the government  takes an extraordinary position —and, un-
+der the guise of requesting “clarification,” asks the Court to sanction its behavior. The Court should 
+explicitly reject the government’s request.  
+Part of the government’s motion is unobjectionable. T he government describe s its inten t to 
+address these issues via rulemaking. That is appropriate and in keeping with the Court’s decision. (That said, n o “clarification” is needed for the government to pursue such rulemaking. ) 
+But, in its motion —which has since gained broad attention —the government has also an-
+nounced a whole new policy. While there can be no serious dispute that the 
+predecessor version of 
+Section 156.130(h)(1) is now in force, the government has announced as a categorical matter that  
+no one needs to comply with that  law. That is, the government has stated that it does not “intend 
+to take any enforcement action against issuers or plans based on their treatment of … manufacturer assistance. ” Mot. 2. Through this motion, the government has informed the Court and the public 
+that it effectively int ends to disregard the Court’s judgment , and instead act as if the 2021 NBPP 
+had not  been vacated, until it issues a new rule, whenever that may be.  Id. 
+That course of conduct is unlawful , and the Court should not sanction it. Not only is  the 
+government’s motion a clear “indication that the agencies will not abide by the Court’s ruling” —
+the previous absence of which was the basis for the Court’s decision not  to issue an injunction 
+requiring compliance (Op. 24 n.4) —but it is also unlawful on its own terms. An agency may not 
+rescind a legislative regulation without notice and comment, and courts have held that a statement 
+to the regulated industry that an agency categorically  will not enforce a regulation is the functional 
+equivalent to a reci ssion, and therefore is similarly unlawful.  
+If HHS believed that the return to force of the 2020 NBPP —a rule that the agency itself 
+earlier promulgated —would cause disruption or other imminent adverse consequences , it had mul-
+tiple avenues  available to address that concern . The agency could have argued for remand without 
+vacatur; it did not. See Dkt s. 27- 1; 38 (government’s summary judgment briefing, never invoking 
+the remand -without -vacatur doctrine) . The agency could have moved this Court or the D.C. Circuit 
+for a stay of the  judgment; it did not. And the agency could have attempted to issue a new rule Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 6 of 14
+--- Page 7 ---
+ 
+3 
+ using the good cause exception to notice and comment; but again, the agency has not done so. 
+What HHS cannot do consistent with the APA and the rule of law is  to inform the regulated public  
+that, even though the pre -2021 NBPP version of the regulation is  currently in effect as a result of 
+this Court’s vacatur, no one need s to comply with that binding law. The government’s proposed 
+“clarification”  would therefore both practically  nullify this Court’s judgment and independently 
+violate the APA.  The Court should reject the government’s request.  
+ARGUMENT1 
+A. The Court’s vacatur of the 2021 NBPP restores the prior rule.  
+Under black -letter administrative law, the result of this Court’s vacatur of the 2021 NBPP 
+is that the previously effective version of Section 156.130(h) is reinstated: “‘When a court vacates 
+an agency ’s rules, the vacatur restores the status quo before the invalid rule took effect … .’ That 
+is, the offending rule is rendered void and of no effect and there is a ‘reinstatement of the rules 
+previously in force. ’” Am. Great Lakes Ports Ass’ n v. Zukunft , 301 F. Supp. 3d 99, 103- 104 
+(D.D.C. 2018)  (alterations incorporated) (first quoting Envtl. Def. v. Leavitt , 329 F. Supp. 2d 55, 
+64 (D.D.C. 2004); then quoting Action on Smoking & Health v. C.A.B., 713 F.2d 795, 797 (D.C. Cir. 1983) ), aff'd, 962 F.3d 510 (D.C. Cir. 2020); see also, e.g. , Georgetown Univ. Hosp. v. Bowen , 
+821 F.2d 750, 757 (D.C. Cir. 1987) (“[T]he effect of invalidating an agency rule is to reinstate the 
+ 
+1  The Court has jurisdiction to act on  the government’s motion notwithstanding the govern-
+ment’s subsequent filing of its notice of appeal. See Dkt. 44. While the fil ing of a notice of appeal 
+generally divests a district court of jurisdiction, the court retains jurisdiction to act in aid of the 
+appeal , and district courts frequently exercise this authority to clarify the scope of equitable  re-
+lief—so long as the scope of relief is only clarified, and not altered. E.g. Barnstead Broad. Corp. 
+v. Offshore Broad. Corp., 869 F. Supp. 35, 39 (D.D.C. 1994) (“The Court retains jurisdiction to decide Defendant's Motion for Clarification because to do so might aid in the appeal.”); Texas v. Becerra , 2022 WL 18034483, at *1 (N.D. Tex. Nov. 15, 2022) (“Because there is no request to 
+materially modify the Order, precedent provides that the Court has authority to resolve the mo-tion.”) ; cf. Grand Jury Proc. Under Seal v. United States , 947 F.2d 1188, 1190 (4th Cir. 1991) 
+(district court may “memorialize” an oral ruling that had been made prior to notice of appeal, because setting out reasons in writing aids the appeal).  
+ Alternatively, if the motion is construed as seeking relief from judgment, rather than non- sub-
+stantive clarification, this Court retains explicit power under Rule 62.1 to either deny the motion 
+or issue an indicative ruling that it would grant if it had jurisdiction . See Fed. R. Civ. P. 62.1(a) . Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 7 of 14
+--- Page 8 ---
+ 
+4 
+ rules previously in force  … . Accordingly, when the District Court vacated the Secretary's 1981 
+wage -index rule, it necessarily reinstated the Secretary's 1979 rule.”); Nat’l Parks Conservation 
+Ass’n v. Jewell , 62 F. Supp. 3d 7, 21 (D.D.C. 2014) (“Vacatur would result in the reinstatement of 
+the 1984 Rule, which governed” prior to the challenged rule.) . 
+As described above, the version of Section 156.130(h) that governed prior to the 2021 
+NBPP —and that therefore was reinstated by this Court’s vacatur—provided that  only manufac-
+turer assistance amounts “for specific prescription brand drugs that have an available and medi-
+cally appropriate generic equivalent  are not required to be counted toward the annual limitation 
+on cost sharing.” 45 C.F.R. § 156.130(h)(1) (version effective June 24, 2019, to July 12, 2020) 
+(emphasis added). The logical result  of that spec ific allowance for drugs with generic equivalents 
+is that other manufacturer assistance cannot  be lawfully  excluded. See, e.g. Nasdaq Stock Mkt. 
+LLC v. SEC , 38 F.4th 1126, 1137 (D.C. Cir. 2022) (applying the interpretive canon “ expressio 
+unius est exclusio alterius ”: “[M]ention of one thing … implies exclusion of another thing”). And 
+HHS explained exactly that in adopting the earlier regulatory text: “Where there is no generic 
+equivalent available or medically appropriate,” manufacturer assistance “ must be counted toward 
+the annual limitation on cost sharing.” 84 Fed. Reg. at 17,545 (emphasis added).  
+In short, the predecessor version of Section 156.130(h) now governs.  
+Up until the government’s  recent  motion, that is how the regulated public understood this 
+Court’s judgment  too. Take for example AHIP, the national trade association for health insurers , 
+which  filed an amicus  brief in this case supporting the government’s position. See Dkt. 30. An 
+AHIP representative testified before a state legislative committee in November that this Court “invalidated the current federal rule on accumulators. So a previous rule would now govern since 
+this one has been invalidated.” Ohio House Public Health Policy Committee, The Ohio Channel 
+(Nov. 1, 2023), at 01:37:31–01:37:40 (testimony of Keith Lake, AHIP) (emphases added),  
+https://www.ohiochannel.org/video/ohio- house -public -health -policy- committee -11-1-2023. And, 
+as AHIP recognizes, that “previous rule” per mits copay accumulators solely in circumstances 
+where “there is a drug with a generic alternative.” Id . at 01:37:47–01:37:50. Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 8 of 14
+--- Page 9 ---
+ 
+5 
+ Commentators have  likewise  broadly acknowledged that, following this Court’s ruling, the 
+predecessor regulation is now in effect. For example, one law firm—with no involvement in this 
+litigation for any party —issued the following analysis:  
+The court deemed the 2021 NBPP rule unlawful and has mandated that insurers 
+adhere to the 2020 NBPP federal rule governing health plans. According to this rule, copay accumulators are permissible only for branded drugs that have a generic equivalent, if al lowed by state law. Consequently, health plans and PBMs are now 
+prohibited by federal regulation from implementing copay accumulators for drugs that lack generic equivalents.  
+Theresa C. Carnegie, et al., Court Strikes Down HHS Rule on Copay Accumulators: Implications 
+for Health Plans and PBMs , Mintz ( Oct. 9 , 2023) , perma.cc/PG3F -6FG7 . 
+Another law firm—again with no involvement in this litigation—similarly described the 
+effect of this Court’s ruling:  
+[A]s a result of the District Court’s ruling, the government will use an earlier 2020 
+version of the rule which allowed insurers to exclude from cost- sharing caps only 
+copay support coupons for branded drugs that have available generic equivalents; if ther e is no generic equivalent, under the 2020 version of the rule, manufacturer 
+copay support must be counted toward cost sharing. 
+Matt Wetzel & Heath R. Ingram, Federal Court Strikes Down Copay Accumulator Programs , 
+Goodwin (Oct. 9, 2023) , perma.cc/V3SR -PW26 . 
+In all, the net effect of this Court’s September 29, 2023 , opinion and order was abundantly 
+clear: Because the Court vacated the 2021 NBPP to the extent it amended Section 156.130(h) , the 
+version of that regulation that existed prior to the 2021 NBPP now governs. A nd that regulation 
+had clear implications for the regulated public.
+2  
+ 
+2  The government cannot seriously suggest  that there is any question about  the proper interpre-
+tation of  the now -governing version of Section 156.130(h) . First, the text of the regulation it clear. 
+It provides that co -pay assistance is “not required to be counted toward the annual limitation on 
+cost sharing” in the limited circumstances where drugs “have an available and medically appro-priate generic equivalent .” 45 C.F.R. § 156.130(h)(1). Accordingly, w here the core condition—
+availability of a generic —is absent, then copay assistance must  be counted. See page 4, supra. Any 
+other reading would render this provision meaningless. Second, as we have described, the regula-tion’s preamble expressly  says exactly this. Third, to the extent that HHS at one point hypothesized 
+a conflict between the now -governing rule and IRS regulation, HHS appears to have —correctly —
+ Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 9 of 14
+--- Page 10 ---
+ 
+6 
+ B. The requested clarification would nullify the Court’s judgment, and the 
+government’s across -the-board declaration of non -enforcement is unlawful.  
+The government’s motion, however, blinks that reality. Having lost in its attempt to defend 
+the 2021 NBPP on the merits —and having never asked this Court for either remand without vaca-
+tur or a stay of its ruling —HHS apparently intends to simply carry on as if it had won, and this 
+Court had never vacated the 2021 NBPP. That is, in the motion it filed with this Court, HHS has 
+announced its intention “not … to take any enforcement action against issuers or plans based on their treatment of … manufacturer assistance”  until it has issued a replacement rule. Mot. 2 . HHS 
+says this notwithstanding that currently binding law provides that manufacturer assistance “ must 
+be counted toward the annual limitation on cost sharing” “[w]here there is no generic equivalent available or medically appropriate.” 
+84 Fed. Reg. at 17,545; see 45 C.F.R. § 156.130(h)(1) (version 
+effective prior to the 2 021 NBPP ). 
+HHS’s putative motion to clarify has itself  created uncertainty in the public. Despite the 
+clarity of this Court’s order, the government’s position has thrown the market into disarray. O ne 
+commentator who had previously described the implications of the Court’s decision in clear terms 
+(see page 5, supra) now recognizes that the government has informed insurers that they need not 
+comply with any law:  
+HHS’s stated purpose of the Motion to Clarify was to confirm that the court’s ruling 
+merely vacated the Notice of Benefit and Payment Parameters for 2021 (2021 NBPP) without ordering any additional relief.  However, the HHS filings also relay two significant messages to health plans and PBMs  impacted by the District 
+Court’s ruling: (1) that HHS plans to issue rulemaking to address the District 
+Court’s concerns with the 2021 NBPP, and (2) until that rulemaking is issued, 
+health plans and PBMs are free to ope rate copay accumulators as they have been 
+since 2021 without fear of enforcement from HHS.  
+ 
+disavowed such a theory. Indeed, HHS argued here that it “did not … find that the IRS rule directly 
+conflicted with the 2020 Rule.” Dkt. 27-1, at 29.  
+ To the extent that HHS previously announced a non- enforcement policy ( AR4321), that pol-
+icy—which was  itself  unlawful for reasons we next explain— expire d when  the 2021 NBPP issued 
+and became effective. Id . In all events, having vacated the 2021 NBPP as unlawful, the Court 
+cannot and should not sanction HHS ’s attempt here to unlawfully suspend a duly promulgated 
+regulation.  Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 10 of 14
+--- Page 11 ---
+ 
+7 
+ Theresa C. Carnegie, et al., HHS Court Filings Indicate that Agency Intends to Preserve Copay 
+Accumulators , Mintz (Dec. 4, 2023) (emphasis added), perma.cc/4MSW -LKEN.  
+The Court should flatly reject the government’s request that it sanction the government’s 
+proposed blanket policy of non- enforcement , which  would amount to an unlawful suspension of 
+the regulation that is presently binding law.  
+Under the APA, “an agency issuing a legislative rule is itself bound by the rule until that 
+rule is amended or revoked and may not alter such a rule without notice and comment.”  Clean Air 
+Council v. Pruitt , 862 F.3d 1, 9 (D.C. Cir. 2017) (quotation marks omitted; alteration incorpo-
+rated) .  
+Suspensions of, or delays in implementing, a rule are subject to t hat same notice- and-com-
+ment requirement. Nat. Res. Def. Council v. Nat’l Highway Traffic Safety Admin., 894 F.3d 95, 
+113 (2d Cir. 2018) (notice -and-comment “requirements apply with the same force when an agency 
+seeks to delay or repeal a previously promulgated final rule,” because “altering the effective date 
+of a duly promulgated standard could be, in substance, tantamount to an amendment or rescission of the standards.”) (quoting Nat. Res. Def. Council v. Abraham , 355 F.3d 179, 194 (2d Cir. 2004)); 
+Envt’l Def. Fund, Inc. v. EPA , 716 F.2d 915, 920 (D.C. Cir. 1983) (“The suspension or delayed 
+implementation of a final regulation normally constitutes substantive rulemaking under APA § 553,” thus requiring “notice and comment”); Nat’l Venture Capital Ass’n v. Duke , 291 F. Supp. 
+3d 5, 15 (D.D.C. 2017) (“‘An agency . . . may not alter [a legislative] rule without notice and comment,’ nor does it have any inherent power to stay a final rule.”) (quot ing Clean Air Council , 
+862 F.3d at 9).
+3 
+ 
+3  See also, e.g., Open Communities Alliance v. Carson, 286 F. Supp. 3d 148, 162- 163 (D.D.C. 
+2017) (same); S.C. Coastal Conservation League v. Pruitt , 318 F. Supp. 3d 959, 964 (D.S.C. 2018) 
+(“[T]he suspension of a rule requires the same substantive requirements of notice and comment 
+rule making as the promulgation of that rule.”); California v. U.S. Bureau of Land Mgmt., 277 F. 
+Supp. 3d 1106, 1121 (N.D. Cal. 2017) (“The APA does not permit an agency to guide a future rule through the rulemaking process, promulgate a final rule, and then effectively repeal it, simply by indefinitely postponing its operative date.”) (quoting Nat. Res. Def. Council v. EPA , 683 F.2d 752, 
+762 (3d Cir. 1982)); Becerra v. U.S. Dep’t of Interior , 276 F. Supp. 3d 953, 965- 966 (N.D. Cal. 
+2017) (same). Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 11 of 14
+--- Page 12 ---
+ 
+8 
+ Moreover, that commonsense requirement applies even when (perhaps, especially when) 
+the justification for the suspension or delay is that the agency is considering changing the under-
+lying rule: “[A] decision to reconsider a rule does not simultaneously convey authority to indefi-nitely delay the existing rule pending that reconsideration.” Nat. Res. Def. Council , 894 F.3d at 
+111-112; see also Clean Air Council , 862 F.3d at 9 (rejecting agency’s argument that it “has ‘in-
+herent authority’ to ‘issue a brief sta y’ of a final rule —that is, not to enforce a lawfully issued final 
+rule—while it reconsiders it”).  Yet that is precisely what the government says it is going to do 
+here: “not … enforce a lawfully issued final rule … while it reconsiders it.” Id.  
+Nor does it matter that the government has framed its action as a decision not “to take 
+enforcement action” (Mot. 2), rather than a purported formal stay of the regulation. Courts con-
+ducting this analysis look past formalism  and evaluate instead the  functional  effect of an agency’s 
+announcements . In National Ass ociatio n of M anufacturer s v. SEC , 631 F. Supp. 3d 423, 427, 429-
+430 (W.D. Tex. 2022) , the c ourt concluded that the SEC had unlawfully suspended a binding reg-
+ulation where an SEC division  “declar[ed] it would no longer recommend enforcement actions 
+premised on [that regulation] while the SEC considered alternatives,” and the agency stated in litigation that this exercise of enforcement discretion “ provides [regulated entities] relief from” 
+complying with the regulation . Indeed, “courts have long looked to the contents  of the agency’ s 
+action, not the agency ’s self -serving label, when deciding whether statutory notice -and-comment 
+demands apply.” Azar v. Allina Health Servs. , 139 S. Ct. 1804, 1812 (2019). 
+Here, there can be no mistaking that HHS’s announcement, in a court filing, that it “ does 
+not intend to take any enforcement action against issuers or plans based on their treatment of … manufacturer assistance” (Mot. 2) —despite the existence of a binding regulation to the contrary—
+similarly “provide[s] [the regulated industry ] with breathing room for complying with” the rein-
+stated pre- 2021 NBPP version of Section 156.130(h) , and therefore is unlawful absent notice and 
+comment. Nat’l Ass’n of Mfrs. , 631 F. Supp. 3d at 429. Indeed, commentators have had no trouble 
+reading between the lines (to the extent any such reading is even required). See Carnegie et al., 
+HHS Court Filings , supra  at 6 (explaining that the government’s motion to clarify “relay[s] [a] Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 12 of 14
+--- Page 13 ---
+ 
+9 
+ significant message[ :]” that “ health plans and PBMs are free to operate copay accumulators as 
+they have been since 2021 without fear of enforcement.”   
+Just as in National Association of Manufacturers , therefore, the agency’s announced policy 
+of “deliberate non- enforcement” of the reinstated prior version of Section 156.130(h) “for an in-
+definite period is functionally indistinguishable from suspending” that regulation, and is thus un-
+lawful without notice and comment. 631 F. Supp. 3d at 429; see also id. at 431 (agency’s “subtle 
+wink to [the] industry … that the SEC would not enforce the Proxy Advice Rule’s compliance 
+deadline” held to be an unlawful suspension of that rule).  
+To be clear, our point is not  that the Court can or should require HHS to institute individual 
+enforcement actions against specific insurers. But what the agency cannot lawfully do is declare 
+to the regulated industry that insurers “are free to operate copay accumulators as they have been 
+since 2021 without fear of enforcement” (Carnegie et al., HHS Court Filings , supra ), even though 
+this Court’s vacatur of the 2021 NBPP has left the pre -2021 regulations —which prohibit precisely 
+that conduct —now in effect.  To do so would effectively suspend the existing regulations without 
+notice and comment, something no agency has the power to do. Nat’l Ass’n of Mfrs , 631 F. Supp. 
+3d at 429- 430; see also Nat. Res. Def. Council , 894 F.3d at 111- 112; Clean Air Council , 862 F.3d 
+at 9. And it would also nullify this Court’s judgment , achieving the same practical result s—includ-
+ing the same practical harms to the individual Plaintiffs ( see, e.g., Op. 11- 12)—as if the agency 
+had won on the merits, instead of lost . If the government had thought a stay of this Court’s judg-
+ment were warranted , it could have pursued one, in keeping with the reticulated framework for 
+proving entit lement to such relief. It did not. The government cannot act simply as if a stay had 
+been granted, when the government did not so much as request one.  The Court certainly should 
+not “clarif[y]” (Mot. 2) that th e government’s proposed conduct is permissible . 
+CONCLUSION 
+For the foregoing reasons, the Court should deny the government’s motion for  clarification . 
+Further, the Court  may wish to consider injunctive relief ( see Op. 24 n.4) , directing  that the agency 
+may not lawfully erect  an across- the-board policy of non- enforcement . While the Court cannot Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 13 of 14
+--- Page 14 ---
+ 
+10 
+ and should not involve itself in the agency’s case -by-case enforcement decisions , a blanket policy 
+of non- enforcement functions is both (1) a de facto stay of this Court’s order  and (2) a rescission 
+or suspension of the predecessor rule. Neither course of action is lawful . Thus, just as the court 
+held in National Association of Manufacturers , the Court should state that a categorical non -en-
+forcement policy is unlawful.  
+ 
+Dated:  December 11, 2023 
+ 
+    
+Respectfully submitted,  
+ /s/ Paul W. Hughes  
+ Paul W. Hughes  (D.C. Bar No. 997235)  
+Andrew A. Lyons -Berg ( D.C. Bar No. 230182)  
+M
+CDERMOTT WILL & EMERY LLP 
+500 North Capitol Street NW  
+Washington, DC 20001  
+(202) 756- 8000 
+phughes@mwe.com  
+ Counsel  for Plaintiff s 
+ 
+  
+ 
+ 
+ Case 1:22-cv-02604-JDB   Document 47   Filed 12/11/23   Page 14 of 14

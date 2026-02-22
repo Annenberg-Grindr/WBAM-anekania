@@ -1,0 +1,561 @@
+--- Page 1 ---
+EX-2.1 2 dex21.htm STOCK PURCHASE AGREEMENT
+Exhibit 2.1
+ 
+EXECUTION COPY
+ 
+ 
+STOCK PURCHASE AGREEMENT
+ 
+among
+ 
+FISER V, INC.,
+ 
+FISER V CLEARING, INC.
+ 
+and
+ 
+NATIONAL  FINANCIAL  SER VICES LLC
+ 
+ Dated as of December 16, 2004
+ 
+ 
+ 
+--- Page 2 ---
+TABLE OF  CONTENTS
+ 
+         Page
+ARTICLE I   SALE AND PURCHASE OF SHARES    1
+1.1   Basic Transaction    1
+1.2   Purchase Price    1
+1.3   The Closing    1
+1.4   Deliveries at the Closing    2
+1.5   Closing Adjustment to Preliminary Cash Payment    2
+1.6   Preparation of Closing Date Balance Sheet and Net Capital Schedule    3
+1.7   Post-Closing Adjustment to Preliminary Cash Payment    4
+1.8   Withholding    5
+ARTICLE II   REPRESENT ATIONS AND WARRANTIES    5
+2.1   Representations and Warranties of Parent and Seller    5
+2.2   Representations and Warranties of Buyer   27
+ARTICLE III   COVENANTS   28
+3.1   Covenants of Parent and Seller   28
+3.2   Covenants of Buyer and Seller   35
+3.3   Section 338(h)(10) Election   40
+3.4   Cooperation   42
+3.5   Customer Communications   42
+3.6   Buyer Designee   43
+3.7   BHC Customer Loan Defaults   43
+ARTICLE IV   CONDITIONS PRECEDENT   43
+4.1   Conditions to Obligations of Each Party   43
+4.2   Conditions to Obligations of Buyer   44
+4.3   Conditions to Obligations of Seller   45
+ARTICLE V   TERMINA TION   46
+5.1   Termination   46
+5.2   Effect of Termination   46
+ARTICLE VI   DEFINITIONS, MISCELLANEOUS   47
+6.1   Definition of Certain Terms   47
+6.2   Survival of Representations, Warranties and Covenants; Indemnification   56
+ 
+i
+--- Page 3 ---
+ 
+TABLE OF  CONTENTS
+(continued)
+ 
+         Page
+6.3   Non-Competition/Non-Solicitation   62
+6.4   Expenses; Transfer Taxes   63
+6.5   Severability   64
+6.6   Notices   64
+6.7   Contingent Payment   65
+6.8   Miscellaneous   66
+ 
+ii
+--- Page 4 ---
+ 
+EXHIBITS AND SCHEDULES
+ 
+Schedule 1.5.3        
+Schedule 1.6.1  —     Draft Net Capital Schedule Adjustments
+Schedule 2.1.1(a)  —     Due Or ganization, Etc.
+Schedule 2.1.1(c)  —     Conflicts and Required Governmental Approvals or Notifications
+Schedule 2.1.2(b)  —     Equity Interests
+Schedule 2.1.2(d)  —     Other Investments
+Schedule 2.1.4  —     Obligations or Liabilities
+Schedule 2.1.5  —     Changes Since December 31, 2003
+Schedule 2.1.6(a)  —     Tax Returns; Payment of Taxes
+Schedule 2.1.6(b)  —     Tax Extensions
+Schedule 2.1.6(c)  —     Tax Filing Groups
+Schedule 2.1.6(d)  —     Tax Audits and Assessments
+Schedule 2.1.6(e)  —     Tax Sharing Arrangements
+Schedule 2.1.6(h)  —     Assertions of Jurisdiction
+Schedule 2.1.7  —     Real and Personal Property
+Schedule 2.1.8(a)  —     Contracts
+Schedule 2.1.8(b)  —     Contract Exceptions
+Schedule 2.1.9(a)  —     Intellectual Property
+Schedule 2.1.9(b)  —     Intellectual Property Infringements
+Schedule 2.1.10  —     Insurance Policies
+Schedule 2.1.1 1(a)  —     Compliance with Laws
+Schedule 2.1.1l(b)  —     Governmental Approvals
+Schedule 2.1.1l(c)  —     Investigations; Proceedings
+Schedule 2.1.12  —     Affiliate Transactions
+Schedule 2.1.13(a)  —     Regulatory Compliance; Broker -Dealers
+Schedule 2.1.13(c)  —     Registration Requirements
+Schedule 2.1.13(d)  —     Investigations; Proceedings
+Schedule 2.1.13(e)  —     BHC Policies and Procedures Noncompliance
+Schedule 2.1.13(f)  —     Investment Adviser
+Schedule 2.1.13(i)  —     Plan of Documents
+Schedule 2.1.15(a)  —     Benefit Plans
+Schedule 2.1.15(b)  —     Minimum Funding Standards, Etc.
+Schedule 2.1.15(d)  —     BHC Pension Plan Proceedings
+Schedule 2.1.15(e)  —     BHC Pension Plan Reportable Events
+Schedule 2.1.15(m)  —     WARN
+Schedule 2.1.16  —     Environmental Matters
+Schedule 2.1.17  —     Litigation
+Schedule 2.1.20(a)(i)  —     Customer Account Schedule
+Schedule 2.1.20(a)(ii)  —     Terminated Accounts
+Schedule 2.1.20(b)  —     Customer Data
+Schedule 2.1.21  —     Computer Systems
+ 
+i
+--- Page 5 ---
+Schedule 2.2.l(c)  —     Consents and Notifications and Required Governmental Approvals
+Schedule 3.1.1  —     Conduct of Business
+Schedule 3.1.7  —     Intercompany Accounts
+Schedule 3.1.8  —     Foreign Accounts
+Schedule 3.2.3(c)  —     Seller Liabilities
+Schedule 3.2.6(a)  —     Assignment to Seller
+Schedule 3.2.6(b)  —     Assignment to Member of BHC Group
+Schedule 3.7  —     Loans
+Schedule 4.2.3  —     Required Consents
+Schedule 4.2.8  —     Terms of Transition Services Agreement
+Schedule 6.1  —     Targeted Net Capital
+Schedule 6.2.2(a)(ix)  —     Litigation
+Schedule 6.2.2(a)(xi)  —     Other Items
+ 
+ii
+--- Page 6 ---
+STOCK PURCHASE AGREEMENT
+ 
+STOCK PURCHASE AGREEMENT , dated as of December 16, 2004, among Fiserv , Inc., a Wisconsin corporation (“ Parent ”), Fiserv Clearing,
+Inc., a Delaware corporation (“ Seller ”), and National Financial Services LLC, a Delaware limited liability company (“ Buyer ”).
+ 
+W I T N E S S E T H :
+ 
+WHEREAS, Seller is the record and beneficial owner of all of the outstanding capital stock of BHC Investments, Inc., a Delaware corporation
+(“BHC ”).
+ 
+WHEREAS, Buyer desires to purchase and Seller desires to sell all of the outstanding capital stock of BHC (the “ BHC Shares ”) on the terms and
+conditions described in this Agreement.
+ 
+WHEREAS, Buyer , Parent and Seller desire to make certain representations, warranties, covenants and agreements in connection with the
+purchase and sale of the BHC Shares and also to prescribe various conditions to the transaction.
+ 
+NOW , THEREFORE, in consideration of the mutual promises, agreements, covenants, representations and warranties made herein and intending
+to be bound hereby , the parties hereto agree as follows:
+ 
+ARTICLE I
+SALE AND PURCHASE OF  SHARES
+ 
+1.1 Basic Transaction . On and subject to the terms and conditions of this Agreement, at the Closing, Buyer will purchase from Seller , and Seller
+will sell, assign, transfer , convey and deliver to Buyer , legal and beneficial ownership of the BHC Shares for the consideration specified below in
+Section 1.2, free and clear of any Lien.
+ 
+1.2 Purchase Price . Buyer agrees to pay to Seller (a) $348,937,500 (which includes Targeted Net Capital) (the “ Preliminary Cash Payment” ) and
+(b) the Contingent Payment (collectively , the “ Purchase Price ”). The Purchase Price shall be paid in accordance with Sections 1.4, 1.8 and 6.7, as
+applicable, and shall be adjusted pursuant to Sections 1.5, 1.6, 1.7 and 3.7.
+ 
+1.3 The Closing . The closing of the transactions contemplated by this Agreement (the “ Closing ”) shall take place at the of fices of Ballard Spahr
+Andrews & Ingersoll, LLP , in Philadelphia, Pennsylvania, commencing at 9:00 a.m. local time on the second Business Day following the satisfaction
+or waiver of all conditions to the obligations of the parties to consummate the transactions contemplated hereby (other than conditions with respect to
+actions the respective parties will take at the Closing itself) or such other date as Buyer and Seller may mutually determine (the “ Closing Date ”), and
+shall be ef fective as of 1 1:59 p.m. on the Closing Date. All acts and proceedings to be taken and all documents to be executed and delivered by the
+parties at the Closing shall be deemed to have been taken and executed simultaneously , and,
+ 
+--- Page 7 ---
+except as permitted hereunder , no acts or proceedings shall be deemed taken nor any documents executed or delivered until all have been taken,
+executed and delivered.
+ 
+1.4 Deliveries at the Closing .
+ 1.4.1 Closing Deliveries By Seller . At the Closing, Seller or Parent, as applicable, will deliver or cause to be delivered to Buyer:
+ (a) a stock certificate representing the BHC Shares, duly endorsed in blank or accompanied by stock powers and transfer forms duly
+executed in blank and requisite transfer tax stamps, if any , as may be necessary or desirable to ef fect the transactions described in Section 1.1;
+ (b) a receipt duly executed by Seller acknowledging, on behalf of Seller and its Affiliates, payment of the Preliminary Cash Payment in the
+amount and manner provided in Section 1.2;
+ (c) certificates representing all of the issued and outstanding equity interests of the Persons listed on Schedule 2.1.2(b) ;
+ (d) all minute books, stock record books (or similar registries) and corporate (or similar) records and seals of each member of the BHC
+Group;
+ (e) a receipt duly executed by Parent and each member of the BHC Group acknowledging, on behalf of Parent and each of its Subsidiaries,
+settlement of all intercompany receivables, payables, loans and investments then existing between Parent or any of its Subsidiaries that is not a
+member of the BHC Group, on the one hand, and the BHC Group, on the other hand, pursuant to Section 3.1.7; and
+ (f) the various certificates, consents, instruments and documents referred to in Section 4.2 below .
+ 1.4.2 Closing Deliveries by Buyer . At the Closing, Buyer will deliver or cause to be delivered to Seller:
+ (a) the Preliminary Cash Payment; and
+ (b) the various certificates, instruments and documents referred to in Section 4.3 below .
+ 
+1.5 Closing Adjustment to Preliminary Cash Payment . The Preliminary Cash Payment shall be adjusted as follows:
+ 1.5.1 Higher Estimated Net Capital . If the Estimated Net Capital (determined in accordance with Section 1.6) exceeds Targeted Net Capital,
+the Preliminary Cash Payment to be paid at Closing shall be increased in an amount equal to such excess.
+ 
+2
+--- Page 8 ---
+1.5.2 Lower Estimated Net Capital . If the Estimated Net Capital (determined in accordance with Section 1.6) is less than Targeted Net
+Capital, the Preliminary Cash Payment to be paid at Closing shall be decreased in an amount equal to such deficiency .
+ 1.5.3 Adjustment to Preliminary Cash Payment and Contingent Payment . To the extent any foreign accounts of clients of BHC
+Correspondent Customers do not comply with Schedule 1.5.3  as of the Closing Date, excluding any such foreign accounts that Buyer has agreed
+to retain (the “ Closed Foreign Accounts ”), the annualized Net Revenue of the Closed Foreign Accounts that is part of the Annualized 2004
+Customer Account Revenue shall be multiplied by 3.7 (the resulting product, the “ Shortfall ”). The amount of the Shortfall up to $10,000,000
+shall reduce the Preliminary Cash Payment by a like amount. The portion of the Shortfall over $10,000,000, if any , shall reduce the maximum
+Contingent Payment in Section 6.7.1 by a like amount, but not below $5,000,000. For purposes of Section 6.7.1 only , (i) the annualized 2004 Net
+Revenue for the Closed Foreign Accounts will reduce the Annualized 2004 Customer Account Revenue used to calculate the Contingent Payment
+and (ii) the Year One Net Revenue for the Closed Foreign Accounts will reduce the Qualifying Revenue used to calculate the Contingent
+Payment.
+ 
+1.6 Preparation of Closing Date Balance Sheet and Net Capital Schedule .
+ 1.6.1 Estimated Net Capital Schedule . Within ten days prior to the expected Closing Date, Seller will, in consultation with Buyer , prepare
+and deliver to Buyer a schedule in the form and substance of Schedule 1.6.1  (the “ Estimated Net Capital Schedule ”) setting forth, in reasonable
+detail, Seller ’s estimate of the Net Capital (the “ Estimated Net Capital ”) as of the close of business on the Closing Date. The Estimated Net
+Capital Schedule shall be derived from an estimated balance sheet of BHC and its Subsidiaries as of the Closing Date prepared (a) in accordance
+with GAAP  applied on a basis consistent with the preparation of the BHC Financial Statements, (b) to reflect (i) any dividends or distributions
+provided for in Section 3.1.1(g) and (ii) the settlements, dividends and assignments provided for in Sections 3.1.7, 3.2.6, 3.7, 4.2.6 and 4.2.10 and
+(c) in a manner consistent with the pre-closing adjustments that Buyer and Seller have agreed to with regard to the treatment of certain items as
+set forth on Schedule 1.6.1 , notwithstanding that such adjustments and the treatment of such items may not be in accordance with GAAP  or with
+Rule 15c3-l.
+ 1.6.2 Draft Net Capital Schedule . Within seventy-five days after the Closing Date, Buyer will prepare and deliver to Seller a schedule in the
+form and substance of Schedule 1.6.1  (the “ Draft Net Capital Schedule ”) setting forth, in reasonable detail and as of the Closing Date, Buyer ’s
+estimate of the Net Capital as of the close of business on the Closing Date. The Draft Net Capital Schedule shall be derived from a balance sheet
+of BHC and its Subsidiaries as of the Closing Date prepared (a) in accordance with GAAP  applied on a basis consistent with the preparation of
+the BHC Financial Statements, (b) to reflect (i) any dividends or distributions provided for in Section 3.1.1(g) and (ii) the settlements, dividends
+and assignments provided for in Sections 3.1.7, 3.2.6, 3.7, 4.2.6 and 4.2.10, and (c) in a manner consistent with the pre-closing adjustments that
+Buyer and Seller have agreed to with regard to the treatment of certain items as set forth on Schedule 1.6.1 , notwithstanding that such
+adjustments and the treatment of such items may not be in accordance with GAAP  or with Rule 15c3-l (as so adjusted in accordance with clauses
+(a), (b) and (c), the “ Closing Date Balance Sheet ”). In no event shall any
+ 
+3
+--- Page 9 ---
+entitlement to a refund of penalties described in clause (i) of Schedule 2.1.6(a)  be treated as an asset for purposes of the Closing Date Balance
+Sheet or Net Capital Schedule.
+ 1.6.3 Objections . If Seller has any objections to the Draft Net Capital Schedule, it will deliver a statement describing its objections in
+reasonable detail to Buyer within thirty days after receiving the Draft Net Capital Schedule. If no objections are made within thirty days, the
+Draft Net Capital Schedule shall be conclusive and binding upon Buyer and Seller . If Seller raises any objections, Buyer and Seller will use
+reasonable ef forts to resolve any such objections themselves. If Buyer and Seller do not obtain a final resolution within thirty days after Buyer
+has received the statement of objections, however , KPMG, LLP  (or if KPMG, LLP  is not independent or able to act, such other nationally
+recognized accounting firm as may be agreeable to Buyer and Seller) (the “ Accounting Firm ”‘) will resolve any remaining objections within
+thirty days. Buyer will revise the Draft Net Capital Schedule as appropriate to reflect the resolution of any objections thereto pursuant to this
+Section 1.6.2. The “ Net Capital Schedule ” shall mean the Draft Net Capital Schedule, as it may be revised pursuant to this Section 1.6.2.
+ 1.6.4 Expenses . In the event Buyer and Seller submit any unresolved objections to the Accounting Firm for resolution as provided in
+Section 1.6.2, Buyer and Seller will share responsibility for the fees and expenses of the Accounting Firm as follows:
+ (a) if the Accounting Firm resolves all of the remaining objections in favor of Buyer (the Net Capital so determined by Buyer is referred to
+herein as the “ Low Value”), Seller will be responsible for all of the fees and expenses of the Accounting Firm;
+ (b) if the Accounting Firm resolves all of the remaining objections in favor of Seller (the Net Capital so determined by Seller is referred to
+herein as the “ High Value”), Buyer will be responsible for all of the fees and expenses of the Accounting Firm; and
+ (c) if the Accounting Firm resolves some of the remaining objections in favor of Buyer and the rest of the remaining objections in favor of
+Seller (the Net Capital so determined is referred to herein as the “ Actual Value”), Seller will be responsible for that fraction of the fees and
+expenses of the Accounting Firm equal to (x) the dif ference between the High Value and the Actual Value over (y) the dif ference between the
+High Value and the Low Value, and Buyer will be responsible for the remainder of the fees and expenses.
+ 1.6.5 Work Papers . Buyer will make the work papers and back-up materials used in preparing the Closing Date Balance Sheet and the Draft
+Net Capital Schedule, and the books, records, and financial staf f of BHC and its Subsidiaries, available to Seller and its accountants and other
+representatives at reasonable times and upon reasonable notice at any time during (A) the preparation by Buyer of the Closing Date Balance
+Sheet and the Draft Net Capital Schedule, (B) the review by Seller of the Closing Date Balance Sheet and the Draft Net Capital Schedule, and
+(C) the resolution by Buyer and Seller of any objections thereto.
+ 
+1.7 Post-Closing Adjustment to Preliminary Cash Payment . The Preliminary Cash Payment will be adjusted as follows:
+ 1.7.1 Higher Net Capital . If the Net Capital (determined on the basis of the Net Capital Schedule) exceeds the Estimated Net Capital, Buyer
+will pay to Seller an amount equal
+ 
+4
+--- Page 10 ---
+to such excess (plus interest thereon at the Applicable Rate from the Closing Date) by wire transfer or delivery of other immediately available
+funds within three Business Days after the date on which the Net Capital for BHC and its Subsidiaries finally is determined pursuant to Section
+1.6 above.
+ 1.7.2 Lower Net Capital . If the Net Capital (determined on the basis of the Net Capital Schedule) is less than the Estimated Net Capital,
+Seller will pay to Buyer an amount equal to such deficiency (plus interest thereon at the Applicable Rate from the Closing Date) by wire transfer
+or delivery of other immediately available funds within three Business Days after the date on which the Net Capital for BHC and its Subsidiaries
+finally is determined pursuant to Section 1.6 above.
+ 
+1.8 Withholding . Buyer shall be entitled to deduct and withhold from all payments otherwise required to be made by it hereunder such amounts
+as Buyer may be required to deduct and withhold from such payment under the Code or under any provision of state, local or foreign law . To the extent
+that amounts are so withheld by the Buyer , such withheld amounts shall be treated for all purposes of this Agreement as having been paid to the person
+in respect of whom such deduction and withholding was made by Buyer .
+ 
+ARTICLE II
+REPRESENT ATIONS AND WARRANTIES
+ 
+2.1 Representations and Warranties of Parent and Seller . Parent and Seller , jointly and severally , represent and warrant to Buyer as follows:
+ 2.1.1 Authorization; No Conflicts; Status of BHC Group, etc.
+ (a) Due Or ganization, etc . Schedule 2.1.1 (a)  sets forth a correct and complete list of each member of the BHC Group, its form and
+jurisdiction of or ganization and each jurisdiction in which such member is qualified to do business. Each of Parent, Seller and each member of
+the BHC Group is a corporation, partnership or limited liability company duly or ganized, validly existing and in good standing under the laws of
+its respective jurisdiction of or ganization, with the requisite corporate, partnership or limited liability company power and authority , as
+applicable, to carry on its business as now conducted and to own or lease and to operate its properties as and in the places where such business is
+now conducted and such properties are now owned, leased or operated. Each of Parent, Seller and each member of the BHC Group is duly
+qualified to do business and is in good standing as a foreign corporation, partnership or limited liability company , as applicable, in all
+jurisdictions, except where the failure to be so qualified, individually or in the aggregate, could not reasonably be expected to have a Material
+Adverse Ef fect on Parent, Seller or the BHC Group, as the case may be.
+ (b) Authorization, etc . Each of Parent and Seller has all requisite corporate power and authority to enter into this Agreement, to perform its
+obligations hereunder and to consummate the transactions contemplated hereby . The execution and delivery of this Agreement, and the
+consummation of the transactions contemplated hereby , by Parent and Seller have been duly authorized by all requisite corporate action of Parent
+and Seller . This Agreement has been duly executed and delivered by Parent and Seller and constitutes the valid and legally
+ 
+5
+--- Page 11 ---
+binding obligation of Parent and Seller , enforceable against Parent and Seller in accordance with its terms.
+ (c) No Conflicts . Except as set forth in Schedule 2.1.1(c),  the execution and delivery of this Agreement by Parent and Seller and the
+consummation by Parent and Seller of the transactions contemplated hereby will not contravene, result in any violation of, loss of rights or
+default under , constitute an event creating rights of acceleration, termination, repayment or cancellation under , entitle any party to receive any
+payment or benefit pursuant to, or result in the creation of any Lien upon any of the properties or assets (which includes owned and leased
+properties or assets) of Parent, Seller or any member of the BHC Group under , (i) any provision of the Or ganizational Documents of Parent,
+Seller or any member of the BHC Group, (ii) any Applicable Law applicable to Parent, Seller or any member of the BHC Group or any of their
+respective properties, (iii) any commitment of Parent or any of its Subsidiaries or (iv) any agreement, contract or license to which Parent or any
+of its Subsidiaries is a party or any BHC Contract, except with respect to clauses (ii), (iii) and (iv), for any such contraventions, violations, losses,
+defaults, accelerations, terminations, repayments, cancellations or Liens that, individually or in the aggregate, could not reasonably be expected
+to have a Material Adverse Ef fect on Parent, Seller or the BHC Group. Except as set forth in Schedule 2.1.l(c) , no Governmental Approval (other
+than pursuant to the HSR Act) or other Consent is required to be obtained or made by any member of the BHC Group in connection with the
+execution and delivery of this Agreement by Parent and Seller or the consummation by Parent and Seller of the transactions contemplated hereby .
+ (d) Organizational Documents, etc . Seller has made available to Buyer complete and correct copies of the Or ganizational Documents, as in
+effect on the date hereof, of each member of the BHC Group.
+ 2.1.2 Capitalization .
+ (a) BHC . The authorized capital stock of BHC consists of 1,000 shares of Common Stock, of which 1,000 shares are issued and
+outstanding. All of the BHC Shares have been duly authorized and validly issued and are fully paid and non-assessable, and are owned
+beneficially and of record by Seller . Seller has good and marketable title to the BHC Shares, free and clear of any Liens. There are no voting
+trusts, stockholder agreements, proxies or other agreements or understandings in ef fect with respect to the voting or transfer of any of the BHC
+Shares or any such interests.
+ (b) Other Members of the BHC Group . Schedule 2.1.2(b)  sets forth a complete and correct description of the authorized capital stock or
+other equity interests of each member of the BHC Group (other than BHC) and the amount of such stock or other equity interests that are issued
+and outstanding. All of such outstanding shares of stock or other equity interests of each member of the BHC Group (other than BHC) have been
+duly authorized and validly issued and are fully paid and nonassessable, and are owned beneficially and of record by a member of the BHC
+Group or Seller , free and clear of any Liens. There are no voting trusts, stockholder agreements, proxies or other agreements or understandings in
+effect with respect to the voting or transfer of any of the shares of stock or other equity interests of any member of the BHC Group (other than
+BHC).
+ 
+6
+--- Page 12 ---
+(c) Other Agreements with Respect to BHC Group Securities . There are no preemptive or similar rights on the part of any Person with
+respect to the issuance of any securities or equity interests of any member of the BHC Group. There are no subscriptions, options, warrants or
+other similar rights, agreements or commitments of any kind obligating any member of the BHC Group to issue or sell, or to cause to be issued or
+sold, or to repurchase or otherwise acquire any of their own respective securities or equity interests or securities convertible into or exchangeable
+for, or any options, warrants or other similar rights relating to, any such securities or equity interests.
+ (d) Other Investments . Except as set forth in Schedule 2.1.2(d)  and except for securities of and other interests in members of the BHC
+Group, investments in publicly traded securities acquired or held in the ordinary course of business as trading inventory and cash equivalents, no
+member of the BHC Group holds any outstanding securities or other interests in any corporation, partnership, company , joint venture or other
+entity .
+ 2.1.3 Financial Information; Books and Records and Customer Account Information .
+ (a) Seller has delivered to Buyer the BHC Financial Statements. The BHC Financial Statements have been prepared in accordance with
+generally accepted accounting principles in the United States (“ GAAP ”) applied on a consistent basis throughout the periods presented in the
+BHC Financial Statements; provided , however , that the unaudited BHC Financial Statements lack footnotes and other presentation items and are
+also subject to normal year -end adjustments, the ef fect of which adjustments will not, individually or in the aggregate, be materially adverse. The
+consolidated balance sheets of BHC and its Subsidiaries included in the BHC Financial Statements present fairly in all material respects the
+financial position of BHC and its Subsidiaries as at the respective dates thereof; and the consolidated statements of operations, statements of
+changes in stockholders’  equity and statements of cash flows of BHC and its Subsidiaries included in the BHC Financial Statements present
+fairly in all material respects the results of operations, stockholders’  equity and cash flows of BHC and its Subsidiaries for the respective periods
+indicated.
+ (b) The BHC Financial Statements were prepared in accordance with the Books and Records of the BHC Group, as applicable. The Books
+and Records of the BHC Group: (i) reflect all items of income and expense and all the assets and liabilities necessary to derive the BHC
+Financial Statements in accordance with GAAP , (ii) are in all material respects complete, and do not contain or reflect any material inaccuracies
+or discrepancies and (iii) have been maintained in accordance with good business and accounting practices.
+ (c) The minute books of each member of the BHC Group which pertain to the five-year period ending on the date of this Agreement
+contain accurate records of those meetings and accurately reflect those actions taken by the stockholders, the members and the board of directors
+(or equivalent body) of each member of the BHC Group and all the committees of the board of directors of each member of the BHC Group
+required to be contained or reflected therein. All of the Books and Records or Customer Account Information of any member of the BHC Group
+are under the exclusive ownership and control of such member of the BHC Group and are recorded, stored, maintained, operated or otherwise
+wholly or partly dependent on or
+ 
+7
+--- Page 13 ---
+held by any means (including any electronic, mechanical, microfiche or photographic process, whether computerized or not) that (including all
+means of access thereto and therefrom) is under the control of each member of the BHC Group.
+ (d) The BHC Group maintains a system of internal accounting controls suf ficient to provide reasonable assurance that with respect to the
+business conducted by the BHC Group (i) material transactions are executed in accordance with management’ s general or specific authorization;
+(ii) transactions are recorded as necessary to permit preparation of financial statements of the BHC Group in conformity with GAAP  and to
+maintain asset accountability; (iii) access to assets is permitted only in accordance with management’ s general or specific authorization; and (iv)
+the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to
+any dif ferences.
+ (e) The Customer Account Information has been maintained in accordance with United States Applicable Law . The Books and Records and
+Customer Account Information of the BHC Group (other than those that are in the form of electronic mail) are in a format that can be retrieved
+without unreasonable ef fort or expense in response to any customer request or inquiry from any Governmental Authority for the period required
+by Applicable Law . The Books and Records and Customer Account Information of the BHC Group that are in the form of electronic mail are in a
+format that can be retrieved in response to any customer request or inquiry from any Governmental Authority for the period required by
+Applicable Law .
+ 2.1.4 Undisclosed Liabilities . Except as set forth on Schedule 2.1.4,  no member of the BHC Group is subject to any obligation or liability
+of any nature, whether absolute, accrued, contingent or otherwise and whether due or to become due, and, to the Knowledge of Seller , there is no
+existing condition, situation or set of circumstances which would reasonably be expected to result in such an obligation or liability , other than (i)
+obligations and liabilities contemplated by or in connection with this Agreement or the transactions contemplated hereby , (ii) as and to the extent
+disclosed or reserved against in the audited consolidated balance sheet as at December 31, 2003 included in BHC Financial Statements, (iii)
+obligations and liabilities incurred since December 31, 2003 in the ordinary course of business consistent with past practices and not prohibited
+by this Agreement and (iv) obligations and liabilities that could not, individually or in the aggregate, reasonably be expected to have a Material
+Adverse Ef fect on the BHC Group.
+ 2.1.5 Absence of Changes . Since December 31, 2003, except (i) as set forth in Schedule 2.1.5 , (ii) as reflected or reserved against in the
+BHC Financial Statements, or (iii) as contemplated by or in connection with this Agreement or the transactions contemplated hereby (including,
+without limitation, in Section 3.1.1 of this Agreement), the business of the BHC Group has been conducted in the ordinary course consistent with
+past practices and no member of the BHC Group (and, with respect to clause (r), neither Seller nor any of its Affiliates) has:
+ (a) under gone any change in its business, financial condition, results of operations or properties (other than changes resulting solely from
+general economic or political conditions) that, individually or in the aggregate, has had or could reasonably be expected to have a Material
+Adverse Ef fect on the BHC Group;
+ 
+8
+--- Page 14 ---
+(b) declared, set aside, made or paid any dividend or other distribution in respect of its capital stock, or repurchased, redeemed or otherwise
+acquired any shares of its capital stock, except in the ordinary course of business consistent with past practices (which past practices shall
+include, but not be limited to, the payment by BHC of the BHC Group’ s allocable share of the Income Taxes of the Seller Group for any Pre-
+Closing Period, whether through a declaration and payment of dividends by BHC or through other means);
+ (c) issued or sold any shares of its capital stock, securities treated as equity interests in any member of the BHC Group for federal income
+tax purposes or any options, warrants or other similar rights, agreements or commitments of any kind to purchase any such shares or securities or
+any securities convertible into or exchangeable for any such shares or securities;
+ (d) incurred, assumed, guaranteed (including by way of any agreement to “keep well” or of any similar arrangement) or prepaid any
+Indebtedness or amended the terms relating to any Indebtedness, or issued or sold any debt securities not in the ordinary course of business and
+in excess of $500,000;
+ (e) made any loan or modified any material term of any outstanding loan (except as required by Applicable Law) to any BHC Customer ,
+except for loans made or terms modified in the ordinary course of business consistent with past practice;
+ (f) sold, transferred, assigned, conveyed, mortgaged, pledged or otherwise subjected to any Lien any of its properties or assets (which
+includes owned or leased properties or assets), tangible or intangible, except for BHC Permitted Encumbrances or in the ordinary course of
+business consistent with past practices;
+ (g) entered into any agreement or commitment involving payment by the BHC Group of more than $250,000 that, pursuant to its terms, is
+not cancelable without penalty on 60 days’  notice or less;
+ (h) paid (or committed to pay) any bonus or other incentive compensation to any director , partner , officer or other employee (other than a
+new hire) or granted (or committed to grant) to any director , partner , officer or other employee any other increase in compensation, except for
+bonuses payable pursuant to any plan listed on Schedule 2.1.5,  base salary or wage increases, in each case in the ordinary course of business
+consistent with past practices or pursuant to the terms of any written agreement or commitment existing at December 31, 2003;
+ (i) entered into, adopted or amended (or committed to enter into, adopt or amend) in any material respect any employment, separation,
+retention, change in control, collective bar gaining, deferred compensation, retirement, bonus, profit-sharing, stock option or other equity , pension
+or welfare plan, contract or other arrangement with an independent contractor or agreement maintained for the benefit of any director , partner ,
+officer, or other employee;
+ (j) suf fered any strike or other labor dispute or controversies, including unresolved grievances, arbitrations or unfair labor practice char ges
+that has had or could reasonably be expected to have a Material Adverse Ef fect on the BHC Group;
+ 
+9
+--- Page 15 ---
+(k) amended its Or ganizational Documents;
+ (1) granted any rights or licenses under any of its trademarks or trade names or other BHC Intellectual Property or entered into any
+licensing or similar agreements or arrangements other than in the ordinary course of business consistent with past practices;
+ (m) made any material changes in its general policies or practices relating to selling practices, discounts or other material terms of sale or
+accounting therefor other than in the ordinary course of business consistent with past practices;
+ (n) changed in any material respect its accounting practices, methods, policies or principles, other than any such changes as may be
+required under GAAP;
+ (o) suf fered any damage, destruction or other casualty loss (whether or not covered by insurance) af fecting its properties or assets (which
+includes owned and leased properties and assets) which, individually or in the aggregate, could reasonably be expected to have a Material
+Adverse Ef fect on the BHC Group;
+ (p) mer ged with, entered into a consolidation with, or acquired an interest of five percent (5%) or more in any Person or acquired a
+substantial portion of the assets or business of any Person or any division or line of business thereof, or otherwise acquired any material assets;
+ (q) made any capital expenditure or commitment for any capital expenditure in excess of $250,000;
+ (r) made any elections with respect to Taxes that af fect any member of the BHC Group, changed any method of accounting for Tax
+purposes of any member of the BHC Group or of any consolidated, combined, unitary or similar group that included a member of the BHC
+Group or settled or agreed to an entry of judgement with respect to any dispute involving Tax matters of any member of the BHC Group; or
+ (s) taken any action or omitted to take any action that would result in the occurrence of any of the foregoing.
+ 2.1.6 Taxes.
+ (a) Filing of BHC Tax Returns and Payment of Taxes. Except as set forth on Schedule 2.1.6(a) , all material Seller Group Tax Returns and
+all material BHC Tax Returns required to be filed on or before the date hereof have been filed with the proper Governmental Authorities and are
+true, correct and complete in all material respects, and all material Seller Group Tax Returns and all material BHC Tax Returns required to be
+filed on or before the Closing Date will have been filed by the Closing Date in accordance with Applicable Law and will be true, correct and
+complete in all material respects. Except for Taxes set forth on Schedule 2.1.6(a)  (which are being contested in good faith and by appropriate
+proceedings), all material Taxes of any member of the BHC Group and all material Taxes of each Seller Group (in each case whether or not
+shown on a BHC Tax Return or a Seller Group Tax Return) due and payable on or before the Closing Date have (or , in the case of Taxes that
+become due after the
+ 
+10
+--- Page 16 ---
+date hereof and on or before the Closing Date, by the Closing Date will have) been duly paid. Except as set forth on Schedule 2.1.6(a) , all
+material BHC Employment and Withholding Taxes required to be withheld and paid on or before the date hereof, and all material BHC
+Employment and Withholding Taxes required to be withheld and paid on or before the Closing Date, have (or , in the case of such BHC
+Employment and Withholding Taxes that are required to be withheld and paid after the date hereof and on or before the Closing Date, by the
+Closing Date will have) been duly paid to the proper Governmental Authority (and in the case of BHC Employment and Withholding Taxes
+required to be withheld on or before the Closing Date and paid after the Closing Date, will be properly set aside in accounts for such purpose).
+ (b) Extensions, etc . Except as set forth on Schedule 2.1.6(b) , (i) there are currently in ef fect no extensions or waivers of the time for
+assessing or collecting any Taxes of any member of the BHC Group or any Taxes of any Seller Group and there are currently in ef fect no powers
+of attorney with respect to Tax matters involving any member of the BHC Group, (ii) neither Seller nor any of its Affiliates has requested any
+extension of time within which to file any Seller Group Tax Return that has not been filed within such extension period; (iii) no member of the
+BHC Group has requested any extension of time within which to file any BHC Tax Return that has not been filed within such extension period;
+(iv) there are no requests for rulings in respect of any BHC Taxes pending between any member of the BHC Group and any Governmental
+Authority; (v) no member of the BHC Group has received a ruling from any Governmental Authority regarding Taxes that remains in ef fect; and
+(vi) no member of the BHC Group has entered into an agreement with any Governmental Authority regarding Taxes which remains in ef fect.
+ (c) Tax Filing Groups . Except as set forth on Schedule 2.1.6(c) , no member of the BHC Group (i) is or has been at any time within the last
+six (6) years a member of any af filiated, consolidated, combined or unitary group for Tax purposes other than the Seller Group or (ii) has any
+liability for the Taxes of any person (other than, in the case of clause (w), the Seller Group) (w) under Section 1.1502-6 of the United States
+Treasury Regulations, or any similar provision of state, foreign or local law , (x) as a transferee, successor , indemnitor or guarantor , (y) by
+contract or (z) otherwise.
+ (d) Copies of BHC Tax Returns; Audits; etc . Except as set forth in Schedule 2.1.6(d) , Seller has made available to Buyer complete and
+accurate copies of all BHC Tax Returns as filed and, if applicable, as amended, with respect to all open tax periods that have been filed. Except as
+set forth on Schedule 2.1.6(d) , (i) no Taxes have been asserted by any Governmental Authority to be due in respect of any open tax period of any
+Seller Group or any member of the BHC Group that have not been settled and fully paid as settled, (ii) no revenue agent’ s report or written
+assessment for Taxes of any Seller Group or any member of the BHC Group has been received by Seller or any of its Affiliates for any open tax
+period and (iii) no issue has been raised by any Governmental Authority in a writing received by Seller or any of its Affiliates that has not been
+resolved with respect to Taxes of any Seller Group or any member of the BHC Group.
+ (e) Tax Sharing Agreements . Except as set forth on Schedule 2.1.6(e) , no member of the BHC Group is a party to or bound by or has any
+contractual obligation under any Tax sharing agreement or arrangement.
+ 
+11
+--- Page 17 ---
+(f) Tax Classification . Each member of the BHC Group is treated as a corporation and as a “United States person” for U.S. federal income
+tax purposes. No member of the BHC Group owns an interest in an entity that is treated as a partnership for federal income tax purposes.
+ (g) Eligibility for Section 338(h)(10) Election . Seller owns all of the interests in BHC that are treated as equity for U.S. federal income tax
+purposes. All of the interests in each member of the BHC Group (other than BHC) that are treated as equity for U.S. federal income tax purposes
+are owned by a single other member of the BHC Group. Parent is and will on the Closing Date be the “common parent” (as defined in Treasury
+Regulations Section1. 1502-77(a)(l)(i)) of a U.S. federal consolidated return group that includes Seller , BHC and each member of the BHC
+Group. Parent is eligible to join with Buyer (or the common parent of a U.S. federal consolidated return group that includes Buyer) in making the
+elections provided for in Section 3.3 hereof.
+ (h) Assertions of Jurisdiction . Schedule 2.1.6(h)  sets forth a list of the states, territories and jurisdictions (foreign and domestic) to which
+any material Tax has been paid by any member of the BHC Group or by Seller Group in respect of operations of any member of the BHC Group,
+indicating the type of Tax paid. No claim has been made by any Governmental Authority (i) in any other state, territory or jurisdiction that any
+member of the BHC Group (or any Seller Group by virtue of the activities of any member of the BHC Group) is or may be subject to Tax in that
+jurisdiction or (ii) in any such state, territory or jurisdiction that any member of the BHC Group (or any Seller Group by virtue of the activities of
+any member of the BHC Group) is or may be subject to a type of Tax not indicated for such jurisdiction on Schedule 2.1.6(h) .
+ (i) Specified Tax Items . No member of the BHC Group is a party to any “safe harbor lease” that is subject to the provisions of Section
+168(f)(8) of the Internal Revenue Code as in ef fect prior to the Tax Reform Act of 1986, or to any “long-term contract” within the meaning of
+Section 460 of the Code. None of the assets or properties of any member of the BHC Group constitutes tax-exempt use property under Section
+168 of the Code. Seller is not a foreign person as used in Section 1445 of the Code, and Buyer is not required to withhold tax on the acquisition
+of the Shares by reason of Section 1445 of the Code. No member of the BHC Group has participated in an international boycott as defined in
+Section 999 of the Code. No member of the BHC Group is required to make any adjustment under Section 481 (a) of the Code by reason of a
+change in accounting method or otherwise for a period after the Closing Date. No member of the BHC Group has been the “distributing
+corporation” (within the meaning of Section 355(e)(2) of the Code) with respect to a transaction described in Section 355 of the Code.
+ (j) Required Disclosure of Reportable Transactions . No member of the BHC Group has entered into any transaction that constitutes a
+“reportable transaction” within the meaning of Treasury Regulations Section 1.601 l-4(b) or a “potentially abusive tax shelter” within the
+meaning of Section 61 12(b) of the Code or which is required to be disclosed under provisions of state law similar to Treasury Regulations
+Section 1.601 1-4.
+ 2.1.7 Properties and Assets . Schedule 2.1.7  sets forth a complete and correct list, as of the date hereof, of all real property leased by any
+member of the BHC Group, including
+ 
+12
+--- Page 18 ---
+the names of each of the parties to the applicable lease, the location of the applicable property and the applicable lease documents. None of the
+members of the BHC Group owns any real property . Each member of the BHC Group has valid title to all material personal property owned by it,
+and valid leasehold interests in all real and material personal property leased by it, in each case free and clear of all Liens, except (i) Liens
+specified in Schedule 2.1.7  or reflected in the BHC Financial Statements, (ii) Liens for taxes not yet delinquent or which are being contested in
+good faith by appropriate proceedings if adequate reserves with respect thereto are maintained on its books in accordance with GAAP , (iii)
+statutory Liens incurred in the ordinary course of business consistent with past practices that have not had and could not reasonably be expected
+to have a Material Adverse Ef fect on the BHC Group and (iv) Liens which do not materially detract from the value or materially interfere with
+the use of the properties af fected thereby (the exceptions described in the foregoing clauses (i), (ii), (iii) and (iv) being referred to collectively as
+“BHC Permitted Encumbrances” ). Schedule 2.1.7  sets forth a list of each Lease under which any member of the BHC Group is a lessee as to
+which the consummation by Seller of the transactions contemplated hereby would result in a violation of, loss of rights or default under or
+constitute an event creating rights of acceleration, termination or cancellation under such Lease. The Leases are the only documents between the
+parties thereto with respect to the subject matter thereof. No lessor or lessee under any real property Lease has exercised any right to (i) cancel
+such Lease or shorten or lengthen the term thereof, (ii) lease additional premises, (iii) reduce, relocate or expand the premises demised by such
+Lease, or (iv) purchase any property . No portion of any security deposit has been applied and the landlord is holding the full amount of any
+security deposit required under the applicable Lease. All rent, fees and other payments due under each Lease have been fully paid. Each Lease
+was negotiated at arms’-length and the tenant and landlord thereunder are not af filiated. Each premises demised by a Lease is in good condition
+and repair . The real property demised by the Leases is the only real property necessary for the business of the members of the BHC Group and no
+member of the BHC Group uses or occupies other real property other than the Denver Leases.
+ 2.1.8 Contracts .
+ (a) Schedule of Contracts, etc . Schedule 2.1.8(a)  sets forth a correct and complete list, as of the date hereof, of all BHC Contracts. The term
+“BHC Contracts ” means all agreements, contracts, licenses and commitments, including material oral agreements, of the following types to
+which any member of the BHC Group is a party or by which any member of the BHC Group or its respective properties is bound and which is
+currently in ef fect, as amended, supplemented, waived or otherwise modified as of the date hereof: (i) “dual employee” contracts, clearing
+services contracts and contracts for the performance of other services provided to financial intermediaries (other than financial intermediaries that
+are customers of BHC Correspondent Customers); (ii) employment, retention, material independent contractor arrangements, change in control
+and collective bar gaining agreements, if any , with any directors, of ficers, other employees, or trade unions, of any member of the BHC Group;
+(iii) mortgages, indentures, security agreements relating to indebtedness for borrowed money , letters of credit, promissory notes, loan agreements
+and other material agreements, guarantees and instruments relating to the borrowing of money or extension of credit; (iv) material licenses and
+other similar material agreements involving Intellectual Property; (v) joint venture, partnership and similar agreements; (vi) stock purchase
+agreements, asset purchase agreements and other acquisition or divestiture agreements; (vii) personal property leases providing for annual rentals
+of $250,000 or
+ 
+13
+--- Page 19 ---
+more; (viii) agreements, contracts and commitments for the purchase or sale of supplies, services, equipment or other assets that provide for
+annual payments of $500,000 or more; (ix) any other agreements, contracts, licenses or commitments that are material to the business, financial
+condition, results of operations or properties of any member of the BHC Group; (x) any guaranty (including by way of any agreement to “keep
+well” or any similar arrangements) of any of the foregoing and (xi) the Leases. No member of the BHC Group has made any loan which is
+secured by a mortgage or services any mortgages or otherwise is engaged in mortgage banking activities. Seller has made available to Buyer for
+inspection complete and correct copies of all BHC Contracts, including a description of any material oral agreements.
+ (b) No Defaults, etc . Except as set forth in Schedule 2.1.8(b) , excluding any failure to obtain Consents with respect to the BHC Contracts
+listed in Schedule 2.l.l(c)  and further excluding those matters which could not, individually or in the aggregate, reasonably be expected to have a
+Material Adverse Ef fect on the BHC Group (i) each BHC Contract is in full force and ef fect in all material respects, enforceable in accordance
+with its terms against the applicable member of the BHC Group that is party thereto and, to the Knowledge of Seller

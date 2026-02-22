@@ -1,0 +1,286 @@
+--- Page 1 ---
+EX-10.1 2 nt10017562x2_ex10-1.htm EXHIBIT 10.1
+Exhibit 10.1
+BACKSTOP COMMITMENT AGREEMENT
+THIS BACKSTOP COMMITMENT AGREEMENT (this “Agreement”), dated as of December 7, 2020, is by and between
+Condor Hospitality Trust, Inc., a Maryland corporation (the “Company”), and SREP III Flight-Investco 2, L.P., a Delaware limited
+partnership (the “Backstop Investor”).
+RECITALS 
+WHEREAS, the Company contemplates a Rights Offering of $10 million to its shareholders of record as of a record date to
+be set for the Rights Offering;
+WHEREAS, the Backstop Investor desires to backstop the Rights Offering on a standby basis to facilitate the transaction;
+WHEREAS, the Company plans to obtain shareholder approval for the private offering to the Backstop Investor contemplated
+herein at a special meeting of the Company’s shareholders to be held on or prior to January 31, 2021 in accordance with NYSE
+American Company Guide Section 713 (“Shareholder Approval”); and
+WHEREAS, subject to the terms and conditions set forth in this Agreement and pursuant to an exemption from the
+registration requirements of Section 5 of the Securities Act provided under Section 4(a)(2) thereof and/or Regulation D thereunder, the
+Company desires to sell, and the Backstop Investor desires to purchase, securities of the Company as more fully described in this
+Agreement.
+NOW, THEREFORE, IN CONSIDERATION of the mutual covenants contained in this Agreement, and for good and
+valuable consideration the receipt and adequacy of which are hereby acknowledged, the Backstop Investor and the Company agree as
+follows:
+ARTICLE I
+DEFINITIONS
+Section 1.1 Definitions. The following terms shall be defined as set forth herein:
+“Backstop Commitment” means Backstop Investor’s agreement to purchase, at a price per share equal to the Backstop
+Purchase Price, an aggregate number of shares of Common Stock equal to (x) $10.0 million minus (y) the aggregate proceeds of the
+Rights Offering, divided by the Subscription Price.
+“Backstop Purchase Price” means $2.50 per share of Common Stock.
+“Backstop Shares” means shares of Common Stock purchased pursuant to the Backstop Commitment.
+“Closing” means the issue and sale of the Rights Shares to Rights Holders and the Backstop Shares to the Backstop Investor.
+“Closing Date” means the proposed date of the Closing.
+“Common Stock” means common stock of the Company, $0.01 per share.
+“Note” means that certain Convertible Promissory Note and Loan Agreement dated November 18, 2020 executed by the
+Company in favor of Backstop Investor.
+“Prospectus” means the prospectus to be included in Registration Statement.
+“Registration Statement” means the registration statement on Form S-11 with respect to the Rights Offering to be filed with
+the Securities and Exchange Commission on or promptly after the date of this Agreement and as may be amended from time to time.
+--- Page 2 ---
+“Rights Holder” means shareholder of record of the Company on the record date for the Rights Offering that has been granted
+subscription rights to purchase shares of Common Stock in the Rights Offering.
+“Rights Offering” means the Company’s public offering of subscription rights to its Rights Holders to purchase their pro rate
+share of 4,000,000 shares of Common Stock at the Subscription Price, without oversubscription rights.
+“Rights Shares” means shares of Common Stock issued and sold in the Rights Offering.
+“Securities Act” means the Securities Act of 1933, as amended.
+“Shareholder Approval” means approval by the shareholders of the Company for the sale and issuance of shares to the
+Backstop Investor in accordance with NYSE American Company Guide Section 713.
+“Subscription Price” means $2.50 price per share of Common Stock in the Rights Offering.
+ARTICLE II
+RIGHTS OFFERING; BACKSTOP COMMITMENT
+Section 2.1 Rights Offering.
+The Company shall commence the Rights Offering promptly after receiving the Shareholder Approval and shall keep the
+Rights Offering open for 16 calendar days (as such date may be extended by the Company upon the written approval of the Backstop
+Investor). The Rights Offering shall be conducted and consummated on the terms, subject to the conditions and in accordance with the
+Prospectus.
+Section 2.2. Backstop Commitment.
+(a) On the terms and subject to the conditions contained herein, and in reliance on the representations and warranties set forth
+in this Agreement, the Backstop Investor hereby agrees to purchase, and the Company hereby agrees to sell and issue to the Backstop
+Investor, at the Backstop Purchase Price therefor, the Backstop Shares.
+(b) No later than one business day following the expiration date of the Rights Offering, the Company shall give, or cause to be
+given, to the Backstop Investor, by e-mail or by electronic facsimile transmission, a written notification (the “Backstop Notice”) setting
+forth the total number of shares of Common Stock subscribed for in the Rights Offering by Rights Holders, the number of then
+unsubscribed shares of Common Stock, the aggregate purchase price to be paid by the Backstop Investor for all Backstop Shares
+pursuant to the terms of this Agreement (“Backstop Purchase Price”) and the proposed date of the Closing (the “Closing Date”).
+(c) If the Backstop Investor (i) elects a Rights Offering Conversion (as defined in the Note) pursuant to Section 3.1 of the
+Note, the Backstop Purchase Price shall deemed to be paid by the Backstop Investor through the automatic conversion of outstanding
+principal under the Note on the Closing Date in an amount equal to the Backstop Purchase Price pursuant to such Rights Offering and
+(ii) does not elect a Rights Offering Conversion pursuant to Section 3.1 of the Note, the Backstop Investor shall remit, via wire transfer
+of immediately available funds, the Backstop Purchase Price as per the wire instructions set forth in the Backstop Notice on the Closing
+Date.
+(d) At the Closing, the Company shall cause its transfer agent to credit the number of Backstop Shares to which the Backstop
+Investor is entitled to the Backstop Investor’s or its designee’s account in book entry form and deliver to the Backstop Investor such
+certificates, documents or instruments required to be delivered by it to the Backstop Investor pursuant to this Agreement.
+(e) The Company and Backstop Investor acknowledge that an exemption from the ownership limitation (“Ownership Limit
+Exemption”) set forth in the Company’s Articles of Incorporation similar to that previously provided to permit the issuance of securities
+of the Company to affiliates of the Backstop Investor will similarly be required for the issuance of the Backstop Shares to the Backstop
+Investor and the Backstop Investor is prepared to make, and will make, the required representations, and execute documents with the
+same substance and content as the representations and documents previously made and executed in connection with the issuance of
+securities of the Company to affiliates of the Backstop Investor. The Company shall grant the Ownership Limit Exemption upon receipt
+of the representations, documents as reasonably requested by the Company from the Backstop Investor and/or its affiliates.
+--- Page 3 ---
+Section 2.3 Conditions to Backstop Investor’s Obligations. The obligations of the Backstop Investor hereunder are subject to the
+following conditions being met:
+(a) the Rights Offering shall have been made in accordance with this Agreement and on terms substantially as stated in the
+Prospectus;
+(b) the expiration date of the Rights Offering shall have occurred on or prior to May 31, 2021;
+(c) the representations and warranties of the Company set forth in Article III of this Agreement shall have been true and correct
+when made, shall remain true and correct as of the Closing Date except to the extent made as of a specific date and the Company shall
+deliver a certificate of an officer of the Company certifying as to the foregoing;
+(d) all obligations, covenants and agreements of the Company required to be performed at or prior to the expiration date of the
+Rights Offering shall have been performed, and the Company shall deliver a certificate of an officer of the Company certifying as to the
+foregoing;
+(e) the Company shall have granted the Ownership Limit Exemption by the Company to the Backstop Investor; and
+(f) the delivery of a Secretary’s Certificate certifying as to the Board of Directors resolutions approving the transactions
+contemplated hereby.
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES
+Section 3.1 Representations and Warranties of the Company. The Company hereby makes the representations and warranties set forth
+below to the Backstop Investor that:
+(a)          Due Incorporation, Qualification, etc. The Company (i) is a corporation duly organized, validly existing and in good
+standing under the laws of the State of Maryland; (ii) has the power and authority to own, lease and operate its properties and carry on
+its business as now conducted; and (iii) is duly qualified, licensed to do business and in good standing as a foreign corporation in each
+jurisdiction where the failure to be so qualified or licensed could reasonably be expected to have a material adverse effect on the
+Company.
+(b)          Authority. The execution, delivery and performance by the Company of this Agreement and the consummation of the
+transactions contemplated hereby (i) are within the power of the Company and (ii) subject to receipt of the Shareholder Approval in
+respect of the issuance of the Rights Shares and the Backstop Shares have been duly authorized by all necessary actions on the part of
+the Company.
+(c)          Enforceability. This Agreement has been duly executed and delivered by the Company and constitutes a legal, valid
+and binding obligation of the Company, enforceable against the Company in accordance with its terms, except as limited by
+bankruptcy, insolvency or other laws of general application relating to or affecting the enforcement of creditors’ rights generally and
+general principles of equity.
+(d)          Fully Paid.  All shares of Common Stock that are issuable as contemplated herein shall, upon issue, be duly
+authorized, validly issued, fully paid and nonassessable.
+--- Page 4 ---
+(e)          Non-Contravention. The execution and delivery by the Company of this Agreement and the performance and
+consummation of the transactions contemplated hereby do not and will not (i) violate the Articles of Incorporation or Bylaws of the
+Company, or any material judgment, order, writ, decree, statute, rule or regulation applicable to the Company or (ii) result in the
+creation or imposition of any lien upon any property, asset or revenue of the Company or the suspension, revocation, impairment,
+forfeiture, or nonrenewal of any material permit, license, authorization or approval applicable to the Company, its business or
+operations, or any of its assets or properties.
+(f)          Approvals. No consent, approval, order or authorization of, or registration, declaration or filing with, any
+governmental authority or other person or entity (including, without limitation, the shareholders of any person or entity) is required in
+connection with the execution and delivery of this Agreement by the Company and, except for Shareholder Approval and the
+Ownership Limit Exemption, the performance and consummation of the transactions contemplated hereby, other than such as have been
+obtained and remain in full force and effect and other than such qualifications or filings under applicable securities laws as may be
+required in connection with the transactions contemplated by this Agreement.
+(g)          Private Placement. Assuming the accuracy of the Backstop Investor’s representations and warranties set forth in
+Section 3.2, no registration under the Securities Act is required for the offer and sale of the Backstop Shares by the Company to the
+Backstop Investor as contemplated hereby.
+Section 3.2 Representations and Warranties of the Backstop Investor. The Backstop Investor hereby makes the representations and
+warranties set forth below to the Company:
+(a) Binding Obligation. The Backstop Investor has full legal capacity, power and authority to execute and deliver this
+Agreement and to perform its obligations hereunder. This Agreement constitutes a legal, valid and binding obligation of the Backstop
+Investor, enforceable against the Backstop Investor in accordance with its terms, except as limited by bankruptcy, insolvency or other
+laws of general application relating to or affecting the enforcement of creditors’ rights generally and general principles of equity.
+(b) Securities Law Compliance. The Backstop Investor has been advised that this Agreement and the Backstop Shares have not
+been registered under the Securities Act and any applicable state securities laws and, therefore, cannot be resold unless it or they are
+registered under the Securities Act and applicable state securities laws or unless an exemption from such registration requirements is
+available. The Backstop Investor is purchasing the Backstop Shares for its own account for investment, not as a nominee or agent, and
+not with a view to, or for resale in connection with, the distribution thereof, and the Backstop Investor has no present intention of
+selling, granting any participation in, or otherwise distributing the same. The Backstop Investor has such knowledge and experience in
+financial and business matters that the Backstop Investor is capable of evaluating the merits and risks of such investment, is able to
+incur a complete loss of such investment without impairing the Backstop Investor’s financial condition and is able to bear the economic
+risk of such investment for an indefinite period of time. The Backstop Investor is an “accredited investor” as such term is defined in
+Rule 501 of Regulation D under the Securities Act and shall submit to the Company such further assurances of such status as may be
+reasonably requested by the Company.
+(c) Access to Information. The Backstop Investor acknowledges that the Company has furnished the Backstop Investor with all
+documents and other information required for the Backstop Investor to make an informed decision with respect to the purchase of this
+Agreement.
+(d) Tax Advisors. the Backstop Investor has reviewed with its own tax advisors the U.S. federal, state and local and non-U.S.
+tax consequences of this investment and the transactions contemplated by this Agreement. With respect to such matters, the Backstop
+Investor relies solely on any such advisors and not on any statements or representations of the Company or any of its agents, written or
+oral. the Backstop Investor understands that it (and not the Company) shall be responsible for its own tax liability that may arise as a
+result of this investment and the transactions contemplated by this Agreement.
+(e) No “Bad Actor” Disqualification Events. Neither (i) the Backstop Investor, (ii) any of its directors, executive officers,
+general partners or managing members, nor (iii) any beneficial owner of any of the Company’s voting equity securities (in accordance
+with Rule 506(d) of the Act) held by the Backstop Investor if such beneficial owner is deemed to own 20% or more of the Company’s
+outstanding voting securities (calculated on the basis of voting power) is subject to any disqualifications described in Rule 506(d)(1)(i)
+through (viii) of the Act (“Disqualification Events”), except for Disqualification Events covered by Rule 506(d)(2)(ii) or (iii) or (d)(3)
+under the Act and disclosed reasonably in advance of the date hereof in writing in reasonable detail to the Company.
+--- Page 5 ---
+(f) 9.9% Ownership Limitation. The Backstop Party can make now and during the term of the Backstop Agreement, and can
+and will make in connection with the closing of the Backstop Commitment, the customary representations, including “look through”
+representations, to the Company as necessary for the board of directors of the Company to waive the application of the 9.9% ownership
+limitation provisions set forth in the charter of the Company with respect to securities beneficially owned, or to be acquired by, the
+Backstop Party and its affiliates
+ARTICLE IV
+TERMINATION
+Section 4.1 Termination.
+(a) Termination by the Backstop Investor. The Agreement may be terminated at any time by the Backstop Investor upon the
+failure of any of the conditions set forth in Section 2.3.
+(b) Termination by the Company. The Agreement may be terminated at any time by the Company if the Backstop Investor
+takes any action that would be a breach of this Agreement, and if such breach is not cured within five (5) business days after receipt of
+written notice from the Company to Backstop Investor.
+(c) Mutual Termination. This Agreement may be terminated by the mutual written consent of the Company and the Backstop
+Investor.
+(d) Automatic Termination. This Agreement will automatically terminate upon the date on which the Rights Offering is
+withdrawn or terminated.
+ARTICLE V
+MISCELLANEOUS
+Section 5.1 Integration. The Company shall not sell, offer for sale or solicit offers to buy or otherwise negotiate in respect of any
+security (as defined in Section 2 of the Securities Act) that would be integrated with the sale of the Backstop Shares in a manner that
+would require the registration under the Securities Act of the sale of the Backstop Shares or that would be integrated with the offer or
+sale of the Backstop Shares for purposes of the rules and regulations of any Trading Market such that it would require shareholder
+approval prior to the closing of such other transaction unless shareholder approval is obtained before the closing of such subsequent
+transaction.
+Section 5.2 Indemnification of Backstop Investor. Subject to the provisions of this Section 5.3, the Company will indemnify and hold
+Backstop Investor and its directors, officers, shareholders, members, partners, employees and agents (and any other Persons with a
+functionally equivalent role of a Person holding such titles notwithstanding a lack of such title or any other title), each Person who
+controls the Backstop Investor (within the meaning of Section 15 of the Securities Act and Section 20 of the Exchange Act), and the
+directors, officers, shareholders, agents, members, partners or employees (and any other Persons with a functionally equivalent role of a
+Person holding such titles notwithstanding a lack of such title or any other title) of such controlling persons (each, a “Backstop Investor
+Party”) harmless from any and all losses, liabilities, obligations, claims, contingencies, damages, costs and expenses, including all
+judgments, amounts paid in settlements, court costs and reasonable attorneys’ fees and costs of investigation that any such Backstop
+Investor Party may suffer or incur as a result of or relating to (a) any breach of any of the representations, warranties, covenants or
+agreements made by the Company in this Agreement or (b) any action instituted against the Backstop Investor Parties in any capacity,
+or any of them or their respective affiliates, by any shareholder of the Company who is not an affiliate of such Backstop Investor Party,
+with respect to any of the transactions contemplated hereunder (unless such action is based upon a breach of such Backstop Investor
+Party’s representations, warranties or covenants hereunder or any agreements or understandings such Backstop Investor Party may have
+with any such shareholder or any violations by such Backstop Investor Party of state or federal securities laws or any other conduct by
+such Backstop Investor Party which constitutes fraud or gross negligence). If any action shall be brought against any Backstop Investor
+Party in respect of which indemnity may be sought pursuant to this Agreement, such Backstop Investor Party shall promptly notify the
+Company in writing, and the Company shall have the right to assume the defense thereof with counsel of its own choosing reasonably
+acceptable to the Backstop Investor Party. Any Backstop Investor Party shall have the right to employ separate counsel in any such
+action and participate in the defense thereof, but the fees and expenses of such counsel shall be at the expense of such Backstop
+Investor Party except to the extent that (i) the employment thereof has been specifically authorized by the Company in writing, (ii) the
+Company has failed after a reasonable period of time to assume such defense and to employ counsel or (iii) in such action there is, in
+the reasonable opinion of such separate counsel, a material conflict on any material issue between the position of the Company and the
+position of such Backstop Investor Party, in which case the Company shall be responsible for the reasonable fees and expenses of no
+more than one such separate counsel. The Company will not be liable to any Backstop Investor Party under this Agreement (y) for any
+settlement by a Backstop Investor Party effected without the Company’s prior written consent, which shall not be unreasonably
+withheld or delayed; or (z) to the extent, but only to the extent that a loss, claim, damage or liability is attributable to any Backstop
+Investor Party’s breach of any of the representations, warranties, covenants or agreements made by such Backstop Investor Party in this
+--- Page 6 ---
+Agreement. The indemnification required by this Section 5.3 shall be made by periodic payments of the amount thereof during the
+course of the investigation or defense, as and when bills are received or are incurred. The indemnity agreements contained herein shall
+be in addition to any cause of action or similar right of any Backstop Investor Party against the Company or others and any liabilities
+the Company may be subject to pursuant to law.
+--- Page 7 ---
+Section 5.3 Notices. Any and all notices or other communications or deliveries required or permitted to be provided hereunder shall be
+in writing and shall be deemed given and effective on the earliest of: (a) the date of transmission, if such notice or communication is
+delivered via facsimile or e-mail at the facsimile number or e-mail address set forth on the signature pages attached hereto at or prior to
+5:30 p.m. (New York City time) on a business day, (b) the next business day after the date of transmission, if such notice or
+communication is delivered via facsimile or e-mail at the facsimile number or e-mail address set forth on the signature pages attached
+hereto on a day that is not a business day or later than 5:30 p.m. (New York City time) on any business day, (c) the second (2nd)
+business day following the date of mailing, if sent by U.S. nationally recognized overnight courier service or (d) upon actual receipt by
+the party to whom such notice is required to be given. The address for such notices and communications shall be as set forth on the
+signature pages attached hereto.
+Section 5.4 Assignment. All warranties and representations (as of the date such warranties and representations were made) made herein
+or in any certificate or other instrument delivered by it or on its behalf under this Agreement shall be considered to have been relied
+upon by the parties hereto and shall survive the issuance of the Backstop Shares. This Agreement shall inure to the benefit of and be
+binding upon the successors and permitted assigns of each of the parties; provided however that neither party may assign this
+Agreement or their obligations and rights hereunder without the prior written consent of the other party.
+Section 5.5 Execution. This Agreement may be executed in two or more counterparts, all of which when taken together shall be
+considered one and the same agreement and shall become effective when counterparts have been signed by each party and delivered to
+the other party, it being understood that both parties need not sign the same counterpart. In the event that any signature is delivered by
+facsimile transmission, such signature shall create a valid and binding obligation of the party executing (or on whose behalf such
+signature is executed) with the same force and effect as if such facsimile signature page were an original thereof.
+Section 5.6 Severability. If any provision of this Agreement is held to be invalid or unenforceable in any respect, the validity and
+enforceability of the remaining terms and provisions of this Agreement shall not in any way be affected or impaired thereby and the
+parties will attempt to agree upon a valid and enforceable provision that is a reasonable substitute therefor, and upon so agreeing, shall
+incorporate such substitute provision in this Agreement.
+Section 5.7 Governing Law. This Agreement shall be governed by, and construed in accordance with, the internal laws of the State of
+New York without regard to the principles of conflicts of laws. Each of the Company and the Backstop Investor hereto hereby
+irrevocably consents, to the maximum extent permitted by law, that any action or proceeding relating to this Agreement or the
+transactions contemplated hereby shall be brought, at the option of the party instituting the action or proceeding, in any court of general
+jurisdiction in New York County, New York, in the United States District Court for the Southern District of New York or in any state or
+federal court sitting in the area currently comprising the Southern District of New York. Each of the parties hereto waives any objection
+that it may have to the conduct of any action or proceeding in any such court based on improper venue or forum non conveniens,
+waives personal service of any and all process upon it, and consents that all service of process may be made by mail or courier service
+directed to it at the address set forth herein and that service so made shall be deemed to be completed upon the earlier of actual receipt
+or ten days after the same shall have been posted or delivered to a nationally recognized courier service. Nothing contained in this shall
+affect the right of any party hereto to serve legal process in any other manner permitted by law.
+--- Page 8 ---
+Section 5.8 Entire Agreement. This Agreement and the Note represents the entire understanding and agreement between the parties
+hereto with respect to the subject matter hereof.
+Section 5.9 Construction. The headings herein are for convenience only, do not constitute a part of this Agreement and shall not be
+deemed to limit or affect any of the provisions hereof. The language used in this Agreement will be deemed to be the language chosen
+by the parties to express their mutual intent, and no rules of strict construction will be applied against any party.
+Section 5.10 Fees and Expenses. Each party shall be responsible for legal fees and expenses in connection with the transactions
+contemplated hereby.
+ 
+[Signature Pages Follow]
+ 
+--- Page 9 ---
+IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be duly executed by their respective authorized
+signatories as of the date first indicated above.
+ 
+ SREP III FLIGHT-INVESTCO 2, L.P.
+  
+  
+ By: /s/ John Waters
+ Name:John Waters
+ Title:Partner
+ Address:2 Embarcadero Center, Suite #480
+San Francisco, CA 94111
+  
+  
+CONDOR HOSPITALITY TRUST, INC.  
+  
+  
+By: /s/ J. William Blackham
+Name:J. William Blackham  
+Title:Chief Executive Officer and President  
+Address:1800 W. Pasewalk Ave., Ste. 120  
+ Norfolk, Nebraska 68701

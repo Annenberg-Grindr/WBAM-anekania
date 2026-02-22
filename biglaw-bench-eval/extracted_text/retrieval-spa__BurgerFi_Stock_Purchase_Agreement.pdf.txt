@@ -1,0 +1,593 @@
+--- Page 1 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 1/108EX-2.1 2 d236685dex21.htm EX-2.1
+EXHIBIT 2.1
+Execution Version
+   
+AMENDED AND RESTATED STOCK PURCHASE AGREEMENT
+BY AND AMONG
+HOT AIR, INC.,
+CARDBOARD BOX LLC,
+AND
+BURGERFI INTERNATIONAL, INC.
+Dated as of November 3, 2021
+   
+--- Page 2 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 2/108TABLE OF CONTENTS
+ 
+ARTICLE I DEFINITIONS    1 
+ARTICLE II PURCHASE AND SALE    19 
+Section 2.01 Purchase and Sale    19 
+Section 2.02 Total Consideration    19 
+Section 2.03 Transactions to be Effected at the Closing    19 
+Section 2.04 Purchase Price Adjustment    23 
+Section 2.05 Locked Box and Leakage    26 
+Section 2.06 Compliance with Rules of Principal Market    28 
+Section 2.07 Treatment of Company Options.    28 
+Section 2.08 Closing    29 
+Section 2.09 Withholding Tax    29 
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE COMPANY AND SELLER    30 
+Section 3.01 Organization and Authority    30 
+Section 3.02 Organization, Authority and Qualification of the Company and the other ACFP Companies    30 
+Section 3.03 Capitalization    31 
+Section 3.04 Company Subsidiaries    32 
+Section 3.05 No Conflicts; Consents    32 
+Section 3.06 Financial Statements    32 
+Section 3.07 Undisclosed Liabilities    33 
+Section 3.08 Absence of Certain Changes, Events and Conditions    33 
+Section 3.09 Material Contracts    36 
+Section 3.10 Title to Assets; Real Property    37 
+Section 3.11 Condition and Sufficiency of Assets    38 
+Section 3.12 Intellectual Property    39 
+Section 3.13 Accounts Receivable    41 
+Section 3.14 Suppliers    41 
+Section 3.15 Insurance    42 
+Section 3.16 Legal Proceedings; Governmental Orders    42 
+Section 3.17 Compliance With Laws; Permits    43 
+Section 3.18 Environmental Matters    43 
+Section 3.19 Employee Benefit Matters    44 
+Section 3.20 Employment Matters    46 
+Section 3.21 Taxes    48 
+Section 3.22 Books and Records    50 
+Section 3.23 Banks; Power of Attorney;    50 
+Section 3.24 Franchise Matters    50 
+Section 3.25 Brokers    51 
+Section 3.26 Investment Experience    51 
+Section 3.27 Risk of Investment    51 
+Section 3.28 Investment Purpose    51 
+Section 3.29 Accredited Investor    51 
+ 
+2
+--- Page 3 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 3/108Section 3.30 No Market    51 
+Section 3.31 Access to Data    51 
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF BUYER    51 
+Section 4.01 Organization, Authority and Qualification of the BFI Companies    52 
+Section 4.02 Capitalization    53 
+Section 4.03 Buyer Subsidiaries    54 
+Section 4.04 No Conflicts; Consents    54 
+Section 4.05 BFI Reports, Financial Statements    55 
+Section 4.06 Absence of Certain Changes    56 
+Section 4.07 Legal Proceedings; Governmental Orders    56 
+Section 4.08 Related Party Transactions    56 
+Section 4.09 Investment Purpose    57 
+Section 4.10 Brokers    57 
+Section 4.11 Takeover Statutes    57 
+Section 4.12 Franchise Matters    57 
+ARTICLE V COVENANTS    59 
+Section 5.01 Conduct of Business Prior to the Closing    59 
+Section 5.02 Access to Information    60 
+Section 5.03 No Solicitation of Other Bids    60 
+Section 5.04 Notice of Certain Events    61 
+Section 5.05 Employment Matters    62 
+Section 5.06 Confidentiality    64 
+Section 5.07 Governmental Approvals and Consents    64 
+Section 5.08 Books and Records    66 
+Section 5.09 Refinancing of ACFP Continuing Indebtedness    67 
+Section 5.10 Closing Conditions and Deliverables    67 
+Section 5.11 Public Announcements    67 
+Section 5.12 Further Assurances    68 
+Section 5.13 Conduct of Buyer    68 
+Section 5.14 Takeover Statutes    69 
+Section 5.15 Listing    69 
+Section 5.16 Director and Officer Liability    70 
+Section 5.17 Financing Cooperation    71 
+Section 5.18 Funds Flow Memorandum; Closing Allocation Table    72 
+Section 5.19 Section 280G Waiver    72 
+Section 5.20 BFI Management Compensation    72 
+Section 5.21 Board of Directors    72 
+ARTICLE VI TAX MATTERS    74 
+Section 6.01 Tax Covenants    74 
+Section 6.02 Termination of Existing Tax Sharing Agreements    75 
+Section 6.03 Tax Indemnification    75 
+Section 6.04 Straddle Period    76 
+Section 6.05 Intended Tax Treatment    76 
+Section 6.06 Contests    76 
+ 
+3
+--- Page 4 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 4/108Section 6.07 Cooperation and Exchange of Information    77 
+Section 6.08 Tax Treatment of Indemnification Payments    77 
+Section 6.09 Payments to Buyer    77 
+Section 6.10 Buyer Tax Acts    78 
+Section 6.11 Tax Refunds    78 
+Section 6.12 Survival    78 
+Section 6.13 Overlap    78 
+ARTICLE VII CONDITIONS TO CLOSING    79 
+Section 7.01 Conditions to Obligations of All Parties    79 
+Section 7.02 Conditions to Obligations of Buyer    79 
+Section 7.03 Conditions to Obligations of Seller    80 
+ARTICLE VIII INDEMNIFICATION    81 
+Section 8.01 Survival    81 
+Section 8.02 Indemnification By Seller    81 
+Section 8.03 Indemnification By Buyer    82 
+Section 8.04 Certain Limitations    82 
+Section 8.05 Indemnification Procedures    84 
+Section 8.06 Payments; Indemnification Escrow Shares    86 
+Section 8.07 Tax Treatment of Indemnification Payments    87 
+Section 8.08 Effect of Investigation    87 
+Section 8.09 Exclusive Remedies    87 
+ARTICLE IX TERMINATION    87 
+Section 9.01 Termination    87 
+Section 9.02 Effect of Termination    88 
+ARTICLE X MISCELLANEOUS    89 
+Section 10.01 Expenses    89 
+Section 10.02 Notices    89 
+Section 10.03 Interpretation    90 
+Section 10.04 Headings    90 
+Section 10.05 Severability    90 
+Section 10.06 Entire Agreement    90 
+Section 10.07 Successors and Assigns    90 
+Section 10.08 No Third-party Beneficiaries    91 
+Section 10.09 Amendment and Modification; Waiver    91 
+Section 10.10 Governing Law; Submission to Jurisdiction; Waiver of Jury Trial    91 
+Section 10.11 Specific Performance    93 
+Section 10.12 Counterparts    93 
+Section 10.13 Disclosure Schedules    93 
+Section 10.14 No Recourse    94 
+Section 10.15 Representation by Proskauer    94 
+Section 10.16 Disclaimer    95 
+Section 10.17 Original SPA    96 
+ 
+4
+--- Page 5 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 5/108 
+EXHIBITS   
+Exhibit A  Form of Amendment to the Company Stock Option Agreement
+Exhibit B  Form of Certificate of Designation
+Exhibit C  Form of Escrow Agreement
+Exhibit D  Form of Registration Rights Agreement
+Exhibit E  Form of Restrictive Covenant Agreement
+Exhibit F  Form of Voting Agreement
+ 
+ 
+5
+--- Page 6 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 6/108AMENDED AND RESTATED STOCK PURCHASE AGREEMENT
+THIS AMENDED AND RESTATED STOCK PURCHASE AGREEMENT (together with all schedules and exhibits hereto, this “Agreement”),
+dated as of November 3, 2021, is entered into by and among Hot Air, Inc., a Delaware corporation (the “Company”), Cardboard Box LLC, a Delaware
+limited liability company (“Seller”) and BurgerFi International, Inc., a Delaware corporation (“Buyer” and together with the Company and Seller, the
+“Parties” and each, a “Party”).
+RECITALS
+WHEREAS, Seller owns all of the issued and outstanding shares of common stock, par value $0.001 (the “Shares”), of the Company;
+WHEREAS, Seller wishes to sell to Buyer, and Buyer wishes to purchase from Seller, the Shares, subject to the terms and conditions set forth
+herein; and
+WHEREAS, a portion of the consideration payable by Buyer to Seller shall be initially placed in escrow by Buyer at the Closing, the release of
+which shall be contingent upon certain events and conditions, all as set forth in this Agreement and the Escrow Agreement (as defined herein).
+WHEREAS, the Parties entered into the original Stock Purchase Agreement, dated as of October 8, 2021 (the “Original SPA”), and the Parties
+wish to amend and restate the Original SPA in accordance with the terms and provisions hereof.
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+ARTICLE I
+DEFINITIONS
+The following terms have the meanings specified or referred to in this ARTICLE I:
+“ACFP Business” means the business of operating upscale casual dining restaurants in the specialty pizza segment under the name “Anthony’s
+Coal Fired Pizza.”
+“ACFP Company” means the Company and each Subsidiary of the Company, each, individually, and collectively, the “ACFP Companies.”
+“ACFP Company Bank Accounts” has the meaning set forth in Section 3.23.
+“ACFP Continuing Executive” means each of Ian Baines, Patrick Renna and Michelle Zavolta, and collectively the “ACFP Continuing
+Executives”.
+ 
+1
+--- Page 7 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 7/108“ACFP Continuing Indebtedness” means the actual Net Indebtedness Amount of Seller and its Subsidiaries at the Closing, including pursuant to
+(a) the Credit Agreement as of the Closing, (b) that certain Delayed Draw Term Note as of the Closing, which as of the date hereof is equal to
+$10,000,000.00 (the “Catterton ACFP Continuing Indebtedness”) and (c) that certain Secured Promissory Note issued to Anthony’s Coal Fired Pizza
+of Springfield, LLC on July 27, 2020, which as of the date hereof is equal to $215,000.00.
+“ACFP Continuing Officers” means each of John Reale, Nadia Cronk and Alan LaBatte, and collectively, the “ACFP Continuing Officers”.
+“ACFP Material Adverse Effect” means any event, occurrence, fact, condition or change that results, or would reasonably be expected to result,
+when considered individually or in the aggregate, in a material adverse effect to (a) the business, results of operations, condition (financial or otherwise)
+or assets of the ACFP Companies, taken as a whole, or (b) the ability of Seller or the Company to consummate the transactions contemplated hereby on
+a timely basis; provided, however, that “Material Adverse Effect” shall not include any event, occurrence, fact, condition or change, directly or
+indirectly, arising out of or attributable to: (i) general economic or political conditions in the United States or any other geographic region in which the
+ACFP Companies operate; (ii) conditions generally affecting the industries in which the ACFP Companies operate, including, but not limited to, any
+epidemic, pandemic or disease outbreak (including COVID-19), or any Law, regulation, statute, directive, pronouncement or guideline issued by a
+Governmental Authority in connection thereto; (iii) any changes in financial, banking, debt, credit or securities markets in general (including any
+disruption thereof and any decline in the price of any security or any market index); (iv) acts of war (whether or not declared), armed hostilities or
+terrorism or other global unrest or international or national hostilities, or the escalation or worsening thereof; (v) any action required or permitted by this
+Agreement, except pursuant to Section 3.05 and Section 5.07; (vi) any changes in applicable Laws or accounting rules, including GAAP; (vii) the public
+announcement, pendency or completion of the transactions contemplated by this Agreement or any other Transaction Document, including but not
+limited to (A) any litigation resulting therefrom and (B) any disruption in supplier, distributor, customer, partner or similar relationships; (viii) any
+earthquake, hurricane, tornado, storm, flood, wildfire or other natural disaster; (ix) changes or proposed changes in GAAP or the interpretation of the
+foregoing after the date hereof; or (x) any failure of the ACFP Companies to meet any published or internally prepared estimates of revenues, earnings
+or other economic performance for any period ending on or after the date of this Agreement (provided that the facts and circumstances giving rise to
+such failure may be deemed to constitute and may be taken into account when determining whether there has been, an ACFP Material Adverse Effect if
+such facts and circumstances are not otherwise described in clauses (i)-(ix) of this definition); provided, further, however, that any event, occurrence,
+fact, condition or change referred to in clauses (i) through (iv) immediately above shall be taken into account in determining whether an ACFP Material
+Adverse Effect has occurred or would reasonably be expected to occur to the extent that such event, occurrence, fact, condition or change has a
+materially disproportionate effect on the ACFP Companies compared to other participants in the industries in which the ACFP Companies conduct its
+businesses.
+“Acquisition Proposal” has the meaning set forth in Section 5.03(a).
+“Action” means any claim, action, cause of action, demand, lawsuit, arbitration, inquiry, audit, notice of violation, proceeding, litigation, citation,
+summons, subpoena or investigation of any nature, civil, criminal, administrative, regulatory or otherwise, whether at law or in equity.
+ 
+2
+--- Page 8 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 8/108“Affiliate” of a Person means any other Person that directly or indirectly, through one or more intermediaries, controls, is controlled by, or is
+under common control with, such Person. The term “control” (including the terms “controlled by” and “under common control with”) means the
+possession, directly or indirectly, of the power to direct or cause the direction of the management and policies of a Person, whether through the
+ownership of voting securities, by contract or otherwise.
+“Aggregate Option Exercise Price” means the aggregate amount that would be paid to the Company in respect of all Company Options (other
+than Out-of-Money Options) had such Company Options been exercised in full (and assuming concurrent payment in full of the exercise price of each
+such Company Option solely in cash), immediately prior to the Closing in accordance with the terms of the applicable option award agreement with the
+Company pursuant to which such Company Options were issued.
+“Agreement” has the meaning set forth in the preamble.
+“Amendment to the Company Stock Option Agreement” means each Amendment to the Non-Qualified Stock Option Agreement pursuant to
+the Hot Air, Inc. Amended and Restated 2016 Stock Option Plan, executed by the Company and Buyer, substantially in the form attached hereto as
+Exhibit A, whereby Buyer agrees to issue Option Consideration Shares to each holder of Company Options (other than Out-of-Money Options).
+“Audited Financial Statements” has the meaning set forth in Section 3.06.
+“Balance Sheet” has the meaning set forth in Section 3.06.
+“Balance Sheet Date” has the meaning set forth in Section 3.06.
+“Basket” has the meaning set forth in Section 8.04(a).
+“Benefit Plan” means each pension, benefit, retirement, compensation, employment, consulting, profit-sharing, deferred compensation, incentive,
+bonus, performance award, phantom equity, stock or stock-based, change in control, retention, vacation, paid time off (PTO), medical, vision, dental,
+disability, welfare, Code Section 125 cafeteria, fringe benefit and other similar agreement, plan, policy, program or arrangement (and any amendments
+thereto), in each case whether or not reduced to writing and whether funded or unfunded, including each “employee benefit plan” within the meaning of
+Section 3(3) of ERISA, whether or not tax-qualified and whether or not subject to ERISA, which is or has been maintained, sponsored, contributed to, or
+required to be contributed to by an ACFP Company for the benefit of any current or former employee, officer, director, retiree, independent contractor or
+consultant of such ACFP Company or any spouse or dependent of such individual or under which such ACFP Company or any of its ERISA Affiliates
+has any Liability.
+“BFI 10-K” shall mean Buyer’s Annual Report on Form 10-K for the fiscal year ended December 31, 2020.
+“BFI Balance Sheet” shall mean the consolidated balance sheet of Buyer as of December 31, 2020 and the footnotes thereto set forth in the BFI
+10-K.
+ 
+3
+--- Page 9 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 9/108“BFI Balance Sheet Date” has the meaning set forth Section 4.05(c).
+“BFI Business” means the business of operating a fast-casual “better burger” concept under the name “BurgerFi” with a classic American menu
+of premium burgers, hot dogs, crispy chicken, frozen custard, hand-cut fries, beer, wine and more.
+“BFI Closing Date Common Shares” means a number of shares of BFI Common Stock representing the BFI Consideration Common Shares
+minus the Indemnification Escrow Shares minus the Purchase Price Adjustment Escrow Shares.
+“BFI Closing Date Price” means the price per share of BFI Common Stock ending on the trading day immediately prior to the Closing.
+“BFI Closing Date Shares” means the BFI Closing Date Common Shares and the BFI Consideration Preferred Shares.
+“BFI Common Exchange Cap” means the number of shares of BFI Common Stock equal to the difference between (i) the Exchange Cap, minus
+(ii) the aggregate number of Option Consideration Shares.
+“BFI Common Stock” has the meaning set forth in Section 4.02(a).
+“BFI Company” means each of Buyer and each Subsidiary of Buyer, and collectively, the “BFI Companies.”
+“BFI Consideration Common Shares” means an amount of newly-issued shares of BFI Common Stock (valued at the Per Common Share
+Amount) representing an amount equal to the BFI Consideration Share Amount, minus $53,000,000; provided, that, in no event shall such number of
+shares of BFI Common Stock exceed the BFI Common Exchange Cap, and any such excess amount shall be issued in the form of additional BFI
+Consideration Preferred Shares.
+“BFI Consideration Preferred Shares” means an amount of newly-issued shares of BFI Series A Preferred Stock (with the number of shares of
+BFI Series A Preferred Stock to be issued calculated using a price per share of $25.00) representing an aggregate value equal to (i) the BFI
+Consideration Share Amount, minus (ii) an amount equal to the product of the Per Common Share Amount multiplied by the number of BFI
+Consideration Common Shares; provided, that in no event shall such amount be less than $53,000,000.
+“BFI Consideration Share Amount” means an amount equal to: (a) $87,055,480, plus (b) the amount, if any, by which the Net Indebtedness
+Amount is less than $75,608,999.00, minus (c) the amount, if any, by which the Net Indebtedness Amount is greater than $75,608,999.00, as adjusted by
+the amount of Leakage, if any, pursuant to Section 2.05.
+“BFI Consideration Shares” means the BFI Consideration Common Shares and the BFI Consideration Preferred Shares.
+ 
+4
+--- Page 10 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 10/108“BFI Financial Statements” means all of the financial statements of the BFI Companies (including all notes thereto) included in the BFI Reports,
+including the financial statements of the BFI Companies (including all notes thereto) as of June 30, 2021, as filed by Buyer with the SEC prior to the
+date hereof.
+“BFI Plan” means the BurgerFi International, Inc. 2020 Omnibus Equity Incentive Plan, as amended from time to time.
+“BFI Preferred Stock” has the meaning set forth in Section 4.02(a).
+“BFI Reports” shall mean all forms, reports, statements, certifications, information, registration statements and other documents (as
+supplemented and amended since the time of filing and including all exhibits and other information incorporated therein) filed or required to be filed by
+Buyer with the SEC.
+“BFI Series A Preferred Stock” means the shares designated as Series A Preferred Stock pursuant to the Certificate of Designation.
+“BFI Stockholders” means the holders of shares of common stock of Buyer.
+“Business Day” means any day except Saturday, Sunday or any other day on which commercial banks located in New York City, NY are
+authorized or required by Law to be closed for business.
+“Buyer” has the meaning set forth in the preamble.
+“Buyer Board” means the board of directors of Buyer.
+“Buyer Fundamental Representations” means the representations and warranties of Buyer set forth in Section 4.01, Section 4.02, Section 4.03,
+Section 4.05 and Section 4.10.
+“Buyer Indemnitees” has the meaning set forth in Section 8.02.
+“Buyer Material Adverse Effect” means any event, occurrence, fact, condition or change that results, or would reasonably be expected to result,
+when considered individually or in the aggregate, in a material adverse effect to (a) the business, results of operations, condition (financial or otherwise)
+or assets of the BFI Companies, taken as a whole, or (b) the ability of Buyer to consummate the transactions contemplated hereby on a timely basis;
+provided, however, that “Material Adverse Effect” shall not include any event, occurrence, fact, condition or change, directly or indirectly, arising out of
+or attributable to: (i) general economic or political conditions in the United States or any other geographic region in which the BFI Companies operate;
+(ii) conditions generally affecting the industries in which the BFI Companies operate, including, but not limited to, any epidemic, pandemic or disease
+outbreak (including COVID-19), or any Law, regulation, statute, directive, pronouncement or guideline issued by a Governmental Authority in
+connection thereto; (iii) any changes in financial, banking, credit or securities markets in general (including any disruption thereof and any decline in the
+price of any security or any market index); (iv) acts of war (whether or not declared), armed hostilities or terrorism or other global unrest or international
+or national hostilities, or the escalation or worsening thereof; (v) any action required or permitted by this Agreement, except pursuant to Section 4.04
+and Section 5.07; (vi) any changes in applicable Laws or accounting rules, including GAAP; (vii) the public announcement, pendency
+ 
+5
+--- Page 11 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 11/108or completion of the transactions contemplated by this Agreement or any other Transaction Document, including but not limited to (A) any litigation
+resulting therefrom and (B) any disruption in supplier, distributor, customer, partner or similar relationships; (viii) any earthquake, hurricane, tornado,
+storm, flood, wildfire or other natural disaster; (ix) changes or proposed changes in GAAP or the interpretation of the foregoing after the date hereof; or
+(x) any failure of the BFI Companies to meet any published or internally prepared estimates of revenues, earnings or other economic performance for
+any period ending on or after the date of this Agreement (provided that the facts and circumstances giving rise to such failure may be deemed to
+constitute and may be taken into account when determining whether there has been, a Buyer Material Adverse Effect if such facts and circumstances are
+not otherwise described in clauses (i)-(ix) of this definition); provided further, however, that any event, occurrence, fact, condition or change referred to
+in clauses (i) through (iv) immediately above shall be taken into account in determining whether a Buyer Material Adverse Effect has occurred or would
+reasonably be expected to occur to the extent that such event, occurrence, fact, condition or change has a materially disproportionate effect on the BFI
+Companies compared to other participants in the industries in which the BFI Companies conduct their businesses.
+“Buyer’s Accountants” means Marcum LLP.
+“Buyer Tax Act” has the meaning set forth in Section 6.10.
+“Cash” means (a) the amount of all unrestricted cash and cash equivalents of any ACFP Company (which for the avoidance of doubt, shall
+include cash in such ACFP Company’s respective bank, lock bock and other accounts (including cash resulting from the clearance of incoming funds in
+transit, checks deposited, wire transfers and ACH payments in such accounts)), plus (b) the amount of all marketable securities on hand or in the bank
+accounts of the ACFP Companies, and shall (i) be calculated net of (A) issued but uncleared checks, outbound wires, and drafts, as applicable, issued or
+commenced but not withdrawn, and (B) cash and cash equivalents of any ACFP Company held in escrow or trust, and (ii) be calculated in accordance
+with GAAP.
+“Catterton Release” means (a) that certain letter agreement between Quilvest Capital Partners USA, Inc. and ACFP Management, Inc., dated as
+of August 31, 2021, (b) that certain letter agreement between Catterton Management Company, L.L.C. and ACFP Management, Inc., dated as of
+August 17, 2021, and (c) that certain letter agreement between Seller and ACFP Investors, Inc., dated as of September 30, 2021, in each case of the
+foregoing clauses (a) through (c), releasing the ACFP Companies from all amounts due and owing under the Monitoring Agreement, and effective at and
+contingent upon the Closing, and (d) that certain notice from Catterton Management Company, L.L.C. to ACFP Management, Inc., delivered prior to the
+Closing Date, in the case of this clause (d), terminating the Monitoring Agreement effective at and contingent upon the Closing; provided, that, the
+Catterton Release shall not affect obligations under the Catterton ACFP Continuing Indebtedness.
+“CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended by the Superfund
+Amendments and Reauthorization Act of 1986, 42 U.S.C. §§ 9601 et seq.
+ 
+6
+--- Page 12 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 12/108“Certificate of Designation” means that certain Certificate of Designation, to be adopted and authorized by the Buyer Board and filed with the
+Secretary of State of the State of Delaware at or prior to the Closing, substantially in the form of Exhibit B.
+“Closing” has the meaning set forth in Section 2.08.
+“Closing Allocation Table” means the Closing Allocation Table delivered by Seller to Buyer pursuant to Section 5.20(a).
+“Closing Date” has the meaning set forth in Section 2.08.
+“Closing Indebtedness Certificate” means a certificate executed by the Chief Financial Officer of the Company certifying on behalf of the
+Company an itemized list of all outstanding Indebtedness as of the close of business on the Closing Date and the Person to whom such outstanding
+Indebtedness is owed and an aggregate total of such outstanding Indebtedness.
+“Closing Statement” has the meaning set forth in Section 2.04(b).
+“Code” means the Internal Revenue Code of 1986, as amended.
+“Common Stock” has the meaning set forth in Section 3.03(a).
+“Company” has the meaning set forth in the preamble.
+“Company Intellectual Property” means all Intellectual Property that is owned by the Company or any Subsidiary of the Company.
+“Company IP Agreements” means all material written licenses, sublicenses, settlements, coexistence agreements and covenants not to sue
+relating to Intellectual Property to which the Company or any Subsidiary of the Company is a party, excluding (a) licenses to generally available,
+off-the-shelf Software or other products or technology, (b) non-exclusive licenses granted by the Company or any Subsidiary of the Company in the
+ordinary course of business, and (c) confidentiality agreements relating to the disclosure of Trade Secrets by or to any ACFP Company.
+“Company IP Registrations” means all issued patents, registered trademarks, domain names and copyrights and pending applications for any of
+the foregoing, in each case, included in the Company Intellectual Property.
+“Company IT Systems” means all software, computer hardware, servers, networks, platforms, peripherals, and similar or related items of
+automated, computerized, or other information technology (IT) networks and systems (including telecommunications networks and systems for voice,
+data and video) owned, leased, licensed, or used (including through cloud-based or other third-party service providers) by the Company or any
+Subsidiary of the Company.
+“Company Option” means an option to purchase shares of Common Stock under the Company Option Plan.
+ 
+7
+--- Page 13 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 13/108“Company Option Holder” means the holders of Company Options, including any Out-of-Money Options.
+“Company Option Plan” means the Hot Air, Inc. Amended and Restated 2016 Stock Option Plan, as it may be amended from time to time.
+“Company Per Share Value” means the quotient obtained by dividing (a) the sum of (i) the value of the BFI Consideration Common Shares
+issued to Seller valued at the BFI Closing Date Price plus (ii) the value of the BFI Consideration Preferred Shares, by (b) 122,542.644.
+“Company Related Person” means a Related Person of the Company.
+“Confidentiality Agreement” means the Confidentiality and Non-Disclosure Agreement between Buyer and Catterton Management Company,
+L.L.C. dated December 23, 2020.
+“Continuance of ACFP Debt Documents” means the definitive agreements entered into at or prior to the Closing whereby BFI assumes and
+consents to, as applicable, the ACFP Continuing Indebtedness in accordance with, among other things, the Consent Letter.
+“Continuing Employee” means each employee of an ACFP Company who continues in employment with an ACFP Company immediately after
+the Closing, other than the ACFP Continuing Executives and the ACFP Continuing Officers.
+“Consent Letter” means that certain Consent Letter, dated as of the Original SPA Date, between Seller, the ACFP Companies and the
+administrative agent and lenders under the Credit Agreement, including the Summary of Principal Terms and Conditions attached thereto as Annex I.
+“Contracts” means all legally binding contracts, leases, deeds, mortgages, licenses, instruments, notes, commitments, undertakings, indentures,
+joint ventures and all other agreements, commitments and legally binding arrangements, whether written or oral.
+“Credit Agreement” means that certain Credit Agreement, dated as of December 15, 2015, as amended as of the date hereof, between Plastic
+Tripod, Inc. and certain of its Subsidiaries, the Company, the lenders party thereto and Regions Bank, as administrative agent and collateral agent.
+“Data Room” means, with respect to Buyer, the electronic data room hosted by Box relating to Buyer and captioned “BFI—DD External” and,
+with respect to Seller, the electronic data room hosted by Arlington Capital Advisors relating to the ACFP Companies and captioned “Project Alphabet—
+ACFP Dataroom”.
+“DGCL” means the Delaware General Corporation Law.
+“Direct Claim” has the meaning set forth in Section 8.05(c).
+“Disclosure Schedules” means the Disclosure Schedules delivered by Seller and Buyer concurrently with the execution and delivery of this
+Agreement.
+ 
+8
+--- Page 14 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 14/108“Disputed Amounts” has the meaning set forth in Section 2.04(c)(iii).
+“D&O Expenses” means all costs, charges and expenses paid or incurred in connection with investigating, defending, being a witness in or
+otherwise participating in (including on appeal), or preparing to defend, to be a witness in or participate in, any D&O Indemnifiable Claim, in each case,
+other than D&O Losses.
+“D&O Indemnifiable Claim” means any threatened, pending or completed dispute or litigation that is directly or indirectly based on, arising out
+of, relating to or in connection with the fact that a D&O Indemnified Person is or was a director, officer, employee or other fiduciary of any ACFP
+Company or of any of their respective predecessors (including in respect of acts or omissions in connection with this Agreement or the transactions
+contemplated hereby).
+“D&O Indemnified Person” means any current or former director, officer or employee of any of the ACFP Companies, or any successor, assign,
+heir, executor, administrator, or representative of any such Person.
+“D&O Losses” means all losses, damages, liabilities, claims, judgments, fines, penalties and amounts paid in resolution or settlement of any D&O
+Indemnifiable Claim.
+“D&O Policy” has the meaning set forth in Section 2.03(a)(ii)(F).
+“Encumbrance” means any charge, claim, community property interest, pledge, condition, equitable interest, lien (statutory or other), option,
+security interest, mortgage, easement, encroachment, right of way, right of first refusal, or restriction on use, voting, transfer, receipt of income or
+exercise of any other attribute of ownership.
+“Enforceability Exceptions” has the meaning set forth in Section 3.01.
+“Environmental Claim” means any Action, Governmental Order, lien, fine, penalty, or, as to each, any settlement or judgment arising therefrom,
+by or from any Person alleging liability of whatever kind or nature (including liability or responsibility for the costs of enforcement proceedings,
+investigations, cleanup, governmental response, removal or remediation, natural resources damages, penalties, contribution, indemnification and
+injunctive relief) arising out of, based on or resulting from: (a) the presence, Release of, or exposure to, any Hazardous Materials; or (b) any actual or
+alleged, in writing, non-compliance with any Environmental Law or term or condition of any Environmental Permit.
+“Environmental Law” means any applicable Law, and any Governmental Order or binding agreement with any Governmental Authority:
+(a) relating to pollution (or the cleanup thereof) or the protection of natural resources, endangered or threatened species, human health or safety, or the
+environment (including ambient air, soil, surface water or groundwater, or subsurface strata); or (b) concerning the presence of, exposure to, or the
+management, manufacture, use, containment, storage, recycling, reclamation, reuse, treatment, generation, discharge, transportation, processing,
+production, disposal or remediation of any Hazardous Materials. The term “Environmental Law” includes the following (including their implementing
+regulations and any state analogs): CERCLA; the Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act of 1976, as
+amended by the Hazardous and Solid Waste
+ 
+9
+--- Page 15 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 15/108Amendments of 1984, 42 U.S.C. §§ 6901 et seq.; the Federal Water Pollution Control Act of 1972, as amended by the Clean Water Act of 1977, 33
+U.S.C. §§ 1251 et seq.; the Toxic Substances Control Act of 1976, as amended, 15 U.S.C. §§ 2601 et seq.; the Emergency Planning and Community
+Right-to-Know Act of 1986, 42 U.S.C. §§ 11001 et seq.; the Clean Air Act of 1966, as amended by the Clean Air Act Amendments of 1990, 42 U.S.C.
+§§ 7401 et seq.; and the Occupational Safety and Health Act of 1970, as amended, 29 U.S.C. §§ 651 et seq.
+“Environmental Notice” means any written directive, notice of violation or infraction, or notice respecting any Environmental Claim relating to
+actual or alleged non-compliance with any Environmental Law or any term or condition of any Environmental Permit.
+“Environmental Permit” means any Permit issued, granted, given, authorized by or made pursuant to Environmental Law.
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the regulations promulgated thereunder.
+“ERISA Affiliate” means all employers (whether or not incorporated) other than the ACFP Companies that would be treated together with any
+ACFP Company as a “single employer” within the meaning of Section 414 of the Code or Section 4001 of ERISA.
+“Escrow Agent” means Continental Stock Transfer & Trust Company, a New York corporation.
+“Escrow Agreement” means the Share Escrow Agreement to be entered into by Buyer, Seller and Escrow Agent at the Closing, substantially in
+the form of Exhibit C.
+“Estimated ACFP Continuing Indebtedness” has the meaning set forth in Section 2.04(a).
+“Estimated Cash” has the meaning set forth in Section 2.04(a).
+“Estimated Closing Statement” has the meaning set forth in Section 2.04(a).
+“Estimated Net Indebtedness Amount” has the meaning set forth in Section 2.04(a).
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulations promulgated thereunder.
+“Exchange Cap” has the meaning set forth in Section 2.06.
+“Existing Employment Agreement” has the meaning set forth in Section 3.20(c).
+“Fee Letter” means that certain Fee Letter, dated as of the Original SPA Date, between Regions Bank and Plastic Tripod, Inc.
+“Final ACFP Continuing Indebtedness” has the meaning set forth in Section 2.04(d).
+ 
+10
+--- Page 16 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 16/108“Final Allocation Table” means the Final Allocation Table delivered by Seller to Buyer pursuant to Section 5.18(b).
+“Final Cash” has the meaning set forth in Section 2.04(d).
+“Final Company Transaction Expenses” has the meaning set forth in Section 2.05(b).
+“Final Net Indebtedness Amount” has the meaning set forth in Section 2.04(d).
+“Financial Statements” has the meaning set forth in Section 3.06.
+“Financing Parties” has the meaning set forth in Section 8.09.
+“Franchise” means any commercial business arrangement of the Franchise System that is defined as a “franchise” under the FTC Rule or any
+Franchise Laws and that is owned or operated by any Person other than Buyer, pursuant to a Franchise Agreement.
+“Franchise Agreements” means any contracts, agreements, licenses and commitments pursuant to which a party has granted any right, or option
+to acquire a right, to develop or operate, or grant to another the right to develop or operate, any Franchised Business under the Franchise System,
+including single or multi-unit franchise or license agreements, area development agreements, master franchise or license agreements, area representative
+agreements, regional developer agreements and similar agreements that cover the development or franchising of Franchised Businesses of the Franchise
+System, or the delegation of duties by Buyer with respect to its obligations as a franchisor, and including any addenda, amendments, waivers,
+extensions, renewals, side letters or other modifications, and any guarantees or instruments in favor of Buyer related to any of the foregoing.
+“Franchise Disclosure Document” or “FDD” means a franchise disclosure document prepared in accordance with the FTC Rule or other
+Franchise Law, and used by Buyer or any of Buyer’s Affiliates or Subsidiaries in connection with the offer or sale of Franchises for the Franchise
+System in the United States.
+“Franchise Laws” means the FTC Rule and any other United States federal, state, local or foreign Law regulating the offer or sale of franchises,
+business opportunities, seller-assisted marketing plans or similar relationships (including any pre-sale registration or disclosure Laws), or governing the
+relationships between franchisors and franchisees, including those Laws that address unfair practices related to, or the default, termination, non-renewal,
+or transfer, of Franchises or Franchise Agreements.
+“Franchise System” means the franchise system for the development, ownership and operation of fast casual restaurants operated under the
+primary brand name known as “BurgerFi”.
+“Franchised Business” means any business developed and operated under the Franchise System pursuant to a Franchise Agreement or a
+Franchise granted from Buyer.
+“Franchisee” means a Person who is a party to a Franchise Agreement with Buyer.
+ 
+11
+--- Page 17 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 17/108“Franchisor” means Buyer and BurgerFi International, LLC, its predecessor under Franchise Laws.
+“Fraud” means with respect to a Party, an actual and intentional misrepresentation of a material existing fact with respect to the making of any
+representation or warranty in ARTICLE III or ARTICLE IV made by such Party, (a) with respect to Seller, to the Knowledge of Seller, or (b) with
+respect to Buyer, to the Knowledge of Buyer, in each case under (a) and (b) of its falsity and made for the purpose of inducing any other Party to act, and
+upon which such other Party justifiably relies with resulting Losses.
+“FTC Rule” means the Federal Trade Commission trade regulation rule entitled “Disclosure Requirements and Prohibitions Concerning
+Franchising,” 16 CFR Part 436.1 et. seq.
+“Funds Flow Memorandum” has the meaning set forth in Section 5.20.
+“GAAP” means United States generally accepted accounting principles in effect from time to time, consistently applied.
+“Government Contracts” has the meaning set forth in Section 3.09(a)(ix).
+“Governmental Authority” means any federal, state, local or foreign government or political subdivision thereof, or any agency or
+instrumentality of such government or political subdivision, or any self-regulated organization or other non-governmental regulatory authority or quasi-
+governmental authority (to the extent that the rules, regulations or orders of such organization or authority have the force of Law), or any arbitrator,
+court or tribunal of competent jurisdiction.
+“Governmental Order” means any order, writ, judgment, injunction, decree, stipulation, determination or award entered by or with any
+Governmental Authority against the applicable Party.
+“Hazardous Materials” means: (a) any material, substance, chemical, waste, product, derivative, compound, mixture, solid, liquid, mineral or
+gas, in each case, whether naturally occurring or manmade, that is hazardous, acutely hazardous, toxic, or words of similar import or regulatory effect
+under Environmental Laws; and (b) any petroleum or petroleum-derived products, radon, radioactive materials or wastes, asbestos in any form, lead or
+lead-containing materials, urea formaldehyde foam insulation, polychlorinated biphenyls, or per- and polyfluoroalkyl substances (PFAS). “Immediate
+Family Member” means any child, stepchild, parent, stepparent, spouse, sibling, mother-in-law, father-in-law, son-in-law, daughter-in-law,
+brother-in-law or sister-in-law of a person, and any person sharing the household of such person.
+“Indebtedness” means, without duplication and with respect to the Company, all (a) indebtedness for borrowed money, including the ACFP
+Continuing Indebtedness; (b) obligations for the deferred purchase price of property or services, (c) long or short-term obligations evidenced by notes,
+bonds, debentures or other similar instruments; (d) obligations under any interest rate, currency swap or other hedging agreement or arrangement;
+(e) capital lease obligations treated as such under GAAP; (f) reimbursement obligations under any letter of credit, banker’s acceptance or similar credit
+transactions; (g) guarantees made by the Company on behalf of any third party in respect of obligations of the kind referred to in the foregoing clauses
+(a) through (f); and (h) any unpaid interest, prepayment penalties, premiums, costs and fees that would arise or become due as a result of the prepayment
+of any of the obligations referred to in the foregoing clauses (a) through (g).
+ 
+12
+--- Page 18 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 18/108“Indemnification Escrow Fund” means the Indemnification Escrow Shares held at any determination time by the Escrow Agent as part of the
+Escrow Shares (as that term is defined in the Escrow Agreement).
+“Indemnification Escrow Shares” means a number of BFI Consideration Common Shares representing $12,000,000.
+“Indemnified Party” has the meaning set forth in Section 8.05.
+“Indemnifying Party” has the meaning set forth in Section 8.05.
+“Independent Accountant” has the meaning set forth in Section 2.04(c)(iii).
+“Insurance Policies” has the meaning set forth in Section 3.15.
+“Intellectual Property” means any and all rights in, arising out of, or associated with any of the following in any jurisdiction throughout the
+world: (a) issued patents and patent applications (whether provisional or non-provisional), including divisionals, continuations, continuations-in-part,
+substitutions, reissues, reexaminations, extensions, or restorations of any of the foregoing, and other Governmental Authority-issued indicia of invention
+ownership (including certificates of invention, petty patents, and patent utility models) (“Patents”); (b) trademarks, service marks, brands, certification
+marks, logos, trade dress, trade names, and other similar indicia of source or origin, together with the goodwill connected with the use of and
+symbolized by, and all registrations, applications for registration, and renewals of, any of the foregoing (“Trademarks”); (c) copyrights and works of
+authorship, whether or not copyrightable, and all registrations, applications for registration, and renewals of any of the foregoing (“Copyrights”); (d)
+internet domain names and social media account or user names (including “handles”), whether or not Trademarks, all associated web addresses, URLs,
+websites and web pages, social media sites and pages, and all content and data thereon or relating thereto, whether or not Copyrights; (e) mask works,
+and all registrations, applications for registration, and renewals thereof; (f) industrial designs, and all registrations, applications for registration, and
+renewals thereof; (g) trade secrets, know-how, inventions (whether or not patentable), discoveries, improvements, technology, business and technical
+information, databases, data compilations and collections, tools, methods, processes, techniques, and other confidential and proprietary information and
+all rights therein (“Trade Secrets”); (h) computer programs, operating systems, applications, firmware, and other code, including all source code, object
+code, application programming interfaces, data files, databases, protocols, specifications, and other documentation thereof; (i) rights of publicity; and
+(j) all other intellectual or industrial property and proprietary rights.
+“Intended Tax Treatment” has the meaning set forth in Section 6.05.
+ 
+13
+--- Page 19 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 19/108“Knowledge of Buyer or Buyer’s Knowledge” or any other similar knowledge qualification, means the actual knowledge or constructive
+knowledge of Julio Ramirez and Michael Rabinovitch, after reasonable inquiry.
+“Knowledge of Seller or Seller’s Knowledge” or any other similar knowledge qualification, means the actual knowledge or constructive
+knowledge of Ian Baines, Michelle Zavolta, John Reale, and Patrick Renna, after reasonable inquiry.
+“Law” means any statute, law, ordinance, regulation, rule, code, order, constitution, treaty, common law, judgment, decree, other requirement or
+rule of law of any Governmental Authority.
+“Leakage” has the meaning set forth in Section 2.05(a).
+“Leakage Closing Statement” has the meaning set forth in Section 2.05(b).
+“Liabilities” means any liabilities, obligations or commitments of any nature whatsoever, asserted or unasserted, known or unknown, absolute or
+contingent, accrued or unaccrued, matured or unmatured or otherwise.
+“Licensed Intellectual Property” means all Intellectual Property owned by other Persons (including Seller or any of its Affiliates) in which the
+Company is granted any rights or interests by such other Persons.
+“Locked Box Balance Sheet” has the meaning set forth in Section 3.06.
+“Locked Box Date” means July 5, 2021.
+“Locked Box Financial Statements” has the meaning set forth in Section 3.06.
+“Losses” means losses, damages, liabilities, deficiencies, Actions, judgments, interest, awards, penalties, fines, costs or expenses of whatever
+kind, including reasonable attorneys’ fees and the cost of enforcing any right to indemnification hereunder and the cost of pursuing any insurance
+providers; provided, however, that “Losses” shall not include punitive damages, treble or multiple damages except to the extent actually paid in a Third
+Party Claim.
+“Material Contracts” has the meaning set forth in Section 3.09(a).
+“Material Suppliers” has the meaning set forth in Section 3.14.
+“Maximum Premium” has the meaning set forth in Section 5.16(c).
+“Monitoring Agreement” means that certain Monitoring Agreement dated as of December 15, 2015, by and among ACFP Management, Inc.,
+Catterton Management Company, L.L.C., Quilvest Capital Partners USA, Inc. and the other parties thereto.
+“Multiemployer Plan” has the meaning set forth in Section 3.19(c).
+“Nasdaq” has the meaning set forth in Section 2.06.
+ 
+14
+--- Page 20 ---
+1/17/24, 12:05 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1723580/000119312521321756/d236685dex21.htm 20/108“Nasdaq Listing Application” has the meaning set forth in Section 5.17.
+“Net Indebtedness Amount” means the ACFP Continuing Indebtedness minus Cash, in each case, determined as of the close of business on the
+Closing Date, as adjusted pursuant to Section 2.04; provided that, and for the avoidance of doubt, Indebtedness shall not include any Indebtedness
+incurred after the Closing on behalf (or at the direction) of Buyer.
+“New Plan” has th

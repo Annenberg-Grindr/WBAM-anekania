@@ -1,0 +1,680 @@
+--- Page 1 ---
+Table of Contents
+ANNEX A
+AGREEMENT AND PLAN OF MERGER
+BY AND AMONG
+MOBIUS PARENT CORP.,
+MOBIUS MERGER SUB, INC.
+AND
+MONEYGRAM INTERNATIONAL, INC.
+DATED AS OF FEBRUARY 14, 2022
+
+--- Page 2 ---
+Table of Contents
+TABLE OF CONTENTS
+Page
+ARTICLE I
+THE MERGER
+1.1. The Merger A-1
+1.2. Closing of the Merger A-1
+1.3. Effective Time A-2
+1.4. Effects of the Merger A-2
+1.5. Certificate of Incorporation A-2
+1.6. Bylaws A-2
+1.7. Board of Directors A-2
+1.8. Officers A-2
+ARTICLE II.
+CONSIDERATION
+2.1. Effect on Common Stock A-3
+2.2. Effect on Company Warrants A-3
+2.3. Merger Sub Capital Stock A-3
+2.4. Treatment of Company Equity Awards and Company Performance Cash Awards A-3
+2.5. Dissenting Shares A-5
+2.6. Paying Agent A-5
+2.7. Withholding A-7
+2.8. Certain Adjustments A-7
+ARTICLE III.
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+3.1. Corporate Organization A-7
+3.2. Capitalization A-8
+3.3. Authority A-10
+3.4. Consents and Approvals A-10
+3.5. SEC Documents; Other Reports; Internal Controls A-11
+3.6. Financial Statements; Undisclosed Liabilities A-12
+3.7. Absence of Certain Changes or Events A-13
+3.8. Legal Proceedings A-13
+3.9. Compliance With Applicable Law A-13
+3.10. Material Contracts A-16
+3.11. Taxes A-18
+3.12. Employees; Employee Benefit Plans A-20
+3.13. Labor Matters A-22
+3.14. Intellectual Property; Data Privacy A-23
+3.15. Environmental Liability A-26
+3.16. Property A-27
+3.17. Insurance A-27
+3.18. Anti-Takeover Statutes; Stockholder Vote Required A-27
+3.19. Stockholder Vote Required A-27
+3.20. Opinion of Financial Advisor A-27
+3.21. Broker’s Fees A-28
+3.22. Transactions with Affiliates A-28
+3.23. Company Information A-28
+3.24. No Other Representations or Warranties A-28
+A-i
+
+--- Page 3 ---
+Table of Contents
+ARTICLE IV.
+REPRESENTATIONS AND WARRANTIES OF PARENT AND MERGER SUB
+4.1. Corporate Organization A-28
+4.2. Authority; No Violation A-29
+4.3. Consents and Approvals A-29
+4.4. Broker’s Fees A-30
+4.5. Parent Information A-30
+4.6. No Vote of Parent or Merger Sub Stockholders A-30
+4.7. Ownership of Common Stock A-30
+4.8. Absence of Litigation A-30
+4.9. Financing A-30
+4.10. Solvency A-32
+4.11. Foreign Person Status A-32
+4.12. Interests in Competitors A-33
+4.13. No Other Representations or Warranties; Disclaimer A-33
+ARTICLE V.
+COVENANTS AND AGREEMENTS
+5.1. Conduct of Business Prior to the Effective Time A-33
+5.2. Access to Information A-36
+5.3. Proxy Statement and Stockholder Meeting A-37
+5.4. No Solicitation A-38
+5.5. Reasonable Best Efforts A-42
+5.6. Employees; Employee Benefit Plans A-45
+5.7. Indemnification; Directors’ and Officers’ Insurance A-46
+5.8. Publicity A-47
+5.9. Anti-takeover Laws A-48
+5.10. Stockholder Litigation A-48
+5.11. NASDAQ Delisting; Deregistration A-48
+5.12. Section 16 Matters A-48
+5.13. Financing A-48
+5.14. Financing Assistance from Company A-51
+5.15. Obligations of Parent With Respect to Merger Sub and the Surviving Company A-53
+5.16. Foreign Persons A-53
+5.17. Treatment of Certain Existing Indebtedness A-54
+5.18. Parent Equity Syndication A-54
+ARTICLE VI.
+CONDITIONS PRECEDENT
+6.1. Conditions to Each Party’s Obligation to Effect the Merger A-55
+6.2. Conditions to Obligations of Parent A-55
+6.3. Conditions to Obligations of the Company A-57
+ARTICLE VII.
+TERMINATION AND AMENDMENT
+7.1. Termination A-57
+7.2. Effect of Termination A-59
+A-ii
+
+--- Page 4 ---
+Table of Contents
+ARTICLE VIII.
+GENERAL PROVISIONS
+8.1. Non-survival  of Representations, Warranties and Agreements A-62
+8.2. Amendment A-62
+8.3. Extension; Waiver A-62
+8.4. Expenses A-62
+8.5. Notices A-62
+8.6. Certain Definitions A-64
+8.7. Interpretation A-74
+8.8. Counterparts A-74
+8.9. Entire Agreement; Third-Party Beneficiaries A-74
+8.10. Governing Law A-75
+8.11. Jurisdiction; Service of Process; Waiver of Jury Trial A-75
+8.12. Specific Performance A-76
+8.13. Severability A-77
+8.14. Assignment A-77
+8.15. Non-Recourse A-77
+Annex A Surviving Company Certificate of Incorporation
+Annex B Surviving Company Bylaws
+A-iii
+
+--- Page 5 ---
+Table of Contents
+INDEX OF DEFINED TERMS
+2021 First Lien Notes 8.6
+2021 First Lien Notes Indenture 8.6
+2021 First Lien Notes Trustee 8.6
+2023 Company RSU 2.4(e)
+Acceptable Confidentiality Agreement 8.6
+affiliate 8.6
+agent 8.6
+Agreement Preamble
+Alternate Debt Financing 5.13(d)
+Alternative Arrangement Contract 3.4(c)
+Anti-Corruption Laws 3.9(i)
+Anti-Money Laundering Laws 8.6
+Approval 8.6
+BofA Securities 3.20
+Book Entry Shares 2.6(c)
+Burdensome Condition 5.5(d)
+Business Day 8.6
+Cancelled Shares 2.1(a)
+Capital Expenditure Budget 5.1(a)(xi)
+CARES Act 8.6
+Certificate of Merger 1.3
+Certificates 2.6(b)
+Change of Recommendation 5.4(b)
+Change of Recommendation Notice 5.4(f)
+Claims 8.6
+Closing 1.2
+Closing Date 1.2
+Code 3.11(e)
+Collective Bargaining Agreement 8.6
+Commitment Letters 4.9(a)
+Common Stock 2.1
+Company Preamble
+Company Acquisition Proposal 8.6
+Company Board Recitals
+Company Disclosure Schedule Article III
+Company Employees 3.12(a)
+Company IP 3.14(a)
+Company LTI Awards 2.4(f)
+Company Option Award 2.4(a)
+Company Recommendation 3.3(b)
+Company Related Party 8.6
+Company Reports 3.5(a)
+Company Severance Plan 5.6(b)
+Company Stock Plan 2.4(a)
+Company Stockholder Approval 3.19
+Company Stockholders Meeting 5.3(b)
+Company Superior Proposal 8.6
+Company Termination Fee 8.6
+Company Warrant 2.2
+Compliance Requirements 8.6
+Confidentiality Agreement 8.6
+Continuing Employees 5.6(a)
+Contract 8.6
+control 8.6
+Converted Award 2.4(e)
+Copyrights 8.6, 8.6
+COVID-19 8.6
+COVID-19  Actions 8.6
+COVID-19  Measures 8.6
+Credit Agreement 8.6
+Credit Agreement Payoff Amount 5.17(a)
+D&O Insurance 5.7(b)
+Data Protection Obligations 3.14(i)
+Debt Commitment Letter 4.9(a)
+Debt Financing 4.9(a)
+DGCL 1.1
+Dissenting Shares 2.5(a)
+DPA 4.11
+Effect 8.6
+Effective Time 1.3
+
+--- Page 6 ---
+A-ivEnd Date 7.1(c)
+Environmental Laws 3.15(b)(i)
+Equity Commitment Letter 4.9(a)
+Equity Financing 4.9(a)
+Equity Syndication 5.18
+ERISA 3.12(a)
+ERISA Affiliates 3.12(c)
+Exchange Act 3.5(a)
+Exempted Person 8.6
+Expense and Interest Payments 7.2(e)
+Extended End Date 7.1(c)
+Families First Act 8.6
+Fee Letter 4.9(a)
+Financing 4.9(a)
+Foreign Benefit Plan 3.12(g)
+Foreign Regulatory Filings 5.5(a)
+Foreign Regulatory Laws 3.4(a)
+Government Official 3.9(i)
+Governmental Entity 8.6
+Guarantor 8.6
+HSR Act 3.4(a)
+Indemnified Parties 5.7(a)
+Indenture Redemption Amount 5.17(b)
+Infringing 8.6
+Initial End Date 7.1(c)
+Insurance Amount 5.7(b)
+Insurance Policies 3.17
+Intellectual Property 8.6
+
+--- Page 7 ---
+Table of Contents
+International Trade Laws 8.6
+Intervening Event 8.6
+IT Assets 3.14(m)(i)
+knowledge 8.6
+Law 8.6
+Leases 3.16(b)
+Legal Requirement 8.6
+Lender Related Party 8.6
+Lenders 8.6
+Liens 8.6
+Limited Guarantee Recitals
+LTI Award Consideration 2.4(f)
+Marketing Period 8.6
+Marks 8.6, 8.6
+Material Adverse Effect 8.6
+Material Contract 3.10(a)
+Materials of Environmental Concern 8.6
+Merger Recitals
+Merger Consideration 2.1(b)
+Merger Sub Preamble
+Misconduct 3.13(e)
+Money Transfer Agent 8.6
+Money Transfer Change of Control Filings 5.5(a)
+Money Transmitter License 8.6
+Money Transmitter Requirements 8.6
+NASDAQ 8.6
+New Approval 5.18
+New Debt Commitment Letters 5.13(d)
+Notice Period 5.4(e)(iii)
+OFAC 8.6
+Open Source License 8.6
+Open Source Software 3.14(g)
+Order 8.6
+Parent Preamble
+Parent Disclosure Schedule Article IV
+Parent Liability Limitation 7.2(e)
+Parent Material Adverse Effect 8.6
+Parent Plans 5.6(c)
+Parent Related Party 8.6
+Parent Termination Fee 8.6
+Patents 8.6, 8.6
+Paying Agent 2.6(a)
+PBGC 3.12(e)
+Permitted Co-Investor 8.6
+Permitted Lien 8.6
+Permitted LP 8.6
+Permitted Preferred Purchaser 8.6
+person 8.6
+Personal Data 3.14(m)(ii)
+Plan 3.12(a)
+Pre-2023  Company Performance Cash Award 2.4(d)
+Pre-2023  Company Performance-Based RSU Award 2.4(c)
+Pre-2023  Company Time-Based RSU Award 2.4(b)
+Prior Bidder 5.4(a)
+Privacy Laws 3.14(m)(iii)
+Privacy Policy 3.14(m)(iv)
+Prohibited LP 8.6
+Protection Period 5.6(a)
+Proxy Statement 3.4(a)
+Registered IP 3.14(a)
+Related Software 8.6
+Representatives 5.2(a)
+Required Financial Information 8.6
+Required Financing Amount 4.9(d)
+Required Money Transfer Approval 6.2(c)
+Sanctions 3.9(g)
+Sanctions Authority 3.9(g)
+Sarbanes-Oxley Act 3.5(a)
+SEC 8.6
+Securities Act 3.5(a)
+Security Incident 3.14(l)
+
+--- Page 8 ---
+A-vSecurityholder 8.6
+Shares 2.1
+Software 8.6
+Solicitation Period End Date 5.4(a)
+Standstill Agreement 8.6
+Subsidiary 8.6
+Superior Proposal Notice 5.4(e)(ii)
+Surviving Company 1.1
+Tax 3.11(q)(i)
+Tax Return 3.11(q)(ii)
+Transaction Documents 8.6
+U.S. GAAP 8.6
+WARN Act 3.13(c)
+Warrant Consideration 2.2
+Willful and Material Breach 8.6
+
+--- Page 9 ---
+Table of Contents
+AGREEMENT AND PLAN OF MERGER
+This AGREEMENT AND PLAN OF MERGER, dated as of February 14, 2022 (as amended, supplemented or otherwise modified from time to time, this
+“Agreement ”), is entered into by and among Mobius Parent Corp., a Delaware Corporation (“ Parent ”), Mobius Merger Sub, Inc., a Delaware corporation
+and a Subsidiary of Parent (“ Merger Sub ”), and MoneyGram International, Inc., a Delaware corporation (the “ Company ”).
+RECITALS
+WHEREAS, the parties intend that, on the terms and subject to the conditions set forth herein, Merger Sub shall merge with and into the Company, with
+the Company being the Surviving Company (the “ Merger ”);
+WHEREAS, the board of directors of the Company (the “ Company Board ”) by resolutions duly adopted by the vote of the Company Board at a meeting
+duly called and held, which resolutions have not as of the date of this Agreement been subsequently rescinded, modified or withdrawn in any way, has
+unanimously (i) determined that the Merger and the other transactions contemplated by this Agreement are fair to and in the best interests of the
+Company and its stockholders, (ii) approved, adopted, declared advisable and authorized in all respects this Agreement and the transactions
+contemplated hereby, including the Merger, (iii) directed that the Merger be submitted to the stockholders of the Company for approval at the Company
+Stockholders Meeting and (iv) recommended that the Company’s stockholders approve the Merger;
+WHEREAS, the respective boards of directors of Parent and Merger Sub have (i) approved and declared advisable this Agreement and the transactions
+contemplated by this Agreement, including the Merger, upon the terms and subject to the conditions set forth herein and (ii) determined that this
+Agreement and such transactions are fair to, and in the best interests of, Parent and Merger Sub and their respective stockholders;
+WHEREAS, concurrently with the execution of this Agreement, and as a condition and inducement to the Company’s willingness to enter into this
+Agreement, the Guarantors are entering into a limited guarantee in favor of the Company (the “ Limited Guarantee ”), pursuant to which, subject to the
+terms and conditions contained therein, the Guarantors are guaranteeing certain obligations of Parent and Merger Sub in connection with this
+Agreement; and
+WHEREAS, the parties desire to make certain representations, warranties, covenants and agreements in connection with this Agreement.
+NOW, THEREFORE, in consideration of the premises and the representations, warranties, covenants and agreements contained herein, and subject to the
+conditions set forth herein, the parties agree as follows:
+ARTICLE I
+THE MERGER
+1.1. The Merger . Subject to the terms and conditions of this Agreement, in accordance with the Delaware General Corporation Law (“ DGCL ”), at the
+Effective Time, Merger Sub shall merge with and into the Company, whereupon the separate corporate existence of Merger Sub shall cease and the
+Company shall continue its corporate existence under the Laws of the State of Delaware as the surviving corporation in the Merger (hereinafter
+sometimes referred to as the “ Surviving Company ”).
+1.2. Closing of the Merger . Subject to the terms and conditions of this Agreement, including the proviso in this Section  1.2, the closing of the Merger (the
+“Closing ”) will take place, unless another time, date or place is agreed to in writing by the parties, by electronic exchange and release of signature pages
+at 10:00 a.m. (local
+A-1
+
+--- Page 10 ---
+Table of Contents
+time), no later than the third (3rd) Business Day (or, if earlier, the Business Day immediately prior to the End Date (for the avoidance of doubt, after giving
+effect to any extension thereof in accordance with Section  7.1(c) )) after the satisfaction or waiver (to the extent permitted by applicable Law) of the
+conditions (other than those conditions that by their nature are to be satisfied at the Closing, but subject to the satisfaction or waiver of those
+conditions) set forth in Article VI ; provided , that if the Marketing Period has not ended prior to such Business Day (including, for the avoidance of
+doubt, as a result of any extension of the End Date pursuant to Section  7.1(c)  to accommodate the Marketing Period), the Closing will occur on the
+second (2nd) Business Day after the final day of the Marketing Period unless an earlier date has been agreed by Parent in writing. The date on which the
+Closing occurs is the “ Closing Date .”
+1.3. Effective Time . On the Closing Date, the Company and Merger Sub shall cause the Merger to be consummated by executing, delivering and filing a
+certificate of merger (the “ Certificate of Merger ”) with the Secretary of State of the State of Delaware in accordance with the relevant provisions of the
+DGCL and other applicable Delaware Law and shall make such other filings or recordings required under the DGCL in connection with the Merger. The
+Merger shall become effective at such time as the Certificate of Merger is duly filed with the Secretary of State of the State of Delaware, or at such later
+time on the Closing Date as may be agreed by Parent and the Company and specified in the Certificate of Merger in accordance with the DGCL (such time
+as the Merger becomes effective is referred to herein as the “ Effective Time ”).
+1.4. Effects of the Merger . At and after the Effective Time, the Merger shall have the effects set forth in the DGCL. Without limiting the foregoing and
+subject to the foregoing, at the Effective Time, all of the property, assets, rights, privileges, immunities, powers and franchises of Merger Sub and the
+Company shall vest in the Surviving Company and all of the debts, liabilities and duties of Merger Sub and the Company shall become the debts,
+liabilities and duties of the Surviving Company.
+1.5. Certificate of Incorporation . The certificate of incorporation of the Company, as in effect as of immediately prior to the Effective Time, shall by virtue
+of the Merger be amended and restated as of the Effective Time so as to read in its entirety as set forth in Annex A , and as so amended and restated shall
+be the certificate of incorporation of the Surviving Company following the Merger until thereafter amended in accordance with the provisions thereof and
+applicable Law.
+1.6. Bylaws . The bylaws of the Company, as in effect as of immediately prior to the Effective Time, shall by virtue of the Merger be amended and restated
+as of the Effective Time so as to read in their entirety as set forth in Annex B , and as so amended and restated shall be the bylaws of the Surviving
+Company until thereafter amended in accordance with the provisions thereof, the certificate of incorporation of the Surviving Company and applicable
+Law.
+1.7. Board of Directors . The directors of Merger Sub immediately prior to the Effective Time, with such additional individuals that Parent may designate
+prior to the Effective Time to serve as directors of the Surviving Company, shall be the directors of the Surviving Company as of the Effective Time, each
+to hold office in accordance with the certificate of incorporation and bylaws of the Surviving Company as amended as of the Effective Time, until their
+respective successors are duly elected or appointed (as the case may be) and qualified, or their earlier death, resignation or removal.
+1.8. Officers . The officers of the Company immediately prior to the Effective Time shall be the officers of the Surviving Company as of the Effective Time,
+each to hold office in accordance with the certificate of incorporation and bylaws of the Surviving Company as amended as of the Effective Time, until
+their respective successors are duly appointed, or their earlier death, resignation or removal.
+A-2
+
+--- Page 11 ---
+Table of Contents
+ARTICLE II.
+CONSIDERATION
+2.1. Effect on Common Stock . At the Effective Time, by virtue of the Merger and without any action on the part of the holder of any shares (the “ Shares ”)
+of common stock, par value $0.01 per share, of the Company (the “ Common Stock ”):
+(a) any Shares then held by the Company, any wholly-owned Subsidiary of the Company, Parent, Merger Sub or any entity of which Merger Sub is a
+direct or indirect wholly-owned Subsidiary shall be cancelled and retired and no cash or other consideration shall be delivered in exchange therefor (the
+“Cancelled Shares ”); and
+(b) each share of Common Stock outstanding immediately prior to the Effective Time (other than Dissenting Shares or Cancelled Shares) shall be
+cancelled and converted into the right to receive $11.00 in cash, without interest (the “ Merger Consideration ”).
+2.2. Effect on  Company Warrants . At the Effective Time, by virtue of the Merger and without any action on the part of the holder of any warrant to
+purchase Shares (a “ Company Warrant ”), each Company Warrant (or portion thereof) that is outstanding and unexercised immediately prior to the
+Effective Time shall be canceled and the holder thereof shall be entitled to receive an amount in cash equal to the product of (a) the excess, if any, of the
+Merger Consideration over the applicable per share exercise price of such Company Warrant and (b) the number of Shares issuable upon exercise of such
+Company Warrant (or portion thereof) (the “ Warrant Consideration ”).
+2.3. Merger Sub Capital Stock . At the Effective Time, by virtue of the Merger and without any action on the part of the holder of any shares of common
+stock, par value $0.01 per share, of Merger Sub, any such shares of common stock of Merger Sub outstanding immediately prior to the Effective Time
+shall be converted into and become one share of common stock of the Surviving Company.
+2.4. Treatment of Company Equity Awards and Company Performance Cash Awards .
+(a) General . At the Effective Time, each award of options to purchase shares of Common Stock (a “ Company Option  Award ”) granted pursuant to the
+Company’s 2005 Omnibus Incentive Plan (as amended, restated, modified or supplemented from time to time, together with all other equity plans and
+arrangements that provide for the issuance of equity or equity-based awards, the “ Company Stock Plan ”) whether vested or unvested, that is
+outstanding immediately prior to the Effective Time, each of which has an exercise price equal to or greater than the Merger Consideration and therefore is
+expected to have no intrinsic value at the Effective Time, shall, by virtue of the Merger and without any action on the part of the holder thereof,
+automatically be cancelled and retired and no cash or other consideration shall be delivered in exchange therefor, and the Company shall have no further
+obligations with respect to such Company Option Award.
+(b) Pre-2023  Time-Vesting RSUs . At the Effective Time, each award of restricted stock units subject to time-based vesting granted prior to January 1, 2023
+pursuant to the Company Stock Plan representing the right to receive shares of Common Stock (including any award originally subject to performance-
+based vesting for which the performance period has been completed and performance threshold satisfied and which is now subject solely to time-based
+vesting) that has not been settled (each, a “ Pre-2023  Company Time-Based RSU  Award ”), that is outstanding immediately prior to the Effective Time shall,
+by virtue of the Merger and without any action on the part of the holder thereof, automatically become fully vested and be canceled in exchange for the
+right to receive, at the Effective Time and in full satisfaction of the Company’s obligations with respect to such Pre-2023  Company Time-Based RSU
+Award, an amount in cash (subject to any applicable withholding Taxes) equal to the product of (i) the Merger Consideration and (ii) the number of shares
+of Common Stock subject to such Pre-2023  Company Time-Based RSU Award (which, with respect to any award originally subject to performance-based
+vesting for which the performance period has been completed and performance threshold satisfied, and which is
+A-3
+
+--- Page 12 ---
+Table of Contents
+now subject solely to time-based vesting, means the number of shares of Common Stock for which the applicable performance criteria were achieved and
+are subject to time-based vesting).
+(c) Pre-2023  Performance-Vesting RSUs . At the Effective Time, each award of restricted stock units subject to performance-based vesting granted prior to
+January 1, 2023 pursuant to the Company Stock Plan representing the right to receive shares of Common Stock for which the performance period has not
+been completed (each, a “ Pre-2023  Company Performance-Based RSU Award ”), that is outstanding immediately prior to the Effective Time shall, by virtue
+of the Merger and without any action on the part of the holder thereof, automatically become vested as to a number of shares of Common Stock subject
+to such Pre-2023  Company Performance-Based RSU Award based on achievement of the performance criteria set forth in the applicable award agreement
+at the greater of the target level and the actual level of performance achieved immediately prior to the Effective Time and shall be canceled in
+consideration for the right to receive, at the Effective Time and in full satisfaction of the Company’s obligations with respect to such Pre-2023  Company
+Performance-Based RSU Award, an amount in cash (subject to any applicable withholding Taxes) equal to the product of (i) the Merger Consideration
+and (ii) such vested number of shares of Common Stock.
+(d) Cash-Based Awards . At the Effective Time, each performance-based cash award granted prior to January 1, 2023 pursuant to the Company Stock Plan,
+whether vested or unvested, representing the right to receive cash payments, whether subject to performance-based vesting requirements or time-based
+vesting requirements (each, a “ Pre-2023  Company Performance Cash Award ”), that is outstanding immediately prior to the Effective Time, shall, by virtue
+of the Merger and without any action on the part of the holder thereof, automatically become fully vested and be canceled in exchange for the right to
+receive, at the Effective Time and in full satisfaction of the Company’s obligations with respect to such Pre-2023  Company Performance Cash Award, an
+amount in cash (subject to any applicable withholding Taxes) equal to the aggregate cash amount payable pursuant to such Pre-2023  Company
+Performance Cash Award based on achievement of the performance criteria set forth in the applicable award agreement at the greater of the target level
+and the actual level of performance achieved immediately prior to the Effective Time. Each performance-based cash award granted on or after January 1,
+2023 pursuant to the Company Stock Plan, whether vested or unvested, representing the right to receive cash payments, whether subject to performance-
+based vesting requirements or time-based vesting requirements, that is outstanding immediately prior to the Effective Time, shall continue in accordance
+with its terms.
+(e) 2023 RSUs . At the Effective Time, each award of restricted stock units subject to either time-based or performance-based vesting granted in or
+following calendar year 2023 pursuant to the Company Stock Plan representing the right to receive shares of Common Stock (including any award
+originally subject to performance-based vesting for which the performance period has been completed and performance threshold satisfied and which is
+now subject solely to time-based vesting) (each, a “ 2023 Company RSU ”) outstanding immediately prior to the Effective Time, shall, unless otherwise
+agreed to in writing by Parent and the holder of such 2023 Company RSU, automatically be converted into a cash-settled long-term incentive award (a
+“Converted Award ”), representing a right to receive an amount of cash, without interest, equal to the product of (i) the Merger Consideration and (ii) the
+number of Shares underlying such 2023 Company RSU (and, with respect to any such 2023 Company RSU, that is subject to performance based vesting,
+such number of Shares will be based on achievement of the performance criteria set forth in the applicable award agreement at the greater of the target
+level and the actual level of performance achieved immediately prior to the Effective Time), on the same vesting terms and conditions applicable to such
+2023 Company RSU immediately before the Effective Time (it being understood that the Merger will not in and of itself constitute a single-trigger
+acceleration, vesting or payment event with respect to such Shares). On the date, and to the extent, that the Converted Award becomes vested, such
+vested Converted Award shall be paid, subject to any applicable withholding taxes, as soon as practicable thereafter (but in any event not later than the
+second regular payroll date thereafter). The Company shall take all actions necessary to provide for the foregoing actions.
+(f) Prior to the Effective Time, the Company shall take all actions necessary to effectuate the treatment of the Pre-2023  Company Time-Based RSU Awards,
+the Pre-2023  Company Performance-Based RSU Awards and
+A-4
+
+--- Page 13 ---
+Table of Contents
+the Pre-2023  Company Performance Cash Awards (collectively, the “ Company LTI Awards ”), including the payment of the consideration described in
+Section  2.4(b) , (c) or (d), as applicable (the “ LTI Award  Consideration ”) and cancellation of such Company LTI Awards as of the Effective Time. The
+Company will ensure that, following the Effective Time, no participant in the Company Stock Plan or otherwise will have any right thereunder to acquire
+any equity securities of the Company, the Surviving Company or any of their respective Subsidiaries. The provisions of Section  2.4(b) , Section  2.4(c)  and
+Section  2.4(e)  shall apply to all Pre-2023  Company Time-Based RSU Awards, all Pre-2023  Company Performance-Based RSU Awards and all 2023 Company
+RSUs except as otherwise agreed to in writing signed prior to the Effective Time by Parent and a holder of a Pre-2023  Company Time-Based RSU Award, a
+Pre-2023  Company Performance-Based RSU Award or a 2023 Company RSU.
+2.5. Dissenting Shares .
+(a) Notwithstanding anything to the contrary contained herein, to the extent required by the DGCL, any shares of Common Stock that are issued and
+outstanding immediately prior to the Effective Time and as to which the holders thereof have not voted in favor of the adoption of this Agreement and
+have properly demanded appraisal in accordance with Section 262 of the DGCL and have not effectively withdrawn such demand (collectively,
+“Dissenting Shares ”) shall not be converted into the right to receive the Merger Consideration as provided in Section  2.1, and such holders shall be
+entitled only to such rights and payments as are granted by Section 262 of the DGCL; provided , however , that if any such holder shall effectively waive,
+withdraw, not properly demand or perfect or otherwise lose such holder’s rights under Section 262 of the DGCL, each of such holder’s Dissenting Shares
+shall thereupon be deemed to have been converted at the Effective Time into the right to receive the Merger Consideration as provided in Section  2.1,
+without interest and after giving effect to any required Tax withholdings as provided herein, and such holder thereof shall cease to have any other rights
+with respect thereto. At the Effective Time, any holder of Dissenting Shares shall cease to have any rights with respect thereto, except the rights provided
+in Section 262 of the DGCL and as provided in the previous sentence.
+(b) The Company shall give Parent prompt notice of any written notices received by the Company prior to the Effective Time with respect to any intent to
+demand or written demands for appraisal with respect to any shares of Common Stock, attempts to withdraw such notices or demands and any other
+instruments or notices served pursuant to Section 262 of the DGCL or other applicable Law relating to stockholders’ appraisal rights. Parent shall have the
+right to control all negotiations and proceedings with respect to the exercise of appraisal rights under Section 262 of the DGCL or other applicable Law
+relating to stockholders’ appraisal rights. The Company shall not, except with the prior written consent of Parent or as otherwise required by an Order of a
+Governmental Entity of competent jurisdiction, make any payment or other commitment with respect to any such demands for appraisal, offer to settle or
+settle any such demands or approve any withdrawal, resolution or settlement of any such demands.
+2.6. Paying Agent .
+(a) Prior to the Effective Time, Parent shall enter into an agreement in form and substance reasonably acceptable to the Company with the Company’s
+transfer agent or a bank or trust company that is reasonably satisfactory to the Company to act as paying agent (the “ Paying Agent ”). At or immediately
+prior to the Effective Time, Parent or one of its Subsidiaries shall deposit, or shall cause to be deposited, with the Paying Agent, for the benefit of the
+holders of Shares (other than Dissenting Shares or Cancelled Shares), Company LTI Awards and Company Warrants, cash in U.S. dollars sufficient to
+make the aggregate payments required to be made at the Effective Time pursuant to this Article II . With respect to any Dissenting Shares, Parent shall
+only be required to deposit or cause to be deposited with the Paying Agent funds sufficient to pay the aggregate Merger Consideration payable in
+respect of such Dissenting Shares if the holder thereof fails to perfect or effectively withdraws or loses its right to dissent under the DGCL. The funds
+held by the Paying Agent shall be invested by the Paying Agent as directed by Parent; provided , however , to the extent such funds are not sufficient to
+make the payments required to be made at the Effective Time pursuant to this Article II , Parent shall, or shall cause the
+A-5
+
+--- Page 14 ---
+Table of Contents
+Surviving Company to, promptly replace or restore the lost portion of such fund so as to ensure that it is maintained at a level sufficient to make such
+payments.
+(b) As soon as reasonably practicable after the Effective Time (but in any event no later than three (3) Business Days thereafter), Parent shall cause the
+Paying Agent to mail to each holder of record of Shares (other than Dissenting Shares or Cancelled Shares) or Company Warrants, in each case, that
+immediately prior to the Effective Time were evidenced by certificates (the “ Certificates ”): (i) a form of letter of transmittal (which shall specify that
+delivery shall be effected, and risk of loss and title to the Certificates shall pass, only upon delivery of the Certificates to the Paying Agent) and (ii)
+instructions for use in effecting the surrender of the Certificates in exchange for the Merger Consideration or the Warrant Consideration, as applicable.
+Upon proper surrender of a Certificate (or affidavits of loss in lieu thereof in accordance with Section  2.6(g) ) for exchange and cancellation to the Paying
+Agent, together with a letter of transmittal, duly completed and validly executed in accordance with the instructions thereto, and such other documents
+as may be reasonably required pursuant to such instructions, the holder of such Certificate shall be entitled to receive in exchange therefor the Merger
+Consideration in respect of the Shares or the Warrant Consideration in respect of the Company Warrants formerly represented by such Certificate and
+such Certificate so surrendered shall forthwith be cancelled. No interest will be paid or accrued for the benefit of holders of the Certificates on the Merger
+Consideration or Warrant Consideration, as applicable, payable upon the surrender of the Certificates.
+(c) Any holder of record of Shares (other than Dissenting Shares or Cancelled Shares) or Company Warrants, in each case, that immediately prior to the
+Effective Time were not evidenced by certificates (the “ Book Entry Shares ”) shall not be required to deliver a Certificate or, unless reasonably requested
+by the Paying Agent, an executed letter of transmittal to the Paying Agent in order to receive the aggregate Merger Consideration or Warrant
+Consideration, as applicable, with respect to such Book Entry Shares, and as soon as reasonably practicable after the Effective Time, the Paying Agent
+shall pay and deliver to each holder of Book Entry Shares the aggregate Merger Consideration or Warrant Consideration, as applicable, in respect of such
+Book Entry Shares, and such Book Entry Shares shall then be canceled. No interest will be paid or accrued for the benefit of holders of Book Entry Shares
+on the Merger Consideration or Warrant Consideration, as applicable, payable in respect of such Book Entry Shares.
+(d) If the payment of the Merger Consideration or Warrant Consideration, as applicable, is to be made to a person other than the registered holder of the
+Certificate surrendered in exchange therefor or the registered holder of Book Entry Shares, it shall be a condition of payment that the Certificate so
+surrendered shall be properly endorsed (or accompanied by an appropriate instrument of transfer) and otherwise in proper form for transfer or such Book
+Entry Shares shall be properly transferred, and that the person requesting such payment shall pay to the Paying Agent in advance any applicable stock
+transfer or other Taxes or shall establish to the reasonable satisfaction of the Paying Agent that such Taxes have been paid or are not payable.
+(e) At and after the Effective Time, there shall be no transfers on the transfer books of the Company of the Shares or Company Warrants that were issued
+and outstanding immediately prior to the Effective Time. If, after the Effective Time, Certificates representing such securities are presented for transfer to
+the Paying Agent, Surviving Company or Parent they shall be (subject to compliance with the other provisions of this Article II ) cancelled and exchanged
+for the Merger Consideration or the Warrant Consideration, as applicable, as provided in this Article II . From and after the Effective Time, the holders of
+Shares and Company Warrants, in each case outstanding immediately prior to the Effective Time, shall cease to have any rights with respect to such
+Shares and Company Warrants except as otherwise provided for herein or by applicable Law.
+(f) Any portion of the funds deposited with the Paying Agent pursuant to Section  2.6(a)  (including any interest or other proceeds of any investment
+thereon) that remains unclaimed by the Securityholders twelve (12) months after the Effective Time shall be paid, at the request of Parent, to Parent or as
+directed by Parent. Any Securityholders who have not theretofore complied with this Article II  shall thereafter look only to the Surviving Company for
+payment of the Merger Consideration, LTI Award Consideration or the Warrant
+A-6
+
+--- Page 15 ---
+Table of Contents
+Consideration, as applicable, in respect of the Shares, Company LTI Awards or Company Warrants held by such Securityholder at the Effective Time as
+determined pursuant to this Agreement, in each case, without any interest thereon. Notwithstanding anything to the contrary contained herein, none of
+Parent, the Company, the Paying Agent or any other person shall be liable to any former Securityholder for any amount properly delivered to a public
+official pursuant to applicable abandoned property, escheat or similar Laws.
+(g) In the event any Certificate shall have been lost, stolen or destroyed, upon the making of an affidavit of that fact by the person claiming such
+Certificate to be lost, stolen or destroyed and, if required by Parent or the Paying Agent, the posting by such person of a bond in such amount as Parent
+or the Paying Agent may determine is reasonably necessary as indemnity against any Claim that may be made against it with respect to such Certificate,
+the Paying Agent will issue in exchange for such lost, stolen or destroyed Certificate the Merger Consideration or the Warrant Consideration, as
+applicable, deliverable in respect thereof pursuant to this Agreement.
+2.7. Withholding . Each of Parent or any of its Subsidiaries, the Company, the Surviving Company and the Paying Agent shall be entitled to deduct and
+withhold or cause to be deducted and withheld from any payment otherwise payable pursuant to this Agreement such amounts as are required to be
+deducted and withheld with respect to such payment under applicable Tax Law. To the extent that amounts are so deducted or withheld, such amounts
+shall be treated for all purposes of this Agreement as having been paid to the recipient of the payment in respect of which such deduction and
+withholding was made.
+2.8. Certain Adjustments . Without limiting the obligations of the Company under this Agreement (including Section  5.1), if between the date of this
+Agreement and the Effective Time, the number of Shares or the number of Shares issuable upon conversion, exchange or exercise of any issued and
+outstanding securities of the Company (including the Company Option Awards, Company LTI Awards and Company Warrants) are changed into a
+different number or a different class by reason of any reclassification, stock split (including a reverse stock split), stock dividend or distribution,
+recapitalization, or other similar transaction, then the Merger Consideration, Warrant Consideration, LTI Award Consideration and any other dependent
+items, as applicable, shall be appropriately and proportionately adjusted and as so adjusted shall, from and after the date of such event, be the Merger
+Consideration, Warrant Consideration, LTI Award Consideration or other dependent item, as applicable; provided, that in no event will the aggregate
+Merger Consideration, Warrant Consideration, LTI Award Consideration or other payments required to be made under this Article II  increase as a result
+of any such adjustment.
+ARTICLE III.
+REPRESENTATIONS AND WARRANTIES OF THE COMPANY
+Except as (i) disclosed in the Company Reports filed with, or furnished to, the SEC since January 1, 2020 and prior to the date hereof (other than such
+disclosures in such Company Reports contained in the “Risk Factors” and “Forward Looking Statements” sections thereof or that are otherwise
+cautionary, predictive or forward-looking in nature) (it being acknowledged that this clause (i)  shall not apply to any of Sections  3.2, 3.3, 3.21 and 3.23 ) or
+(ii) set forth on the disclosure schedule delivered by the Company to Parent and Merger Sub upon the execution of this Agreement (the “ Company
+Disclosure Schedule ”) (it being agreed that disclosure of any item in any section of the Company Disclosure Schedule shall also be deemed disclosure
+with respect to any other Section of this Agreement to which the relevance of such item is reasonably apparent on the face of such disclosure), the
+Company hereby represents and warrants to Parent and Merger Sub as follows:
+3.1. Corporate Organization .
+(a) The Company is a corporation duly organized and validly existing under the Laws of the State of Delaware. The Company is in good standing under
+the Laws of the State of Delaware and has all requisite
+A-7
+
+--- Page 16 ---
+Table of Contents
+corporate power and authority to own, lease or operate all of its properties, rights and assets and to carry on its business as it is now being conducted,
+and is duly qualified or licensed to do business in each jurisdiction in which the nature of the business conducted by it or the character or location of the
+properties, rights and assets owned, leased or operated by it makes such qualification necessary, except where the failure to be so qualified, licensed or in
+good standing would not have or reasonably be expected to have, individually or in the aggregate, a Material Adverse Effect. The certificate of
+incorporation and bylaws of the Company, each as amended, restated or amended and restated through the date hereof, copies of which have been made
+available to Parent, are true, complete and correct copies of such documents as in full force and effect as of the date of this Agreement.
+(b) Each Subsidiary of the Company (i) is duly organized and validly existing as a corporation, partnership or other entity and is in good standing to the
+extent such concept is applicable under the laws of its jurisdiction of organization, (ii) is duly qualified or licensed to do business and is in good standing
+in all jurisdictions (whether federal, state, local or foreign) where its ownership or leasing of property or the conduct of its business requires it to be so
+qualified or licensed and (iii) has all requisite corporate or other power and authority to own or lease its properties, rights and assets and to carry on its
+business as now conducted, except where the failure to be so organized, existing, licensed, qualified or in good standing would not have or reasonably be
+expected to have, individually or in the aggregate, a Material Adverse Effect. The certificate of incorporation, bylaws and similar governing documents of
+each Subsidiary of the Company, each as amended, restated or amended and restated through the date hereof, copies of which have been made available
+to Parent, are true, complete and correct copies of such documents as in full force and effect as of the date of this Agreement.
+3.2. Capitalization .
+(a) The authorized capital stock of the Company consists of 162,500,000 shares of Common Stock and 7,000,000 shares of preferred stock, $0.01 par value
+per share. As of February 11, 2022, there were (i) 90,725,982 shares of Common Stock outstanding (and 1,579,029 shares of Common Stock held in
+treasury), (ii) 0 shares of preferred stock outstanding, (iii) Company Warrants to purchase an aggregate of 4,458,314 shares of Common Stock
+outstanding, (iv) 131,153 shares of Common Stock subject to Company Option Awards (with a weighted average exercise price per Share of $17.5434), (v)
+3,684,566 shares of Common Stock subject to Pre-2023 Company Time-Based RSU Awards, (vi) 419,760  shares of Common Stock subject to Pre-2023
+Company Performance-Based RSU Awards (which is the maximum number of shares of Common Stock issuable under such Pre-2023 Company
+Performance-Based RSU Awards) and (vii) 4,106,694  shares of Common Stock remaining available for issuance and delivery pursuant to the Company
+Stock Plan. As of the date of this Agreement, Pre-2023 Company Performance Cash Awards with an aggregate value of $15,236,106.70 remain outstanding,
+assuming achievement of all applicable performance goals at maximum levels. All of the issued and outstanding shares of capital stock of the Company
+are, and all such shares that may be issued between the date hereof and the Closing will be, duly authorized and validly issued and are fully paid,
+nonassessable and free of preemptive rights. No Subsidiary of the Company owns any shares of Common Stock.
+(b) Except as set forth in Section  3.2(a)  and Section  3.2(b)  of the Company Disclosure Schedule and except for any Common Stock (x) issuable upon
+exercise of the Company Option Awards or Company Warrants in accordance with the respective terms thereof and upon the vesting of any Pre-2023
+Company Time-Based RSU Awards or Pre-2023 Company Performance-Based RSU Awards outstanding on the date hereof or (y) issued in accordance
+with Section  5.1(a)(iii)  of the Company Disclosure Schedule after the date of this Agreement, (i) the Company does not have any other shares of Common
+Stock, preferred stock or capital stock outstanding, (ii) neither the Company nor any of its Subsidiaries has issued, granted or is bound by any
+outstanding subscriptions, options, warrants, calls, convertible securities, preemptive rights, redemption rights, stock appreciation rights, stock-based
+performance units or other similar rights or Contracts that require the Company or any of its Subsidiaries to purchase or issue any shares of the capital
+stock of the Company or of any of its Subsidiaries (or cash in lieu of such amounts) or other equity securities of the Company or any of its Subsidiaries or
+any securities representing the right to purchase or otherwise receive any shares of the capital stock of the Company or any of its Subsidiaries (including
+any rights plan or agreement) or equity-based awards and
+A-8
+
+--- Page 17 ---
+Table of Contents
+(iii) there are no Contracts to which the Company or any of its Subsidiaries is a party obligating the Company or any of its Subsidiaries to (a) issue,
+transfer or sell any shares of capital stock or other equity interests of the Company or any of its Subsidiaries or securities convertible into or
+exchangeable or exercisable for such shares or equity interests, (b) issue, grant, extend or enter into any such subscription, option, warrant, call,
+convertible securities, stock-based performance units or other similar right, agreement, arrangement or commitment or (c) redeem or otherwise acquire any
+such shares of capital stock or other equity interests.
+(c) Except as set forth in Section  3.2(c)  of the Company Disclosure Schedule, there are no Contracts to which the Company or any of its Subsidiaries is a
+party that restrict the transfer of, that relate to the voting of, or that provide registration rights in respect of, the capital stock or other equity interest of
+the Company or any of its Subsidiaries.
+(d) Section 3.2(d)  of the Company Disclosure Schedule sets forth a complete list, as of the date of this Agreement, of each Subsidiary of the Company,
+together with its jurisdiction of organization or incorporation and the ownership interest (and percentage interest) of the Company or its Subsidiaries, in
+such Subsidiary. Except as set forth in Section  3.2(d)  of the Company Disclosure Schedule, the Company and its Subsidiaries own, directly or indirectly,
+all of the issued and outstanding shares of capital stock or other equity interests of each of the Subsidiaries of the Company, free and clear of any Liens
+(other than Permitted Liens), other than transfer and other restrictions under applicable securities Laws, and all of such outstanding shares of stock or
+other equity securities have been duly authorized and validly issued and are fully paid, nonassessable and free of preemptive rights.
+(e) Section 3.2(e)  of the Company Disclosure Schedule sets forth a complete list, as of the date of this Agreement, of all joint ventures, partnerships,
+limited liability companies or other companies, entities or persons, other than the Subsidiaries of the Company, in which the Company or any of its
+Subsidiaries owns, directly or indirectly, any shares of capital stock or equity interests, together with the Company’s or its Subsidiary’s ownership
+interest (and percentage interest) in each such person.
+(f) As of the date of this Agreement, (i) there is no outstanding indebtedness for borrowed money (or guarantees thereof) of the Company or its
+Subsidiaries (excluding intercompany indebtedness among the Company and/or wholly-owned Subsidiaries) other than (a) indebtedness reflected on the
+consolidated balance sheet of the Company and its Subsidiaries as of September 30, 2021 (or the notes thereto) set forth in the Company’s Quarterly
+Report on Form 10-Q filed October 29, 2021 or (b) as set forth on Section  3.2(f)  of the Company Disclosure Schedule and (ii) neither the Company nor any
+of its Subsidiaries is a party to, or has any commitment to become a party to, any “off balance sheet arrangement” (as defined in Item 303(a) of Regulation
+S-K promulgated by the SEC). The Company does not have outstanding any bonds, debentures, notes or other indebtedness having the right to vote on
+any matters on which stockholders may vote.
+(g) Each Company Option Award was granted with an exercise price equal to or greater than the fair market value of such underlying share of Common
+Stock on the date of grant in compliance with Section 409A of the Code, has not had its exercise date or grant date delayed or “back-dated,” and has been
+issued in compliance in all material respects with the applicable Company Stock Plan under which it was granted and all applicable Laws. Section  3.2(g)  of
+the Company Disclosure Schedule sets forth a true, correct and complete list, as of the date of this Agreement, of: (1) each Pre-2023 Company Time-Based
+RSU Award and each Pre-2023 Company Performance-Based RSU Award, including (A) the name of the holder thereof, (B) the total number of Shares that
+may be received pursuant thereto and (C) the applicable grant date thereof; (2) each outstanding Pre-2023 Company Performance Cash Award, including
+(A) the name of the holder thereof, (B) the total amount of cash that may be received pursuant thereto and (C) the applicable grant date thereof; and (3)
+each outstanding Company Warrant, including (A) the name of the holder thereof, (B) the total number of Shares that may be received pursuant thereto
+and (C) the exercise price thereof.
+A-9
+
+--- Page 18 ---
+Table of Contents
+3.3. Authority .
+(a) The Company has full corporate power and authority to execute and deliver this Agreement and, subject to the Company Stockholder Approval, to
+consummate the transactions contemplated hereby.

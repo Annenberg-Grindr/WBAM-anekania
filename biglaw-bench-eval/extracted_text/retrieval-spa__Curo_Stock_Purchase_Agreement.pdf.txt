@@ -1,0 +1,547 @@
+--- Page 1 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 1/81EX-2.1 2 d136586dex21.htm EX-2.1
+Exhibit 2.1
+Execution Version
+STOCK PURCHASE AGREEMENT
+by and among
+CURO INTERMEDIATE HOLDINGS CORP.,
+CURO GROUP HOLDINGS CORP.,
+SOUTHERNCO HOLDINGS, LLC,
+and
+SOUTHERNCO, INC.
+Dated as of November 17, 2021
+--- Page 2 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 2/81TABLE OF CONTENTS
+ 
+     Page 
+ARTICLE 1 PURCHASE AND SALE    1 
+1.1 Purchase and Sale    1 
+1.2 Closing    1 
+1.3 Closing Deliverables of the Seller    2 
+1.4 Closing Deliveries of the Buyer    2 
+1.5 Closing Payments and Estimated Closing Statement    2 
+1.6 Payoff Letters    3 
+1.7 Withholding    3 
+1.8 Post-Closing Adjustment to Estimated Cash Consideration    4 
+1.9 Escrow Funds    5 
+ARTICLE 2 REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE ACQUIRED COMPANIES AND THE SELLER    6 
+2.1 Authority; Binding Nature of Agreement    6 
+2.2 Subsidiaries; Due Incorporation    7 
+2.3 Organizational Documents    7 
+2.4 Capitalization    7 
+2.5 Non-Contravention; Consents    8 
+2.6 Financial Statements    8 
+2.7 Absence of Certain Changes    9 
+2.8 Title to Assets    9 
+2.9 Real Property; Leasehold    9 
+2.10 Intellectual Property; Data Privacy and Security    9 
+2.11 Regulatory Matters    14 
+2.12 Material Contracts    15 
+2.13 Liabilities    17 
+2.14 Compliance with Laws    17 
+2.15 Certain Business Practices    17 
+2.16 Tax Matters    18 
+2.17 Employee Benefit Plans and Employee Matters    20 
+2.18 Environmental Matters    22 
+2.19 Insurance    22 
+2.20 Legal Proceedings; Orders    23 
+2.21 Financial Advisor    23 
+2.22 Related Party Transactions    23 
+2.23 Vendors    23 
+2.24 Bank Accounts; Liquidity    23 
+2.25 COVID-19 Matters    23 
+ARTICLE 3 REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE SELLER    24 
+3.1 Formation    24 
+3.2 Authority; Binding Nature of Agreement    24 
+3.3 Non-Contravention    24 
+3.4 Title to Securities    25 
+3.5 Legal Proceedings    25 
+3.6 Financial Advisor    25 
+3.7 Investment Representations    25 
+ 
+i
+--- Page 3 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 3/81ARTICLE 4 REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE BUYER PARTIES    26 
+4.1 Due Incorporation; Subsidiaries    26 
+4.2 Authority; Binding Nature of Agreement    26 
+4.3 Non-Contravention; Consents    26 
+4.4 Litigation    26 
+4.5 No Vote Required    26 
+4.6 Capitalization    26 
+4.7 Parent SEC Reports    27 
+ARTICLE 5 CERTAIN COVENANTS OF THE COMPANY    28 
+5.1 Access    28 
+5.2 Conduct of the Business of the Company    29 
+5.3 No Solicitation    31 
+5.4 Affiliated Transactions    31 
+5.5 Financing    31 
+5.6 Investigation Cooperation    33 
+ARTICLE 6 ADDITIONAL COVENANTS OF THE PARTIES    34 
+6.1 Regulatory Filings; Notices and Consents    34 
+6.2 Indemnification of Officers and Directors    36 
+6.3 280G Shareholder Approval    37 
+6.4 Disclosure; Confidentiality    38 
+6.5 Tax Matters    38 
+6.6 Notification of Certain Events    41 
+6.7 NYSE Listing    41 
+6.8 Cooperation; Efforts    41 
+ARTICLE 7 CONDITIONS PRECEDENT TO OBLIGATIONS OF THE BUYER PARTIES    41 
+7.1 Accuracy of Representations and Warranties    42 
+7.2 Performance of Covenants    42 
+7.3 HSR Clearance    42 
+7.4 Consents    42 
+7.5 No Restraints    43 
+7.6 No Governmental Litigation    43 
+7.7 Material Adverse Effect    43 
+7.8 Financing    43 
+7.9 Minimum Liquidity    43 
+ARTICLE 8 CONDITIONS PRECEDENT TO OBLIGATIONS OF THE COMPANY AND THE SELLER AND THE COMPANY    43 
+8.1 Accuracy of Representations and Warranties    43 
+8.2 Performance of Covenants    43 
+8.3 HSR Clearance    43 
+8.4 No Restraints    43 
+8.5 No Governmental Litigation    44 
+8.6 Escrow Agreement    44 
+8.7 Closing Certificate    44 
+ARTICLE 9 TERMINATION    44 
+9.1 Termination    44 
+ 
+ii
+--- Page 4 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 4/819.2 Effect of Termination    44 
+ARTICLE 10 SURVIVAL; INDEMNIFICATION    45 
+10.1 Survival    45 
+10.2 Indemnification by the Seller    45 
+10.3 Indemnification by the Buyer    46 
+10.4 Indemnification Procedures    46 
+10.5 Escrow; Order of Recovery; Remedies Exclusive    49 
+10.6 Determination of Loss Amount; Mitigation; Subrogation    50 
+10.7 Treatment of Indemnity Payments    50 
+ARTICLE 11 MISCELLANEOUS PROVISIONS    51 
+11.1 Amendment    51 
+11.2 Expenses    51 
+11.3 Waiver    51 
+11.4 Entire Agreement; Counterparts    51 
+11.5 Applicable Law; Jurisdiction    51 
+11.6 Assignment; Successors    52 
+11.7 Third Party Beneficiaries    52 
+11.8 Notices    52 
+11.9 Severability    53 
+11.10 Conflict of Interest    53 
+11.11 Attorney-Client Privilege    54 
+11.12 No Implied Representations; Non-Reliance    54 
+11.13 Specific Performance    54 
+11.14 Seller Release    54 
+11.15 Construction    55 
+11.16 Disclosure Schedules    56 
+Exhibits
+ 
+Exhibit A  –    Certain Definitions
+Exhibit B  –    Calculation Principles
+ 
+iii
+--- Page 5 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 5/81STOCK PURCHASE AGREEMENT
+This STOCK PURCHASE AGREEMENT (as may be amended from time to time, this “Agreement”) is made and entered into as of
+November 17, 2021, by and among Curo Intermediate Holdings Corp., a Delaware corporation (the “Buyer”), Curo Group Holdings Corp., a Delaware
+corporation (the “Parent” and, together with the Buyer, the “Buyer Parties”), SouthernCo, Inc., a Delaware corporation (the “Company”), and
+SouthernCo Holdings, LLC, a Delaware limited liability company (the “Seller”). The Company, the Seller and the Buyer are referred to individually as a
+“Party” and collectively as the “Parties.” Certain capitalized terms used in this Agreement are defined in Exhibit A.
+RECITALS
+A. The Seller owns 100% of the issued and outstanding shares of the Company Stock.
+B. Upon the terms and subject to the conditions set forth in this Agreement, the Buyer desires to acquire from the Seller, and the Seller desires to
+sell to the Buyer, 100% of the issued and outstanding shares of the Company Stock, in exchange for the consideration set forth herein.
+AGREEMENT
+The Parties, intending to be legally bound, hereby agree as follows:
+ARTICLE 1
+PURCHASE AND SALE
+1.1 Purchase and Sale.
+(a) Upon the terms and subject to the conditions of this Agreement, at the Closing, the Seller will sell, transfer and deliver to the Buyer, and
+the Buyer will purchase and acquire from the Seller, all of the Company Stock, free and clear of any and all Liens (other than restrictions on
+transfer imposed by applicable securities Laws).
+(b) The Seller hereby consents to the Transactions, including the sale of the Company Stock to the Buyer as set forth in this Agreement, and
+waives any restrictions on transfer and rights of first refusal and co-sale as well as any rights of re-purchase, pre-emptive rights and any other
+similar rights that it may have in connection with the consummation of the Transactions, whether such rights are contained in any of the
+Organizational Documents of the Company.
+1.2 Closing. The closing of the purchase and sale of the Company Stock under this Agreement (the “Closing”) will be directed from (a) the offices
+of King & Spalding LLP, 1180 Peachtree Street NE, Atlanta, Georgia, three Business Days after satisfaction or, to the extent not legally prohibited,
+waiver by the Party or Parties entitled to the benefit of the conditions set forth in Article 7 and Article 8 (other than conditions that by their nature are to
+be satisfied at the Closing, but subject to the satisfaction or, to the extent not legally prohibited, waiver of those conditions at the Closing) or (b) such
+other place, at such other time or on such other date as the Buyer and the Seller may mutually agree in writing, including by electronic exchange of
+documents. The effective time of the Closing is 12:01 a.m. Eastern Time on the Closing Date (the “Effective Time”).
+ 
+1
+--- Page 6 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 6/811.3 Closing Deliverables of the Seller. At the Closing, the Seller will deliver, or cause to be delivered, to the Buyer the following:
+(a) stock certificates evidencing the Company Stock and accompanying stock power duly executed by the Seller, in a form reasonably
+satisfactory to the Buyer;
+(b) a certificate to the effect that each of the conditions specified in Section 7.1 and Section 7.2 is satisfied in all respects, duly executed by
+the Seller and the Company;
+(c) a certificate by the Secretary or any Assistant Secretary of the Company, dated as of the Closing Date, as to (i) the good standing of the
+Company in its jurisdiction of incorporation or organization and (ii) the effectiveness of the resolutions of the board of directors of the Company
+and the Seller authorizing the execution, delivery and performance of this Agreement by the Company;
+(d) the Escrow Agreement, duly executed by the Seller;
+(e) the Lock-Up Agreement, duly executed by the Seller;
+(f) the Registration Rights Agreement, duly executed by the Seller;
+(g) written resignations of all directors and officers of the Company, effective as of the Closing, duly executed by such directors and officers
+and in a form reasonably satisfactory to the Buyer;
+(h) a certificate of non-foreign status from the Seller, in form and substance reasonably satisfactory to the Buyer, that complies with
+Section 1445 of the Code and the Treasury Regulations thereunder;
+(i) an IRS Form W-9, duly executed by the Seller;
+(j) evidence of termination of those certain Related Party transactions set forth on Schedule 5.4 and in form and substance satisfactory to the
+Buyer; and
+(k) evidence of the Company’s compliance with Section 7.9.
+1.4 Closing Deliveries of the Buyer. At the Closing, the Buyer will deliver, or cause to be delivered, to the Seller the following:
+(a) a certificate to the effect that each of the conditions specified in Section 8.1 and Section 8.2 is satisfied in all respects, duly executed by
+the Buyer;
+(b) the Escrow Agreement, duly executed by the Buyer;
+(c) the Lock-Up Agreement, duly executed by the Buyer and Parent;
+(d) the Registration Rights Agreement, duly executed by the Buyer and Parent; and
+(e) the Stock Consideration (minus the Equity Escrow Contribution which shall be delivered to the Escrow Agent).
+1.5 Closing Payments and Estimated Closing Statement.
+(a) On the Closing Date, Buyer will make, or cause to be made, the following payments, as set forth herein, by wire transfer of immediately
+available funds to the accounts set forth next to each recipient’s name on the Estimated Closing Statement:
+ 
+2
+--- Page 7 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 7/81(i) to the Seller the aggregate Closing Cash Consideration;
+(ii) to the Escrow Agent, the Adjustment Escrow Amount and the cash portion of the Indemnity Escrow Amount;
+(iii) to each Person (if any) identified on the Estimated Closing Statement, the amount of the Estimated Closing Date Transaction
+Expenses set forth opposite such Person’s name on the Estimated Closing Statement; and
+(iv) to each Person (if any) identified on the Estimated Closing Statement, the amount of the Estimated Closing Date Indebtedness
+set forth opposite such Person’s name on the Estimated Closing Statement.
+(b) Not later than three Business Days prior to the Closing Date, the Company and Seller shall deliver to the Buyer a written schedule (the
+“Estimated Closing Statement”) setting forth in reasonable detail the Company’s good faith estimate of the (A) the Closing Date Working Capital
+(the “Estimated Closing Date Working Capital”), (B) the Closing Cash (the “Estimated Closing Cash”), (C) the Closing Date Indebtedness (the
+“Estimated Closing Date Indebtedness”),
+(D) the Closing Date Transaction Expenses as of the Closing (the “Estimated Closing Date Transaction Expenses”), (E) the resulting Closing
+Cash Consideration. The items prepared for the Estimated Closing Statement under this Section 1.5(b) shall be prepared in accordance with the
+Calculation Principles. Upon the delivery of the Estimated Closing Statement, the Seller shall provide the Buyer and its Representatives
+reasonable access (including by electronic delivery of documents), during regular business hours, in such a manner as to not interfere with the
+normal operation of the Acquired Companies (subject to the execution of customary work paper access letters, if requested) work papers and
+books and records relating to the preparation of the Estimated Closing Statement solely for the purpose of assisting the Buyer in its review of the
+Estimated Closing Statement and the calculations contained therein. The Company shall consider in good faith any comments from Buyer with
+respect to the Estimated Closing Statement.
+1.6 Payoff Letters. The Company shall obtain, at least three Business Days prior to the Closing, payoff letters for the Closing Date Indebtedness,
+which shall be in a form and substance reasonably acceptable to the Buyer and shall provide instructions and the dollar amount to fully discharge all
+such Closing Date Indebtedness as of the Closing, including any interest, premiums, penalties, costs of expenses that are required to be paid as a result
+of such discharge and providing for the release of all Liens over the property and assets of the Acquired Companies securing the obligations under such
+Closing Date Indebtedness.
+1.7 Withholding. Each of Buyer, the Acquired Companies and the Escrow Agent (each, a “Withholding Agent”) shall be entitled to deduct and
+withhold from the consideration otherwise payable under this Agreement to any recipient of consideration under this Agreement the amounts such
+Withholding Agent is required to deduct and withhold under applicable Law. Other than with respect to payments in the nature of compensation, a
+Withholding Agent shall give three (3) Business Days written notice of intent to withhold to any Person with respect to which the Withholding Agent
+intends to withhold and the Withholding Agent shall reasonably cooperate with such Person and use commercially reasonable efforts to reduce or avoid
+such withholding obligation. To the extent that amounts are so withheld and properly paid over to the applicable Governmental Entity in accordance
+with applicable Law, such withheld amounts will be treated as having been paid to the applicable recipient of consideration under this Agreement.
+ 
+3
+--- Page 8 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 8/811.8 Post-Closing Adjustment to Estimated Cash Consideration.
+(a) Within 120 days of the Closing, Buyer shall prepare and deliver to the Seller a written schedule (the “Closing Statement”) setting forth
+in reasonable detail its calculation of (i) the Closing Date Working Capital (the “Final Closing Date Working Capital”), (ii) the Closing Cash (the
+“Final Closing Cash”), (iii) the Closing Date Indebtedness (the “Final Closing Indebtedness”), (iv) the Closing Date Transaction Expenses as of
+the Closing (the “Final Closing Date Transaction Expenses”), and (v) the resulting Closing Cash Consideration. The Closing Statement shall be
+prepared in accordance with the Calculation Principles and shall not include any changes in assets or liabilities as a result of purchase accounting
+adjustments or other changes arising from or resulting as a consequence of the Transactions. Following the Closing, the Buyer shall provide the
+Seller and its Representatives reasonable access (including by electronic delivery of documents), during regular business hours, in such a manner
+as to not interfere with the normal operation of the Acquired Companies (subject to the execution of customary work paper access letters, if
+requested) work papers and books and records relating to the preparation of the Closing Statement solely for the purpose of assisting the Seller in
+its review of the Closing Statement and the calculations contained therein. The Parties agree that the purpose of preparing the Closing Statement
+and determining the Closing Date Working Capital, Closing Date Indebtedness, the Closing Date Transaction Expenses and the related purchase
+price adjustment contemplated by this Section 1.8 is to measure the amount of Closing Date Working Capital, Closing Cash, Closing Date
+Indebtedness and Closing Date Transaction Expenses and the resulting Closing Cash Consideration.
+(b) If the Seller disagrees with the calculations in the Closing Statement, the Seller shall notify the Buyer of such disagreement in writing
+(the “Dispute Notice”) within 30 days after delivery of the Closing Statement. The Dispute Notice must set forth in reasonable detail any item on
+the Closing Statement which the Seller believes has not been prepared in accordance with this Agreement. Any item or amount that the Seller does
+not dispute in the Dispute Notice within such 30-day period shall be final, binding and conclusive for all purposes hereunder. In the event any such
+Dispute Notice is timely provided, the Buyer and the Seller shall use commercially reasonable efforts for a period of 21 days (or such longer
+period as they may mutually agree in writing) to resolve any disagreements with respect to the calculations included in the Closing Statement that
+were disputed in the Dispute Notice. If, at the end of such period, the Seller and the Buyer remain unable to resolve any disputed items in the
+Dispute Notice, then the unresolved items and amounts thereof in dispute shall be submitted to PricewaterhouseCoopers, or if such firm cannot or
+does not accept such engagement, another nationally recognized independent accounting firm, reasonably acceptable to the Buyer and the Seller,
+which shall not be the independent accountants of the Parent or the Seller (the “Dispute Auditor”). The Dispute Auditor shall determine, based
+solely on the provisions of this Section 1.8 and the related definitions in this Agreement and the written presentations by the Seller and the Buyer,
+and not by independent review, only those items and amounts as set forth in the Dispute Notice that remain then in dispute. The Dispute Auditor
+shall be instructed to make its determination of the Closing Date Working Capital, the Closing Cash, the Closing Date Indebtedness and/or the
+Closing Date Transaction Expenses, as applicable, within 30 days after the dispute is submitted for its determination and shall be set forth in a
+written statement delivered to the Seller and the Buyer. A judgment of a court of competent jurisdiction selected pursuant to Section 11.5 hereof
+may be entered upon the Dispute Auditor’s determination. The Dispute Auditor shall have exclusive jurisdiction over, and resorting to the Dispute
+Auditor as provided in this Section 1.8(b) shall be the only recourse and remedy of the Parties against one another with respect to, those items and
+amounts that remain in dispute under this Section 1.8(b). The Dispute Auditor shall allocate its fees and expenses between the Buyer and the
+Seller according to the degree to which the positions of the respective parties are not accepted by the Dispute Auditor. In no event shall the
+decision of the Dispute Auditor assign a value to any item greater than the greatest value for such item claimed by either the Buyer or the Seller or
+lesser than the smallest value for such item claimed by either the Buyer or the Seller. Any determinations made by the Dispute Auditor pursuant to
+this Section 1.8(b) shall be final, non-appealable and binding on the Parties, absent manifest error or fraud.
+ 
+4
+--- Page 9 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 9/81(c) If, upon final determination in accordance with the terms of this Section 1.8 (the date of such final determination, the “Final Adjustment
+Amount Determination Date”), the Final Adjustment Amount (if any) is a positive number, then the Closing Cash Consideration shall be
+increased by the Final Adjustment Amount. If the Final Adjustment Amount (if any) is a negative number, the Closing Cash Consideration shall be
+decreased by the Final Adjustment Amount. If the Final Adjustment Amount (if any) is a positive number, then, within five Business Days after
+the Final Adjustment Amount Determination Date, the Buyer shall pay the Final Adjustment Amount due to the Seller. If the Final Adjustment
+Amount (if any) is a negative number, then, within five Business Days after the Final Adjustment Amount Determination Date, the Buyer and the
+Seller shall deliver joint written instructions to the Escrow Agent and the Buyer shall be entitled to recover the Final Adjustment Amount from the
+Adjustment Escrow Fund. In the event that the Final Adjustment Amount is a negative number and exceeds the Adjustment Escrow Amount, then
+the Seller shall be obligated to pay the amount by which the Final Adjustment Amount exceeds the Adjustment Escrow Amount to the Buyer.
+(d) “Final Adjustment Amount” means the net amount (if disputed, as finally determined in accordance with Section 1.8), which may be
+positive or negative (as to the overall net amount and each component used in the calculation of such net amount), equal to:
+(i) (A) the Closing Date Working Capital Adjustment (as finally determined in accordance with this Section 1.8), minus (B) the
+Estimated Closing Date Working Capital Adjustment; plus
+(ii) (A) the Closing Cash (as finally determined in accordance with this Section 1.8), minus (B) the Estimated Closing Cash; plus
+(iii) (A) the Estimated Closing Date Indebtedness, minus (B) the Closing Date Indebtedness (as finally determined in accordance
+with this Section 1.8); plus
+(iv) (A) the Estimated Closing Date Transaction Expenses, minus (B) the Closing Date Transaction Expenses (as finally determined
+in accordance with this Section 1.8).
+(e) Any payment made under this Section 1.8, to the maximum extent permitted by applicable Law, shall be treated, including for all tax
+purposes, as an adjustment to the Consideration.
+1.9 Escrow Funds.
+(a) On the Closing Date, the Buyer shall deliver to the Escrow Agent, as a deposit to the Adjustment Escrow Fund, cash in an amount equal
+to $1,000,000.00 (the “Adjustment Escrow Amount”), for the purpose of securing the obligations of the Seller under Section 1.8, and, as a deposit
+to the Indemnity Escrow Fund, cash in an amount equal to the cash portion of the Indemnity Escrow Amount and the Equity Escrow
+Consideration, for the purpose of securing certain obligations of the Seller under Article 10 The Escrow Funds shall be held by the Escrow Agent
+in accordance with the terms of this Agreement and the terms of the Escrow Agreement. The Escrow Funds shall be held as trust funds and shall
+not be subject to any Lien, attachment, trustee process or any other judicial process of any creditor of any Person, and shall be held and disbursed
+solely for the purposes and in accordance with the terms of the Escrow Agreement.
+ 
+5
+--- Page 10 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 10/81(b) The Buyer and the Seller shall deliver joint written instructions to the Escrow Agent requiring the release of any remaining amounts held
+in the Adjustment Escrow Fund to the Seller no later than the five (5) Business Days after either (i) full and final payment is made of any Final
+Adjustment Amount payable to the Buyer pursuant to Section 1.8 or (ii) a final determination is made pursuant to Section 1.8 that no Final
+Adjustment Amount is payable to the Buyer.
+(c) The Buyer and the Seller shall deliver joint written instructions to the Escrow Agent no later than five (5) Business Days after the
+General Survival Termination Date to effectuate disbursement to the Seller of an aggregate amount equal to (i) the then remaining amount in the
+Indemnity Escrow Fund, minus, (ii) the aggregate amount of any Losses arising under claims by the Buyer Indemnified Parties for
+indemnification that have been made in good faith by an Indemnified Party prior to the General Survival Termination Date pursuant to Article 10
+but not yet been settled or paid in full as of the General Survival Termination Date (including the Specified Matters Reserve).
+(i) Promptly following the final determination of any Losses with respect to any such claims for indemnification, the Buyer and the
+Seller shall promptly deliver a joint written instruction to the Escrow Agent to effectuate disbursement to the applicable Buyer Indemnified
+Party an amount equal to such Losses.
+(ii) The Buyer may elect in its sole and absolute discretion to satisfy the indemnification Losses of the Buyer Indemnified Party from
+the cash portion of the Indemnity Escrow Fund or from the Equity Escrow Consideration, or a combination thereof by specifying its
+election in the joint written instruction delivered to the Escrow Agent, provided however, that if Buyer elects, either in whole or in part, to
+satisfy such indemnification Losses from the Equity Escrow Consideration, then the Buyer shall notify the Seller so that the Seller is able
+to satisfy such indemnification Losses with cash in lieu, if it so chooses. For indemnification purposes, the per share value of each
+Company Common Stock shall equal the volume weighted average price of the Parent Common Stock on the NYSE, as reported by
+Bloomberg L.P. for the 10 consecutive trading days ending on the fifth trading day prior to the final determination of the required
+indemnification payment, rounded to three decimal places.
+ARTICLE 2
+REPRESENTATIONS AND WARRANTIES WITH RESPECT TO THE ACQUIRED
+COMPANIES AND THE SELLER
+The Seller and the Company, jointly and severally, represent and warrant to Buyer as of the Agreement Date and as of the Closing Date, except as
+set forth in the Disclosure Schedules, as follows:
+2.1 Authority; Binding Nature of Agreement. The Company has all necessary corporate power and authority to enter into and to perform its
+obligations under this Agreement and the other Transaction Documents to which the Company is or will be a party, and the Company will have all
+necessary corporate power and authority to perform its obligations under this Agreement and the other Transaction Documents to which the Company is
+or will be a party. As of the Agreement Date, the Company’s board of directors (at a meeting duly called and held) has (a) determined that the
+Transactions are advisable and fair and in the best interests of the Company and the Seller, and (b) authorized and approved the execution, delivery and
+performance of this Agreement and the other Transaction Documents to which the Company will be a party by the Company and approved the
+Transactions. This Agreement, and, when executed and delivered by the Company, each of the other Transaction Documents to which the Company will
+be a party, constitutes the legal, valid and binding obligation of the Company, enforceable against the Company in accordance with its respective terms,
+subject to (i) Laws of general application relating to bankruptcy, insolvency and the relief of debtors, and (ii) rules of law governing specific
+performance, injunctive relief and other equitable remedies.
+ 
+6
+--- Page 11 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 11/812.2 Subsidiaries; Due Incorporation.
+(a) The Company is a corporation duly incorporated, validly existing and in good standing under the laws of the State of Delaware and has
+all necessary corporate power and authority to own and operate its assets and to conduct its business in the manner in which its business is
+currently being conducted.
+(b) The Company is qualified to do business as a foreign corporation and is in good standing, under the laws of all states where the nature of
+its business requires such qualification, except where the failure to be so qualified or in such good standing has not had and would not reasonably
+be expected to have a Company Material Adverse Effect.
+(c) All of the issued and outstanding shares of capital stock or other equity securities of the Company’s Subsidiaries listed on Schedule
+2.2(c) are directly or indirectly owned by the Company, free and clear of all Liens, other than Permitted Encumbrances. Except for those shares
+listed in Schedule 2.2(c), (i) there are no other existing options, warrants, calls, rights (including conversion rights, preemptive rights, co-sale
+rights, rights of first refusal or other similar rights) or agreements to which the Company’s Subsidiaries are a party requiring, and there are no
+securities of the Company’s Subsidiaries outstanding that upon conversion or exchange would require, the issuance, sale or transfer of any
+additional shares of capital stock or other equity securities of the Company’s Subsidiaries or other securities convertible into, exchangeable for or
+evidencing the right to subscribe for or purchase shares of any equity securities of the Company’s Subsidiaries, and (ii) there are no outstanding
+stock appreciation, phantom stock, profit participation or similar rights with respect to the Company’s Subsidiaries. The Subsidiaries of the
+Company are validly existing and in good standing under the laws of their respective jurisdictions of formation as set forth in Schedule 2.2(c) and
+are qualified to do business as a foreign entity in each jurisdiction in which the failure to be so qualified would not reasonably be expected to have
+a Company Material Adverse Effect.
+(d) The Subsidiaries listed on Schedule 2.2(c) are the only Subsidiaries of the Company, and such Subsidiaries have all requisite corporate or
+limited liability company power and authority necessary to own and operate their respective assets and to carry on their respective businesses as
+presently conducted.
+2.3 Organizational Documents. The Company has provided to the Buyer complete and accurate copies of the Organizational Documents of the
+Acquired Companies, in each case, as in effect on the Agreement Date, which organizational documents are in full force and effect. Neither the
+Company nor the Seller is in breach of any of Seller’s or the Company’s Organizational Documents.
+2.4 Capitalization.
+(a) As of the Agreement Date, the authorized capital stock of the Company consists of 1,000 shares of Company Stock, of which
+0.81243664 shares are issued and outstanding.
+(b) Except for those rights set forth in Schedule 2.4(b), (i) there are no other existing options, warrants, calls, rights (including conversion
+rights, preemptive rights, co-sale rights, rights of first refusal or other similar rights) or agreements to which the Company, or to the Company’s
+Knowledge, the Seller is a party requiring, and there are no securities of the Company outstanding that upon conversion or exchange would
+require, the issuance, sale or transfer of any additional
+ 
+7
+--- Page 12 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 12/81shares of capital stock or other equity securities of the Company or other securities convertible into, exchangeable for or evidencing the right to
+subscribe for or purchase shares (or membership units, as applicable) of Company Stock or other equity securities of the Company, (ii) there are
+no obligations, contingent or otherwise, of the Company to (A) repurchase, redeem or otherwise acquire any shares (or membership units, as
+applicable) of Company Stock or (B) to make any investment in (in the form of a loan, capital contribution or otherwise), or to provide any
+guarantee (excluding indemnification obligations) with respect to the obligations of, any third party and (iii) there are no outstanding stock
+appreciation, phantom stock, profit participation or similar rights with respect to the Company.
+(c) There are no bonds, debentures, notes or other Indebtedness of the Company having the right to vote or Consent (or, convertible into, or
+exchangeable for, securities having the right to vote or Consent) on any matters on which the Company’s stockholders may vote. There are no
+voting trusts, irrevocable proxies or other Contracts to which the Company, or the Seller is a party or is bound with respect to the voting or
+Consent of any shares of Company Stock.
+(d) All of the outstanding shares of Company Stock have been duly authorized and validly issued and are fully paid and nonassessable and
+have been issued, transferred and granted in all material respects in compliance with all applicable securities Laws.
+2.5 Non-Contravention; Consents. Except as set forth in Schedule 2.5, the execution and delivery of this Agreement and the other Transaction
+Documents to which the Company is or will be a party by the Company and the consummation by the Company of the Transactions will not cause a:
+(a) violation of any of the provisions of the Organizational Documents of any Acquired Company; (b) violation by any Acquired Company of any Law
+applicable to such Acquired Company; or (c) default (or an event that, with or without notice or lapse of time or both would constitute a default) on the
+part of any Acquired Company under, or give to others any rights of termination, cancellation or acceleration of any material obligations of the Acquired
+Companies, or result in the creation of a Lien on any of the properties or assets of the Acquired Companies (other than a Permitted Encumbrance)
+pursuant to, any Material Contract. Except as set forth in Schedule 2.5 and except as may be required by the HSR Act or other Antitrust Law, no
+Acquired Company is required to obtain any Consent from any Governmental Entity or party to a Material Contract at any time prior to the Closing as a
+result of the execution and delivery of this Agreement or the other Transaction Documents or the consummation by the Company of the Transactions.
+2.6 Financial Statements. Schedule 2.6(a) contains (i) the Company’s audited consolidated balance sheets as of December 31, 2019, and
+December 31, 2020 (collectively, the “Audited Balance Sheets”), (ii) the Company’s audited consolidated statements of income (loss) and statements of
+cash flows for each of the fiscal years ended December 31, 2019 and December 31, 2020, and (iii) the Company’s unaudited consolidated balance sheet
+as of September 30, 2021 (the “Unaudited Balance Sheet”), and the unaudited consolidated statement of income (loss) and statement of cash flows for
+the nine months ended September 30, 2021 (all of the foregoing financial statements of the Company and any notes thereto are hereinafter collectively
+referred to as the “Company Financial Statements”). The Company Financial Statements were prepared in accordance with GAAP and fairly present in
+all material respects the financial condition of the Acquired Companies at the dates therein indicated and the results of operations of the Acquired
+Companies for the periods therein specified in accordance with GAAP, except (x) as may be indicated in the footnotes to such financial statements and
+(y) that the unaudited financial statements do not contain footnotes and are subject to normal year-end adjustments. The Acquired Companies maintain a
+system of internal accounting controls sufficient to provide reasonable assurance that (A) transactions are executed in accordance with management’s
+general or specific authorizations, (B) transactions are recorded as necessary to permit preparation of financial statements in conformity with GAAP and
+to maintain asset accountability, (C) access to assets is permitted only in accordance with management’s general or specific authorization, and (D) the
+recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any
+differences.
+ 
+8
+--- Page 13 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 13/812.7 Absence of Certain Changes. Except as expressly contemplated by this Agreement and as set forth on Schedule 2.7, between the date of the
+Unaudited Balance Sheet and the Agreement Date, there has not occurred: (a) any event or series of related events that has had or would reasonably be
+expected to have, individually or in the aggregate, a Company Material Adverse Effect; or (b) any event or action that would require the Consent of the
+Buyer pursuant to Section 5.2 if such event or action occurred during the Pre-Closing Period.
+2.8 Title to Assets. The Acquired Companies have good and valid title to all assets owned by them as of the Agreement Date, including all assets
+(other than capitalized or operating leases) reflected on the Unaudited Balance Sheet (except for assets sold or otherwise disposed of since the date of
+the Unaudited Balance Sheet in the ordinary course of business). All of such assets are owned by the Acquired Companies free and clear of any Liens
+(other than Permitted Encumbrances).
+2.9 Real Property; Leasehold. The Acquired Companies do not own any real property and since January 1, 2019 have not owned any real property,
+and the Acquired Companies do not own or possess any interest, right, license or title in or to any real property, except for the leaseholds created under
+the real property leases (the “Real Property Leases”) for the properties identified in Schedule 2.9 (the “Leased Real Property”). Schedule 2.9 states
+forth with respect to each Leased Real Property: (i) name of lessee, (ii) address of the Leased Real Property, (iii) name of the lessor, and (iv) the lessor’s
+city, state and zip code. The Acquired Companies are in material compliance with such Real Property Leases, and have a valid and subsisting leasehold
+interest in all Leased Real Property, in each case free and clear of all Liens, other than Permitted Encumbrances. The Acquired Companies have not
+granted any other Person the right to occupy or use any Leased Real Property, and, to the Knowledge of the Company, no Person has a right to occupy
+such Leased Real Property other than the Acquired Companies. There are no written or oral subleases, licenses, concessions, occupancy agreements or
+other Contracts granting to any other Person the right of use or occupancy of any Leased Real Property. The Acquired Companies have not received
+written notice of (i) default, or intention to terminate or not renew, any Real Property Lease or (ii) any eminent domain, condemnation or similar Legal
+Proceeding pending or threatened, against all or any portion of any Leased Real Property, and, to the Knowledge of the Company, none of the foregoing
+has been threatened in writing. Neither the operations of the Acquired Companies on the Leased Real Property, nor the Leased Real Property or the
+buildings and structures comprising or appurtenant to the Leased Real Property, violate in any material manner any applicable building code, zoning
+requirement, or classification or similar Law relating to the particular property or such operations, and the Leased Real Property and its current use,
+occupancy, and operation by the Acquired Companies and the buildings and other improvements that are part of or appurtenant to the Leased Real
+Property do not (A) constitute a nonconforming (other than legal nonconforming) use or structure under, and are not in material violation of, any
+applicable building, zoning, subdivision, or other land use or similar Laws, or (B) encroach upon any real property of, or easement held by, any other
+Person in a manner that is not otherwise permitted. The buildings, structures, equipment and improvements that are part of or are an appurtenance to the
+Leased Real Property, are in good operating condition and repair (ordinary wear and tear excepted) in all material respects, supplied with utilities
+necessary and otherwise suitable for the conduct of the business as presently conducted therein. During the past three years there has been no material
+destruction, damage or casualty with respect to the Leased Real Property other than as set forth on Schedule 2.9, the building located on the Leased Real
+Property and any improvements appurtenant thereto, which have not been fully repaired and restored.
+2.10 Intellectual Property; Data Privacy and Security.
+(a) Schedule 2.10(a) sets forth a list of each Company Product.
+ 
+9
+--- Page 14 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 14/81(b) Schedule 2.10(b) identifies: (i) each item of Registered IP in which the Acquired Companies have or purport to have an ownership
+interest of any nature (whether exclusively, jointly with another Person, or otherwise); (ii) the jurisdiction in which such item of Registered IP has
+been registered or filed and the applicable registration or serial number; and (iii) any other Person that has an ownership interest in such item of
+Registered IP and the nature of such ownership interest. Each of the Patents included in the Registered IP that is owned solely by an Acquired
+Company (and, to the Company’s Knowledge, with respect to any co-owned Patents), properly identifies by name each and every inventor of the
+claims thereof as determined in accordance with the Laws of the jurisdiction in which such Patent is issued or pending. As of the Agreement Date,
+no Registered IP that is listed or required to be listed on Schedule 2.10(b) is involved in any interference, opposition, reissue, reexamination,
+revocation or equivalent Legal Proceeding, in which the scope, validity or enforceability of any such Registered IP is being contested or
+challenged.
+(c) The Acquired Companies have good, valid, and sole title (free and clear of all Liens other than Permitted Encumbrances) to all of the
+Company Intellectual Property.
+(d) The Acquired Companies’ conduct of their businesses as conducted since January 1, 2019 and as currently conducted, the Company
+Intellectual Property and to the Company’s Knowledge the Company Licensed Intellectual Property (i) have not infringed, misappropriated,
+diluted or otherwise violated and (ii) do not infringe, misappropriate, dilute or otherwise violate any other rights in Intellectual Property of any
+other Person. No Legal Proceedings have been instituted, are pending or, to the Company’s Knowledge, have been threatened in writing that
+challenge the rights of the Acquired Companies in or to the validity, enforceability, use or ownership of any Intellectual Property. The Acquired
+Companies have not received any written charge, complaint, notice, claim or other assertion of any present, impending or threatened violation,
+infringement, misappropriation, dilution or other challenge of, or conflict resulting from, the use or ownership by the Acquired Companies of any
+Intellectual Property (including any demands or unsolicited “offers” to license Intellectual Property from another Person), and there are no written
+claims pending or, to the Company’s Knowledge, threatened that allege any such violation, infringement, misappropriation, dilution or other
+challenge or conflict, nor, to the Company’s Knowledge, is there any reasonable basis therefor. Except as set forth on Schedule 2.10(d), none of
+the Company Intellectual Property is subject to any pending or outstanding Governmental Order, or Contract that adversely restricts the use,
+transfer, registration or licensing of any such Company Intellectual Property by the Company, or otherwise adversely affects the validity, scope,
+use, registrability, or enforceability of any Company Intellectual Property.
+(e) To the Company’s Knowledge, no Person since January 1, 2019 has infringed, misappropriated, diluted or otherwise violated and no
+Person is currently infringing, diluting, misappropriating or otherwise violating any Company Intellectual Property.
+(f) Each Contract pursuant to which any Intellectual Property is licensed to the Acquired Companies are the “Inbound Licenses” and such
+licensed Intellectual Property are the “Company Licensed Intellectual Property.” Schedule 2.10(f) identifies each Inbound License (other than
+(i) non-exclusive licenses to commercially available third-party Software with an aggregate amount of license and maintenance and other fees of
+less than $100,000 in the twelve months ending September 30, 2021 (“Off-the-Shelf Software”) or (ii) non-disclosure agreements entered into in
+the ordinary course of business consistent with past practice). The Acquired Companies have performed all material obligations required to be
+performed by it under the Inbound Licenses, and the Acquired Companies are not (with or without the lapse of time or the giving of notice, or
+both) in breach or default in any material respect thereunder and, to Company’s
+ 
+10
+--- Page 15 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 15/81Knowledge, no other party to any Inbound License is (with or without the lapse of time or the giving of notice, or both) in breach or default in any
+material respect thereunder. The Acquired Companies have not received any written notice of breach of any Inbound License. Schedule 2.10(f)
+sets forth a correct and complete list of all third-party Software that is incorporated into, embedded into, or installed with any Company Products
+distributed to customers or other third parties.
+(g) Schedule 2.10(g) lists each outbound license of Company Intellectual Property, other than non-exclusive licenses entered into in the
+ordinary course of business (“Outbound Licenses”).
+(h) Except as set forth on Schedule 2.10(h), the Acquired Companies have taken reasonable security measures, including measures against
+unauthorized disclosure, to protect the secrecy, confidentiality, and value of its trade secrets, including Personal Information, and other technical
+information.
+(i) All Persons formerly and currently employed or engaged by the Acquired Companies (A) who have participated in or contributed to the
+conception, authorship, creation or development of any Intellectual Property in the course of his or her employment or engagement by the
+Acquired Companies have executed and delivered to such Acquired Company valid and enforceable written contracts providing for the
+assignment (by way of a present grant of assignment) by such Person to an Acquired Company of Intellectual Property that has been authored,
+created or developed by such Person in connection with his or her employment by, engagement by or contract with the Acquired Company; and
+(B) who have been exposed to any trade secrets material to any Acquired Company or another Person for which the Company is under an
+obligation to maintain confidentiality, have executed and delivered to such Acquired Company valid and enforceable written contracts obligating
+each such Person to maintain the confidentiality of and not disclose to any third party such Intellectual Property and trade secrets of or otherwise
+maintained by the Company (each, an “IP Agreement”). No such Person to the Company’s Knowledge is in breach of any such IP Agreement. To
+the Company’s Knowledge, no former or current employee, officer, director, consultant or advisor of the Acquired Companies has any right,
+license, claim or interest whatsoever in or with respect to any Company Intellectual Property.
+(j) No Governmental Entity or academic institution has any right to, ownership of, or right to royalties for any Company Intellectual
+Property.
+(k) The execution and delivery of this Agreement and the consummation of the Transactions (alone or in combination with any other event),
+and the compliance with the provisions of this Agreement do not and will not conflict with, alter, or impair, any of the rights of the Acquired
+Companies in any Company Intellectual Property or the validity, enforceability, use, right to use, ownership, priority, duration or scope of any
+Company Intellectual Property. The Acquired Companies own or have the right to use, and, immediately after the execution and delivery of this
+Agreement and the consummation of the Transactions (alone or in combination with any other event), will continue to own or have the right to use
+on the same terms, all Intellectual Property necessary to conduct the business of the Acquired Companies as presently conducted, including the
+development, use, marketing, distribution, licensing out and offering as a service of any Company Product.
+(l) No Acquired Company has used or distributed any Open Source Code in a manner that would reasonably be expected to: (i) require an
+Acquired Company to distribute or disclose the source code of any Company Software; (ii) require an Acquired Company to distribute or make
+available any Company Software without charge or at a reduced charge; or (iii) require that any Person who receives a copy of thereof has the
+right to decompile, disassemble or otherwise reverse engineer any Company Software; except, in each of the foregoing cases, other than with
+respect to Open Source Code not owned by the Acquired Companies.
+ 
+11
+--- Page 16 ---
+1/17/24, 12:21 PM EX-2.1
+https://www.sec.gov/Archives/edgar/data/1711291/000119312521335218/d136586dex21.htm 16/81(m) Except as listed in Schedule 2.10(m), and except for any Software (e.g., JavaScript) which is customarily delivered in source code form
+in the ordinary course of providing such Software (e.g., accompanying a developer’s kit), no Acquired Company has disclosed, licensed or
+delivered to any Person, or permitted the disclosure, license or delivery to any escrow agent or other Person of, the source code for any Company
+Software

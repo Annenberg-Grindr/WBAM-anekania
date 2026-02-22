@@ -1,0 +1,582 @@
+--- Page 1 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 1/109EX-2.1 2 exhibit21agreementforpurch.htm AGREEMENT  FOR PURCHASE OF THE CODE CORPORA TION
+EXHIBIT 2.1
+STOCK PURCHASE AGREEMENT
+among
+BRADY WORLDWIDE, INC.,
+BW ACQUISITION CORP.,
+THE CODE CORPORATION,
+CERTAIN STOCKHOLDERS OF THE CODE CORPORATION,
+and
+SHAREHOLDER REPRESENTATIVE SERVICES LLC
+dated as of
+June 16, 2021
+1
+--- Page 2 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 2/109TABLE OF CONTENTS
+ARTICLE I DEFINITIONS 3
+ARTICLE II PURCHASE AND SALE 12
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF THE COMPANY 17
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF PARENT AND ACQUISITION SUB 33
+ARTICLE V REPRESENTATIONS AND WARRANTIES OF THE SELLERS 35
+ARTICLE VI COVENANTS 36
+ARTICLE VII TAX MATTERS 41
+ARTICLE VIII CONDITIONS TO CLOSING 43
+ARTICLE IX INDEMNIFICATION 45
+ARTICLE X TERMINATION 49
+ARTICLE XI MISCELLANEOUS 50
+Signatures 57
+2
+--- Page 3 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 3/109STOCK PURCHASE AGREEMENT
+This Stock Purchase Agreement (this “Agreement”), dated as of June 16, 2021, is entered into among BRADY
+WORLDWIDE, INC., a Wisconsin corporation (“Parent”), BW ACQUISITION CORP., a Delaware corporation
+(“Acquisition Sub”), THE CODE CORPORATION, a Delaware corporation (“Company”), the Stockholders identified on
+Schedule A hereto (“Sellers”), and SHAREHOLDER REPRESENTATIVE SERVICES LLC, a Colorado limited liability
+company, solely in its capacity as representative, agent and attorney-in-fact for the Sellers (“Stockholder
+Representative”).
+RECITALS:
+A. Parent desires to acquire one hundred percent (100%) of the Company.
+B. Sellers own approximately ninety-nine percent (99%) of the issued and outstanding capital stock of the
+Company (the shares owned by Sellers hereunder, the “Purchased Shares”).
+C. Acquisition Sub, a wholly-owned subsidiary of Parent, desires to acquire from Sellers, and Sellers desire
+to sell to Acquisition Sub, all of the Purchased Shares on the terms and conditions set forth herein.
+D. On the Business Day immediately following the closing of the acquisition of the Purchased Shares
+pursuant to this Agreement, Parent shall cause Acquisition Sub to merge with and into the Company, with the
+Company surviving such merger (the “Merger”) pursuant to Section 253 of the Delaware General Corporation
+Law (the “DGCL”).
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth and for other
+good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the parties hereto
+agree as follows:
+ARTICLE I
+DEFINITIONS
+The following terms have the meanings specified or referred to in this ARTICLE I:
+“Accounting Principles” means GAAP.
+“Acquisition Proposal” has the meaning set forth in Section 6.03(a).
+“Action” means any claim, action, cause of action, demand, lawsuit, arbitration, audit, notice of violation,
+proceeding, litigation, citation, summons, subpoena, or formal investigation of any nature, civil, criminal, administrative,
+regulatory or otherwise, whether at law or in equity.
+“Acquiring Parties Group” has the meaning set forth in Section 11.15.
+“Acquisition Sub” has the meaning set forth in the preamble.
+“Affiliate” of a Person means any other Person that directly or indirectly, through one or more intermediaries,
+controls, is controlled by, or is under common control with, such Person. The term “control” (including the terms
+“controlled by” and “under common control with”) means the possession, directly or indirectly, of the power to direct or
+cause the direction of the management and policies of a Person, whether through the ownership of voting securities, by
+contract or otherwise.
+“Affected Employee” has the meaning set forth in Section 6.08.
+“Agreement” has the meaning set forth in the preamble.
+“Ancillary Documents” means the Escrow Agreement and the other documents delivered or to be delivered by the
+Company or any of its Subsidiaries pursuant to this Agreement.
+“Associated Rights” has the meaning set forth in Section 11.15.
+“Audited Financial Statements” has the meaning set forth in Section 3.06.
+--- Page 4 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 4/109“Balance Sheet” has the meaning set forth in Section 3.06.
+3
+--- Page 5 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 5/109“Balance Sheet Date” has the meaning set forth in Section 3.06.
+“Basket” has the meaning set forth in Section 9.05(a).
+“Benefit Plan” has the meaning set forth in Section 3.20(a)(i).
+“Business Day” means any day except Saturday, Sunday or any other day on which commercial banks located in
+the State of New York are authorized or required by Law to be closed for business.
+“CARES Act” means the Coronavirus Aid, Relief, and Economic Security Act (as amended) and any regulations
+promulgated pursuant to the Coronavirus Aid, Relief, and Economic Security Act, and the Health and Economic Recovery
+Omnibus Emergency Solutions Act.
+“Cash” shall mean cash and cash equivalents (including marketable securities and short-term investments);
+provided, that, Cash: (i) shall be calculated net of issued but uncleared checks and drafts to the extent the payables with
+respect to such checks have been reduced and are not reflected on the Estimated Closing Statement; (ii) shall include
+checks and drafts deposited for the account of such Person which have not cleared as of the time of determination to the
+extent the receivables with respect to such checks and drafts have been reduced and are not reflected on the Estimated
+Closing Statement and (iii) shall not include amounts paid to the Escrow Agent by the Company at or prior to the Closing
+pursuant to Section 2.04(b).
+“CERCLA” means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as
+amended by the Superfund Amendments and Reauthorization Act of 1986, 42 U.S.C. §§ 9601 et seq.
+“Change of Control Payments” means, collectively (but without disruption), any and all management sale
+bonuses, transaction bonuses, change of control, retention, accelerated benefits or similar compensatory payments or
+benefits due or payable by the Company, and any Company contribution due under any Benefit Plan or Non-US Benefit
+Plan resulting from such payments, solely as a result of the consummation of the transactions contemplated hereby or the
+entry into or adoption of this Agreement, and any related employer-side payroll Taxes payable as a result of any of the
+foregoing; provided, that, for the avoidance of doubt, “Change of Control Payments” shall not include any retention,
+incentive or other bonus or arrangement offered, directly or indirectly (including through the Company), by Parent that
+contemplates any payment at or following the Closing.
+“Closing” has the meaning set forth in Section 2.02.
+“Closing Date” has the meaning set forth in Section 2.02.
+“Closing Statement” has the meaning set forth in Section 2.05(b).
+“Closing Transaction Consideration” means an amount equal to the sum of: (a) the Purchase Price; plus (b) the
+Estimated Closing Working Capital Adjustment; plus (c) the Estimated Cash; minus (d) the Estimated Indebtedness; and
+minus (e) the Estimated Transaction Expenses.
+“Closing Working Capital” means: (a) the Current Assets of the Company and its Subsidiaries, less (b) the
+Current Liabilities of the Company and its Subsidiaries, determined as of the open of business on the Closing Date.
+“Code” means the Internal Revenue Code of 1986, as amended.
+“Company” has the meaning set forth in the preamble.
+“Company Charter Documents” has the meaning set forth in Section 3.03.
+“Company Common Stock” means the common stock, par value $1.00 per share, of the Company.
+“Company Intellectual Property” means all Intellectual Property that is owned by the Company or any of its
+Subsidiaries.
+“Company IP Agreements” means all licenses, sublicenses, consent to use agreements, settlements, coexistence
+agreements, covenants not to sue, waivers, releases, permissions, and development agreements relating to Intellectual
+Property to which the Company or any of its Subsidiaries are a party or otherwise bound, but in all cases excluding: (a)
+non-exclusive licenses or sublicenses granted by the Company or any of its Subsidiaries in the ordinary course of business
+--- Page 6 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 6/109consistent with past practice; (b) agreements for the Company’s or any of its Subsidiaries’ use of commercially available
+off-the-shelf Software; (c) Intellectual Property assignment agreements
+4
+--- Page 7 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 7/109entered into by the employees and independent contractors of the Company and its Subsidiaries in the ordinary course of
+business consistent with past practice; and (d) Intellectual Property development agreements entered into by Company and
+its Subsidiaries with consultants in the ordinary course of business consistent with past practice.
+“Company IP Registrations” means all Company Intellectual Property that is subject to any issuance, registration
+or application by, to or with any Governmental Authority or authorized private registrar in any jurisdiction, including
+issued patents, registered trademarks, domain names and copyrights, and pending applications for any of the foregoing.
+“Company IT Systems” means all software, computer hardware, servers, networks, platforms, and similar
+information technology (IT) networks and systems (including telecommunications networks and systems for voice, data,
+and video) owned, leased, licensed, or used (including through cloud-based or other third-party service providers) by the
+Company or any of its Subsidiaries.
+“Confidentiality Agreement” has the meaning set forth in Section 6.02(b).
+“Consideration Spreadsheet” has the meaning set forth in Section 2.06(a).
+“Contracts” means all contracts, leases, deeds, mortgages, licenses, instruments, notes, commitments,
+undertakings, indentures, joint ventures and all other agreements, commitments and legally binding arrangements to which
+a Person is legally bound.
+“COVID-19 Pandemic” means the global pandemic of SARS-CoV-2 (severe acute respiratory syndrome
+coronavirus 2), coronavirus disease or COVID-19, beginning in 2019.
+“Current Assets” means accounts receivable, inventory and prepaid expenses, but excluding Cash, deferred Tax
+assets and receivables from any of the Company’s Affiliates, directors, employees, officers or stockholders and any of their
+respective Affiliates, determined in accordance with the Accounting Principles and consistent with the Sample Working
+Capital Calculation.
+“Current Liabilities” means accounts payable, accrued Taxes and accrued expenses of the Company and its
+Subsidiaries, but excluding payables to any of the Company’s Affiliates, deferred Tax liabilities, and the current portion of
+any Indebtedness of the Company and its Subsidiaries, determined in accordance with the Accounting Principles and
+consistent with the Sample Working Capital Calculation; provided, that, notwithstanding the Effective Time, accrued Taxes
+shall be determined taking into account applicable deductions for payments of, without duplication, Transaction Expenses,
+Indebtedness and Option Payments. For the avoidance of doubt, “Current Liabilities” shall not include any amounts
+otherwise captured in the calculation of Transaction Expenses or Indebtedness.
+“D&O Indemnified Party” has the meaning set forth in Section 6.07(a).
+“D&O Indemnifying Parties” has the meaning set forth in Section 6.07(b).
+“D&O Tail Policy” has the meaning set forth in Section 6.07(c).
+“DGCL” has the meaning set forth in the recitals.
+“Direct Claim” has the meaning set forth in Section 9.06(c).
+“Disclosure Schedules” means the Disclosure Schedules delivered by the Company and Parent concurrently with
+the execution and delivery of this Agreement.
+“Disputed Amounts” has the meaning set forth in Section 2.05(c)(iii).
+“Dollars or $” means the lawful currency of the United States.
+“Effective Time” means 12:01 a.m. Central Time on the Closing Date.
+“Employee Optionholder” means any Optionholder that is an employee of the Company as of the Closing Date.
+“Encumbrance” means any charge, claim, community property interest, pledge, lien (statutory or other), option,
+security interest, mortgage, easement, encroachment, right of way, right of first refusal, or restriction any kind, including
+any restriction on use, voting, title or transfer.
+--- Page 8 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 8/1095
+--- Page 9 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 9/109“Enforceability Limitations” means limitations on enforcement and other remedies imposed by or arising under
+or in connection with applicable Laws relating to bankruptcy, insolvency, fraudulent transfer, receivership, reorganization,
+moratorium, redemption, liquidation or other similar applicable Laws now or hereafter in effect relating to or affecting the
+rights and remedies of creditors, and general equitable principles (whether considered in a proceeding at law or in equity).
+“Environmental Claim” means any Action, Governmental Order, lien, fine, penalty, or, as to each, any settlement
+or judgment arising therefrom, by or from any Person alleging liability of whatever kind or nature (including liability or
+responsibility for the costs of enforcement proceedings, investigations, cleanup, governmental response, removal or
+remediation, natural resources damages, property damages, personal injuries, medical monitoring, penalties, contribution,
+indemnification and injunctive relief) arising out of, based on or resulting from: (a) the presence, Release of, or exposure
+to, any Hazardous Materials; or (b) any actual or alleged non-compliance with any Environmental Law or term or
+condition of any Environmental Permit.
+“Environmental Law” means any applicable Law, and any Governmental Order or binding agreement with any
+Governmental Authority: (a) relating to pollution (or the cleanup thereof) or the protection of natural resources, endangered
+or threatened species, human health, or the environment (including ambient air, soil, surface water or groundwater, or
+subsurface strata); or (b) concerning the presence of, exposure to, or the management, manufacture, use, containment,
+storage, recycling, reclamation, reuse, treatment, generation, discharge, transportation, processing, production, disposal or
+remediation of any Hazar dous Materials. The term “Environmental Law” includes, without limitation, the following
+(including their implementing regulations and any state analogs): CERCLA, RCRA, the Federal Water Pollution Control
+Act of 1972, as amended by the Clean Water Act of 1977, 33 U.S.C. §§ 1251 et seq.; the Toxic Substances Control Act of
+1976, as amended, 15 U.S.C. §§ 2601 et seq.; the Emergency Planning and Community Right-to-Know Act of 1986, 42
+U.S.C. §§ 11001 et seq.; the Clean Air Act of 1966, as amended by the Clean Air Act Amendments of 1990, 42 U.S.C. §§
+7401 et seq.; and the Occupational Safety and Health Act of 1970, as amended, 29 U.S.C. §§ 651 et seq. (“OSHA” to the
+extent OSHA relates to handling of or exposure to Hazardous Materials).
+“Environmental Notice” means any written directive, notice of violation or infraction, or notice respecting any
+Environmental Claim relating to actual or alleged non-compliance with any Environmental Law or any term or condition
+of any Environmental Permit.
+“Environmental Permit” means any Permit, letter, clearance, consent, waiver, closure, exemption, decision or
+other action required under or issued, granted, given, authorized by or made pursuant to Environmental Law.
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the regulations
+promulgated thereunder.
+“ERISA Affiliate” means all employers (whether or not incorporated) that would be treated together with the
+Company, the Company’s Subsidiaries or any of their Affiliates as a “single employer” within the meaning of Section 414
+of the Code.
+“Escrow Agent” means Wells Fargo Bank, N.A.
+“Escrow Agreement” means the Escrow Agreement to be entered into by Parent, Stockholder Representative and
+the Escrow Agent at the Closing, substantially in the form of Exhibit A.
+“Escrow Funds” means the Indemnification Escrow Fund.
+“Estimated Cash” has the meaning set forth in Section 2.05(a).
+“Estimated Closing Working Capital Adjustment” shall be an amount (whether positive or negative) equal to:
+(a) the Estimated Closing Working Capital minus (b) the Target Working Capital; provided that the Estimated Closing
+Working Capital Adjustment shall be an amount equal to zero in the event the Estimated Closing Working Capital is
+determined to be an amount greater than $4,294,034 and less than $4,746,038.
+“Estimated Closing Statement” has the meaning set forth in Section 2.05(a).
+“Estimated Closing Working Capital” has the meaning set forth in Section 2.05(a).
+--- Page 10 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 10/1096
+--- Page 11 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 11/109“Estimated Indebtedness” has the meaning set forth in Section 2.05(a).
+“Estimated Net Purchase Price” has the meaning set forth in Section 2.05(a).
+“Estimated Transaction Expenses” has the meaning set forth in Section 2.05(a).
+“Equityholders” means the Stockholders and the Optionholders.
+“Final Cash” has the meaning set forth in Section 2.05(c)(vi).
+“Final Closing Working Capital” has the meaning set forth in Section 2.05(c)(vi).
+“Final Closing Working Capital Adjustment” shall be an amount (whether positive or negative) equal to the
+difference of: (a) the Final Closing Working Capital, minus (b) the Target Working Capital; provided that the Final Closing
+Working Capital Adjustment shall be an amount equal to zero Dollars ($0) in the event the Final Closing Working Capital
+is determined to be an amount greater than $4,294,034 and less than $4,746,038.
+“Final Indebtedness” has the meaning set forth in Section 2.05(c)(vi).
+“Final Net Purchase Price” has the meaning set forth in Section 2.05(c)(vi).
+“Final Net Transaction Consideration” means an amount equal to the sum of (a) the Purchase Price, plus (b) the
+Final Closing Working Capital Adjustment, plus (c) the Final Cash, minus (d) the Final Indebtedness, minus (e) the Final
+Transaction Expenses.
+“Final Transaction Expenses” has the meaning set forth in Section 2.05(c)(vi).
+“Financial Statements” has the meaning set forth in Section 3.06.
+“Fraud” means a knowing misrepresentation or omission of a material fact with respect to the making of any
+representation or warranty contained Article III in this Agreement with the specific intent to deceive, mislead and induce a
+party to this Agreement to rely thereon and upon which such party reasonably relied and, as a result of which, actually
+suffered any Loss. For the avoidance of doubt, “Fraud” shall not include any type of constructive or equitable fraud.
+“GAAP” means United States generally accepted accounting principles.
+“Government Contracts” has the meaning set forth in Section 3.09(a)(viii).
+“Governmental Authority” means any federal, state, local or foreign government or political subdivision thereof,
+or any agency or instrumentality of such government or political subdivision, or any self-regulated organization or other
+non-governmental regulatory authority or quasi-governmental authority (to the extent that the rules, regulations or orders
+of such organization or authority have the force of Law), or any arbitrator, court or tribunal of competent jurisdiction.
+“Governmental Order” means any order, writ, judgment, injunction, decree, stipulation, determination or award
+entered by or with any Governmental Authority.
+“Hazardous Materials” means: (a) any material, substance, chemical, waste, product, derivative, compound,
+mixture, solid, liquid, mineral or gas, in each case, whether naturally occurring or manmade, that is hazardous, acutely
+hazardous, toxic, or words of similar import or regulatory effect under Environmental Laws; and (b) any petroleum or
+petroleum-derived products, radon, radioactive materials or wastes, asbestos in any form, lead or lead-containing materials,
+urea formaldehyde foam insulation, and polychlorinated biphenyls.
+“Hazardous Waste” has the meaning ascribed thereto in and for purposes of RCRA.
+“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+“Indebtedness” means, without duplication and with respect to the Company and its Subsidiaries, all: (a)
+indebtedness for borrowed money; (b) obligations for the deferred purchase price of property or services (other than
+Current Liabilities taken into account in the calculation of Closing Working Capital), (c) long or short-term obligations
+evidenced by notes, bonds, debentures or other similar instruments; (d) obligations under any interest rate, currency swap
+or other hedging agreement or arrangement; (e) capital lease obligations; (f) reimbursement obligations under any letter of
+credit, banker’s acceptance or similar credit transactions to the extent drawn; (g)
+--- Page 12 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 12/1097
+--- Page 13 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 13/109guarantees made by the Company or any of its Subsidiaries on behalf of any third party in respect of obligations of the kind
+referred to in the foregoing clauses (a) through (f); and (h) any unpaid interest, prepayment penalties, premiums, costs and
+fees that would arise or become due as a result of the prepayment of any of the obligations referred to in the foregoing
+clauses (a) through (g).
+“Indemnification Escrow Amount” means $10,000,000.
+“Indemnification Escrow Fund” means the Indemnification Escrow Amount plus any interest or other amounts
+earned thereon and less any disbursements therefrom in accordance with the Escrow Agreement.
+“Indemnification Escrow Funds” means the amount, as of any particular time, then remaining in the
+Indemnification Escrow Fund.
+“Indemnified Party” has the meaning set forth in Section 9.06.
+“Indemnifying Party” has the meaning set forth in Section 9.06.
+“Independent Accountant” has the meaning set forth in Section 2.05(c)(iii).
+“Insurance Policies” has the meaning set forth in Section 3.19.
+“Intellectual Property” means any and all rights in, arising out of, or associated with any of the following in any
+jurisdiction throughout the world: (a) issued patents and patent applications (whether provisional or non-provisional),
+including divisionals, continuations, continuations-in-part, substitutions, reissues, reexaminations, extensions, or
+restorations of any of the foregoing, and other Governmental Authority-issued indicia of invention ownership (including
+certificates of invention, petty patents, and patent utility models) (“Patents”); (b) trademarks, service marks, brands,
+certification marks, logos, trade dress, trade names, and other similar indicia of source or origin, together with the goodwill
+connected with the use of and symbolized by, and all registrations, applications for registration, and renewals of, any of the
+foregoing (“Trademarks”); (c) copyrights and original works of authorship, and all registrations, applications for
+registration, and renewals of any of the foregoing (“Copyrights”); (d) internet domain names; (e) mask works, and all
+registrations, applications for registration, and renewals thereof; (f) industrial designs, and all Patents, registrations,
+applications for registration, and renewals thereof; (g) Trade Secrets; (h) computer programs, operating systems,
+applications, firmware, and other code and technical standards, including all source code, object code, application
+programming interfaces, data files, databases, protocols, specifications, and other documentation thereof (“Software”); (i)
+rights of publicity; and (j) all other intellectual or industrial property and proprietary rights.
+“Interim Balance Sheet” has the meaning set forth in Section 3.06.
+“Interim Balance Sheet Date” has the meaning set forth in Section 3.06.
+“Interim Financial Statements” has the meaning set forth in Section 3.06.
+“Knowledge” means, when used with respect to the Company, the actual knowledge of each of Kent Hanson, Tim
+O’Hagan, and Dennis Kaill, after due inquiry of their respective direct reports in the Company.
+“Law” means any statute, law, ordinance, regulation, rule, code, order, constitution, treaty, common law, judgment,
+decree, other requirement or rule of law of any Governmental Authority.
+“Liabilities” has the meaning set forth in Section 3.07.
+“Licensed Intellectual Property” means all Intellectual Property in which the Company or any of its Subsidiaries
+hold any rights or interests granted by other Persons, including any of their Affiliates.
+“Limited Waived Matters” has the meaning set forth in Section 11.16.
+“Losses” means: (i) any losses, damages, liabilities, judgments, interest, awards, penalties, fines, costs or expenses
+of whatever kind, including reasonable attorneys’ fees, in each case paid or incurred by the Parent Indemnitees or Seller
+Indemnitees (or any of them); and (ii) any and all reasonable fees and costs of pursuing any insurance providers or
+defending any Third-Party Claims, but only to the extent the underlying claim constitutes an indemnifiable matter specified
+in Section 9.2 (e.g., an actual breach of a representation and not a mere allegation of breach); provided, however, that
+“Losses” shall not include punitive, special or indirect damages, or damages based
+--- Page 14 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 14/1098
+--- Page 15 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 15/109on lost profits, diminution in value or calculated based on a multiple of earnings, in each case, except for Qualified
+Damages or to the extent actually awarded to a Governmental Authority or other third party.
+“Material Adverse Effect” means any event, occurrence, fact, condition or change that is, or would reasonably be
+expected to be, individually or in the aggregate, materially adverse to: (a) the business, results of operations, condition
+(financial or otherwise) or assets of the Company or its Subsidiaries; or (b) the ability of the Company or its Subsidiaries to
+consummate the transactions contemplated hereby on a timely basis; provided, however, that “Material Adverse Effect”
+shall not include any event, occurrence, fact, condition or change, directly or indirectly, arising out of or attributable to (i)
+general economic or political conditions, or changes in general economic, market or political conditions, whether domestic
+or international; (ii) conditions generally affecting the industries in which the Company operates; (iii) any changes in
+financial or securities markets in general; (iv) global, national or regional political conditions, including acts of war
+(whether or not declared), armed hostilities or terrorism, or the escalation or worsening thereof; (v) any action required or
+permitted by this Agreement; (vi) any changes in applicable Laws or accounting rules, including GAAP, or in the
+interpretation thereof; (vii) the execution, public announcement, pendency or completion of the transactions contemplated
+by this Agreement or any action taken or omitted to be taken by the Company at the express written request or with the
+prior express written consent of Parent; (viii) pandemics, epidemics, diseases or other public health crises (including the
+COVID-19 Pandemic); (ix) earthquakes, floods, hurricanes, tornadoes, volcanic eruptions, natural disasters or other acts of
+nature; (x) any failure by the Company or any of its Subsidiaries to meet any Projections (it being understood that the facts
+and circumstances giving rise to such failure may be taken into account in determining whether there has been a Material
+Adverse Effect, except to the extent such facts or circumstances are excluded from being taken into account by clauses (i)
+through (ix) above); provided further, however, that any event, occurrence, fact, condition or change referred to in clauses
+(i) through (ix) immediately above shall be taken into account in determining whether a Material Adverse Effect has
+occurred or would reasonably be expected to occur to the extent that such event, occurrence, fact, condition or change has a
+disproportionate effect on the Company and its Subsidiaries, taken as a whole, compared to other participants in the
+industries in which the Company and its Subsidiaries conduct their businesses.
+“Material Contracts” has the meaning set forth in Section 3.09(a).
+“Material Customers” has the meaning set forth in Section 3.15(a).
+“Material Suppliers” has the meaning set forth in Section 3.15(b).
+“Merger” has the meaning set forth in the recitals.
+“Multiemployer Plan” has the meaning set forth in Section 3.20(c).
+“MVA” has the meaning set forth in Section 11.15.
+“Non-US Benefit Plans” has the meaning set forth in Section 3.20(a).
+“Option” means any option to purchase Company Common Stock granted under the Stock Option Plans and still
+outstanding as of immediately prior to the Effective Time.
+“Option Payment” means, with respect to each Option, an amount equal to the quotient of: (a) Closing
+Transaction Consideration divided by (b) the aggregate number of Shares outstanding immediately prior to the Effective
+Time (other than Shares owned by the Company which are to be cancelled and retired in accordance with Section 2.08(a))
+and the number of Shares issuable upon the exercise in full of all vested Options outstanding immediately prior to the
+Effective Time, the result of which shall be reduced by the exercise price of each Option.
+“Option Termination Agreement” has the meaning set forth in Section 2.08(c).
+“Optionholder” means a holder of an Option.
+“Parent” has the meaning set forth in the preamble.
+“Parent Indemnitees” has the meaning set forth in Section 9.02.
+“Paying Agent” has the meaning set forth in Section 2.03(c).
+--- Page 16 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 16/1099
+--- Page 17 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 17/109“Payments Agreement” means that certain Payments Administration Agreement to be entered into at or prior to
+Closing by and among Parent, the Stockholder Representative and the Paying Agent.
+“Permits” means all permits, licenses, franchises, approvals, authorizations, registrations, certificates, variances
+and similar rights obtained, or required to be obtained, from Governmental Authorities.
+“Permitted Encumbrances” has the meaning set forth in Section 3.10(a).
+“Person” means an individual, corporation, partnership, joint venture, limited liability company, Governmental
+Authority, unincorporated organization, trust, association or other entity.
+“Personal Data” means any piece of information that: (a) by itself or in combination with other information, is
+capable of identifying a natural person; or (b) is considered “personally identifiable information,” “personally identifiable
+health information,” “personal data,” “protected data,” “non-public personal information” or any similar category of
+protected information or data under any applicable Law.
+“Post-Closing Adjustment” means an amount (which may be positive or negative) equal to the sum of: (a) the
+Final Net Purchase Price; minus (b) the Estimated Net Purchase Price.
+“Post-Closing Adjustment Resolution Date” has the meaning set forth in Section 2.05(c)(vi).
+“Post-Closing Tax Period” means any taxable period beginning after the Closing Date and, with respect to any
+taxable period beginning before and ending after the Closing Date, the portion of such taxable period beginning after the
+Closing Date.
+“Pre-Closing Tax Period” means any taxable period ending on or before the Closing Date and, with respect to any
+taxable period beginning before and ending after the Closing Date, the portion of such taxable period ending on and
+including the Closing Date.
+“Pre-Closing Taxes” means Taxes of the Company or its Subsidiaries for any Pre-Closing Tax Period.
+“Payoff Letters” has the meaning set forth in Section 2.06(b).
+“Projections” means, collectively, any projections, business plan information, estimates, forecasts, budgets, pro-
+forma financial information or similar information communicated (orally or in writing) to or made available to Parent,
+Acquisition Sub or their respective Affiliates, agents, attorneys or representatives concerning, inter alia, future revenues,
+profitability, expenses, expenditures or prospects, future results of operations (or any component thereof) or future cash
+flows (or any component thereof) of the Company and its Subsidiaries.
+“Protected Communications” has the meaning set forth in Section 11.15.
+“Purchase Price” means $175,000,000.
+“Qualified Benefit Plan” has the meaning set forth in Section 3.20(c).
+“Qualified Damages” means (i) any damages resulting from Fraud and (ii) damages based on a multiple of
+earnings (to the extent an adverse effect on earnings of the Company or any of its Subsidiaries prior to the Closing) in the
+event of any inaccuracy in or breach of a representation or warranty contained in Section 3.06 (Financial Statements).
+“RCRA” means the Solid Waste Disposal Act, as amended by the Resource Conservation and Recovery Act of
+1976, as amended by the Hazardous and Solid Waste Amendments of 1984, 42 U.S.C. §§ 6901 et seq.
+“Real Property” means the real property owned, leased or subleased by the Company or any of its Subsidiaries,
+together with all buildings, structures and facilities located thereon.
+“Related Claim” has the meaning set forth in Section 11.14.
+“Release” means any actual or threatened release, spilling, leaking, pumping, pouring, emitting, emptying,
+discharging, injecting, escaping, leaching, dumping, abandonment, disposing or allowing to escape or migrate into or
+through the environment (including, without limitation, ambient air (indoor or outdoor), surface water, groundwater, land
+surface or subsurface strata or within any building, structure, facility or fixture).
+--- Page 18 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 18/109“Remaining Indemnification Escrow Funds” has the meaning set forth in Section 9.08(b).
+10
+--- Page 19 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 19/109“Representative” means, with respect to any Person, any and all directors, officers, employees, consultants,
+financial advisors, counsel, accountants and other agents of such Person.
+“Representative Losses” has the meaning set forth in Section 11.01(c).
+“Resolution Period” has the meaning set forth in Section 2.05(c)(ii).
+“Review Period” has the meaning set forth in Section 2.05(c)(i).
+“Sample Working Capital Calculation” means a sample calculation of the Closing Working Capital, prepared in
+a manner consistent with the Accounting Principles, as set forth on Exhibit B.
+“Seller Closing Per Share Transaction Consideration” means an amount equal to the quotient of: (a) the Seller
+Closing Transaction Consideration, divided by (b) the aggregate number of Shares outstanding immediately prior to the
+Effective Time.
+“Seller Closing Transaction Consideration” means an amount equal to: (a) the Closing Transaction
+Consideration, minus (b) the aggregate Option Payments.
+“Seller Indemnification Cap” means, with respect to a Seller, an amount equal to the portion of the Seller Closing
+Transaction Consideration actually received by such Seller.
+“Seller Indemnitees” has the meaning set forth in Section 9.04.
+“Seller Pro Rata Share” means, with respect to a Seller, the percentage equal to the quotient of: (a) Shares held by
+such Seller, divided by (b) the aggregate number of Shares held by all Sellers immediately prior to the Effective Time.
+“Shares” means shares of Company Common Stock.
+“Statement of Objections” has the meaning set forth in Section 2.05(c)(ii).
+“Stock Option Plans” means, collectively, (i) The Code Corporation 2009 Equity Incentive Plan and (ii) The Code
+Corporation 2019 Equity Incentive Plan.
+“Stockholder” means a holder of Company Common Stock.
+“Stockholder Pro Rata Share” means, with respect to a Stockholder, the percentage equal to the quotient of: (a)
+Shares held by such Stockholder, divided by (b) the aggregate number of Shares held by all Stockholders immediately
+prior to the Effective Time.
+“Stockholder Representative” has the meaning set forth in the preamble.
+“Stockholder Representative Expense Amount” means $275,000.
+“Stockholder Representative Expense Fund” means the Stockholder Representative Expense Amount less any
+disbursements therefrom.
+“Straddle Period” has the meaning set forth in Section 7.04.
+“Subsidiary” or “Subsidiaries” means, in respect of any Person, any corporation or other legal entity of which
+such Person (either alone or together with other Subsidiaries of such Person) owns, directly or indirectly, more than 50% of
+the voting securities, other voting ownership or voting partnership interests of which is sufficient to elect at least a majority
+of its board of directors or other governing body (or, if there are no such voting interests, more than 50% of the stock or
+other equity interests of such entity).
+“Target Working Capital” means $4,520,036.
+“Tax Claim” has the meaning set forth in Section 7.05.
+“Taxes” means all federal, state, local, foreign and other income, gross receipts, sales, use, production, ad valorem,
+transfer, franchise, registration, profits, net worth, license, lease, service, service use, withholding, value added, payroll,
+employment, unemployment, estimated, excise, escheat, severance, environmental, stamp, occupation, premium, property
+(real or personal), real property gains, windfall profits, customs, duties or other taxes, fees, assessments or charges of any
+kind whatsoever, together with any interest, additions or penalties with
+--- Page 20 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 20/10911
+--- Page 21 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 21/109respect thereto and any interest in respect of such additions or penalties and shall include any transferee liability in respect
+of any and all of the above.
+“Tax Return” means any return, declaration, report, claim for refund, information return or statement or other
+document relating to Taxes, including any schedule or attachment thereto, and including any amendment thereof.
+“Third Party Claim” has the meaning set forth in Section 9.06(a).
+“Trade Secrets” means know-how, data, and business or technical information, including formulae, patterns,
+compilations, programs, devices, methods, techniques or processes that: (a) derive independent economic value, actual or
+potential, from not being generally known to, and not being readily ascertainable by proper means by, other persons who
+can obtain economic value from its disclosure or use; and (b) is the subject of efforts that are reasonable under the
+circumstances to maintain its secrecy.
+“Transaction Consideration” means the Closing Transaction Consideration, together with those portions of the
+Escrow Funds and the Post-Closing Adjustment (if any) that an Equityholder actually receives pursuant to the terms of this
+Agreement and the Escrow Agreement.
+“Transaction Expenses” means all fees and expenses incurred by the Company and its Subsidiaries and their
+Affiliates (to the extent the Company and its Subsidiaries would be responsible for such amounts) at or prior to the Closing
+in connection with the preparation, negotiation and execution of this Agreement and the Ancillary Documents, and the
+performance and consummation of the Merger and the other transactions contemplated hereby and thereby including any
+unpaid costs of the D&O Tail Policy referenced in Section 6.07(b) and any Change of Control Payments which are unpaid
+as of the Closing.
+“Undisputed Amounts” has the meaning set forth in Section 2.05(c)(iii).
+“Union” has the meaning set forth in Section 3.21(b).
+“WARN Act” means the federal Worker Adjustment and Retraining Notification Act of 1988, and similar state,
+local and foreign laws related to plant closings, relocations, mass layoffs and employment losses.
+ARTICLE II
+PURCHASE AND SALE
+Section 2.01 Purchase and Sale. At the Closing, Sellers shall sell, convey, assign, transfer and deliver to
+Acquisition Sub all of the Purchased Shares, free and clear of all Encumbrances.
+Section 2.02 Closing. Subject to the terms and conditions of this Agreement, the closing of the transactions
+contemplated by this Agreement (the “Closing”) shall take place at 7:00 a.m., Central Daylight Time, no later than
+two (2) Business Days after the last of the conditions to Closing set forth in ARTICLE VIII have been satisfied or
+waived (other than conditions which, by their nature, are to be satisfied on the Closing Date), remotely by
+exchange of documents and signatures (or their electronic counterparts), or at such other time or on such other date
+or at such other place as the parties may mutually agree upon in writing (the day on which the Closing takes place
+being the “Closing Date”). The Closing shall be deemed to be effective as of the Effective Time.
+Section 2.03 Closing Payments. At the Closing, Parent shall pay the following:
+(a) Payment to third parties by wire transfer of immediately available funds the Estimated Transaction
+Expenses (other than Change of Control Payments, if any, to be paid pursuant to Section 2.03(f), below) as set forth on the
+Estimated Closing Statement;
+(b) Payment to holders of the Estimated Indebtedness pursuant to the Payoff Letters;
+(c) Payment to Acquiom Financial LLC, a Colorado limited liability company (in its capacity as the
+payments administrator pursuant to the Payments Agreement, the “Paying Agent”), for further distribution to each Seller
+by wire transfer of immediately available funds an amount equal to the Seller Closing Per Share Transaction Consideration
+payable to such Seller as set forth on the Consideration Spreadsheet;
+--- Page 22 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 22/10912
+--- Page 23 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 23/109(d) Payment to each non-employee Optionholder by wire transfer of immediately available funds an
+amount equal to such non-employee Optionholder’s aggregate Option Payment as set forth on the Consideration
+Spreadsheet;
+(e) Payment to the Company or its designee payroll service provider by wire transfer of immediately
+available funds an aggregate amount equal to each Employee Optionholder’s aggregate Option Payment as set forth on the
+Consideration Spreadsheet.
+(f) Payment to the Company or its designee payroll service provider by wire transfer of immediately
+available funds an aggregate amount equal to any Change of Control Payments which are unpaid as of the Closing, if any.
+Section 2.04 Closing Deliverables.
+(a) At or prior to the Closing, the Sellers and the Company shall deliver (or cause to be delivered) to
+Parent the following:
+(i) (1) Stock certificates evidencing the Purchased Shares that are certificated, free and clear
+of all Encumbrances (other than Permitted Encumbrances), duly endorsed in blank or accompanied by stock powers or
+other instruments of transfer from each Seller duly executed in blank or (2) affidavits of lost stock certificates (containing
+customary attestations and indemnities) in respect of any stock certificate evidencing a Purchased Share that has been lost,
+destroyed or otherwise is unable to be delivered by the applicable Seller;
+(ii) [Reserved].
+(iii) The Escrow Agreement duly executed by Stockholder Representative;
+(iv) Resignations of all the directors and officers of the Company and its Subsidiaries;
+(v) A certificate, dated the Closing Date and signed by a duly authorized officer of the
+Company, that each of the conditions set forth in Section 8.02(a) and Section 8.02(b) have been satisfied;
+(vi) A certificate of the Secretary or an assistant Secretary (or equivalent officer) of the
+Company certifying that attached thereto are true and complete copies of all resolutions adopted by the Company Board
+authorizing the execution, delivery and performance of this Agreement and the Ancillary Documents and the
+consummation of the transactions contemplated hereby and that all such resolutions are in full force and effect and are all
+the resolutions adopted in connection with the transactions contemplated hereby and thereby;
+(vii) A certificate of the Secretary or an assistant Secretary (or equivalent officer) of the
+Company certifying the names and signatures of the officers of the Company authorized to sign this Agreement, the
+Ancillary Documents and the other documents to be delivered hereunder and thereunder;
+(viii)A good standing certificate (or its equivalent) from the secretary of state or similar
+Governmental Authority of the jurisdiction under the Laws in which the Company and each of its Subsidiaries is
+organized;
+(ix) The Estimated Closing Statement contemplated in Section 2.05(a);
+(x) The Consideration Spreadsheet contemplated in Section 2.06;
+(xi) Option Termination Agreements from the Optionholders listed on Schedule 2.04(a)(xi),
+duly executed by each such Optionholder; and
+(xii) A certificate from the Company in a form consistent with Treasury Regulations Sections
+1.14455-2(c)(3) and 1.897-2(h) and reasonably satisfactory to Parent, dated as of the Closing Date, that no interest in the
+Company is a U.S. real property interest.
+(b) At or prior to the Closing, the Sellers and the Company shall deliver (or cause to be delivered) to
+(i) the Escrow Agent by wire transfer of immediately available funds the Indemnification Escrow Amount and (ii) the
+Stockholder Representative the Stockholder Representative Expense Amount.
+--- Page 24 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 24/10913
+--- Page 25 ---
+1/17/24, 12:03 PM Document
+https://www.sec.gov/Archives/edgar/data/746598/000074659821000080/exhibit21agreementforpurch.htm 25/109(c) At the Closing, Parent shall deliver to the Sellers, or such other Person as may be specified herein,
+the following:
+(i) The Escrow Agreement duly executed by Parent;
+(ii) A certificate, dated the Closing Date and signed by a duly authorized officer of Company,
+that each of the conditions set forth in Section 8.03(a) and Section 8.03(b) have been satisfied;
+(iii) A certificate of the Secretary or an assistant Secretary (or equivalent officer) of Parent and
+Acquisition Sub certifying that attached thereto are true and complete copies of all resolutions adopted by the board of
+directors of Parent and Acquisition Sub authorizing the execution, delivery and performance of this Agreement and the
+Ancillary Documents and the consummation of the transactions contemplated hereby and thereby, and that all such
+resolutions are in full force and effect and are all the resolutions adopted in connection with the transactions contemplated
+hereby and thereby; and
+(iv) A certificate of the Secretary or an assistant Secretary (or equivalent officer) of Parent and
+Acquisition Sub certifying the names and signatures of the officers of Parent and Acquisition Sub authorized to sign this
+Agreement, the Ancillary Documents and the other documents to be delivered hereunder and thereunder.
+Section 2.05 Estimated Closing Statement; Closing Statement; Adjustments.
+(a) Prior to the Closing, the Company shall prepare and deliver to Parent a written closing statement
+certified by the Chief Financial Officer or Vice President of Finance of the Company (the “Estimated Closing
+Statement”) setting forth its good faith estimates of: (i) Closing Working Capital (the “Estimated Closing Working
+Capital”), including the amount of the Estimated Closing Working Capital Adjustment; (ii) Indebtedness, if any, unpaid as
+of the Effective Time (the “Estimated Indebtedness”); (iii) Transaction Expenses, if any, unpaid as of the Effective Time
+(the “Estimated Transaction Expenses”); (iv) Cash, if any, as of the Effective Time (the “Estimated Cash”) and the
+estimated Closing Transaction Consideration based thereupon (the “Estimated Net Purchase Price”). The Estimated

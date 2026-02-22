@@ -1,0 +1,563 @@
+--- Page 1 ---
+EX-2.1 2 dex21.htm STOCK PURCHASE AGREEMENT
+Exhibit 2.1
+EXECUTION VERSION
+STOCK PURCHASE AGREEMENT
+by and between
+DEUTSCHE TELEKOM AG
+and
+AT&T  INC.
+Dated as of March 20, 201 1
+--- Page 2 ---
+TABLE OF  CONTENTS
+ 
+           Page  
+  ARTICLE I
+Definitions and Terms   
+1.1.   Definitions    1  
+1.2.   Other Definitional Provisions    15  
+   ARTICLE II   
+   Purchase and Sale; Closing   
+2.1.   Purchase and Sale    16  
+2.2.   Payment at Closing    16  
+2.3.   Purchase Price Adjustment    17  
+2.4.   Closing    21  
+   ARTICLE III   
+   Representations and Warranties   
+3.1.   Representations and Warranties Regarding Seller    21  
+3.2.   Representations and Warranties Regarding the Company and its Subsidiaries    22  
+3.3.   Representations and Warranties of Purchaser    38  
+   ARTICLE IV   
+   Covenants   
+4.1.   Interim Operations    42  
+4.2.   Access; Post-Signing Deliverables    46  
+4.3.   Publicity    48  
+4.4.   Expenses    48  
+4.5.   Resignations    49  
+4.6.   Filings; Other Actions; Notification    49  
+4.7.   Financial Working Group    50  
+4.8.   Seller ’s Cooperation with Financing    50  
+4.9.   Regulatory Compliance    51  
+4.10.   Further Action    51  
+4.11.   Intercompany Arrangements    52  
+4.12.   Repayment of Indebtedness    52  
+4.13.   Customer Communications    53  
+4.14.   Employee Matters    53  
+4.15.   Minimum Cash Balance    54  
+4.16.   Business Plan; Capital Expenditures    54  
+4.17.   Additional Covenants of Purchaser    54  
+4.18.   Purchaser Board of Directors    55  
+--- Page 3 ---
+4.19.   Listing of Purchaser Shares    55  
+4.20.   Potential Sale of Interests    55  
+4.21.   Use of Trademarks    56  
+4.22.   Intellectual Property Licenses    56  
+4.23.   Covenant Not to Sue    57  
+4.24.   Other Transition Arrangements    57  
+4.25.   Confidentiality    57  
+4.26.   Indemnification and Insurance; Release    57  
+4.27.   Purchaser Common Stock    58  
+4.28.   Subscriber List    58  
+   ARTICLE V   
+   Conditions   
+5.1.   Conditions to Each Party’ s Obligation to Ef fect the Transaction    60  
+5.2.   Conditions to Obligations of Purchaser    60  
+5.3.   Conditions to Obligations of Seller    62  
+   ARTICLE VI   
+   Indemnification   
+6.1.   Survival; Ef fect of Materiality Qualifiers    63  
+6.2.   Indemnification    63  
+6.3.   Indemnification Procedures    64  
+6.4.   Limitations on Indemnification    67  
+6.5.   Indemnity Payments    68  
+6.6.   Exclusive Remedy    69  
+   ARTICLE VII   
+   Termination   
+7.1.   Termination by Mutual Consent    69  
+7.2.   Termination by Either Purchaser or Seller    69  
+7.3.   Termination by Seller    70  
+7.4.   Termination by Purchaser    70  
+7.5.   Effect of Termination and Abandonment    70  
+   ARTICLE VIII   
+   Miscellaneous and General   
+8.1.   Amendment; Waivers, Etc.    72  
+8.2.   Counterparts    72  
+8.3.   Governing Law; Submission to Jurisdiction; Selection of Forum; Waiver of Trial by Jury    72  
+8.4.   Notices    73  
+8.5.   Entire Agreement; No Other Representations    74  
+ 
+-ii-
+--- Page 4 ---
+8.6.   Specific Performance    74  
+8.7.   No Third-Party Beneficiaries    74  
+8.8.   Severability    74  
+8.9.   Interpretation    74  
+8.10.   Assignment    74  
+8.11.   Limitation of Liability    75  
+8.12.   Securities Matters    75  
+8.13.   Transfer Taxes    77  
+ 
+Exhibits     
+Exhibit A      Stockholder ’s Agreement
+Annexes     
+Annex A      Per Subscriber Amount
+Annex B      MHz POP  Values
+Annex C      Markets
+Annex D      Employee Retention Letter Terms
+Annex E      Termination Transfer
+Annex F      Roaming Agreement Terms
+ 
+-iii-
+--- Page 5 ---
+STOCK PURCHASE AGREEMENT
+STOCK PURCHASE AGREEMENT  (this “ Agreement ”), dated as of March 20, 201 1, by and between DEUTSCHE TELEKOM AG, an
+Aktiengesellschaft  organized and existing under the laws of the Federal Republic of Germany (“ Seller ”), and AT&T  INC., a Delaware corporation
+(“Purchaser ”).
+RECIT ALS
+WHEREAS, Seller owns all of the issued and outstanding shares of capital stock of T-Mobile Global Zwischenholding GmbH, a
+Gesellschaft mit beschränkter Haftung  organized and existing under the laws of Germany (“ Global ”), which owns all of the issued and outstanding
+shares of capital stock of T-Mobile Global Holding GmbH, a Gesellschaft mit beschränkter Haftung  organized and existing under the laws of Germany
+(“Holding ”), which owns all of the issued and outstanding shares of capital stock of T-Mobile USA, Inc. (the “ Company ”), a Delaware corporation;
+WHEREAS, Seller desires to cause Holding to sell to Purchaser and Purchaser desires to purchase from Holding all of the issued and
+outstanding shares of capital stock of the Company upon the terms and subject to the conditions set forth herein; and
+WHEREAS, concurrently with the execution of this Agreement, and as a condition and inducement to Purchaser ’s willingness to enter into
+this Agreement, Seller and Purchaser are entering into a stockholder ’s agreement, in respect of the Purchaser Shares, dated as of the date hereof, and
+attached as Exhibit A (the “ Stockholder ’s Agreement ”).
+NOW , THEREFORE, in consideration of the premises, and of the representations, warranties, covenants and agreements contained herein,
+and other good and valuable consideration the receipt and suf ficiency of which are hereby acknowledged, the parties hereto agree as follows:
+ARTICLE I
+Definitions and Terms
+1.1. Definitions . As used in this Agreement the following terms shall have the following respective meanings:
+“Affiliate ” shall mean with respect to any Person, a Person that directly or indirectly through one or more intermediaries, Controls, is
+Controlled by , or is under common Control with such Person.
+“Agreement ” shall have the meaning set forth in the Preamble.
+--- Page 6 ---
+“Applicable Accounting Principles ” shall have the meaning set forth in Section 2.3(a).
+“Assumed Employees ” shall have the meaning set forth in Section 4.14(a).
+“Average Adjusted Closing Price ” means a dollar amount equal to (i) if the Average Trading Price is greater than $26.0165 and less than
+$30.2354, then the Average Trading Price; (ii) if the Average Trading Price is greater than or equal to $30.2354, then $30.2354; or (iii) if the Average
+Trading Price is equal to or less than $26.0165, then $26.0165.
+“Average Trading Price ” means the volume-weighted average of the per share trading prices of Purchaser Common Stock as reported
+through Bloomber g (based on all trades in Purchaser Common Stock and not an average of daily averages) for the 30 consecutive full trading days
+ending on the third Business Day prior to the Closing.
+“Beneficially Own ” shall mean, with respect to any securities, (i) having “beneficial ownership” of such securities for purposes of Rule
+13d-3 or 13d-5 under the Exchange Act (or any successor statute or regulation), (ii) having the right to become the Beneficial Owner of such securities
+(whether such right is exercisable immediately or only after the passage of time or the occurrence of conditions) pursuant to any agreement,
+arrangement or understanding, or upon the exercise of conversion rights, exchange rights, rights, warrants or options, or otherwise or (iii) having an
+exercise or conversion privilege or a settlement payment or mechanism with respect to any option, warrant, convertible security , stock appreciation,
+swap agreement or other security , contract right or derivative position, whether or not currently exercisable, at a price related to the value of the
+securities for which Beneficial Ownership is being determined or a value determined in whole or part with reference to, or derived in whole or in part
+from, the value of the securities for which Beneficial Ownership is being determined that increases in value as the value of the securities for which
+Beneficial Ownership is being determined increases or that provides to the holder an opportunity , directly or indirectly , to profit or share in any profit
+derived from any increase in the value of the securities for which Beneficial Ownership is being determined (excluding any interests, rights, options or
+other securities set forth in Rule 16a-1(c)(1)-(5) or (7) promulgated pursuant to the Exchange Act).
+“Benefit Plans ” shall have the meaning set forth in Section 3.2(g)(i).
+“Business ” shall mean the business of marketing, selling and providing wireless telecommunication services (including voice and data
+services), and all services ancillary thereto, in the United States.
+“Business Day ” shall mean any day other than a Saturday , a Sunday , a federal holiday or a day on which banks in the City of New York or
+in Frankfurt, Germany are authorized or obligated by Law to close.
+“Business Marks ” means the Trademarks owned by or licensed to Seller or its Subsidiaries (other than the Company and its Subsidiaries)
+that are used by the Company or any
+ 
+2
+--- Page 7 ---
+of its Subsidiaries in connection with the Business, including the Trademarks set forth on the list delivered pursuant to Section 4.2(a)(iii).
+“Cash Consideration ” shall have the meaning set forth in Section 2.2(a).
+“Cash Election ” shall have the meaning set forth in Section 2.2(c).
+“Chosen Courts ” shall have the meaning set forth in Section 8.3.
+“CMA ” shall have the meaning set forth in Annex B.
+“Closing ” shall have the meaning set forth in Section 2.4.
+“Closing Date ” shall have the meaning set forth in Section 2.4.
+“Closing Dischar ged Indebtedness ” shall have the meaning set forth in Section 2.3(a).
+“Closing Statement ” shall have the meaning set forth in Section 2.3(b).
+“Closing Statement Dispute Notice ” shall have the meaning set forth in Section 2.3(c).
+“Code ” shall have the meaning set forth in Section 3.2(g)(ii).
+“Communications Act” shall have the meaning set forth in Section 3.2(d)(i).
+“Communications Licenses ” shall have the meaning set forth in Section 3.2(h)(ii).
+“Company ” shall have the meaning set forth in the Recitals.
+“Company Common Stock ” shall have the meaning set forth in Section 3.2(b)(i).
+“Company Contracts ” shall mean agreements, leases, licenses, contracts, notes, mortgages, indentures, arrangements or other obligations
+binding upon the Company or any of its Subsidiaries.
+“Company Material Adverse Ef fect” shall mean (i) an ef fect that would prevent the ability of Seller to consummate the Transaction or (ii) a
+material adverse ef fect on the financial condition, properties, assets, liabilities, business or results of operations of the Company and its Subsidiaries,
+taken as a whole, excluding any such ef fect to the extent resulting from (A) changes or conditions (including political and legal conditions) generally
+affecting (x) the U.S. or global economy or financial, debt, credit or securities markets or (y) the United States mobile wireless voice and data industry;
+(B) declared or undeclared acts of war , terrorism, outbreaks or escalations of hostilities, sabotage or civil strife; (C) weather -related conditions; (D) any
+change in GAAP  or applicable Laws or regulatory or enforcement developments except to the extent such change disproportionately af fects the
+Company and its Subsidiaries, taken as a
+ 
+3
+--- Page 8 ---
+whole, relative to other companies in the U.S. mobile wireless voice and data industry; (E) the failure by the Company to meet any estimates of
+revenues or earnings for any period ending on or after the date hereof; provided , that the exception in this clause (E) shall not prevent or otherwise
+affect a determination that any change, ef fect, circumstance or development underlying such decline has resulted in or contributed to a Company
+Material Adverse Ef fect; or (F) matters that were primarily the result of the pendency , announcement, or public disclosure of this Agreement and the
+transactions contemplated hereby , but excluding any such ef fect arising through breach of this Agreement or misconduct by Seller or the Company or
+any of their Affiliates. Any determination of “Company Material Adverse Ef fect” shall exclude the ef fects of (i) the matters disclosed in the Seller
+Disclosure Letter or the Financial Statements and (ii) the ef fects of any restrictions, limitations or conditions that by the terms of this Agreement are
+taken into account in determining the existence of a Regulatory Material Adverse Condition.
+“Company Shares ” shall mean all of the issued and outstanding shares of capital stock or Equity Interests of the Company .
+“Confidentiality Agreement ” shall mean the confidentiality agreements, dated December 2010, between AT&T  Services, Inc. and the
+Company .
+“Control ” shall mean the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a
+Person, whether through the ownership of voting securities, by contract or otherwise.
+“Damages ” shall have the meaning set forth in Section 6.2(a).
+“De Minimis Amount ” shall have the meaning set forth in Section 6.4(a)(ii).
+“Direct Claim ” shall have the meaning set forth in Section 6.3(c).
+“Direct Claim Notice ” shall have the meaning set forth in Section 6.3(c).
+“Disputed Item ” shall have the meaning set forth in Section 2.3(c).
+“Divested Market Amount ” shall mean an amount equal to the product of (i) the aggregate number of Subscribers for Market Divestitures
+as set forth with respect to each applicable Market on the Subscriber List and (ii) the amount set forth on Annex A.
+“Divested Spectrum Amount ” shall mean the sum of (i) all First Tier Divested Spectrum Amounts, plus (ii) all Second Tier Divested
+Spectrum Amounts.
+“Divestiture Disputes ” shall have the meaning set forth in Section 2.3(h)(i).
+“Divestiture Adjustment Amount ” shall mean an amount equal to (i) the Divestitures Amount minus  (ii) $3,900,000,000.00; provided , that
+(x) if the result of (i) minus  (ii) is a negative number , the Divestiture Adjustment Amount shall be deemed to be $0, and (y) in no event will the
+Divestiture Adjustment Amount exceed $3,900,000,000.00.
+ 
+4
+--- Page 9 ---
+“Divestiture Sale ” shall mean a Market Divestiture or Spectrum Divestiture.
+“Divestitures Amount ” shall mean an amount equal to (i) the Divested Market Amount plus (ii) the Divested Spectrum Amount.
+“EC Mer ger Regulation ” shall have the meaning set forth in Section 3.2(d).
+“Encumbrance ” (including, with correlative meaning, the term “ Encumber ”) shall mean any lien, pledge, char ge, claim, encumbrance,
+security interest, option, lease, license, mortgage, easement or other restriction or third-party right of any kind, including any right of first refusal or
+restriction on voting, in each case other than pursuant to the Stockholder ’s Agreement.
+“Environmental Law ” shall mean any applicable Law relating to (i) the protection of the environment (including air , water , soil and natural
+resources) or (ii) the use, storage, handling, release or disposal of any Hazardous Substance or waste, in each case as presently in ef fect.
+“Equity Interests ” shall mean (i) any capital stock of a corporation, any partnership interest, any limited liability company interest or any
+other equity interest; (ii) any security or right convertible into, exchangeable for , or evidencing the right to subscribe for , any such stock, equity interest
+or security referred to in clause (i); (iii) any stock appreciation right, contingent value right or similar security or right that is derivative of any such
+stock, equity interest or security referred to in clause (i) or (ii); and (iv) any contract to grant, issue, award, convey or sell any of the foregoing.
+“ERISA ” shall have the meaning set forth in Section 3.2(g)(i).
+“ERISA  Affiliate ” means any entity that would be considered a single employer with the Company under Section 4001(b) of ERISA  or a
+member of a group of entities which includes the Company for purposes of Section 414(b), (c), (m) or (o) of the Code.
+“Estimated Closing Free Cash Flow Adjustment Amount ” shall have the meaning set forth in Section 2.3(a)(i).
+“Estimated Closing Dischar ged Indebtedness ” shall have the meaning set forth in Section 2.3(a)(i).
+“Estimated Divestiture Adjustment Amount ” shall have the meaning set forth in Section 2.3(a)(ii).
+“Estimated Purchaser Closing Statement ” shall have the meaning set forth in Section 2.3(a)(ii).
+“Estimated Seller Closing Statement ” shall have the meaning set forth in Section 2.3(a)(i).
+ 
+5
+--- Page 10 ---
+“Exchange Act” shall mean the Securities Exchange Act of 1934, as amended.
+“Excluded Liabilities ” shall mean the Liabilities of the Company and its Subsidiaries as of the Closing Date that (i) did not arise, directly
+or indirectly , out of or in connection with the assets used in, or the operations of, the Business (including products, services, assets and operations
+ancillary thereto) as conducted at any time prior to the Closing Date, (ii) did not become Liabilities prior to June 1, 2001 and (iii) are not reflected in
+the Financial Statements or in the Seller Disclosure Letter .
+“FAA” shall have the meaning set forth in Section 3.2(h)(ii).
+“FAA Rules ” shall have the meaning set forth in Section 3.2(h)(v).
+“FCC ” shall have the meaning set forth in Section 3.2(d)(i).
+“FCC Licenses ” shall have the meaning set forth in Section 3.2(h)(ii).
+“FCC Rules ” shall have the meaning set forth in Section 4.9(a).
+“Final Order ” shall have the meaning set forth in Section 5.2(c).
+“Financial Statements ” shall have the meaning set forth in Section 3.2(e)(i).
+“First Tier Divested Spectrum Amount ” shall mean, for each Spectrum Divestiture, an amount equal to the product of (i) the number of
+MHz POPs to be divested in such Spectrum Divestiture, (ii) the corresponding dollar value per MHz POP  for the applicable CMA  of the divested MHz
+POPs as set forth in Column 2 of Annex B, and (iii) the First Tier Divestiture Ratio.
+“First Tier Divestiture Ratio ” shall mean the quotient obtained by dividing 2.5 billion by the total number of MHz POPs to be divested in
+all Spectrum Divestitures; provided , that if such quotient is greater than 1.0, the First Tier Divestiture Ratio shall be 1.0.
+“Free Cash Flow ” in respect of a period means the consolidated net income of the Company and its Subsidiaries for such period, plus
+(i) any depreciation and amortization and (ii) any other non-cash char ges deducted in determining such consolidated net income, less, but in each case
+only to the extent not already deducted in the computation of such consolidated net income, (A) to the extent included in such consolidated net income,
+amounts in respect of sales of assets outside the ordinary course of business, (B) all capital expenditures and amounts paid for spectrum made during
+such period, (C) payments made with respect to any Indebtedness during such period, and (D) other cash payments made, but not taken into account in
+determining the consolidated net income of the Company and its Subsidiaries for such period, all determined in accordance with the Applicable
+Accounting Principles, and using the line items set forth on Schedule 2.3(a)(I) of the Seller Disclosure Letter .
+ 
+6
+--- Page 11 ---
+“Free Cash Flow Adjustment Amount ” shall mean an amount equal to (i) the lesser of (A) the sum of (I) the product of the number of full
+calendar months elapsed from the date hereof through the Closing and $150,000,000.00, plus (II) the product of the number of days in any partial
+month between the date hereof and the day prior to the Closing, divided  by 30.5 (which amount may not be greater than 2), multiplied  by
+$150,000,000.00, reduced, but not below zero, by (III) the Spending Deficiency , and (B) the Free Cash Flow from the date hereof until the day prior to
+the Closing Date, reduced, but not below zero, by the Spending Deficiency , minus an amount equal to (ii) the excess, if any , of (A) the value of all cash
+and other distributions by the Company to Seller and its Subsidiaries from the date hereof until the Closing in respect of Free Cash Flow , over (B) all
+cash contributions by Seller or any of its Affiliates (other than the Company and its Subsidiaries) (other than any contributions that constitute
+Indebtedness) to the Company or any of its Subsidiaries, and provided that the amount in clause (ii)(A) shall not include any payments or distributions
+by the Company to Seller and its Subsidiaries from the date hereof until the Closing Date in respect of Intercompany Contracts or Indebtedness, in each
+case paid in accordance with prior practice and the terms disclosed to Purchaser prior to the date hereof.
+“Fundamental Purchaser Representations ” shall have the meaning set forth in Section 6.1(a).
+“Fundamental Seller Representations ” shall have the meaning set forth in Section 6.1(a).
+“GAAP ” shall mean U.S. generally accepted accounting principles.
+“Global ” shall have the meaning set forth in the Recitals.
+“Governmental Consents ” shall mean all notices, reports and other filings required to be made prior to the Closing by Seller or Purchaser
+or any of their respective Subsidiaries with, and all consents, registrations, approvals, permits, clearances and authorizations required to be obtained
+prior to the Closing by Seller or Purchaser or any of their respective Subsidiaries from, any Governmental Entity in connection with the execution and
+delivery of this Agreement and the consummation of the Transaction.
+“Governmental Entity ” shall have the meaning set forth in Section 3.2(d)(i).
+“Hazardous Substance ” shall mean any substance that is (i) listed, classified or regulated pursuant to any Environmental Law; (ii) any
+petroleum product or by-product, asbestos-containing material, lead-containing paint or plumbing, polychlorinated biphenyls, mold, radioactive
+material or radon; and (iii) any other substance which may be the subject of regulatory action by any Governmental Entity in connection with any
+Environmental Law .
+“Holding ” shall have the meaning set forth in the Recitals.
+“HSR Act” shall have the meaning set forth in Section 3.2(d)(i).
+ 
+7
+--- Page 12 ---
+“Indebtedness ” shall mean (i) all liabilities for borrowed money , whether current or funded, secured or unsecured, all obligations evidenced
+by bonds, debentures, notes or similar instruments, and all liabilities in respect of mandatorily redeemable or purchasable capital stock or securities
+convertible into capital stock; (ii) all liabilities for the principal amount of the deferred and unpaid purchase price of real property and equipment that
+have been delivered; (iii) all liabilities in respect of any lease of (or other arrangement conveying the right to use) real or personal property , or a
+combination thereof, which liabilities are required to be classified and accounted for under GAAP  as capital leases; (iv) all liabilities for the
+reimbursement of any obligor on any letter of credit, banker ’s acceptance or similar credit transaction securing obligations of a type described in
+clauses (i), (ii) or (iii) above to the extent of the obligation secured; and (v) all liabilities as guarantor of obligations of any other Person of a type
+described in clauses (i), (ii), (iii) or (iv) above, to the extent of the obligation guaranteed.
+“Indemnifying Party ” shall have the meaning set forth in Section 6.3(a).
+“Independent Accountant ” shall mean a certified public accountant satisfactory to Purchaser and Seller; provided , that if Purchaser and
+Seller do not appoint an Independent Accountant within 10 days after either Purchaser or Seller gives notice to the other of a request therefor , either of
+them may request the American Arbitration Association to appoint as the Independent Accountant a partner in the New York of fice of a nationally
+recognized independent registered public accounting firm based on its determination that the partner has had no material relationships with the parties
+or their respective Affiliates within the preceding two years and taking into account such firm’ s material relationships during the preceding two years
+with the parties and their respective Affiliates, and such appointment shall be final, binding and conclusive on Purchaser and Seller .
+“Insurance Policies ” shall have the meaning set forth in Section 3.2(j).
+“Intellectual Property ” shall mean all rights in intellectual property of any type throughout the world, including the following: (i) all
+trademarks, service marks, brand names, product names and slogans, certification marks, collective marks, d/b/a’ s, assumed names, Internet domain
+names, logos, symbols, trade dress, trade names and any and every other form of trade identity and other indicia of origin, all applications and
+registrations therefor and renewals thereof and all goodwill associated therewith and symbolized thereby (“ Trademarks ”); (ii) all inventions and
+discoveries, whether or not reduced to practice, patents, including utility patents and design patents, industrial designs and utility models, invention
+disclosures, all applications and registrations for the foregoing, including reissues, divisionals, continuations, continuations-in-part, supplementary
+protection certificates, extensions, reexaminations, renewals thereof, and any counterparts (foreign or otherwise) claiming priority therefrom which
+priority may be claimed, and all inventions disclosed therein and improvements thereto (“ Patents ”); (iii) proprietary and confidential information, trade
+secrets and know-how , including processes, schematics, business methods, formulae, drawings, research and development, prototypes, models, designs,
+customer lists and supplier lists, all other confidential or proprietary technical, business and other information and all rights in any jurisdiction to limit
+the use or disclosure thereof (“ Trade Secrets ”); (iv) published and unpublished works of authorship (including
+ 
+8
+--- Page 13 ---
+databases and other compilations of information, mask works and Software), the copyrights therein and thereto and all registrations and applications
+therefor and renewals, extensions, restorations and reversions thereof; and (v) all other intellectual property , industrial or similar proprietary rights
+recognized under any jurisdiction worldwide.
+“Intellectual Property Contracts ” shall have the meaning set forth in Section 3.2(o)(i)(K).
+“Intercompany Contracts ” shall mean all Company Contracts between the Company or one or more of its Subsidiaries, on the one hand,
+and Seller or one or more of its Subsidiaries (other than the Company and its Subsidiaries), on the other hand.
+“Intercompany Indebtedness ” shall mean any Indebtedness for borrowed money that immediately prior to the Closing would be owed by
+the Company or one of its Subsidiaries to Seller or one of its Subsidiaries (other than the Company and its Subsidiaries) or by Seller or one of its
+Subsidiaries (other than the Company and its Subsidiaries) to the Company or one of its Subsidiaries.
+“IRS” shall have the meaning set forth in Section 3.2(g)(ii).
+“IT Assets ” shall mean computers, Software, firmware, middleware, servers, workstations, routers, hubs, switches, data communications
+lines and all other information technology equipment, and all documentation associated therewith.
+“Knowledge of the Company ” shall mean the actual knowledge of the Persons listed on Schedule 1.1 of the Seller Disclosure Letter .
+“Laws ” shall have the meaning set forth in Section 3.2(h)(i).
+“Leased Real Property ” shall mean all real property leased or subleased by the Company and its Subsidiaries.
+“Liabilities ” means any and all debts, liabilities, commitments and obligations of any kind, whether fixed, contingent or absolute, matured
+or unmatured, liquidated or unliquidated, accrued or not accrued, asserted or not asserted, known or unknown, determined, determinable or otherwise,
+whenever or however arising (including, whether arising out of any contract or tort based on negligence or strict liability) and whether or not the same
+would be required by GAAP  to be reflected in financial statements or disclosed in the notes thereto.
+“Licensed Parties ” shall have the meaning set forth in Section 4.21.
+“Licenses ” shall have the meaning set forth in Section 3.2(h).
+“Market ” shall mean each of the counties in the United States as set forth on Annex C.
+ 
+9
+--- Page 14 ---
+“Market Divestiture ” shall mean the sale, transfer or other divestiture of assets, including Equity Interests, required by , or agreed to with,
+any Governmental Entity in connection with obtaining a Governmental Consent, which results in the sale, transfer or other disposition of Licenses for
+wireless spectrum, network assets, systems, customers and/or other assets in the Market or Markets that are the subject of the divestiture of a
+geographic area designation established by the FCC (e.g., BT A or CMA) in a manner that amounts to an ef fective exit of the Company from serving its
+wireless customers in such Market or Markets.
+“Market Divestiture Proceeds Percentage ” shall mean the percentage that (i) the Divestiture Adjustment Amount represents of (ii) the
+amount equal to the product of (A) 2.0 and (B) the Divestitures Amount.
+“Material Adverse Amount ” shall mean $7,800,000,000.00.
+“Material Contracts ” shall have the meaning set forth in Section 3.2(o)(i).
+“Material Licenses ” shall have the meaning set forth in Section 3.2(h).
+“MHz POPs ” with respect to any FCC License shall mean the number of megahertz of wireless spectrum covered by such FCC Licenses
+multiplied by the population in the geographic area covered by such FCC License, directly derived from the amounts set forth in Annex C.
+“Monthly Financial Statements ” shall have the meaning set forth in Section 4.2(a)(vi).
+“NYSE ” shall mean the New York Stock Exchange.
+“Order ” shall have the meaning set forth in Section 5.1(b).
+“Organizational Documents ” shall mean, with respect to any Person, such Person’ s articles or certificate of association, incorporation,
+formation or or ganization, by-laws, limited liability company agreement, partnership agreement or other constituent document or documents, each in
+its currently ef fective form as amended from time to time.
+“Owned Intellectual Property ” shall have the meaning set forth in Section 3.2(n)(i).
+“Owned Real Property ” shall mean all real property owned in fee by the Company and its Subsidiaries.
+“Patents ” shall have the meaning set forth in the definition of “Intellectual Property .”
+“Permitted Encumbrances ” shall mean (i) Encumbrances specifically reflected or specifically reserved against or otherwise specifically
+disclosed in the Financial Statements;
+ 
+10
+--- Page 15 ---
+(ii) mechanics’, materialmen’ s, warehousemen’ s, carriers’, workers’  or repairmen’ s liens or other common law or statutory Encumbrances arising or
+incurred in the ordinary course consistent with past practice and that are not material in amount or ef fect on the business of the Company and its
+Subsidiaries; (iii) liens for Taxes, assessments and other governmental char ges not yet due and payable or due but not delinquent or being contested in
+good faith by appropriate proceedings; (iv) with respect to real property , (A) easements, quasi-easements, licenses, covenants, rights-of-way , rights of
+re-entry or other similar restrictions, including any other agreements, conditions or restrictions that would be shown by a current title report or other
+similar report or listing, (B) any conditions that may be shown by a current survey or physical inspection, and (C) zoning, building, subdivision or other
+similar requirements or restrictions; and (v) Encumbrances that would not impair the conduct of the business of the Company and its Subsidiaries, or
+the use or value of the relevant asset.
+“Person ” shall mean any individual, corporation (including not-for -profit), general or limited partnership, limited liability company , joint
+venture, estate, trust, association, or ganization, Governmental Entity or other entity of any kind or nature.
+“Potential Sale Interest ” shall have the meaning set forth in Section 4.20.
+“Pre-Closing Period ” means any taxable period (or portions thereof) that, with respect to the Company or any of its Subsidiaries, ends on
+or before the Closing Date.
+“Pre-Closing Taxes” means any Taxes imposed on the Company or any of its Subsidiaries with respect to a Pre-Closing Period. In the case
+of any taxable period that, with respect to the Company or any of its Subsidiaries, includes but does not end on the Closing Date, (i) property Taxes of
+the Company and its Subsidiaries allocable to the Pre-Closing Period shall be equal to the amount of such property Taxes for the entire taxable period
+multiplied by a fraction, the numerator of which is the number of calendar days during the Pre-Closing Period and the denominator of which is the
+number of calendar days in the entire taxable period, and (ii) Taxes (other than property Taxes) of the Company and its Subsidiaries allocable to the
+Pre-Closing Period shall be computed as if such taxable period ended as of the end of the day on the Closing Date; provided , that exemptions,
+allowances or deductions that are calculated on an annual basis shall be allocated to the Pre-Closing Period in the same proportion as the number of
+calendar days during the Pre-Closing Period bears to the number of calendar days in the entire taxable period.
+“PUCs ” shall have the meaning set forth in Section 3.2(d)(i).
+“Purchase Price ” shall have the meaning set forth in Section 2.2(b).
+“Purchaser ” shall have the meaning set forth in the Preamble.
+“Purchaser Cap ” shall have the meaning set forth in this Section 6.4(b).
+“Purchaser Common Stock ” shall have the meaning set forth in Section 2.2(b).
+ 
+11
+--- Page 16 ---
+“Purchaser Disclosure Letter ” shall have the meaning set forth in Section 3.3.
+“Purchaser Indemnitees ” shall have the meaning set forth in Section 6.2(a).
+“Purchaser Material Adverse Ef fect” shall mean (i) an ef fect that would prevent or materially delay the ability of Purchaser to consummate
+the Transaction or (ii) a material adverse ef fect on the financial condition, properties, assets, liabilities, business or results of operations of Purchaser
+and its Subsidiaries, taken as a whole, excluding any such ef fect to the extent resulting from (A) changes or conditions (including political or legal
+conditions) generally af fecting (x) the United States or global economy or financial, debt, credit or securities markets or (y) any industry in which
+Purchaser or its Subsidiaries operate; (B) declared or undeclared acts of war , terrorism, outbreaks or escalations of hostilities, sabotage or civil strife;
+(C) weather -related conditions; (D) any change in GAAP  or applicable Laws or regulatory or enforcement developments except to the extent such
+change disproportionately af fects Purchaser relative to other companies in the U.S. mobile wireless voice and data industry; (E) the failure by
+Purchaser to meet any estimates of revenues or earnings for any period ending on or after the date hereof; provided , that the exception in this clause (E)
+shall not prevent or otherwise af fect a determination that any change, ef fect, circumstance or development underlying such decline has resulted in or
+contributed to a Purchaser Material Adverse Ef fect; or (F) a decline in the price of Purchaser Common Stock on the NYSE; provided , that the
+exception in this clause (F) shall not prevent or otherwise af fect a determination that any change, ef fect, circumstance or development underlying such
+decline has resulted in or contributed to a Purchaser Material Adverse Ef fect. Any determination of “Purchaser Material Adverse Ef fect” shall exclude
+the ef fects of (i) the matters disclosed in the Purchaser Disclosure Letter or the Purchaser SEC Reports and (ii) the ef fects of any restrictions,
+limitations or conditions that by the terms of this Agreement are taken into account in determining the existence of a Regulatory Material Adverse
+Condition.
+“Purchaser Preferred Stock ” shall have the meaning set forth in Section 3.3(b)(i).
+“Purchaser SEC Reports ” shall mean such reports, schedules, forms, statements and other documents required to be filed by Purchaser
+under the Exchange Act or any successor statute, and the rules and regulations promulgated thereunder , including pursuant to Section 13(a) or 15(d)
+thereof, since January 1, 2009 (including the exhibits thereto and documents incorporated by reference therein).
+“Purchaser Shares ” shall have the meaning set forth in Section 2.2(b).
+“Purchaser Welfare Plan ” shall have the meaning set forth in Section 4.14(b).
+“Registered ” means issued by , registered with, renewed by , or the subject of, a pending application before any Governmental Entity or
+Internet domain name registrar .
+“Regulatory Material Adverse Condition ” shall have the meaning set forth in Section 4.6(b).
+ 
+12
+--- Page 17 ---
+“Required Governmental Consents ” shall have the meaning set forth in Section 5.2(c).
+“Resolution Period ” shall have the meaning set forth in Section 2.3(d).
+“Sarbanes-Oxley Act” shall mean the Sarbanes-Oxley Act of 2002.
+“SEC” shall mean the United States Securities and Exchange Commission.
+“Second Tier Divested Spectrum Amount ” shall mean, for each Spectrum Divestiture, (i) if the total number of MHz POPs to be divested
+in all Spectrum Divestitures is less than or equal to 2.5 billion, $0, or (ii) if the total number of MHz POPs to be divested in all Spectrum Divestitures is
+greater than 2.5 billion, an amount equal to the product of (A) the number of MHz POPs to be divested in such Spectrum Divestiture, (B) the
+corresponding dollar value per MHz POP  for the applicable CMA  of the divested MHz POPs as set forth in Column 3 of Annex B, and (C) an amount
+equal to (x) 1.0 minus  (y) the First Tier Divestiture Ratio.
+“Securities Act” shall mean the Securities Act of 1933, as amended.
+“Seller ” shall have the meaning set forth in the Preamble.
+“Seller Cap ” shall have the meaning set forth in Section 6.4(a)(i).
+“Seller Disclosure Letter ” shall have the meaning set forth in Section 3.2.
+“Seller Indemnitees ” shall have the meaning set forth in Section 6.2(b).
+“Software ” shall mean computer software, programs and databases in any form, including Internet web sites, web site content, member or
+user lists and information associated therewith, links, source code, object code, binary code, operating systems and specifications, data, databases,
+database management code, libraries, scripts, utilities, graphical user interfaces, menus, images, icons, forms, methods of processing, software engines,
+platforms and data formats, all versions, updates, corrections, enhancements, and modifications thereto, and all related documentation, developer notes,
+comments and annotations.
+“Specified Deductible ” shall have the meaning set forth in Section 6.4(a)(iii).
+“Spectrum Divestiture ” shall mean the sale, transfer or other divestiture of FCC Licenses for wireless spectrum required by , or agreed to
+with, any Governmental Entity in connection with obtaining a Governmental Consent, but shall not include any FCC Licenses included in any Market
+Divestiture (or in any Market that is subject to a Market Divestiture).
+“Spectrum Divestiture Proceeds Percentage ” shall mean the percentage equal to the product of (i) the Market Divestiture Proceeds
+Percentage (expressed as a decimal) and (ii) an amount equal to (A) 1.0 minus  (B) the First Tier Divestiture Ratio.
+ 
+13
+--- Page 18 ---
+“Spending Deficiency ” shall mean an amount equal to the sum of (i) an amount (if positive) equal to (A) the product of the number of full
+months elapsed from the date hereof through the Closing and $215,000,000.00, plus (B) the product of the number of days in any partial month
+between the date hereof and the day prior to the Closing, divided  by 30.5 (which amount may not be greater than 2), multiplied  by $215,000,000.00,
+minus  (C) the amount of capital expenditures made by the Company and its Subsidiaries in the period between the date hereof and the Closing, plus
+(ii) an amount (if positive) equal to (A) the product of the number of full months elapsed from the date hereof through the Closing and
+$460,000,000.00, plus (B) the product of the number of days in any partial month between the date hereof and the day prior to the Closing, divided  by
+30.5 (which amount may not be greater than 2), multiplied  by $460,000,000.00, minus  (C) the amount of expenditures made by the Company and its
+Subsidiaries on marketing and customer care activities in the period between the date hereof and the Closing.
+“State Licenses ” shall have the meaning set forth in Section 3.2(h)(ii).
+“Stockholder ’s Agreement ” shall have the meaning set forth in the Recitals.
+“Subscriber ” shall mean a mobile telephone number maintained by the Company or any of its Subsidiaries and assigned to an end user of
+the Company’ s and its Subsidiaries’  mobile wireless voice or data services that is paying the Company or any of its Subsidiaries for such service.
+“Subscriber List ” shall have the meaning set forth in Section 4.31(a).
+“Subscriber List Dispute Notice ” shall have the meaning set forth in Section 4.31(b).
+“Subsidiary ” shall mean, with respect to any Person, any entity , whether incorporated or unincorporated, of which (i) voting power to elect
+a majority of the board of directors or others performing similar functions with respect to such other Person is held by the first mentioned Person and/or
+by any one or more of its Subsidiaries or (ii) at least 50% of the Equity Interests of such other Person is, directly or indirectly , owned or Controlled by
+such first mentioned Person and/or by any one or more of its Subsidiaries; provided , that for purposes of this Agreement, Cook Inlet/VS GSM VII PCS
+Holdings, LLC shall be deemed to be a Subsidiary of the Company .
+“Tax” (including, with correlative meaning, the terms “ Taxes” and “ Taxable ”) shall mean all U.S. federal, state and local and non-U.S.
+income, profits, franchise, gross receipts, environmental, customs duty , capital stock, severances, stamp, payroll, sales, employment, unemployment,
+disability , use, property , withholding, excise, production, value added, occupancy and other taxes, duties or assessments of any nature whatsoever ,
+together with all interest, penalties and additions imposed with respect to such amounts and any interest in respect of such penalties and additions.
+ 
+14
+--- Page 19 ---
+“Taxing Authority ” means a Governmental Entity or any subdivision, agency , commission or authority thereof or any quasi-governmental
+or private body having jurisdiction over the assessment, determination, collection or imposition of any Tax (including the IRS).
+“Tax Return ” shall mean all returns and reports (including elections, declarations, disclosures, schedules, estimates, and information
+returns) required to be supplied to a Taxing Authority relating to Taxes.
+“Termination Date ” shall have the meaning set forth in Section 7.2.
+“Termination Transfer ” shall have the meaning set forth in Section 7.5(b).
+“Third-Party Claim ” shall have the meaning set forth in Section 6.3(a).
+“Third-Party Claim Notice ” shall have the meaning set forth in Section 6.3(a).
+“Threshold ” shall have the meaning set forth in Section 6.4(a).
+“Trade Secret ” shall have the meaning set forth in the definition of “Intellectual Property .”
+“Trademarks ” shall have the meaning set forth in the definition of “Intellectual Property .”
+“Transaction ” shall have the meaning set forth in Section 2.1.
+“Transfer Taxes” shall mean any and all transfer Taxes (excluding Taxes measured in whole or in part by net income or gain), including
+sales, use, excise, stock, stamp, documentary , filing, real estate transfer , recording, permit, license, authorization and similar Taxes.
+“Transition Period ” shall have the meaning set forth in Section 4.21.
+“Unresolved Items ” shall have the meaning set forth in Section 2.3(e).
+1.2. Other Definitional Provisions . Unless the express context otherwise requires:
+(a) the words “hereof”, “herein”, and “hereunder” and words of similar import, when used in this Agreement, shall refer to this Agreement
+as a whole and not to any particular provision of this Agreement;
+(b) the terms defined in the singular have a comparable meaning when used in the plural, and vice versa;
+(c) any references herein to “Dollars” and “$” are to United States Dollars;
+ 
+15
+--- Page 20 ---
+(d) any references herein to a specific Section, Schedule, Annex or Exhibit shall refer , respectively , to Sections, Schedules, Annexes or
+Exhibits of this Agreement;
+(e) wherever the word “include,” “includes,” or “including” is used in this Agreement, it shall be deemed to be followed by the words
+“without limitation”; and
+(f) references herein to any gender includes each other gender .
+ARTICLE II
+Purchase and Sale; Closing
+2.1. Purchase and Sale . Upon the terms and subject to the conditions set forth in this Agreement, at the Closing, Seller will cause Holding to sell,
+convey , assign, transfer and deliver to Purchaser , free and clear of all Encumbrances, and Purchaser will purchase, acquire and accept from Holding, all
+of Holding’ s right, title and interest in and to the Company Shares (including, for the avoidance of doubt, the payment of the Cash Consideration and
+issuance of the Purchaser Shares to Seller , the “ Transaction ”).
+2.2. Payment at Closing . Upon the terms and subject to the conditions set forth in this Agreement, at the Closing, Purchaser shall:
+(a) pay to Seller an amount in cash equal to $25,000,000,000.00 (the “ Cash Consideration ”);
+(b) issue and deliver to Seller a number of shares of Purchaser ’s Common Stock, par value $1.00 per share (the “ Purchaser Common
+Stock ”), which may be represented by one or more certificates or may be uncertificated, at Purchaser ’s election, equal to the quotient obtained by
+dividing (i) $14,000,000,000.00, plus (A) an amount (positive or negative) equal to the Estimated Closing Free Cash Flow Adjustment Amount, minus
+(B) the Estimated Closing Dischar ged Indebtedness, minus  (C) the Estimated Divestiture Adjustment Amount, by (ii) the Average Adjusted Closing
+Price (the “ Purchaser Shares ,” and, together with the Cash Consideration, the “ Purchase Price ”); provided , that in the event of any dividend or
+distribution (other than Purchaser ’s customary cash dividend permitted by Section 4.17(a)), stock split, reverse stock split, stock dividend,
+reorganization, reclassification, mer ger, combination, recapitalization, or other like change with respect to or af fecting shares of Purchaser Common
+Stock (or in respect of which a record date or ef fective date, as applicable, has been declared and passed), and including any stock repurchase or
+redemption ef fected on a substantially pro rata basis or in which the majority of Purchaser ’s stockholders participate, prior to the Closing which af fects
+the number of shares of Purchaser Common Stock Seller should equitably receive, such number of Purchaser Shares shall be equitably adjusted to the
+extent necessary to provide the parties the same economic ef fect as contemplated by this Agreement prior to such transaction or declaration; and
+provided , further , that any payment hereunder to be made in the form of shares of Purchaser Common Stock shall be made only in whole shares, and
+any fractional shares shall be rounded up to the nearest whole share.
+ 
+16
+--- Page 21 ---
+(c) At least 15 Business Days prior to the Closing, Purchaser may elect, by delivery of written notice to Purchaser , to increase the Cash
+Consideration by up to $4,200,000,000.00 and decrease the number of Purchaser Shares (a “ Cash Election ”). If Purchaser makes a Cash Election, the
+number of Purchaser Shares shall be decreased by an amount equal to the quotient obtained by dividing (i) the additional cash being paid as Cash
+Consideration by (ii) the Average Trading Price; provided , that in no event shall the Cash Election result in a number of Purchaser Shares being issued
+in the Transaction being less than 5% of the issued and outstanding shares of Purchaser Common Stock as of the Closing (after giving ef fect to the
+shares of Purchaser Common Stock issued in the Transaction).
+2.3. Purchase Price Adjustment .
+(a) Statement of Adjustment .
+(i) At least four Business Days prior to the expected Closing Date (and in any event not more than 10 Business Days prior to the
+actual Closing Date), Seller shall prepare and deliver to Purchaser a statement (the “ Estimated Seller Closing Statement ”) consisting of a
+calculation in reasonable detail of the estimated Free Cash Flow Adjustment Amount (the “ Estimated Closing Free Cash Flow Adjustment
+Amount ”) and the estimated amount as of the Closing of Indebtedness of the Company and its Subsidiaries of a type included in the line items set
+forth on Schedule 2.3(a)(II) of the Seller Disclosure Letter (such Indebtedness as of the Closing Date, the “ Closing Dischar ged Indebtedness ,”
+and such estimated Closing Dischar ged Indebtedness, the “ Estimated Closing Dischar ged Indebtedness ”). The Estimated Seller Closing
+Statement shall be prepared in good faith and in accordance with the accounting principles, practices and methodologies used in the Financial
+Statements (the “ Applicable Accounting Principles ”) and using the line items set forth on Schedule 2.3(a)(I) and (II) of the Seller Disclosure
+Letter . Purchaser shall have the right to object to the amounts contained in the Estimated Seller Closing Statement within two Business Days
+after the delivery of the Estimated Seller Closing Statement to Purchaser . Seller shall in good faith consider the objections, if any , of Purchaser to
+the Estimated Seller Closing Statement and, if Purchaser has made any objections, will re-issue an Estimated Seller Closing Statement containing
+th

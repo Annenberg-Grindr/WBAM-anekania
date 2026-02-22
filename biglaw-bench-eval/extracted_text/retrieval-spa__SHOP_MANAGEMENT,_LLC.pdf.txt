@@ -1,0 +1,542 @@
+--- Page 1 ---
+EX-2.3 2 nt10026806x3_ex2-3.htm EXHIBIT 2.3
+EXHIBIT 2.3
+[NOTE: Schedules and exhibits to this agreement omitted pursuant to Regulation S-K Item 601(b)(2). The Registrant agrees to furnish
+supplementally a copy of any omitted schedule or exhibit to the SEC upon request.]
+STOCK PURCHASE AGREEMENT
+by and among
+SHOP MANAGEMENT, LLC,
+TABOOLA, INC.
+AND, SOLELY FOR THE LIMITED PURPOSES OF SECTIONS 2.02(b), 7.01, 8.01, 10.02, and 12.21
+TABOOLA.COM LTD.
+July 22, 2021
+--- Page 2 ---
+Table of Contents
+Page
+ARTICLE I PURCHASE AND SALE OF SOLD SHARES 1
+1.01      The Purchase and Sale of Sold Shares 1
+1.02 Closing Calculations 1
+1.03 Final Closing Balance Sheet Calculation 2
+1.04 Post-Closing Adjustment Payment 3
+1.05 Escrow Account 3
+1.06 Withholding 4
+  
+ARTICLE II THE CLOSING 4
+2.01 The Closing 4
+2.02 The Closing Transactions 4
+2.03 Payments of Equity Consideration to Equityholders. 5
+  
+ARTICLE III REPRESENTATIONS AND WARRANTIES OF SELLER 5
+3.01 Organization and Power 5
+3.02 Subsidiaries 6
+3.03 Authorization; No Breach; Valid and Binding Agreement 6
+3.04 Capitalization 7
+3.05 Accredited Investor. 7
+3.06 Financial Statements 8
+3.07 Absence of Certain Developments; Undisclosed Liabilities 9
+3.08 Real Property 9
+3.09 Tax Matters 10
+3.10 Contracts and Commitments 12
+3.11 Intellectual Property 13
+3.12 Litigation 15
+3.13 Governmental Consents, etc 15
+3.14 Employee Benefit Plans 15
+3.15 Insurance 17
+3.16 Compliance with Laws 17
+3.17 Environmental Matters 17
+3.18 Affiliated Transactions 17
+3.19 Employees 18
+3.20 Brokerage 19
+3.21 Customers, Suppliers, Affiliated Networks and Publishers. 19
+3.22 Anti-Corruption, Anti-Bribery Laws, Sanctions and Export Controls. 19
+3.23 Ultimate Parent. 20
+3.24 No Other Representations or Warranties 20
+i
+--- Page 3 ---
+Table of Contents
+(contined)
+Page
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF BUYER 21
+4.01      Organization and Power 21
+4.02 Authorization 21
+4.03 No Violation 21
+4.04 Governmental Consents, etc 21
+4.05 Litigation 21
+4.06 Brokerage 21
+4.07 SEC Reports and Financial Statements 22
+4.08 Equity Consideration 23
+4.09 Buyer Financial Resources 23
+4.10 Solvency 24
+4.11 Buyer Entity 24
+4.12 No Other Representations 24
+  
+ARTICLE V COVENANTS OF SELLER 24
+5.01 Conduct of the Business 24
+5.02 Access to Books and Records 26
+5.03 Efforts to Consummate 26
+5.04 Exclusive Dealing 27
+5.05 Payoff Letters and Lien Releases 27
+5.06 Notification 27
+5.07 280G 27
+5.08 Financing Cooperation. 28
+5.09 Trademark Phase-out 29
+5.10 Transfer of Shares. 29
+5.11 Directors and Officers 30
+5.12 Financial Statements 30
+  
+ARTICLE VI COVENANTS OF BUYER 31
+6.01 Access to Books and Records 31
+6.02 Notification 31
+6.03 Indemnification of Officers and Directors of Group Companies 31
+6.04 Efforts to Consummate 32
+6.05 Employee Matters 33
+6.06 R&W Policy 33
+6.07 Financing 34
+  
+ARTICLE VII CONDITIONS TO CLOSING 34
+7.01 Conditions to Parent’s and Buyer’s Obligations 34
+7.02 Conditions to Seller’s Obligations 35
+  
+ARTICLE VIII SURVIVAL 36
+8.01 Survival 36
+  
+ARTICLE IX TERMINATION 37
+9.01 Termination 37
+9.02 Effect of Termination 38
+ii
+--- Page 4 ---
+Table of Contents
+(contined)
+Page
+ARTICLE X ADDITIONAL COVENANTS 39
+10.01     Disclosure Schedules 39
+10.02Regulatory Approvals 39
+10.03Tax Matters. 41
+  
+ARTICLE XI DEFINITIONS 42
+11.01Definitions 42
+11.02Other Interpretive Provisions 55
+  
+ARTICLE XII MISCELLANEOUS 55
+12.01Press Releases and Communications 55
+12.02Expenses 55
+12.03Notices 56
+12.04Assignment 57
+12.05Severability 57
+12.06References 57
+12.07Construction 57
+12.08Amendment and Waiver 57
+12.09Complete Agreement 57
+12.10Third Party Beneficiaries 58
+12.11Waiver of Trial by Jury 58
+12.12Buyer Deliveries 58
+12.13Delivery by Facsimile or Email 58
+12.14Counterparts 58
+12.15Governing Law 58
+12.16Jurisdiction 58
+12.17No Recourse 59
+12.18Specific Performance 59
+12.19Provisions Respecting Legal Representation 59
+12.20Debt Financing Sources Provisions 60
+12.21Guarantee 60
+iii
+--- Page 5 ---
+INDEX OF EXHIBITS
+Exhibit A Reference Statement
+Exhibit B Form of Accredited Investor Questionnaire
+Exhibit C Form of Lock-Up Agreement
+Exhibit D Form of Seller Registration Rights Agreement
+iv
+--- Page 6 ---
+STOCK PURCHASE AGREEMENT
+THIS STOCK PURCHASE AGREEMENT (this “Agreement”), dated as of July 22, 2021, is made by and among Shop Management,
+LLC, a Delaware limited liability company (“Seller”), Taboola, Inc., a Delaware corporation (“Buyer”), and, solely for the limited purposes of
+Sections 2.02(b), 7.01, 8.01, 10.02 and 12.21, Taboola.com Ltd., a company organized under the laws of the State of Israel (“Parent”).  Seller and
+Buyer shall be referred to herein from time to time as a “Party” and collectively as the “Parties.” Capitalized terms used and not otherwise defined
+herein have the meanings set forth in Article XI below.
+WHEREAS, Seller directly owns all of the issued and outstanding shares of capital stock designated on Schedule 3.04 (the “Sold Shares”)
+of Shop Holding Corporation, a Delaware corporation (the “Sold Company”);
+WHEREAS, concurrently with the execution and delivery of this Agreement, and as a condition to the willingness of Parent and Buyer to
+enter into this Agreement, Parent and certain direct and indirect holders of equity securities of Seller are entering into a Holdback, Contribution and
+Exchange Agreement (each, a “Holdback Agreement”);
+WHEREAS, concurrently with the execution and delivery of this Agreement, and as a condition to the willingness of Parent and Buyer to
+enter into this Agreement, Symphony Technology Group, LLC, STG III, L.P. and STG III-A, L.P. and Parent are entering into a Support Agreement
+(the “Support Agreement”) agreeing to certain matters with respect to the transactions contemplated by this Agreement; and
+WHEREAS, Seller desires to sell, and Buyer desires to purchase, the Sold Shares, on the terms and subject to the limitations and
+conditions set forth in this Agreement.
+NOW, THEREFORE, in consideration of the mutual covenants contained herein and other good and valuable consideration, the receipt
+and sufficiency of which are hereby acknowledged, the Parties agree as follows:
+ARTICLE I
+PURCHASE AND SALE OF SOLD SHARES
+1.01 The Purchase and Sale of Sold Shares. Subject to the terms and conditions set forth in this Agreement, on the Closing Date, Seller
+will sell, assign and transfer to Buyer, and Buyer will purchase and acquire, all of Seller’s right, title and interest in and to the Sold Shares, free and
+clear of all Liens other than (i) generally applicable transfer restrictions imposed by federal and state or foreign securities Laws and (ii) Liens that
+may be created by or on behalf of Buyer or any of its Affiliates.
+1.02 Closing Calculations. Not less than three (3) Business Days prior to the anticipated Closing Date, Seller shall deliver to Buyer (x)
+a statement setting forth (a) an estimated consolidated balance sheet of the Group Companies as of the Reference Time, (b) a good faith calculation
+of Seller’s estimate of Cash (the “Estimated Cash”), Indebtedness (the “Estimated Indebtedness”), Net Working Capital (the “Estimated Net
+Working Capital”) and Transaction Expenses (“Estimated Transaction Expenses”), in each case, together with reasonable supporting
+documentation, and (c) the Estimated Consideration, the Holdback Equity (including a person-by-person breakdown), the Holdback Cash Amount
+(including a person-by-person breakdown) and the Closing Cash Payment (the “Estimated Closing Statement”) and (y) the Allocation Schedule. 
+The Estimated Closing Statement and the determinations contained therein shall be prepared in accordance with this Agreement.  Seller shall
+consider in good faith Buyer’s comments to the Estimated Closing Statement and Allocation Schedule and shall revise such statement or schedule,
+as applicable, if, based on its good faith assessment of Buyer’s comments, Seller determines such changes are warranted.
+--- Page 7 ---
+1.03 Final Closing Balance Sheet Calculation. As promptly as possible, but in any event within sixty (60) days after the Closing Date,
+Buyer shall deliver to Seller (a) a consolidated balance sheet of the Group Companies as of the Reference Time (the “Closing Balance Sheet”) and
+(b) a statement showing Buyer’s good faith calculation of Cash, Indebtedness, Net Working Capital and Transaction Expenses (the “Closing
+Statement”).  The Closing Balance Sheet shall be prepared, and Cash, Indebtedness, Net Working Capital and Transaction Expenses shall be
+determined, in accordance with this Agreement and the Reference Statement.  The Parties agree that the purpose of preparing the Closing Balance
+Sheet and determining Cash, Indebtedness, Net Working Capital and Transaction Expenses and the related purchase price adjustment contemplated
+by this Section 1.03 is to measure the amount of Cash, Indebtedness, Net Working Capital and Transaction Expenses, and, in the case of Net
+Working Capital, such processes are not intended to permit the introduction of different accounting methods, policies, principles, practices,
+procedures, classifications or estimation methodologies for the purpose of determining Net Working Capital than the Accounting Principles.  The
+calculations of Cash, Indebtedness and Net Working Capital in the Closing Statement will entirely disregard (i) any purchase accounting or other
+adjustments arising as a result of the transactions contemplated hereby or any financing or refinancing arrangements entered into at any time by
+Buyer or its Affiliates or any other transaction entered into by Buyer or its Affiliates in connection with the consummation of the transactions
+contemplated hereby, and (ii) any of the plans, transactions, fundings, payments or changes that Buyer or its Affiliates initiates or makes or causes
+to be initiated or made at or after the Closing with respect to the Group Companies or their respective businesses or assets.  After delivery of the
+Closing Statement until the Final Consideration is determined, Seller and its accountants and other representatives shall be permitted reasonable
+access at reasonable times and upon reasonable notice to review the Group Companies’ books and records and any work papers related to the
+preparation of the Closing Statement.  Seller and its accountants and other representatives may make inquiries of Buyer, the Group Companies and
+their respective accountants and employees involved in the preparation of the Closing Statement regarding questions concerning or disagreements
+with the Closing Statement arising in the course of their review thereof, and Buyer shall use, and shall cause the Group Companies to use,
+commercially reasonable efforts to cause any such accountants and employees to cooperate with and respond to such inquiries.  If Seller has any
+objections to the Closing Statement, Seller shall deliver to Buyer a statement setting forth, in reasonable detail, its objections thereto within thirty
+(30) days of receipt by Seller of the Closing Statement (an “Objections Statement”).  If an Objections Statement is not validly delivered by Seller to
+Buyer within such thirty (30) day period, then the amounts in the Closing Statement shall be final and binding on and non-appealable by the
+Parties.  Seller and Buyer shall negotiate in good faith to resolve any such objections, but if they do not reach a final resolution within fifteen (15)
+days after the delivery of the Objections Statement, Seller and Buyer shall submit such dispute to the New York, NY office of Deloitte Touche
+Tohmatsu Limited, or if they are not independent pursuant to the rules and regulations of the U.S. Securities and Exchange Commission (the
+“SEC”) at the time, another nationally recognized independent accounting firm reasonably acceptable to Buyer and Seller (the “Dispute Resolution
+Arbiter”).  Any further submissions to the Dispute Resolution Arbiter must be written and delivered to each party to the dispute.  The Dispute
+Resolution Arbiter shall consider only those items and amounts that are identified in the Objections Statement as being items that Seller and Buyer
+are unable to resolve.  The Dispute Resolution Arbiter’s determination shall be based solely on the definitions of Cash, Indebtedness, Net Working
+Capital and Transaction Expenses contained herein and the provisions of this Agreement, including this Section 1.03.  Seller and Buyer shall use
+their commercially reasonable efforts to cause the Dispute Resolution Arbiter to resolve all disagreements as soon as practicable in amounts
+between the disputed amounts set forth in the Closing Statement and the Objections Statement.  Further, the Dispute Resolution Arbiter’s
+determination shall be based solely on the presentations by Buyer and Seller that are in accordance with the terms and procedures set forth in this
+Agreement (i.e., not on the basis of an independent review).  The resolution of the dispute by the Dispute Resolution Arbiter shall be final and
+binding on and non-appealable by the Parties.  The costs and expenses of the Dispute Resolution Arbiter pursuant to this Section 1.03 shall be
+allocated by the Dispute Resolution Arbiter between Buyer, on the one hand, and Seller, on the other hand, based upon the percentage that the
+portion of the contested amount not awarded to each Party bears to the amount actually contested by such Party.  For example, if Seller claims Final
+Consideration is $1,000 greater than the amount determined by Buyer and if the Dispute Resolution Arbiter ultimately resolves the dispute by
+awarding Seller $600 of the $1,000 contested, then the costs and expenses of arbitration shall be allocated sixty percent (60%) (i.e., 600 ÷ 1,000) to
+Buyer and forty percent (40%) (i.e., 400 ÷ 1,000) to Seller.
+2
+--- Page 8 ---
+1.04 Post-Closing Adjustment Payment.
+(a) If the Final Consideration is greater than the Estimated Consideration, Buyer shall promptly (but in any event within two
+(2) Business Days) after the final determination of the Final Consideration pursuant to Section 1.03 pay to Seller the amount of such difference by
+wire transfer of immediately available funds to an account or accounts designated in writing by Seller to Buyer.
+(b) If the Final Consideration is less than the Estimated Consideration, Buyer and Seller shall promptly (but in any event
+within two (2) Business Days) after the final determination of the Final Consideration pursuant to Section 1.03 deliver a joint written instruction to
+the Escrow Agent to pay to Buyer the absolute value of such difference by wire transfer of immediately available funds from the Escrow Account to
+one (1) or more accounts designated by Buyer to Seller and the Escrow Agent.  Seller shall not have any Liability for any amounts due pursuant to
+this Section 1.04(b) except to the extent of the funds available in the Escrow Account.
+(c) If Buyer fails to timely deliver the Closing Statement in accordance with Section 1.03, then, at the election of Seller in
+its sole discretion, either (i) the Final Consideration shall be deemed to equal the Estimated Consideration or (ii) Seller shall retain (at the expense
+of Buyer) the Dispute Resolution Arbiter to provide an audit or other review of the Group Companies’ books, review the calculation of the
+Estimated Consideration and make any adjustments necessary thereto, consistent with the provisions of Section 1.03, following which the
+Estimated Consideration, as adjusted, shall be deemed to be the Final Consideration hereunder (the determination of such Dispute Resolution
+Arbiter being conclusive and binding on the Parties).
+(d) Exhibit A sets forth an illustrative statement (the “Reference Statement”) prepared in good faith by Seller in cooperation
+with Buyer setting forth the various line items used (or to be used) in, and illustrating as of the date set forth therein, the calculation of Cash,
+Indebtedness and Net Working Capital (and a reconciliation to GAAP of the various line items used in the Audited Balance Sheet).
+1.05 Escrow Account. At the Closing, pursuant to Section 2.02(a), Buyer shall deposit $10,000,000 (such amount the “Escrow
+Amount”) in immediately available funds into an escrow account (the “Escrow Account”) to be established and maintained by the Escrow Agent
+pursuant to the terms and conditions of an escrow agreement in a customary form mutually agreed upon by Buyer and Seller in good faith and
+acceptable to the Escrow Agent, to be entered into on the Closing Date by Buyer, Seller and the Escrow Agent (the “Escrow Agreement”).  The
+Escrow Amount shall serve as a security for, and the sole source of payment of, Buyer’s rights pursuant to Section 1.04, if any.  Promptly following
+the determination of the Final Consideration, and the making of all payments due pursuant to Section 1.04, if any, if there are any amounts
+remaining in the Escrow Account (the “Remaining Escrow Amount”), then Buyer and Seller shall deliver a joint written instruction to the Escrow
+Agent to pay to Seller the Remaining Escrow Amount by wire transfer of immediately available funds to an account or accounts designated in
+writing by Seller.
+3
+--- Page 9 ---
+1.06 Withholding.  Notwithstanding any other provision of this Agreement, Buyer, its Affiliates and the Group Companies shall be
+entitled to deduct and withhold from any amount otherwise payable to any Person pursuant to this Agreement such amounts as it is required to
+deduct and withhold with respect to the making of such payment under any provision of applicable Law, provided, however, that if any of Buyer, its
+Affiliates, Seller or the Group Companies reasonably determines that any such deduction or withholding is required (other than in respect of
+“wages” or other payments treated as compensation for services, backup withholding or pursuant to Section 1445 of the Code), (x) in the event
+such Person is Buyer or its Affiliates (including, following the Closing, the Group Companies), Buyer shall use commercially reasonable efforts to
+provide Seller, and (y) in the event such Person is Seller or, prior to the Closing, the Group Companies, Seller shall use commercially reasonable
+efforts to provide Buyer, in each case, with prompt written notice of such intended withholding, and the applicable payor shall use commercially
+reasonable efforts to assist the applicable payee to reduce or eliminate such withholding; provided, further, that no deduction or withholding shall
+be permitted with respect to payments made to Seller under this Agreement if Seller delivers the IRS Form W-9 described in Section 7.01(e)(v)
+except to the extent that such withholding is required by a change in Law following the date of this Agreement; provided, further, that any
+payments in respect of the Shop Holding Issuance (as defined in the Disclosure Schedules) and the Seller Issuance (as defined in the Disclosure
+Schedules) shall, notwithstanding the foregoing, be paid by Seller to the applicable Group Company and run through the Group Company’s payroll
+procedures and may be subject to withholding. Amounts so withheld and paid over to the appropriate Governmental Entity shall be treated for all
+purposes of this Agreement as having been paid to the applicable Person in respect of which such deduction and withholding was made.
+ARTICLE II
+THE CLOSING
+2.01 The Closing. The closing of the transactions contemplated by this Agreement (the “Closing”) shall take place at the offices of
+Paul Hastings LLP located at 101 California Street, San Francisco, California 94111, or remotely by the exchange of documents and signatures (or
+their electronic counterparts), at 8:00 a.m. local time on the second Business Day following satisfaction or due waiver of all of the closing
+conditions set forth in Article VII hereof (other than those to be satisfied at the Closing itself, but subject to the satisfaction or waiver of such
+conditions) or on such other date and/or time as is mutually agreeable to Buyer and Seller or (ii) such other date as Buyer and Seller may mutually
+agree in writing; provided that, notwithstanding anything in this Agreement to the contrary, unless Buyer otherwise consents in writing, the Closing
+shall not occur prior to August 30, 2021.  The date and time of the Closing are referred to herein as the “Closing Date.”
+2.02 The Closing Transactions. Subject to the terms and conditions set forth in this Agreement, the Parties and Parent shall
+consummate the following transactions at the Closing:
+(a) (i) if the Sold Shares are certificated, Seller shall deliver stock certificates (or local legal equivalent) evidencing the Sold
+Shares to be sold by Seller duly endorsed in blank, or accompanied by stock powers duly executed in blank, and (ii) if the Sold Shares are not
+certificated, stock powers duly executed in blank with respect to the Sold Shares;
+(b) Parent shall provide, on behalf of Buyer, evidence of the issuance of the Equity Consideration in book-entry form to
+Seller;
+(c) Buyer shall deposit the Escrow Amount into the Escrow Account in accordance with the Escrow Agreement;
+4
+--- Page 10 ---
+(d) Buyer shall repay, or cause to be repaid, on behalf of the Group Companies, all amounts necessary to discharge fully the
+then outstanding balance of all Indebtedness under the Credit Agreements as set forth in the Payoff Letters, by wire transfer of immediately
+available funds to the account(s) designated by the holders of such Indebtedness in the applicable Payoff Letters;
+(e) each of Buyer and Seller shall make such other deliveries as are required by Article VII hereof;
+(f) Buyer shall pay, or cause to be paid, on behalf of the Group Companies, the Transaction Expenses set forth in the
+Estimated Closing Statement, by wire transfer of immediately available funds as directed by Seller at least three (3) Business Days prior to the
+anticipated Closing Date; and
+(g) Buyer shall pay the Closing Cash Payment to the account(s) designated by Seller.
+2.03 Payments of Equity Consideration to Equityholders.
+(a) Following receipt by Seller of the Equity Consideration pursuant to Section 2.02(b), Seller shall not distribute such
+Parent Ordinary Shares prior to the Final Tranche Sell Down Date, except to an Equityholder that is a Qualified Investor.
+(b) Notwithstanding anything to the contrary in this Agreement or in any other Transaction Document, in no event shall
+Parent and its Affiliates be obligated to issue to Seller or the Equityholders at the Closing, or shall Sellers or the Equityholders be entitled to receive
+from Parent and its Affiliates at the Closing, an aggregate number of Parent Ordinary Shares in excess of the Equity Consideration.
+(c) Notwithstanding anything to the contrary in this Agreement or any investigation or examination conducted, or any
+knowledge possessed or acquired, by or on behalf of Parent or Buyer, or any of their respective Affiliates, it is expressly acknowledged and agreed
+that the preparation of the Allocation Schedule and the allocations set forth therein are the sole responsibility of Seller and that Parent and Buyer
+and, after the Closing, the Group Companies, and their respective Affiliates shall be entitled to rely on the Allocation Schedule, without any
+obligation to investigate or verify the accuracy or correctness thereof.
+ARTICLE III
+REPRESENTATIONS AND WARRANTIES OF SELLER
+Except as set forth in the Disclosure Schedules, Seller represents and warrants to Buyer, as of the date hereof, as follows:
+3.01 Organization and Power.
+(a) Each of Seller and the Sold Company is a legal entity duly organized, incorporated or formed, validly existing and in
+good standing (with respect to jurisdictions that recognize the concept of good standing) under the Laws of its respective jurisdiction of
+organization, incorporation or formation.  Sold Company has all requisite corporate power and authority necessary to own and operate its properties
+and other assets and to carry on its businesses as now conducted, except where the failure to hold such power and authority would not, individually
+or in the aggregate, have a Material Adverse Effect.  Sold Company is qualified to do business in every jurisdiction in which its ownership of
+property or the conduct of business as now conducted requires it to qualify, except where the failure to be so qualified would not have a Material
+Adverse Effect.  True and complete copies of the certificate of incorporation, bylaws or equivalent organizational documents (collectively, the
+“Organizational Documents”) of the Company, in effect as of the date hereof, have been made available to Buyer.
+5
+--- Page 11 ---
+(b) There are no pending, or to the knowledge of Seller, threatened, actions for the dissolution, liquidation or insolvency of
+any Group Company.  True and complete copies of the Organizational Documents of the Subsidiaries of the Company, in effect as of the date
+hereof, have been made available to Buyer.  None of the Group Companies is in violation of its Organizational Documents in any material respect.
+3.02 Subsidiaries. Schedule 3.02 accurately sets forth each Subsidiary of the Sold Company, its name, place of incorporation or
+formation, and the Person(s) owning the outstanding equity interests of such Subsidiary, including the percentage of equity interests owned by each
+such Person.  Each of the Subsidiaries identified on Schedule 3.02 is duly organized, validly existing and in good standing under the Laws of the
+jurisdiction of its incorporation or organization, has all requisite corporate, or other legal entity, as the case may be, power and authority to own and
+operate its properties and other assets and to carry on its businesses as now conducted and is qualified to do business in every jurisdiction in which
+its ownership of property or the conduct of its businesses as now conducted requires it to qualify, except in each such case where the failure to be so
+qualified would not have a Material Adverse Effect.  Neither the Sold Company nor any of its Subsidiaries owns or holds the right to acquire any
+stock, partnership interest or joint venture interest or other interest (whether equity or debt) in any corporation, organization or entity that is not a
+Group Company.  All of the outstanding shares of capital stock of, or other equity interests in, each Subsidiary of the Sold Company are owned
+directly or indirectly by the Sold Company, alone or together with one or more of its wholly-owned Subsidiaries, free and clear of all Liens other
+than (i) Permitted Liens, and (ii) generally applicable transfer restrictions imposed by federal and state or foreign securities 
+3.03 Authorization; No Breach; Valid and Binding Agreement.
+(a) The execution, delivery and performance of this Agreement by Seller and the consummation of the transactions
+contemplated hereby have been duly and validly authorized by all requisite corporate action, and no other corporate proceedings on its part are
+necessary to authorize the execution, delivery or performance of this Agreement.
+(b) Except for (x) compliance with and filings under the HSR Act, and (y) any violation, conflict, breach or default resulting
+solely from Buyer being party to the transactions contemplated hereby, the execution, delivery, performance and compliance with the terms and
+conditions of this Agreement by Seller and the consummation of the transactions contemplated hereby and thereby do not and shall not (i) violate,
+conflict with, result in any breach of, or constitute a default under any of the provisions of the Organizational Documents of any Group Company in
+any material respect, (ii) with or without notice or lapse of time or both, violate or result in a breach of or constitute a violation or default under, or
+give rise to any acceleration of any rights or obligations, right of payment, termination or cancellation under, any Contract of any Group Company,
+or (iii) violate any Law to which any of the Group Companies is subject or result in the creation of any Lien (other than Permitted Liens) upon any
+of the properties or other assets of any of the Group Companies, except where the failure of any of the representations and warranties contained in
+clause (ii), (iii) or (iv) above to be true would not have a Material Adverse Effect.
+(c) This Agreement has been duly executed and delivered by Seller and, assuming that this Agreement is a valid and binding
+obligation of Buyer, this Agreement constitutes a valid and binding obligation of Seller, enforceable in accordance with its terms, except as
+enforceability may be limited by bankruptcy Laws, other similar Laws affecting creditors’ rights and general principles of equity affecting the
+availability of specific performance and other equitable remedies (collectively, the “Remedies Exception”).
+6
+--- Page 12 ---
+3.04 Capitalization.
+(a) The number of authorized, issued and outstanding shares of capital stock of the Sold Company is set forth on Schedule
+3.04.  Each issued and outstanding share of capital stock of the Sold Company is owned, beneficially and of record, by Seller.  All of the issued and
+outstanding shares of capital stock of the Sold Company are duly authorized for issuance and are validly issued, fully paid and non-assessable, free
+and clear of any and all Liens (other than any restrictions on the sale, transfer or other disposition of such shares of capital stock as a result of such
+securities not having been registered under the Securities Act or any state or foreign securities Laws).  There are (i) no existing Contracts of any
+character to which any of the Group Companies are a party or otherwise subject to requiring, and there are no securities of any Person outstanding
+that upon conversion, exercise or exchange would require, the issuance, sale or transfer of any shares of capital stock of, or other equity interests in,
+any of the Group Companies or other securities convertible into, exchangeable for or evidencing the right to subscribe for, purchase or receive
+shares of capital stock of, or other equity interests in, any of the Group Companies and (ii) no outstanding or authorized shares of restricted stock,
+restricted stock units, equity appreciation, phantom equity, profit participation or similar rights with respect to any Group Company.  Neither Seller
+nor any of the Group Companies is a party to, or otherwise subject to, any Contract with respect to the voting, redemption, repurchase, sale, transfer
+or other disposition or registration of, or granting any preemptive rights, anti-dilutive rights or rights of first refusal or other similar rights with
+respect to, the capital stock of, or other equity interests in, any of the Group Companies.
+(b) Each of Shop Holding, LLC (“Seller Parent”) and Seller (a) was formed solely for the purpose of holding the issued and
+outstanding stock of Seller and the Sold Shares, respectively, (b) does not own any assets or properties (other than the issued and outstanding stock
+of Seller and the Sold Shares, respectively, and Tax assets and assets incidental to maintaining its legal status or ownership of such equity interests),
+(c) does not have any employees, (d) does not have any Liabilities or obligations (other than Tax liabilities, de minimis Liabilities incidental to
+maintaining its legal status or ownership of such equity interests and Transaction Expenses), (e) is not a party to any Contract or transaction (other
+than the Organizational Documents of such entity, agreements in respect of purchasing the Company’s equity interests and their respective equity
+interests, Equity Plans, a prior agreement for the sale of the Company, the transactions contemplated by this Agreement and the other Transaction
+Documents to which it is a party) and (f) has not conducted any business operations prior to the date of this Agreement (other than organizational
+activities, opening and maintaining bank accounts, and those operations conducted in connection with its acquisition of and ownership of the Group
+Companies), and will not have conducted any business operations prior to the Closing (other than those operations required pursuant to this
+Agreement and the transactions contemplated hereby).
+3.05 Accredited Investor.
+(a) Seller is knowledgeable, sophisticated and experienced in business and financial matters, is experienced in evaluating
+investments in companies such as Parent and qualifies as an “accredited investor” as defined in the Securities Act.
+(b) The Parent Ordinary Shares to be acquired by Seller in connection with the consummation of the transactions
+contemplated hereby (the “Acquired Parent Ordinary Shares”) are being acquired for Seller’s own account, for investment purposes, and without a
+view to any distribution thereof.
+(c) Seller has been afforded access to information about Parent and the financial condition, results of operations, business,
+property and management of Parent sufficient to enable it to evaluate its investment in the Acquired Parent Ordinary Shares.  Seller has reviewed
+the financial statements of Parent and such other documents as Seller has reasonably deemed advisable.  Seller and its advisors, if any, have been
+afforded the opportunity to ask questions of Parent.  Seller has sought such accounting, legal and tax advice as it has considered necessary to make
+an informed investment decision with respect to its acquisition of the Acquired Parent Ordinary Shares.
+7
+--- Page 13 ---
+(d) Seller understands that its investment in the Acquired Parent Ordinary Shares involves a high degree of risk and the
+Acquired Parent Ordinary Shares are, therefore, a speculative investment.  Seller is able to bear the economic risk of its investment in the Acquired
+Parent Ordinary Shares for an indefinite period of time, and is presently able to afford the complete loss of such investment.
+(e) Seller acknowledges that it has conducted to its reasonable satisfaction an independent investigation of the financial
+condition, results of operations, assets, liabilities, properties, taxes and projected operations of Parent and, in making the determination to acquire
+the Acquired Parent Ordinary Shares, has relied solely on the results of its own independent investigation, and is not relying (for purposes of
+making any investment decision or otherwise) upon any advice, counsel or representations (whether written or oral) of Parent or any of its officers,
+employees, agents, advisors or affiliates.  Seller further acknowledges and agrees that Buyer has made no representations or warranties either
+expressed or implied as to the accuracy or completeness of any information regarding Parent furnished or made available to Seller and its
+representatives, and Seller shall have no claim with respect to any information, documents or materials furnished by or on behalf of Parent or Buyer
+to Seller.
+(f) Seller understands that (i) the Acquired Parent Ordinary Shares are characterized as “restricted securities” under the
+federal securities laws inasmuch as they are being acquired from Parent in a transaction not involving a public offering and that under such laws
+and applicable regulations the Acquired Parent Ordinary Shares may be resold without registration under the Securities Act only in certain limited
+circumstances; (ii) in the absence of an effective registration statement covering the Acquired Parent Ordinary Shares or an available exemption
+from registration under the Securities Act, the Acquired Parent Ordinary Shares may not be sold; and (iii) no Governmental Entity has passed on or
+made any recommendation or endorsement of the Acquired Parent Ordinary Shares or the fairness or suitability of the investment in the Acquired
+Parent Ordinary Shares, nor has any Governmental Entity passed upon or endorsed the merits of the offering of the Acquired Parent Ordinary
+Shares.
+(g) Seller, in making its decision to purchase the Acquired Parent Ordinary Shares, has made its own investment decision
+regarding its purchase of the Acquired Parent Ordinary Shares (including the income tax consequences of purchasing, owning or disposing of the
+Acquired Parent Ordinary Shares in light of Seller’s particular situation and tax residence(s) as well as any consequences arising under the laws of
+any taxing jurisdiction).
+(h) Seller has not had a “disqualifying event” described in Securities Act Rule 506(d)(1) subsections (i) through (viii).
+(i) Seller understands that Parent, as the issuer of the Acquired Parent Ordinary Shares, is relying in part upon the
+representations and agreements contained in this Agreement for the purpose of determining whether the offer, sale and issuance of the Acquired
+Parent Ordinary Shares meets the requirements for an applicable exemption from registration under the Securities Act.
+3.06 Financial Statements. Schedule 3.06 contains copies of the (i) unaudited consolidated balance sheet of the Group Companies as of
+May 31, 2021 (the “Latest Balance Sheet”) and the related statement of income for the 5-month period ended May 31, 2021 and (ii) audited
+consolidated balance sheet and statements of operations, and cash flows for the fiscal years ended December 31, 2020 and December 31, 2019
+(such audited consolidated balance sheet as of December 31, 2020, the “Audited Balance Sheet” and such financial statements, together with the
+financial statements referred to in clause (i), the “Financial Statements”) have been prepared in accordance with GAAP, consistently applied, and
+present fairly in all material respects the financial condition and results of operations of the Group Companies as of the times and for the periods
+referred to therein, subject in the case of the Latest Balance Sheet to changes resulting from normal year-end adjustments, which are not material in
+the aggregate.
+8
+--- Page 14 ---
+3.07 Absence of Certain Developments; Undisclosed Liabilities.
+(a) Since the date of the Latest Balance Sheet, (A) the business of the Group Companies has been conducted, in all material
+respects, in the Ordinary Course of Business and (B) none of the Group Companies has:
+(i) suffered a Material Adverse Effect;
+(ii) declared, authorized or effected any recapitalization, reclassification, distribution, dividend, equity split,
+subdivision, combination or like change in its capitalization;
+(iii) subjected any material portion of its properties or assets to any material Lien, except for Permitted Liens (other
+than in the Ordinary Course of Business);
+(iv) sold, assigned or transferred any material portion of its properties or assets, except in the Ordinary Course of
+Business and except for sales of obsolete assets or assets with de minimis or no fair market value;
+(v) sold, assigned, transferred, abandoned or permitted to lapse, licensed, incurred any Lien (other than a Permitted
+Lien) on, or otherwise failed to take any action necessary to maintain, enforce and protect any material Company IP, except non-exclusive
+licenses in the Ordinary Course of Business;
+(vi) made any material capital investment in, or any material loan to, any other Person, except in the Ordinary
+Course of Business or pursuant to any existing agreement;
+(vii) made any material capital expenditures or commitments therefor, except (x) in the Ordinary Course of Business
+and (y) for such capital expenditures or commitments therefor that are reflected in the Group Companies’ current budget that has been
+made available to Buyer;
+(viii) amended or authorized the amendment of its Organizational Documents;
+(ix) made any change in its accounting methods, principles or practices, except as required by GAAP;
+(x) suffered any material damage, destruction or other casualty loss with respect to material property owned by any
+Group Company that is not fully covered by insurance; or
+(xi) adopted a plan or agreement of complete or partial liquidation or dissolution.
+(b) No Group Company has any Liability, except for Liabilities (a) accrued or specifically reserved against in the Latest
+Balance Sheet, (b) incurred in the Ordinary Course of Business since the date of the Latest Balance Sheet, (c) incurred in connection with this
+Agreement or the transactions contemplated hereby, (d) pursuant to the terms of any Contract to which any Group Company is party (other than
+Liabilities for default, breach or non-performance thereunder) (e) for Taxes or (f) that would not have a Material Adverse Effect.
+3.08 Real Property.
+(a) Schedule 3.08(a) sets forth a list of all material real property that any Group Company uses or occupies, or has the right
+to use or occupy (collectively, the “Leased Realty”).  Seller has provided Buyer with true, correct and complete copies of all Leases (including all
+modifications, amendments and supplements thereto).
+9
+--- Page 15 ---
+(b) A Group Company possesses a valid leasehold interest in the Leased Realty pursuant to the leases set forth on Schedule
+3.08(a) (the “Leases”), free and clear of any Liens except Permitted Liens.  Each Lease is in full force and effect and enforceable against the Group
+Company party to such Lease and, to the knowledge of Seller, each other party thereto in accordance with its terms.  With respect to each Lease and
+except as would not have a Material Adverse Effect or materially and adversely affect the current use by the Group Companies of the Leased
+Realty, (i) to the knowledge of Seller, there are no disputes with respect to such Lease and (ii) no Group Company has collaterally assigned or
+granted any other security interest in such Lease or any interest therein.  None of the Group Companies or, to the knowledge of Seller, any other
+party thereto is in material breach of or default under any of the Leases and, to the knowledge of Seller, no event has occurred or condition exists
+that constitutes, or after notice or lapse of time or both would constitute, a material breach of or default under any of the Leases.
+(c) There is no Owned Real Property.
+3.09 Tax Matters.
+(a) The Group Companies have filed all material Tax Returns that are required to be filed by them (taking into account any
+extensions of time to file), and all such Tax Returns are true, correct and complete in all material respects.  All material Taxes (whether or not
+shown as owing by the Group Companies on all such Tax Returns) required to be paid with respect to the Group Companies have been fully and
+timely paid.  All material amounts required to be withheld by the Group Companies in connection with any amounts paid or owing to any supplier,
+independent contractor, creditor, equity holder or other third party for Taxes have been duly and timely withheld and such withheld Taxes have been
+duly and timely paid to the proper Governmental Entity in material compliance with all applicable Laws.
+(b) No Group Company is the subject of a Tax audit, investigation or examination by any Governmental Entity with respect
+to any material Taxes of any such Group Company.  No Governmental Entity has asserted in writing or, to the knowledge of Seller, orally, any
+deficiency, adjustment or claim with respect to Taxes of the Group Companies against the Group Companies that has not been resolved with respect
+to any taxable period for which the period of assessment or collection remains open.
+(c) None of the Group Companies has received or applied for a Tax ruling or entered into a closing agreement pursuant to
+Section 7121 of the Code (or any predecessor provision or any similar provision of state, local or non-U.S. Law), in either case that would be
+binding upon the Group Companies after the Closing Date.
+(d) No Group Company (i) is, or during any taxable period for which the period of assessment or collection remains open
+has been, a member of an affiliated, consolidated, combined, unitary or similar group (other than any such group the common parent of which is a
+Group Company) or (ii) has any liability for Taxes of any Person (other than the Group Companies) (A) under Treasury Regulations Section
+1.1502-6 (or any similar provision of state, local or foreign Law applicable to the Group Companies) or (B) as a transferee or successor.
+(e) No Group Company has been a party to a “listed transaction,” as such term is defined in Treasury Regulations Section
+1.6011-4(b).
+(f) No claim that remains pending has been made to a Group Company by any Taxing Authority, in a jurisdiction where
+such Group Company has not filed a particular type of Tax Return or paid a particular type of Tax, that such Group Company is or may be required
+to file such type of Tax Return with or pay such type of Tax.
+(g) Since January 1, 2017, no Group Company has constituted either a “distributing corporation” or a “controlled
+corporation” in a transaction that was purported or intended to be governed in whole or in part by Section 355 of the Code.
+10
+--- Page 16 ---
+(h) None of the Group Companies will be required to include any material item of income in, or exclude any material item
+of deduction from, taxable income for any taxable period (or portion thereof) beginning after the Closing Date as a result of: (i) adjustment under
+Section 481 of the Code (or any corresponding provision of state, local, or foreign law) by reason of any change in, or use of improper, method of
+accounting by such Group Company prior to the Closing Date; (ii) any “closing agreement” as described in Section 7121 of the Code (or any
+corresponding or similar provision of state, local or non-U.S. Law) executed prior to the Closing by or with respect to such Group Company; (iii)
+any installment sale or open transaction made prior to the Closing made by or with respect to such Group Company; (iv) any prepaid amount or
+advance payments received or deferred revenue received or accrued on or prior to the Closing Date by such Group Company, in each case, outside
+of the Ordinary Course of Business; or (v) any intercompany transaction described in Treasury Regulations under Section 1502 of the Code (or any
+corresponding or similar provision of state, local or non-U.S. Law) entered into prior to the Closing Date by such Group Company.
+(i) None of the Group Companies has any obligation to make any payment described in Section 965(h) of the Code.
+(j) None of the Group Companies is a party to or bound by any Tax Sharing Agreement, and none of the Group Companies
+is obligated to make any payments to a former or current owners of any Tax benefit.
+(k) None of the Group Companies has any liability with respect to Deferred Taxes.
+(l) None of the Group Companies is subject to income Tax in any jurisdiction other than the country in which it was
+organized.  Each of the Group Companies is a non-Israeli resident company that never had any activities in Israel, and its activity is and always has
+been controlled and managed outside of Israel.  Each of the Group Companies’ respective directors, officers, managers and general managers are
+non-Israeli residents and conducted its activity solely outside of Israel.  Neither Group Company nor any of the equityholders of any of the Group
+Companies is an Israeli resident or has a “permanent establishment” (as defined in any applicable income tax treaty) or a fixed place of business in
+Israel to which its holdings in such Group Company can be attributed.
+(m) No UK Group Company is party to an arrangement that has been entered into by such Group Company on or prior to the
+date of this Agreement and that pursuant to the hybrid and other mismatch rules in Part 6A of the United Kingdom Taxation (International and
+Other Provisions) Act 2010 (the “UK Hybrid Rules”) will either restrict the deduction of any amount or require any amount to be included in
+income for United Kingdom corporation tax purposes that would not otherwise be included in respect of any UK Group Company.
+(n) To the knowledge of Seller, no elections under section 431 of the United Kingdom Income Tax (Earnings and Pensions)
+Act 2003 have been entered into in respect of any acquisitions of employment related securities by employees. Except where no material UK Tax
+liability would arise to a Group Company, the employees of the UK Group Company have paid no less than "unrestricted market value" (at the date
+of acquisition) for their employment related securities in the Company based on independent valuation analysis for UK tax purposes.  Membership
+interests in each of Seller and Seller Parent are treated as securities for UK tax purposes.
+(o) None of the Group Companies (i) is a tax resident in Israel or has taxable presence in Israel, or (ii) to the Knowledge of
+the Seller, has any direct or indirect shareholder or member which is an Israeli tax resident or has a fixed place of business in Israel and who holds,
+directly or indirectly, 5% or more of such Group Company’s equity.  To Seller's Knowledge, no Holder (as defined in the Holdback Agreement) is
+an Israeli tax resident.
+(p) Each Incentive Unit (as defined in the Holdback Agreements) granted to any Person who is a United States tax resident
+satisfies the requirements to constitute “profits interests” for U.S. federal income tax purposes as described in Revenue Procedures 93-27 and 2001-
+43.  Each of Seller and Seller Parent received from each of their respective grantees of an Incentive Unit who is a United States tax resident a copy
+of a timely and effective election with the Internal Revenue Service under Section 83(b) of the Code relative to each grant of Incentive Units.
+11
+--- Page 17 ---
+(q) Notwithstanding any other provision of this Agreement to the contrary, (i) the representations and warranties set forth in
+this Section 3.09 and in Section 3.06, Section 3.08 and Section 3.14 shall constitute the sole and exclusive representations and warranties made by
+Seller and the Company with respect to Tax matters, and no other representation or warranty contained in any other section of this Agreement shall
+be deemed to be made with respect to Tax matters, and (ii) neither Seller nor the Company makes any representat

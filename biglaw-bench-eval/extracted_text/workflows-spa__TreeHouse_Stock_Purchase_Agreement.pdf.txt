@@ -1,0 +1,639 @@
+--- Page 1 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 1/124EX-2.1 2 exhibit21stockpurchaseagre.htm EX-2.1
+Exhibit 2.1
+Execution Version
+STOCK PURCHASE AGREEMENT
+among
+TREEHOUSE FOODS, INC.
+RUSHMORE INVESTMENT  III LLC
+and
+1373978 B.C. ULC
+Dated as of August 10, 2022
+--- Page 2 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 2/124Article I DEFINITIONS 2
+Section 1.1     Certain Defined Terms 2
+Section 1.2     Table of Definitions 15
+Article II PURCHASE AND SALE 18
+Section 2.1     Purchase and Sale of the Shares 18
+Section 2.2     Closing 18
+Section 2.3     Purchase Price Adjustments 19
+Section 2.4     Withholding 23
+Article III REPRESENT ATIONS AND WARRANTIES OF TREEHOUSE 23
+Section 3.1     Organization and Qualification 23
+Section 3.2     Authority 23
+Section 3.3     No Conflict; Required Filings and Consents 24
+Section 3.4     Capitalization 25
+Section 3.5     Equity Interests 25
+Section 3.6     Financial Statements 25
+Section 3.7     Absence of Certain Changes or Events 27
+Section 3.8     Compliance with Law; Permits 27
+Section 3.9     Litigation 27
+Section 3.10     Employee Benefit Plans 28
+Section 3.1 1    Labor and Employment Matters 30
+Section 3.12     Insurance 32
+Section 3.13     Real Property 32
+Section 3.14     Intellectual Property 33
+Section 3.15     Taxes 34
+Section 3.16     Environmental Matters 36
+Section 3.17     Material Contracts 37
+Section 3.18     Sufficiency of Assets 39
+Section 3.19     Brokers 40
+Section 3.20     Food Regulatory Matters 40
+Section 3.21     Data Privacy 41
+Section 3.22     Affiliate Transactions 41
+Section 3.23     Prior Reor ganization 41
+--- Page 3 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 3/124    i
+--- Page 4 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 4/124TABLE OF  CONTENTS
+(Continued)
+Page
+Section 3.24     Customers and Suppliers 42
+Section 3.25     International Trade 43
+Section 3.26     Exclusivity of Representations and Warranties 43
+Article IV  REPRESENT ATIONS AND WARRANTIES OF THE BUYER 43
+Section 4.1     Organization 43
+Section 4.2     Authority 43
+Section 4.3     No Conflict; Required Filings and Consents 44
+Section 4.4     Financing 44
+Section 4.5     Brokers 45
+Section 4.6     Investment Intent 46
+Section 4.7     Solvency 46
+Section 4.8     Buyer ’s Investigation and Reliance 46
+Section 4.9     R&W  Insurance Policy 47
+Section 4.10     COVID-19 and Related Matters 47
+Section 4.1 1    Exclusivity of Representations and Warranties 47
+Article V COVENANTS 47
+Section 5.1     Conduct of Business Prior to the Closing 47
+Section 5.2     Covenants Regarding Information 51
+Section 5.3     Notification of Certain Matters 53
+Section 5.4     Intercompany Arrangements 53
+Section 5.5     Confidentiality 53
+Section 5.6     Consents and Filings 53
+Section 5.7     Public Announcements 55
+Section 5.8     Release of Guarantees 55
+Section 5.9     Directors’  and Of ficers’  Indemnification 56
+Section 5.10     Insurance  Coverage 56
+Section 5.1 1    Pre-Closing Reor ganizations 57
+Section 5.12     R&W  Insurance Policy 58
+Section 5.13     Material Contract Approvals; Shared Contracts 58
+Section 5.14     Wrong Pockets 60
+Section 5.15     Background Licenses 61
+Section 5.16     Wind-Down License 61
+Section 5.17     Employee Matters 61
+--- Page 5 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 5/124ii
+--- Page 6 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 6/124TABLE OF  CONTENTS
+(Continued)
+Page
+Section 5.18     Exclusivity 65
+Section 5.19     Litigation Support 65
+Section 5.20     Financing Cooperation 66
+Section 5.21     Assistance with Financial Statements 68
+Section 5.22     Delivery of Audited Financial Statements 68
+Section 5.23     Use of UPCs 68
+Section 5.24     Factoring Arrangements 68
+Section 5.25     Sublease 68
+Article VI TAX MA TTERS 69
+Section 6.1     Transfer Taxes 69
+Section 6.2     Allocation of Taxes 69
+Section 6.3     Cooperation 69
+Section 6.4     Post-Closing Covenants 69
+Section 6.5     Tax Refunds 70
+Section 6.6     Purchase Price Allocation 70
+Section 6.7     Tax Indemnity 70
+Section 6.8     Unified Loss Rule Election 71
+Section 6.9     Tax Sharing Agreements 71
+Article VII CONDITIONS TO CLOSING 71
+Section 7.1     General Conditions 71
+Section 7.2     Conditions to Obligations of TreeHouse 71
+Section 7.3     Conditions to Obligations of the Buyer 72
+Section 7.4     Frustration of Closing Conditions 72
+Article VIII REMEDIES FOR BREACH OF THIS AGREEMENT 73
+Section 8.1     Nonsurvival of Representations, Warranties and Covenants 73
+Section 8.2     Indemnification by TreeHouse 74
+Section 8.3     Indemnification by the Buyer 75
+Section 8.4     Notice of Loss; Third-Party Claims 75
+Section 8.5     Exclusive Remedy 76
+Section 8.6     R&W  Insurance Policy 76
+--- Page 7 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 7/124iii
+--- Page 8 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 8/124TABLE OF  CONTENTS
+(Continued)
+Page
+Article IX TERMINA TION 77
+Section 9.1     Termination 77
+Section 9.2     Effect of Termination 77
+Article X GENERAL  PROVISIONS 78
+Section 10.1     Fees and Expenses 78
+Section 10.2     Amendment and Modification 78
+Section 10.3     Waiver; Extension 78
+Section 10.4     Notices 78
+Section 10.5     Interpretation 79
+Section 10.6     Entire Agreement 79
+Section 10.7     Parties in Interest 80
+Section 10.8     Governing Law 80
+Section 10.9     Submission to Jurisdiction 80
+Section 10.10     Disclosure Generally 81
+Section 10.1 1    Assignment; Successors 81
+Section 10.12     Enforcement 81
+Section 10.13     Currency 81
+Section 10.14     Severability 81
+Section 10.15     Waiver of Jury Trial 82
+Section 10.16     Counterparts 82
+Section 10.17     .pdf Signature 82
+Section 10.18     Time of Essence 82
+Section 10.19     Legal Representation 82
+Section 10.20     No Presumption Against Drafting Party 83
+Section 10.21     Prevailing Party 84
+Section 10.22     Debt Financing Sources 84
+iv
+--- Page 9 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 9/124TABLE OF  CONTENTS
+(Continued)
+EXHIBIT  A        Sellers
+EXHIBIT  B        Form of Transition Services Agreement
+EXHIBIT  C        Form of Long-T erm Transitional Trademark License Agreement
+EXHIBIT  D        Form of Seller Credit Agreement
+EXHIBIT  E        Net Working Capital
+EXHIBIT  F        Form of Canada Contribution Agreement
+EXHIBIT  G        Form of Leased Real Property Subleases
+EXHIBIT  H        Form of Contract Manufacturing Agreement
+EXHIBIT  I        Form of Restrictive Covenant Agreement
+    
+--- Page 10 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 10/124STOCK PURCHASE AGREEMENT
+STOCK PURCHAS E AGREEMENT , dated as of August 10, 2022 (this “Agreement ”), among
+TreeHouse Foods, Inc., a Delaware corporation (“TreeHouse ”), Rushm ore Inves tment III LLC, a Delaware
+limited liability company (the “US Buyer ”), and 1373978 B.C. ULC, a British Columbia unlimited liability
+company (the “ CA Buyer ,” and together with the US Buyer , the “ Buyer ”).
+RECIT ALS
+A.    TreeHouse owns or controls, directly or indirectly , those entities set forth on Exhibit A (the
+“Subsidiary Sellers ”), which together with TreeHouse comprise the “ Sellers ”.
+B.    TreeHouse and the Subsidiary Sellers identified as “US Sellers ” on Exhibit A collectively own 100%
+of the issued and outstanding shares (the “US Shares ”) of common stock , par value $0.01 per share, of Meal
+Preparation, Inc., a Delaware corporation (the “ US Company ”).
+C.    E.D. Smith Foods, Ltd., a British Columbia company (the “CA Seller ”), directly owns 100% of the
+issued and outstanding common shares (the “CA Shares ” and together with the US Shares, the “Shares ”) without
+par value of TBMP  Canada Cashco ULC, a British Columbia unlimited liability company (the “CA Company ”
+and together with the US Company , the “ Companies ” and each individually , a “Company ”).
+D.    TreeHouse and its Subsidiaries, including through the CA Seller and the Group Companies (defined
+below), is engaged in the businesses of manufacturing, importing, expo rting, formulating, researching,
+developing, produc ing, marketing, distributing, packaging, labeling, advert ising, storing, transporting and
+selling: dry pasta and noodles (including  both durum and non-durum), salad dressings, mayonnaise, tartar sauce,
+spoonable salad dressing, red sauces (salsa, taco sauce and pasta sauce), sauces (which includes barbeque sauce,
+marinades, hot sauce, wing sauce, steak sauce, soy sauce, Worcestershire sauce, dips, ketchup and ethnic
+cooking sauces), jarred soup (excludi ng broth), preserves, jams & jellies, pie fillings (excluding aseptic
+puddings), pita chips, mac & cheese dinners (pasta, including durum and non-durum), cheese sauce combination
+meals (excluding aseptic cheese sauce s) and dry baking mixes (including bouillon, dry soup mixes, baking
+mixes, pancake mixes, cocoa powder , baking powder , cream of tartar and taco seasoning), ingredients and
+packaging used in or with such products, and all other ancillary products and services comprising TreeHouse’ s
+meal preparation business as described above as of the date of this Agreement (the “ Business ”).
+E.    Prior to the date hereof, the US Sellers effected certain transfers and reorganizations (the “Prior
+Reor ganization ”) pursuant to the U.S. Contribution Agreement, such that (i) US Company directly owns certain
+assets with respect to the Business and 100% of the issued and outstanding equity of American Italian Pasta Co.,
+The Carria ge House Companies, Inc., Associated Brands, Inc. and S.T. Specialty Foods, Inc., and (ii) American
+Italian Pasta Co. owns 100% of the issued and outstanding equity of Pasta Lensi S.r.l. (collectively , the
+“Transferred Subsidiaries ”).
+F.    Prior to the Closing but after the execution of this Agreement, TreeHouse will cause the CA Seller to
+effect the Subsequent Reor ganization.
+G.    Prior to the Closing but after the execution of this Agreement, TreeHouse will cause the US Sellers
+to effect the Pickles and Refrigerated Dough Transfer such that TreeHouse will retain the businesses of
+manufacturing, importing, exporting, formulating, researching, developing, producing, marketing, distributing,
+packaging, labeling, advertising, storing,
+--- Page 11 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 11/124
+--- Page 12 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 12/124transporting and selling pickles (refrig erated, fresh packed, processed), shelf stable peppers and relish, and
+refrigerated dough (biscuits, breakfast and dinner rolls, pizza dough, pie crust, refrigerated cookie dough and
+other refrigerated dough products) to Newco (the “ Pickles and Refrigerated Dough Business ”).
+H.    As a condition and inducement to the parties’  willingness to enter into this Agreement, the US Buyer
+and TreeH ouse will enter into the Restrictive Covenant Agreement attached hereto as Exhibit I, to become
+effective upon the Closing.
+I.    TreeHouse wish es to cause (i) the US Sellers to sell to the US Buyer , and the US Buyer wishes to
+purchase from the US Sellers, the US Shares and (ii) the CA Seller to sell to the CA Buyer , and the CA Buyer
+wishes to purchaser from the CA  Seller , the CA  Shares.
+J.    TreeHouse, through itself and/or one or more of its direct or indirect Subsidiaries, and Buyer , through
+itself and/or one or more of its direct or indirect Subsidiaries, will enter into that certain Transition Services
+Agreement in the form attached hereto as Exhibit B, pursuant to which TreeHouse will cause certain services to
+be provided to Buyer and Buyer will cause certain services to be provided to TreeHouse, such Transition
+Services Agreement to become ef fective upon the Closing.
+K.    Concurrently with the execution of this Agreement, and as a cond ition and inducement to
+TreeHouse’ s willing ness to enter into this Agreement, the Equity Investor (as defined below), has delivered an
+Equity Financing Commitment Letter (as defined below), pursuant to which, in addition to its commitments with
+respect to the Equity Financing (subject to the terms and conditions thereof), the Equity Investor is also
+providing an equity commitment with respect to certain obligations of the Buye r set forth in Section 2.2, Section
+5.19(b) , Section 5.20 , and Section 9.2.
+AGREEMENT
+NOW , THEREFORE, in consideration of the foregoing and the mutual covenants and agreements herein
+contained, and intending to be legally bound hereby , the parties agree as follows:
+ARTICLE I
+DEFINITIONS
+Section 1.1    Certain Defined Terms . For purposes of this Agreement:
+“Accrued Income Taxes” means an amount (which will not be less than zero in any jurisdiction or for any
+entity) equal to the excess, if any, in each applicable jurisdiction of (i) the aggre gate accrued, but unpaid, current
+income Tax liabilities of the Group Com panies and their Subsidiaries in such jurisdiction (but solely to the extent
+such income Taxes (I) are first due and payable subsequent to the Closing Date and relate to a Return that was
+not due to be filed (taking into account extensions) prior to the Closing or (II) expressly were set forth on a
+Return that was filed prior to the Closing), over (ii) the aggregate current income Tax assets of the Group
+Companies and their Subsidiaries in such jurisdiction, in each case (i.e., with respect to each of clause (i) and
+clause (ii)), (x) deter mined as of the end of the Closing Date and (y) solely relating to a Pre-Closing Tax Period.
+The calculation of Accrued Income Taxes shall (A) subject to clause (C) below , exclude any deferred Tax
+liabilities or assets, (B) not take into account the effect of any of the transactions contemplated by this
+Agreement, (C) include in taxable income, any adjustment pursuant to Section 481 of the Code (or any
+corresponding or similar provision of state, local or non-U.S. law) and prepai d amounts and deferred revenue
+that in each case would not otherwise be included in taxable income on or prior to the Closing Date, (D) not take
+into
+--- Page 13 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 13/1242
+--- Page 14 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 14/124account any payments of Taxes made after the Calculation Time or the effect of any transactions entered into on
+the Closin g Date after the Closing outside the ordinary course of business and not expressly contemplated by this
+Agreement, and (E) in the case of a Straddle Period, be determined in accordance with Section 6.2 .
+“Action ” means any claim , action, suit, charge, complaint, litigation, examination, audit, inquiry ,
+investigation, mediation, arbitration or proceeding by or before any Governmental Authority .
+“Adjusted Closing Date Cash Consideration ” means an amount equal to (i) 75% of the Purchase Price
+minus  (ii) $185,000,000.
+“Adjusted Seller Note Principal Amoun t” means an amoun t equal to the Purchase Price minus  the
+Adjusted Closing Date Cash Consideration.
+“Affiliate ” means, with respect to any Person, any other Person that directly , or indirectly through one or
+more intermediaries, controls, is controlled by or is under common control with, such first Person; provided  that,
+in no event shall Buyer or any of its Subsidiaries be considered an Affiliate of any portfolio company of any
+investment fund or vehicle affiliated with or managed by Investindustrial Advisors Limited, nor shall any
+portfolio company of any investment fund or vehicle affiliated with or manag ed by Investindustrial Advisors
+Limited (collectively , the “Buyer Related Parties ”) be considered to be an Affiliate of Buyer or any of its
+Subsidiaries.
+“Ancillary Agreemen ts” means the Contrib ution Agreements, the Restrictive Covenant Agreement, the
+Seller Credit Agreement, the Seller Note , the Transition Services Agreement, the Trademark License Agreement,
+the Leased Real Property Subleases, the Contract Manufacturing Agreement, the Equity Financing Commitment
+Letter , and any other document, certificate or instrument delivered herewith or therewith.
+“Anti-Corruption Laws ” means all U.S. or non-U.S. Laws relating to the prohibition of corruption,
+bribery or money laundering, including the Foreign Corrupt Practices Act of 1977, as amended, the UK Bribery
+Act 2010, and other legislation implementing the OECD Convention Combating Bribery of Foreign Of ficials.
+“Applicable Accounting Principles ” means the accounting principles, practices and policies set forth on
+Section 2.3(a)  of the Disclosure Schedules.
+“Assumed Liabilitie s” means (i) all “Assumed Liabilities ,” as defined in the U.S. Contribution
+Agreement, (ii) all “Assumed Liabilit ies,” as defined in the Canada Contribution Agreement and (iii) the
+Assumed Retention Amounts.
+“Assumed Retention Amounts ” means all Retention Award amounts actually paid in respect of the
+Retention Awards that were not accrued at or prior to the Closing Date (which, for the avoidance of doubt, will
+exclude Retention Award amounts paid based on continued employment throu gh Closing, even if paid shortly
+following the Closing, but will include Retention Award amounts paid based on continued employment through
+a specified date following the Closing Date).
+“Business Day” means any day that is not a Saturday , a Sunday or other day on which banks are required
+or authorized by Law to be closed in The City of New York, Dallas, Texas, or Toronto, Ontario.
+3
+--- Page 15 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 15/124“Business Employee s” means (i) the current employees of any of the Group Companies, and any
+employees hired by any of the Group Companies between the date of this Agree ment and the Closing (subject to
+the restrictions set forth in Section 5.1 hereof), (ii) the Contributor Employees, and (iii) former employees of
+TreeHouse or its Subsidiaries who, during their period of employment and as of the date of their termination of
+employment, were engaged primarily in the Business.
+“Business Entities ” means, collectivel y, the Sellers and the Group Companies, and each a “Business
+Entity .”
+“Business Intellectua l Property ” means the Intell ectual Property (including Registered Intellectual
+Property) owned, or purported to be owned, by any of the Group Companies.
+“Business Fundamental Representations ” means the repres entations and warranties of TreeHouse set
+forth in Section 3.1 , Section 3.2 , Section 3.4 , Section 3.5(b) , Section 3.18  and Section 3.19 .
+“Buyer Material Adverse Effect” means any event,  change, occurrence or effect that would prevent,
+materially delay or materially impede the performance by the Buyer of its obligations under this Agreement or
+the Ancillary Agreements to which it will be a party or the consummation by the Buyer of the transactions
+contemplated hereby or thereby .
+“Business Systems ” means all technology devices, computers, computer systems, Software, servers,
+networks, workstations, routers, hubs, switches, hardware, firmware, websites, databases, data communications
+lines and all other information technolo gy equipment, including any outsourced systems and processes and all
+associated documen tation, together with all data or information contained therein, that is used by or for, or relied
+on by, the Sellers or any of its Affiliates in connection with the Business or any Group Companies (whether
+owned by them or a third party).
+“Calculation Time” means 12:01 a.m., Chicago time, on the Closing Date.
+“Cash ” means, as at a specified time, the aggregate amount of all cash and cash equivalents held by the
+Group Companies calculated in accordance with the Applicable Accounting Principles and determined on a
+consolidated basis; provided  that Cash  shall be reduced by (i) the amount of any checks written and mailed (but
+not yet cashed), (ii) any outstanding and uncleared drafts, wires or other payments by the Group Companies, (iii)
+Restricted Cash, and (iv) the amount of payments, if any, made between the Calculation Time and the Closing to
+pay Indebtedness or Transaction Expens es (in each case to the extent Indebtedn ess or Transaction Expenses are
+reduced by such payment) or as a distrib ution to an equityholder of a Group Company (other than another Group
+Company); provided , further , that Cash shall include the amount of any cash and cleared checks previously
+received by the Group Companies or their respective banks, whether or not cleared prior to or after such
+specified time, and deposits in transit; provided , further , that negative bank balances shall not be included in the
+calculation of Cash.
+“CBA ” means any collec tive bargaining agreement or other Contract with any labor union, labor
+organization, works council or other employee representative body .
+“Closing Date Cash Consideration ” means an amount equal to (i) 75% of the Estimated Purchase Price
+minus  (ii) $185,000,000.
+“COBRA ” means Part 6 of Subtitle B of Title I of ERISA, Section 4980B of the Code and any similar
+state Law .
+--- Page 16 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 16/1244
+--- Page 17 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 17/124“Code ” means the Internal Revenue Code of 1986, as amended.
+“Competition Act” means the Competition Act (Canada), RSC 1985, c. C-34.
+“Competition Act Approval ” means either: (i) the Commissioner of Competition appointed under
+Subsection 7(1) of the Competition Act or his designee has issued an advance ruling certificate pursuant to
+Subsection 102(1) of the Competition Act in respect of the transactions contemplated by this Agreement or (ii)
+the waiting period, including any extension thereof, under Section 123 of the Competition Act has expired or
+been terminated or the obligation to provide a pre-mer ger notification in accordance with Part IX of the
+Competition Act has been waived in accordance with paragraph 1 13(c) of the Competition Act.
+“Contract ” means any legally binding contract, subcontract, agreement, license, sublicense, lease,
+sublease, instrument, indenture, prom issory note or other legally binding commitment, arrangement,
+understanding or undertaking.
+“Contract Manufacturing Agreement ” means that certain contract manufacturing agreement, substantially
+in the form of Exhibit H, pursuant  to which Buyer or one of its Subsidiaries will provide to TreeHouse or its
+Subsidiaries certain contract manufacturing services as described therein.
+“Contributed Assets ”means all “Contribu ted Assets” as defined in the U.S. Contribution Agreement and
+all “Contributed Assets” as defined in the Canada Contribution Agreement.
+“Contribution Agreements ” means the U.S. Contribution Agreement and Canada Contribution
+Agreement.
+“Contributor Employees ” has the meaning(s) set forth in the Contribution Agreements, except that such
+term shall exclude (i) any such employees primarily dedicated to the operation of the Pickles and Refrigerated
+Dough Business, and/or (ii) any employ ee covered by a CBA  not set forth on Section 3.11(b) of the Disclosure
+Schedules (such employees in (i) and (ii), the “ Excluded Employees ”).
+“control ,” including the terms “controlled by” and “under common control with,” means the possess ion,
+directly or indirectly , of the power to direct or cause the direction of the management and policies of a Person,
+whether through the ownership of voting securities, as trustee or executor , as general partner or managing
+member , by contract or otherwise.
+“COVID-19 ” means SARS-CoV -2 or COVID-19, and any variants or evolutions thereof or related or
+associated epidemics, pandemics or disease outbreaks.
+“Data Protection Requirements ” shall mean, collec tively , all of the following to the extent relating to
+processing or otherwise relating to privacy , security , or security breach notification requirements and applicable
+to Sellers or their Affiliates, the Group Companies, to the conduct of the Business, or to any of the Business
+Systems: (i) the Sellers’  or their its Affiliate’ s or any of the Group Comp anies’  own rules, policies, and
+procedures; (ii) all applicable laws, rules and regulations (including, as applicable, the California Consumer
+Privacy Act (CCP A), the Personal Information Protection and Electronic Documents Act (Canada), and the
+General Data Protection Regulation (GDPR) (EU) 2016/679), and any predecessor , successor or implementing
+legislation in respect of the foregoing, and any amendments or re-enactments in respect of the foregoing; and
+(iii) industry standards applicable to the industry in which the Business operates (including, if applicable, the
+Payment Card Industry Data Security Standard (PCI DSS)); and (iv) applicable provisions of contracts into
+which Sellers or their Affiliates or the Group Companies have entered into or by which they are otherwise
+bound. 
+--- Page 18 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 18/1245
+--- Page 19 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 19/124“Debt Financing ” means the third party debt financing, if any, provided to the Buyer in connection with
+the transactions contemplated hereby .
+“Debt Financing Sources ” means the Person s that have comm itted to provide or arrange the Debt
+Financing in connection with the trans actions contemplated by this Agreement, including the parties to any
+commitment letters, joinder agreements  or credit agreements entered into pursuant thereto or relating thereto,
+together with their respective Affiliates,  and their respective Affiliates’  officers,  directors, employees, attorneys,
+agents and representatives and their respective permitted successors and permitted assigns.
+“Disclosure Schedule s” means the disclosure schedules with respect to this Agreement delivered by
+TreeHouse to the Buyer on the date hereof.
+“Encumbrance ” means any charge, claim, mortgage, lien, license, option, pledge, securit y interest,
+covenant not to sue or other restriction of any kind (other than those created under applicable securities laws).
+“Enterprise Value” means $950,000,000.
+“Estimated Purchase Price ” means (i) the Enterprise Value, plus (ii) the Estimated Cash, plus (iii) the
+Working Capital Overage, if any, minus  (iv) the Estimated Indebtedness, minus  (v) the Working Capital
+Underage, if any, minus  (vi) the Estimated Transaction Expenses; provided  that, in no event may the Estimated
+Purchase Price be greater than $1,010,000,000.
+“Excluded Assets ”means all (i) “Excluded Assets” as defined in the U.S. Contribution Agreement, (ii) all
+“Excluded Assets” as defined in the Canada Contribution Agreement, (iii) the Pickles and Refrigerated Dough
+Assets, and (iv) the Designated Assets.
+“Excluded Liabilities ”means (i) all “Excluded Liabilities” as defined in the U.S. Contribution
+Agreement, (ii) all “Excluded Liabilities ” as defined in the Canada Contribution Agreement, (iii) the Pickles and
+Refrigerated Dough Liabilities, (iv) all Liabilities relating to the Excluded Employees, (v) the Designated
+Liabilities and (vi) the Retained Retention Amounts.
+“Ex-Im Laws” means all U.S. and non-U.S. Laws relating to export, reexport, transfer , and import
+controls, including the Export Administration Regulations, the International Traffic in Arms Regulations, the
+customs and import Laws administered by U.S. Customs and Border Protection, and the EU Dual Use
+Regulation.
+“Foreign Cash Amount ” means an amount  equal to (i) the aggregate amount of all Cash held by the
+Group Companies in jurisdictions outside of the U.S. minus  (ii) the Taxes that would be imposed on the
+repatriation of such Cash if it had been repatriated immediately prior to the Closing (as determined by
+TreeHouse in good faith in consultation with the Buyer).
+“Fraud ” means, with respect to any Person, intentional actual (and not constructive) misrepresentation of
+a material fact by such Person with respect to the representations and warranties in Article III or Article IV (as
+applicable) or the Ancillary Agreements with the actual knowledge (as opposed to imputed or constructive
+knowledge or knowledge that could have been obtained after inquiry , or recklessness or negligence) of such
+Person that such representation was false when made.
+“GAAP ” means United States generally accepted accounting principles as in ef fect from time to time. 
+ 
+6
+--- Page 20 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 20/124
+--- Page 21 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 21/124“Governmental Auth ority ” means any Unite d States or non-United States national, federal, state,
+provincial, municipal or local governmental, quasi-governmental, regulatory or administrative authority , agency
+or commission or any judicial or arbitral body (whether public or private).
+“Governmental Orde r” means any order , writ, judgment, injunction, decree, stipulation, determination  or
+award entered by or with any Governmental Authority .
+“Group Companies ” means, collectivel y, the Companies and each Transferred Subsidiary , and each a
+“Group Company ”.
+“GST/HST/QST ” means (i) all goods and services tax and harmonized sales tax imposed under Part IX
+of the Excise Tax Act (Canada), and (ii) all Quebec sales tax imposed under the Act respecting the Quebec sales
+tax.
+“HSR Act” means the Hart-Sc ott-Rodino Antitrus t Improvements Act of 1976, as amended from time to
+time, and the rules and regulations thereunder .
+“Indebtedness ” means, as at a specified time, without duplication, the principal amount, plus any relate d
+accrued and unpaid interest, fees and prepayment premiums, penalties, breakage costs, make whole payments
+and expense reimbursements of (i) indebtedness for borrowed money of the Group Companies, (ii) indebtedness
+of the Group Companies evidenced by any note, bond, debenture, other debt security or similar instrument,
+(iii) all finance lease  obligations of the Group Companies, if any, required to be capitalized in accordance with
+GAAP , other than any operating leases, (iv) deferred and unpaid purchase price of property , goods or services
+(but excluding any trade payables incurred in the ordinary course of business ), and any obligations resulting
+from any holdback, earn-out, performan ce bonus, seller note or other contingent or fixed payment arrangements
+arising out of any prior acquisition or business combination of any Group Com pany , (v) all declared but unpaid
+dividends or other distributions or loans payable by any Group Company to any of the Group Companies’
+Affiliates or equityholders as of the Closing (other than amounts payable solely among the Group Companies),
+(vi) reimbursement obligations relating to any letters of credit, performance bonds or similar obligations of any
+Group Company , in each case, to the extent drawn, (vii) any unpaid bonus  (excluding Retention Awards),
+commission, severance or nonqualified deferred compensation obligations to the extent accrued as of the Closing
+in respect of any current or former Business Employee, together with the employer portion of any applicable
+FICA, state, local or foreign withholding, payroll, Medicare, employment or similar Taxes to or with respect to
+any such payments described in this clause (vii) (determined as though such obligations were payable at the
+Closing), (viii) all Accrued Income Taxes and all unpaid Taxes of the Group Companies the payment of which
+has been deferred pursuant to the CARES Act or any corresponding or similar provisions of state, local or non-
+U.S. Law, (ix) cash overdrafts and negative bank balances, (x) the positive or negative value, as applicable, of all
+obligations of the Group Companies under interest rate, currency swap or hedging arrangements (with any such
+positive value resulting in a reduction to Indebtedness), and (xi) any indebtedness or other obligations of any
+other Person of the type described in the preceding clauses to the extent guarant eed by any Group Company (but
+only to the extent of the amount so guaranteed). Notwithstanding the foregoing, “Indebtedness” does not include
+(A) any obligations associated with leases classified as operating leases in the Financial Statements that were not
+required to be capitalized prior to the implementation of ASC 842 or operating leases entered into after the date
+of the Interim Financial Statements, (B) any intercompany obligations solely between or among any of the
+Group Companies, (C) trade payables and accrued expenses arising in the ordinary course of business, (D) any
+liability or obligation to the extent taken into account in the calculation of Net Working Capital or Transaction
+Expenses, or (E) any guarantee provided by any Group Company for the benefit of TreeHouse or its Affiliates
+that will be released promptly following the Closing.
+7
+--- Page 22 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 22/124
+--- Page 23 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 23/124“Indemnifying Party ” means TreeHouse pursuant to Section 8.2  and the Buyer pursuant to Section 8.3 .
+“Intellectual Property ” means any and all intellectual property , industrial property , and proprietary rights
+and statut ory and/or common law rights, in each case, in any jurisdiction throughout the world, including
+(i) trade names, trademarks and service marks, certification marks, logos, designs, slogans, taglines, brands,
+product names, corporate names, doma in names, trade dress, rights to social media handles and accounts, and
+other indic ia of source, origin or qualit y, and similar rights and applications to register any of the foregoing,
+together with all of the goodwill associated therewith and symbolized thereby (this clause (i), collectively ,
+“Trademarks ”); (ii) patents (including utility patents and design patents), and patent applications, patent
+disclosures, inventio n disclosures, statutory invention registrations, certificates of inventions, applications for
+any of the foregoin g, and other rights in inventions (whether patentable or not), including any continuations,
+divisionals, continuations-in-part, renewals, re-examinations and re-issue s for any of the foregoing;
+(iii) copyr ights (whether registered or unregistered) and copyrightable works, works of authorship, including
+product packaging,  designs, marketing and promotional materials, moral rights, and registrations and
+applications for registration; (iv) trade secrets, and confidential and proprie tary information, as well as all
+business, technical, operational, financi al, legal, marketing, advertising, sales, pricing, promotions, and credit
+information (in any form or medium and whether or not patentable or subject to copyright), including ideas,
+formulas, recipes, ingredients, compositions, inventions (whether patentable or unpatentable and whether or not
+reduced to practice), know-how , manufacturing and production processes and techniques, research and
+development information, drawings, specifications, designs, plans, proposals, Personal Data, technical data,
+financial and marketing plans and customer and supplier lists and information, in each case, that derive
+independent econom ic value, actual or potential, from not being generally known to, or readily ascertainable
+through proper means by other Persons  (collectively , “Trade Secrets ”); (v) World Wide Web addresses, domain
+names, and social media accounts, and applications and registrations therefor , (vi) Software; and (vii) all other
+forms of intellectual property , and all copies and tangible embodiments thereof.
+“IRS” means the Internal Revenue Service of the United States.
+“ITA” means the Income T ax Act (Canada), as amended.
+“Knowledge ” with respect to TreeHouse, means the actual knowledge of the persons listed in
+Section 1.1(a)  of the Disclosure Schedules after reasonable inquiry of their direct reports.
+“Law” means any statute,  law (including common law), ordinance, regulation, rule, act, code, injunction,
+judgment, directive, determination, ruling or Governmental Order .
+“Leased Real Property ” means the real property leased by a Group Company , in each case, as tenant,
+together with, to the extent leased by a Group Company , all buildings and other structures, facilities or
+improvements locate d thereon and all easements, licenses, rights and appurtenances of such Company or any of
+its Subsidiaries relating to the foregoing.
+“Leased Real Property Sublease ” means each Leased Real Property Sublease by and among the
+TreeHouse and the US Company , in the form attached hereto as Exhibit G .
+“Liabilities ” means all debts , liabilities, claims, demands, expenses, commitments, Losses and
+obligations, whether  accrued or fixed, absolute or contingent, primary or secondary , direct or indirect, known or
+unknown, liquidated or unliquidated, matured or unmatured, asserted or unasserted, billed or unbilled, due or to
+become due, or determined or determinable.
+8
+--- Page 24 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 24/124
+--- Page 25 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 25/124“Material Adverse Effect” means any event , change, occurrence or effect that has had or would
+reasonably be expected to have a mate rial adverse effect on the business, condition (financial or otherwise),
+assets, liabilities or results of operations of Group Companies or the Business, taken as a whole; provided ,
+however , that no event, change, occurrence or effect directly or indirectly arising out of, attributable to or
+resulting from any of the following, alone or in combination, shall be deemed to constitute, or be taken into
+account in determining whether there has been or would or could be, a Material Adverse Effect: (1) any changes
+in general economic or business conditions or in the financial, debt, banking, capital, credit or securities markets,
+or in interest or exchange rates, in each case, in the United States or elsewhere in the world, (2) any changes or
+developments gener ally affecting any of the industries in which the Group Companies and the Business operate,
+(3) any actions expressly required under this Agreement to obtain any approval or authorization under applicable
+antitrust or competit ion Laws for the consummation of the transactions contemplated hereby , (4) any adoption,
+implementation, modification, repeal or other changes in any applicable Laws (including actions taken by any
+Governmental Auth orities in connection with any of the events set forth in clauses (7), (8), (9) or (10) of this
+definition, including  adoption of or changes in any Public Health Measures) or any changes in applicable
+accounting regulations or principles, or in interpretations of any of the forego ing, in each case, after the date
+hereof, (5) any chan ge in the price or trading volume of TreeHouse’ s stock, in and of itself (provided  that the
+facts or occurrences giving rise to or contributing to such change that are not otherwise excluded from the
+definition of “Material Adverse Effect” may be taken into account in determining whether there has been a
+Material Adverse Effect), (6) any failure by TreeHouse or the Business to meet internal or published projections,
+forecasts or revenue or earnings predictions, in and of itself (provided  that the facts or occurrences giving rise to
+or contributing to such failure that are not otherwise excluded from the definition of “Material Adverse Effect”
+may be taken into account in determining whether there has been a Material Adverse Effect), (7) political,
+geopolitical, social or regulatory condit ions, including any outbreak, continuation or escalation of any military
+conflict or declared or undeclared war, including, for the avoidance of doubt, any conflict with respect to Russia
+and Ukraine, armed hostilities, civil unrest, public demonstrations or acts of foreign or domestic terrorism or
+sabotage (including hacking, ransomware or any other electronic attack), or any escalation or worsening of any
+such cond itions, (8) any natural or manmade disasters or calamities, weather conditions including hurricanes,
+floods, tornados, tsunamis, earthquakes and wild fires, cyber outages, or other force majeure events, or any
+escalation or worsening of such conditions, (9) any epidemic, pandemic or outbreak of disease (including, for the
+avoidance of doubt, COVID-19), or any escalation or worsening of such conditions, (10) any other regional,
+national or international calamity , crisis or emer gency , whether or not caused by any Person, (11) the public
+announcement of this Agreement and the transactions contemplated hereby , including the initiation of litigation
+by any Person with respect to this Agre ement due to the announcement of this Agreement or the identity of the
+parties to this Agreement, or the performance of the express terms required by this Agreement and the
+transactions contemplated hereby , including compliance with the covenants set forth herein (provided  that this
+exception shall not apply to any representation or warranty that addresses the consequences of the public
+announcement of the transactions contemplated hereby), (12) any action taken by a Business Entity , or which
+any Business Entity causes to be taken by any of its Subsidiaries, to the extent required by this Agreement,
+including any inaction in compliance with Section 5.1 to the extent that such inaction is as a result of the Buyer
+unreasonably withholding its consent under Section 5.1, (13) any price changes, supply chain disruptions or
+delays or increases in operating costs, supply or demand or (14) any actions taken (or omitted to be taken) at the
+express written request of the Buyer; provided  that, in the case of clauses (1), (2), (4), (7), (8), (9) and (10), if the
+impact of such event, change, occurrence or effect is disproportionately adverse to the Business Entities, taken as
+a whole, as compared to other companies operating in the Business Entities’  industries and in the geographic
+markets in which the Business Entities conduct business, then only the incre mental disproportionate adverse
+impact shall be taken into account when determining whether there has been a “Material Adverse Ef fect”.
+9
+--- Page 26 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 26/124“Net Working Capital ” means, as at a specified date and without duplication, an amount (which may be
+positive or negative ) equal to (i) the current assets of the Group Companies that are included in the line item
+categories of current assets specifically identified on Exhibit E, minus  (ii) the aggregate current liabilities of the
+Group Companies that are included in the line item categories of current liabilities specifically identified on
+Exhibit E, each of which shall be determined on a consolidated basis in accordance with the Applicable
+Accounting Principles. Notwithstanding anything to the contrary herein, in no event shall “Net Working Capital”
+include any amounts with respect to Cash, Indebtedness or Transaction Expenses. For the avoidance of doubt,
+the amounts set forth in Exhibit E are includ ed for illustrative calculation purposes only and do not represent or
+indicate binding principles that must be adhered to when calculating Net Working Capital. Furthermore, to the
+extent that the balan ces set forth in Exhibit E are not consistent with the Applicable Accounting Principles, the
+definition of the Applicable Accounting Principles will prevail.
+“Organizational Documents ” means the article s of incorporation, certificate of incorporation, charter ,
+bylaws, articles or certificate of formation, regulations, operating agreement, certificate of limited partnership,
+partnership agreeme nt, and all other similar documents, instruments, or certifica tes executed, adopted, or filed in
+connection with the creation, formation, or or ganization of a Person, including any amendments thereto.
+“Owned Real Property ” means the real property owned by a Group Company , together with, to the extent
+owned by a Group Company , all buildings and other structures, facilities or improvements located thereon and
+all easements, licenses, rights and appurtenances of a Group Company relating to the foregoing.
+“Permitted Encumbrance ” means (i) liens for Taxes that (A) are not yet delinquent or (B) are being
+contested in good faith and for which appropriate reserves have been establis hed in accordance with GAAP ,
+(ii) mechanics’, carriers’, workers’, repairers’  and other similar liens relating to obligations which are not due
+and payable, or whic h have been bonded over, or which are being contested or bonded over in good faith and for
+which appropriate cash reserves (which, for the avoidance of doubt, are not considered as part of the calculation
+of “Cash”) have been established in accordance with GAAP , (iii) zoning, entitlement, conservation restriction
+and other land use regulations promulg ated by Governmental Authorities which are not violated by the current
+use or occupancy of the Real Property , (iv) liens granted to any lender at the Closing in connection with any
+financing by the Buyer of the transactions contemplated hereby , (v) any right, interest, lien, title or other
+Encumbrance of a lessor or sublessor under any Leases, (vi) any right, interest, lien, title or other Encumbrances
+created on any portion of the Owned Real Property by the Buyer or its agents or representatives, (vii) all
+exceptions, restricti ons, easements, imperfections of title, rights-of-way and other similar matters of record
+(except for any recorded mortgage or deed of trust lien not covered by clause (iv)) to the extent disclosed on a
+current commitment for a standard coverage policy of title insurance cove ring any Owned Real Property
+(including, for any Owned Real Property , any recent commitment made available to Buyer by TreeHouse, if and
+to the extent so provided to Buyer) (each such commitment, a “Title Commitment ”) that do not materially
+interfere with the present use of the Real Property in the operation of the Business conducted thereon, (viii) non-
+exclusive licenses of, or covenants not to sue with respect to, Intellectual Property granted to customers in the
+ordinary course of business, and (ix) the items set forth on Section 1.1(b)  of the Disclosure Schedules.
+“Person ” means an individual, corporation, partnership, limited liability company , limited liability
+partnership, syndicate, person, trust, association, organization or other entity , including any Governmental
+Authority , and including any successor , by mer ger or otherwise, of any of the foregoing.
+10
+--- Page 27 ---
+1/17/24, 1:33 PM Document
+https://www.sec.gov/Archives/edgar/data/1320695/000132069522000167/exhibit21stockpurchaseagre.htm 27/124“Personal Data ” means any information about an identified or identifiable individual, in any form
+(whether oral, written or electronic), including any record that can be manipulated, linked or matched by any
+method to identify an individual, wheth er directly or indirectly , alone or in combination with other information,
+which is collected, use, disclosed, transmitted, stored or otherwise processed by the Business on its own behalf
+or on behalf of any customer , client, or other third party .
+“Pickles and Refrigerated Dough Assets ” means all of the assets primarily related to the Pickles and
+Refrigerated Dough Business, including , without limiting the generality of the foregoing, the assets set forth on
+Section 5.1 1(c)(ii)(A)  of the Disclosure Schedules.
+“Pickles and Refrige rated Dough Liabilities ” means all Liabilities primarily related  to the Pickles and
+Refrigerated Dough Business or arising out of the Pickles and Refrigerated Dough Assets, including, without
+limiting the generality of the foregoing, the Liabilities set forth on Section 5.11(c)(ii)(B)  of the Disclosure
+Schedules.
+“Pre-Closing Tax Period ” means any taxable period (or the portion of any Straddle Period) ending on or
+prior to the Closing Date.
+“Public Health Measures ” means any closures, “shelter -in-place,” “stay at home,” social distancing, shut
+down, closure, curfew or other restrictio ns or any other Laws, orders, directives, guidelines

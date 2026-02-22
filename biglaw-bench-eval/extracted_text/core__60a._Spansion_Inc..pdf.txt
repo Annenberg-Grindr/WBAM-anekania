@@ -1,0 +1,514 @@
+--- Page 1 ---
+EX-10.68 2 dex1068.htm BACKST OP RIGHTS PURCHASE AGREEMENT
+Exhibit 10.68
+ 
+ 
+   
+BACKST OP RIGHTS PURCHASE AGREEMENT
+ 
+between
+SPANSION INC.
+and
+SLS SP ANSION HOLDINGS, LLC
+Dated as of January 25, 2010
+   
+--- Page 2 ---
+BACKST OP RIGHTS PURCHASE AGREEMENT
+TABLE OF  CONTENTS
+ 
+Section 1.     The Backstop Commitment   1
+Section 2.     Backstop Fee; Transaction Expenses   3
+Section 3.     Representations and Warranties of the Company   3
+Section 4.     Representations and Warranties of the Backstop Party   7
+Section 5.     Additional Covenants of the Company   9
+Section 6.     Conditions   10
+Section 7.     Indemnification and Limitation on Liability   12
+Section 8.     Survival of Representations and Warranties   12
+Section 9.     Termination; Termination Fee   12
+Section 10.     Notices   13
+Section 1 1.     Assignment; Third-Party Beneficiaries   14
+Section 12.     Prior Negotiations; Entire Agreement   14
+Section 13.     Governing Law; Jurisdiction   14
+Section 14.     Counterparts   15
+Section 15.     Waivers and Amendments   15
+Section 16.     Headings   15
+Section 17.     Specific Performance   15
+Section 18.     Guaranty   15
+ 
+i
+--- Page 3 ---
+BACKST OP RIGHTS PURCHASE AGREEMENT
+This BACKST OP RIGHTS PURCHASE AGREEMENT  (this “ Agreement ”), dated as of January 25, 2010, is entered into by and
+among Spansion Inc., a Delaware corporation (the “ Company ”) and SLS Spansion Holdings, LLC, a Delaware limited liability company
+(the “ Backstop Party ”), and Silver Lake Sumeru Fund, L.P ., a Delaware limited partnership (the “ Guarantor ”). Capitalized terms used and
+not otherwise defined in this Agreement shall have the meanings set forth in the Plan (as defined below).
+RECIT ALS
+WHEREAS, on December 17, 2009, the Company , Spansion Technology LLC, a Delaware limited liability company , Spansion LLC,
+a Delaware limited liability company , Cerium Laboratories LLC, a Delaware limited liability company , and Spansion International, Inc., a
+Delaware corporation (together with the Company , the “ Debtors ”), filed a Second Amended Joint Plan of Reor ganization of the Debtors
+dated December 16, 2009 (the “ Plan”) with the United States Bankruptcy Court for the District of Delaware (the “ Bankruptcy Court ”),
+Case No. 09-10690 (KJC); and
+WHEREAS, pursuant to the terms of the Plan, the Rights Of fering Participants will be given the opportunity to purchase in the Rights
+Offering, on a pro rata basis in proportion to their respective holdings of such claims, up to an aggregate amount of 12,974,496 shares of
+New Spansion Common Stock (the “ Rights Of fering Shares ”) at a price of $8.43 per share (the “ Subscription Price ”) for an aggregate
+purchase price of $109,375,000; and
+WHEREAS, the Plan contemplates that the Debtors may decide to have a Backstop Party for the Rights Of fering and that, if such
+decision is made, they will enter into an agreement such as this Agreement.
+NOW , THEREFORE, in consideration of the mutual promises contained herein and for other good and valuable consideration, the
+receipt and suf ficiency of which are hereby acknowledged, the Company and the Backstop Party hereby agree as follows:
+Section 1. The Backstop Commitment .
+(a) On the basis of the representations and warranties contained herein, but subject to the applicable conditions set forth in
+Section 6 , if the Rights Of fering Participants shall not have funded the purchase of all of the Rights Of fering Shares on or before
+February 10, 2010 (the “ First Funding Deadline ”), the Backstop Party hereby commits, and the Company hereby grants the Backstop Party
+the right, to purchase the number of Rights Of fering Shares that were not funded to be purchased by the Rights Of fering Participants on or
+before the First Funding Deadline (the “ Backstop Commitment ”). The purchase price per Rights Of fering Share purchased pursuant to this
+Section 1  shall be the Subscription Price. All amounts funded by the Backstop Party pursuant to this Section 1  shall be funded into an
+escrow account, maintained pursuant to an escrow agreement on terms and conditions, and with an escrow agent, acceptable to the
+Backstop Party . The Company further agrees that, to the extent that the Backstop Party or any of its Affiliates timely subscribes to Rights
+Offering Shares directly in the Rights Of fering,
+--- Page 4 ---
+the subscription for such Rights Of fering Shares may be funded into the same escrow account, notwithstanding the terms of the Rights
+Offering and related subscription documentation.
+(b)(i) The Backstop Party will fund the purchase, and the Company will commit to sell to the Backstop Party , at a price equal to
+the Subscription Price therefor , such number of the Rights Of fering Shares for which Rights Of fering Participants have not
+committed to purchase by timely submitting completed Subscription Forms by the Subscription Deadline in accordance with the Plan
+(the “ Subscription Gap ”), as follows: (A) on the First Funding Date, the Backstop Party will fund an amount that, when added to the
+amounts funded by the other Rights Of fering Participants by the First Funding Deadline, equals at least $80 million in the aggregate;
+and (B) on February 12, 2010, (the “ Second Funding Deadline ”), the Backstop Party will fund the remaining amount of the
+Subscription Gap plus up to $5 million of commitments by other Rights Of fering Participants that were not funded by such Rights
+Offering Participants despite their commitments to so fund; provided that , the Company shall provide the Backstop Party with notice
+of the amount of the Subscription Gap not later than two (2) Business Days following the Subscription Deadline.
+(ii) Within seventeen (17) days following the First Funding Deadline (the “ Subsequent Funding Date ”), the Backstop Party
+will fund the purchase, and the Company will commit to sell to the Backstop Party , at a price equal to the Subscription Price therefor ,
+such number of the Rights Of fering Shares for which Rights Of fering Participants, if any , have subscribed for by timely submitting
+completed Subscription Forms by the Subscription Deadline in accordance with the Plan but have failed to fund by the Second
+Funding Deadline that were not already funded by the Backstop Party (the “ Failure to Fund Gap ”); provided that , the Company shall
+provide the Backstop Party with notice of the amount of the Failure to Fund Gap not later than two (2) Business Days following the
+First Funding Deadline.
+(iii) Notwithstanding the other provisions of this Section 1(b) , in lieu of receiving one of the Rights Of fering Shares
+issuable to the Backstop Party under Section 1(b)(i)  pursuant to the Backstop Commitment, the Backstop Party shall receive one
+(1) share of common stock of the Company classified as “Class B Common Stock” (the “ Class B Share ”) . The Backstop Party shall
+have the exclusive right to receive Class B Shares, and the rights, preferences and privileges of such Class B Share shall be set forth
+in the Amended and Restated Certificate of Incorporation and the Amended and Restated Bylaws of the Company , in form and
+substance acceptable to the Backstop Party .
+(c) Except as set forth in Section 1(d) , all Rights Of fering Shares and the Class B Share shall be delivered to the Backstop Party
+with any and all issue, stamp, transfer or similar taxes or duties payable in connection with such delivery duly paid by the Company to the
+extent required under the Confirmation Order or applicable law .
+(d) Notwithstanding anything to the contrary in this Agreement, the Backstop Party , in its sole discretion, may designate that
+some or all of the Rights Of fering Shares or the Class B Share, as the case may be, be issued in the name of and delivered to, one or more
+of its Affiliates or any other third party; provided that , the Backstop Party will be responsible for any and all issue, stamp, transfer or
+similar taxes or duties payable in connection therewith.
+ 
+2
+--- Page 5 ---
+Section 2. Backstop Fee; Transaction Expenses .
+(a) Immediately following the consummation of the Rights Of fering, the Company shall pay to Silver Lake Management
+Company Sumeru, L.L.C. (an Affiliate of the Backstop Party), by wire transfer in immediately available funds to an account specified by
+the Backstop Party not less than one day prior to the Ef fective Date, a backstop commitment fee in an amount equal to Four Million Five
+Hundred Thousand Dollars ($4,500,000) (the “ Backstop Fee ”).
+(b) Whether or not the transactions contemplated hereby are consummated, the Company shall reimburse or pay , as the case may be,
+all of the reasonable fees and expenses of the Backstop Party and its Affiliates incurred in connection with the transactions contemplated
+hereby (the “ Transaction Expenses ”), including without limitation reasonable expenses related to industry research, travel expenses, fees
+and expenses of Milbank, Tweed, Hadley & McCloy LLP  and local Wilmington, Delaware counsel, as legal advisors to the Backstop Party
+and its Affiliates, and fees and expenses of the accountants, financial advisors and other professionals retained by the Backstop Party and
+its Affiliates in connection with the transactions contemplated herein. The Company shall pay all Transaction Expenses as soon as
+reasonably practical, but in any case not more than ten (10) Business Days after presentation of an invoice by or on behalf of the Backstop
+Party . These obligations are in addition to, and do not limit, the Company’ s obligations under Section 7 . The provision for the payment of
+the Transaction Expenses is an integral part of the transactions contemplated by this Agreement, and without this provision the Backstop
+Party would not have entered into this Agreement and shall constitute an administrative expense of the Company under section 364(c)(1)
+of the Bankruptcy Code.
+Section 3. Representations and Warranties of the Company . The Company represents and warrants to, and agrees with, the Backstop
+Party as of the date hereof and on the Ef fective Date as follows:
+(a) Incorporation and Qualification . The Company and each of the direct and indirect subsidiaries of the Company has been
+duly or ganized and is validly existing as a corporation or other form of entity , where applicable, in good standing under the laws of their
+respective jurisdictions of or ganization, with the requisite power and authority to own its properties and conduct its business as currently
+conducted, subject, as applicable, to the restrictions that result from any such entity’ s status as a debtor -in-possession under chapter 1 1 of
+the Bankruptcy Code. The Company and each of its subsidiaries has been duly qualified as a foreign corporation or other form of entity for
+the transaction of business and, where applicable, is in good standing under the laws of each other jurisdiction in which it owns or leases
+properties or conducts business so as to require such qualification, except to the extent the failure to be so qualified or , where applicable, be
+in good standing would not reasonably be expected to have, individually or in the aggregate, a material adverse ef fect on the business,
+results of operations, property or financial condition of the Company and its subsidiaries taken as a whole, or on the ability of the
+Company , subject to the approvals and other authorizations set forth in Section 3(g) , to consummate the transactions contemplated by this
+Agreement or the Plan (a “ Material Adverse Ef fect”). Notwithstanding the foregoing, no representation is made with respect to Spansion
+Japan Ltd.
+ 
+3
+--- Page 6 ---
+(b) Corporate Power and Authority . The Company has the requisite corporate power and authority to enter into, execute and
+deliver this Agreement and to perform its obligations hereunder , including the issuance of the Rights Of fering Shares. The Company has
+taken all necessary corporate action required for the due authorization, execution, delivery and performance by it of this Agreement,
+including the issuance of the Rights Of fering Shares. The issuance of the Rights Of fering Shares to the Backstop Party on the Ef fective
+Date will have been duly and validly authorized. Subject to entry of the Confirmation Order and the expiration, or waiver by the
+Bankruptcy Court, of the fourteen (14) day period set forth in Bankruptcy Rule 3020(e), on the Ef fective Date, the Debtors will have the
+requisite corporate power and authority to execute the Plan and to perform their obligations thereunder , and will have taken all necessary
+corporate actions required for the due authorization, execution, delivery and performance by the Debtors of the Plan.
+(c) Capitalization . After giving ef fect to the transactions contemplated by this Agreement and the Plan, the capital stock of the
+Company , as authorized by its Amended and Restated Certificate of Incorporation, will consist solely of shares of New Spansion Common
+Stock and the Class B Stock, if issued pursuant to Section 1(f) , and no shares will be issued, outstanding, reserved for issuance or held in
+the treasury of the Company , except as provided in the Plan and disclosed in the Disclosure Statement (as dated December 16, 2009, the
+“December 16  Disclosure Statement ”).
+(d) Execution and Delivery; Enforceability . This Agreement has been duly and validly executed and delivered by the Company ,
+and constitutes the valid and binding obligations of the Company , enforceable against the Company in accordance with its terms, subject to
+bankruptcy , reor ganization, insolvency , moratorium and other laws af fecting the enforcement of creditors’  rights generally from time to
+time in ef fect and subject to general equitable principles. The Plan has been duly and validly filed with the Bankruptcy Court by the
+Debtors and, upon the entry of the Confirmation Order and the expiration, or waiver by the Bankruptcy Court, of the fourteen (14) day
+period set forth in Bankruptcy Rule 3020(e), will constitute the valid and binding obligation of the Company , enforceable against the
+Company in accordance with its terms, subject to general equitable principles.
+(e) No Conflict . Subject to the entry of the Confirmation Orders and the expiration, or waiver by the Bankruptcy Court, of the
+fourteen (14) day period set forth in Bankruptcy Rule 3020(e), as applicable, the consummation of the Rights Of fering by the Company ,
+the issuance, sale and delivery of the Rights Of fering Shares and compliance by the Company with all of the provisions hereof and thereof
+and the consummation of the transactions contemplated herein and therein (including compliance by the Backstop Party with its
+obligations hereunder and thereunder) (i) will not conflict with, or result in a breach or violation of, any of the terms or provisions of, or
+constitute a default under , or result in the acceleration of, or the creation of any lien under , any indenture, mortgage, deed of trust, loan
+agreement or other agreement or instrument to which the Company or any of its subsidiaries is a party or by which the Company or any of
+its subsidiaries is bound or to which any of the property or assets of the Company or any of its subsidiaries is subject, (ii) will not result in
+any violation of the provisions
+ 
+4th
+--- Page 7 ---
+of the certificate of incorporation or bylaws of the Company and any other Debtor and (iii) will not result in any violation of, or any
+termination or material impairment of any rights under , any statute or any license, authorization, injunction, judgment, order , decree, rule
+or regulation of any court or governmental agency or body having jurisdiction over the Company or any of its subsidiaries or any of their
+respective properties, except in any such case described in subclause (i) or (iii) as would not reasonably be expected to have, individually
+or in the aggregate, a Material Adverse Ef fect.
+(f) Consents and Approvals . No consent, approval, authorization, order , registration or qualification of or with any court or
+governmental agency or body having jurisdiction over the Company or any of its subsidiaries or any of their respective properties or by
+any third party pursuant to any contract or otherwise is required for the consummation of the Rights Of fering by the Company and the
+execution and delivery by the Company of this Agreement or the Plan and performance of and compliance by the Company with all of the
+provisions hereof and thereof and the consummation of the transactions contemplated herein and therein, except for (i) the entry of the
+Confirmation Order and the expiration, or waiver by the Bankruptcy Court, of the ten (10) day period set forth in Bankruptcy
+Rules 6004(h) and 3020(e), as applicable; (ii) filings with respect to and the expiration or termination of the waiting period under
+Section 7A  of the Clayton Act (T itle II of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended (the “ HSR Act”), if
+applicable; (iii) such consents, approvals, authorizations, registrations or qualifications as may be reasonably required under state securities
+or “blue sky” laws in connection with the purchase of Rights Of fering Shares by the Backstop Party; or (iv) such consents, approvals,
+authorizations, registrations or qualifications, the absence of which would not reasonably be expected to have, individually or in the
+aggregate, a Material Adverse Ef fect.
+(g) No Material Adverse Change . Except as disclosed in the Company’ s Securities and Exchange Commission (the
+“Commission ”) filings as of the date of this Agreement (the “ SEC Filings ”) or the December 16  Disclosure Statement, since
+September 27, 2009 there has not occurred any event, fact or circumstance which has had or would reasonably be expected to have,
+individually , or in the aggregate, a Material Adverse Ef fect on the Company and its subsidiaries.
+(h) No Violation or Default; Licenses and Permits . Except as otherwise set forth in the SEC Filings or the December 16
+Disclosure Statement, each of the Company and its subsidiaries (i) is in compliance with all laws, statutes, ordinances, rules, regulations,
+orders, judgments and decrees of any court or governmental agency or body having jurisdiction over the Company or any of its
+subsidiaries or any of their respective properties, and (ii) has not received written notice of any alleged material violation of any of the
+foregoing except, in the case of clauses (i) and (ii) above, for any such failure to comply , default or violation that would not, individually or
+in the aggregate, be reasonably expected to have a Material Adverse Ef fect. Subject to the restrictions that result solely from the Company
+or any subsidiary’ s status as a debtor -in-possession under chapter 1 1 of the Bankruptcy Code (including that in certain instances such
+subsidiary’ s conduct of its business requires Bankruptcy Court approval), each of the Company and its subsidiaries holds all material
+licenses, franchises, permits, consents, registrations, certificates and other governmental and regulatory permits, authorizations and
+approvals required for the operation of the business as currently conducted by it and for the
+ 
+5th
+th
+--- Page 8 ---
+ownership, lease or operation of its material assets, except where the failure to possess or make the same would not, individually or in the
+aggregate, have a Material Adverse Ef fect and is not in violation of its certificate of incorporation, bylaws or other or ganizational
+document.
+(i) Legal Proceedings . Except as described in the SEC Filings or the December 16  Disclosure Statement, there are no legal,
+governmental or regulatory investigations, actions, suits or proceedings pending or , to the knowledge of the Company , threatened against
+the Company or any of its subsidiaries which, individually or in the aggregate, if determined adversely to the Company or any of its
+subsidiaries, would reasonably be expected to have a Material Adverse Ef fect.
+(j) Title to Intellectual Property . The Company and its subsidiaries own or possess adequate rights to use all material patents,
+patent applications, trademarks, service marks, trade names, trademark registrations, service mark registrations, copyrights, licenses and
+know-how (including trade secrets and other unpatented and/or unpatentable proprietary or confidential information, systems or
+procedures) necessary for the conduct of their respective businesses, except where the failure to own or possess any such rights could not
+reasonably be expected to have a Material Adverse Ef fect.
+(k) No Undisclosed Relationships . No relationship, direct or indirect, exists between or among the Company or any of its
+subsidiaries, on the one hand, and the directors, of ficers, stockholders, customers or suppliers of the Company or any of its subsidiaries, on
+the other , that is required be disclosed in the SEC Filings or the December 16  Disclosure Statement and that are not so disclosed.
+(l) Insurance . Except as would not, individually or in the aggregate, result in a Material Adverse Ef fect, the Company and its
+subsidiaries have insurance covering their respective properties, operations, personnel and businesses, including business interruption
+insurance, which insurance is in amounts and insures against such losses and risks as are customary for companies whose businesses are
+similar to the Company and its subsidiaries; and as of the date hereof, neither the Company nor any of its subsidiaries has (i) received
+written notice from any insurer or agent of such insurer that capital improvements or other material expenditures are required or necessary
+to be made in order to continue such insurance or (ii) any reason to believe that it will not be able to renew its existing insurance coverage
+as and when such coverage expires or to obtain similar coverage at reasonable cost from similar insurers as may be necessary to continue
+its business.
+(m) No Broker ’s Fees . None of the Company or any of its subsidiaries is a party to any contract, agreement or understanding
+with any person (other than this Agreement) that would give rise to a valid claim against the Backstop Party for a brokerage commission,
+finder ’s fee or like payment in connection with the transactions contemplated by this Agreement.
+(n) Title to Real and Personal Property . The Company and its subsidiaries have good and marketable title to all real property
+owned by the Company and its subsidiaries and good title to all other tangible and intangible properties (other than Intellectual Property
+covered by Section 3(j) ) owned by them, in each case, free and clear of all mortgages, pledges, liens, security interests, claims, restrictions
+or encumbrances of any kind except such as (i) are
+ 
+6th
+th
+--- Page 9 ---
+described in the SEC Filings or the December 16  Disclosure Statement or (ii) individually and in the aggregate, have not had and would
+not reasonably be expected to have a Material Adverse Ef fect. All of the leases and subleases to which the Company or its subsidiaries are
+a party are in full force and ef fect and enforceable by the Company or such subsidiary in accordance with their terms, and neither the
+Company nor any subsidiary has received any written notice of any claim that has been asserted by anyone adverse to the rights of the
+Company or any subsidiary under any of the leases or subleases mentioned above, or af fecting or questioning the rights of the Company or
+such subsidiary to the continued possession of the leased or subleased property by under any such lease or sublease, except where any such
+claim or failure to be enforceable would not reasonably be expected to have, individually or in the aggregate, a Material Adverse Ef fect.
+(o) Full Disclosure . No information contained in this Agreement, the Plan or the December 16  Disclosure Statement contains
+any untrue statement of a material fact or omits to state a material fact necessary to make the statements contained herein or therein not
+misleading in light of the circumstances under which made.
+Section 4. Representations and Warranties of the Backstop Party . The Backstop Party represents and warrants to, and agrees, with
+respect to itself only , with, the Company as of the date hereof and as of the Ef fective Date as follows:
+(a) Organization . The Backstop Party has been duly formed and is validly existing as a limited liability company in good
+standing under the laws of its jurisdiction of or ganization.
+(b) Corporate Power and Authority . The Backstop Party has the requisite corporate or comparable power and authority to enter
+into, execute and deliver this Agreement and to perform its obligations hereunder and has taken all necessary action required for the due
+authorization, execution, delivery and performance by it of this Agreement.
+(c) Execution and Delivery . This Agreement has been duly and validly executed and delivered by the Backstop Party and
+constitutes its valid and binding obligation, enforceable against the Backstop Party in accordance with its terms, subject to general
+equitable principles.
+(d) No Conflicts . The execution, delivery , and performance by the Backstop Party of this Agreement do not and shall not
+(i) violate any provision of its or ganizational documents or any law , rule, or regulation applicable to it or (ii) conflict with, result in a
+breach of, or constitute (with due notice or lapse of time or both) a default under any material contractual obligation to which it is a party
+or under its or ganizational documents.
+(e) Proceedings . No litigation or proceeding before any court, arbitrator , or administrative or governmental body is pending or ,
+to its knowledge, threatened against it that would adversely af fect the Backstop Party’ s ability to enter into this Agreement or perform its
+obligations hereunder .
+(f) Consents and Approvals . No consent, approval, order , authorization, registration or qualification of or with any court or
+governmental agency or body having jurisdiction over the Backstop Party or the Backstop Party’ s Affiliates, is required in connection
+ 
+7th
+th
+--- Page 10 ---
+with the execution and delivery of this Agreement or the consummation of the transactions contemplated hereby , except for any consent,
+approval, order or authorization required under the Bankruptcy Code.
+(g) Sufficiency of Funds . On the First Funding Deadline, the Second Funding Deadline and the Subsequent Funding Date, if
+any, the Backstop Party will have suf ficient immediately available funds to make and complete the payment of the aggregate Subscription
+Price for the portion of the Rights Of fering Shares that represents the Subscription Gap and the Failure to Fund Gap, respectively , and the
+availability of such funds will not then be subject to the consent, approval or authorization of any third party .
+(h) No Registration Under the Securities Act. The Backstop Party understands (i) that the Rights Of fering Shares and the Class
+B Share to be purchased by it pursuant to the terms of this Agreement have not been registered under the Securities Act of 1933, as
+amended (the “ Securities Act”), (ii) that, except as provided in the Registration Rights Agreement, the Company shall not be required to
+effect any registration or qualification under the Securities Act or any state securities law , (iii) that the Rights Of fering Shares and the Class
+B Share will be issued in reliance upon exemptions contained in the Securities Act or interpretations thereof and in the applicable state
+securities laws, in each case to the extent that section 1 145 of the Bankruptcy Code is not applicable, and (iv) that the Rights Of fering
+Shares and the Class B Share may not be of fered for sale, sold or otherwise transferred, in each case to the extent that section 1 145 of the
+Bankruptcy Code is not applicable, except pursuant to a registration statement or in a transaction exempt from or not subject to registration
+under the Securities Act.
+(i) Acquisition for Investment . The Rights Of fering Shares and the Class B Share are being acquired under this Agreement by
+the Backstop Party in good faith solely for its own account, for investment and not with a view toward resale or other distribution within
+the meaning of the Securities Act; provided, however , that the disposition of the Backstop Party’ s property shall at all times be under its
+control. The Backstop Party will not, directly or indirectly , offer, transfer , sell, pledge, hypothecate or otherwise dispose of any of the
+Rights Of fering Shares or the Class B Share (or solicit any of fers to buy , purchase, or otherwise acquire or take a pledge of any of the
+Rights Of fering Shares or the Class B Share), except pursuant to a registration statement or in a transaction exempt from or not subject to
+registration under the Securities Act and any applicable state securities laws.
+(j) Independent Investigation; Retention of Tax Advisors . The Backstop Party has made its own inquiry and investigation into
+the Company and has undertaken such investigation and had access to such information as it has deemed necessary to enable it to make an
+informed and intelligent decision with respect to the execution, delivery and performance of this Agreement. The Backstop Party has
+consulted its own tax advisors with regard to its participation in the Rights Of fering and the tax consequences thereof, and has not relied on
+any advice from the Company or its representatives regarding the tax consequences of an investment in the Rights Of fering Shares or the
+Class B Share.
+(k) Accredited Investor . The Backstop Party is an “accredited investor” within the meaning of Rule 501(a) under the Securities
+Act, with such knowledge and experience
+ 
+8
+--- Page 11 ---
+in financial and business matters as are necessary in order to evaluate the merits and risks of an investment in the Rights Of fering Shares or
+the Class B Share.
+(l) No Broker ’s Fees . The Backstop Party is not a party to any contract, agreement or understanding with any Person (other than
+this Agreement) that would give rise to a claim against the Company for a brokerage commission, finder ’s fee or like payment in
+connection with the transactions contemplated hereby .
+Section 5. Additional Covenants of the Company . Except as provided in this Agreement or otherwise consented to in writing by
+each of the Backstop Party , during the period from the date of this Agreement to the Ef fective Date, the Company agrees with the Backstop
+Party as follows:
+(a) Rights Of fering . The Company will ef fectuate the Rights Of fering, as provided herein and in the Plan and the December 16
+Disclosure Statement, pursuant to the securities exemption provisions set forth in section 1 145(a) of the Bankruptcy Code or other
+exemptions in the Securities Act or interpretations thereof.
+(b) Registration Rights Agreement . The Company will file with the Bankruptcy Court as soon as practicable a form of a
+registration rights agreement (the “ Registration Rights Agreement ”), in the form attached as Exhibit C  hereto. The Company and the
+Backstop Party shall use commercially reasonable ef forts to finalize and execute, and seek Bankruptcy Court approval of, the Registration
+Rights Agreement as promptly as practicable.
+(c) Conduct of Business . During the period from the date of this Agreement to the Ef fective Date, the Company and its
+subsidiaries shall carry on their businesses in the ordinary course (subject to any actions which are consistent with the SEC Filings and the
+December 16  Disclosure Statement and any limitations on such actions under the Bankruptcy Code) and, to the extent consistent
+therewith, use their commercially reasonable ef forts to preserve intact their current business or ganizations, keep available the services of
+their current of ficers and employees and preserve their relationships with customers, suppliers, licensors, licensees, distributors and others
+having business dealings with the Company or its subsidiaries.
+(d) Access to Information . Subject to applicable law , the Company shall (and shall cause its subsidiaries to) permit
+representatives of the Backstop Party and its Affiliates to visit and inspect any of the properties of the Company and its subsidiaries, to
+examine their corporate books and make copies or extracts therefrom and to discuss the af fairs, finances and accounts of the Company and
+its subsidiaries with the principal of ficers of the Company and its subsidiaries, all at such reasonable times, upon reasonable notice and as
+often as the Backstop Party may reasonably request.
+(e) Amendments to Or ganizational Documents . The Company will amend its certificate of incorporation, bylaws and any other
+required or ganizational documents to provide for the governance rights granted to holders of the New Spansion Common Stock and the
+Class B Shares; provided that , the rights, preferences and privileges of such Class B Shares as set forth on Exhibit A hereto shall be set
+forth in the Amended and Restated Certificate of Incorporation and the Amended and Restated Bylaws of the Company .
+ 
+9th
+th
+--- Page 12 ---
+Section 6. Conditions .
+(a) Conditions to the Obligations of Each Party . The respective obligations of the Backstop Party and the Company to ef fect the
+purchase of the Rights Of fering Shares pursuant to this Agreement on the Ef fective Date are subject to the following conditions:
+(i) No Restraint . No judgment, injunction, decree or other legal restraint shall prohibit the consummation of the Plan, the Rights
+Offering or the transactions contemplated by this Agreement.
+(ii) HSR Act; Regulatory Approvals . If the purchase of Rights Of fering Shares by the Backstop Party pursuant to this
+Agreement is subject to the terms of the HSR Act or the laws of any relevant foreign jurisdiction, the applicable waiting period shall
+have expired or been terminated thereunder with respect to such purchase.
+(iii) No Legal Impediment to Issuance . No action shall have been taken and no statute, rule, regulation or order shall have been
+enacted, adopted or issued in each by any federal, state or foreign governmental or regulatory authority that, as of the Ef fective Date,
+prohibits the issuance or sale of the Rights Of fering Shares pursuant to this Agreement.
+(iv) Consents . All other material governmental and third-party notifications, filings, consents, waivers and approvals required
+for the consummation of the transactions contemplated by this Agreement and the Plan shall have been made or received.
+(b) Conditions to the Obligations of the Backstop Party . The obligation of the Backstop Party to purchase the Rights Of fering
+Shares pursuant to this Agreement on the Ef fective Date are subject to the following conditions:
+(i) Representations and Warranties and Covenants . The representations and warranties of the Company set forth in this
+Agreement (disregarding all qualifications and exceptions contained therein regarding materiality or Material Adverse Ef fect) shall be
+true and correct on the date hereof and on the Ef fective Date as if made on such date, except, where the failure of such
+representations and warranties to be so true and correct, individually or in the aggregate, would not reasonably be expected to have a
+Material Adverse Ef fect. The Company shall have complied in all material respects with all of its material obligations hereunder .
+(ii) Confirmation Order . An order of the Bankruptcy Court confirming the Plan pursuant to section 1 129 of the Bankruptcy Code
+(the “ Confirmation Order ”) that is acceptable to the Backstop Party must have been entered and declared ef fective by the Bankruptcy
+Court, no order staying the Confirmation Order shall be in ef fect, and the Plan shall have become ef fective in accordance to its terms
+(the Backstop Party shall act reasonably in determining whether the Confirmation Order is acceptable, provided that any terms,
+conditions, provisions or omissions of the Confirmation Order that have a material impact on the Rights Of fering, the Backstop
+Commitment or the terms set forth in this Agreement shall be acceptable to the Backstop Party in their sole discretion);
+ 
+10
+--- Page 13 ---
+(iii) Plan and Disclosure Statement . The Plan as may be further amended or modified, and the December 16  Disclosure
+Statement as may be further amended or modified, shall be materially consistent with the terms and conditions contained in this
+Agreement, and must be acceptable to the Backstop Party (the Backstop Party shall act reasonably in determining whether such
+amended or modified Plan or such amended or modified disclosure statement are acceptable, provided that any terms, conditions,
+provisions or omissions of the amended or modified Plan or such amended or modified disclosure statement that have a material
+impact on the Rights Of fering, the Backstop Commitment or the terms set forth in this Agreement shall be acceptable to the Backstop
+Party in their sole discretion);
+(iv) Conditions to Confirmation . Each of the conditions precedent to the confirmation of the Plan and the conditions precedent
+to the ef fectiveness of the Plan and the occurrence of the Ef fective Date shall have been satisfied in accordance with the Plan.
+(v) Documentation . The Backstop Party shall have received all the documentation required to consummate the transaction
+contemplated hereby , each duly executed and in form and substance reasonably satisfactory to the Backstop Party .
+(vi) Rights Of fering . The Subscription Deadline shall have occurred.
+(vii) No Material Adverse Ef fect. No Material Adverse Ef fect shall have occurred or shall be reasonably likely to occur .
+(viii) Total Indebtedness . As of the Ef fective Date, the total outstanding indebtedness of the Company and its subsidiaries on a
+consolidated basis shall not exceed $525,000,000, not including up to $25,000,000 of additional indebtedness that may be issued in
+settlement of supplier claims, and all such indebtedness shall be on terms reasonably acceptable to the Backstop Party .
+(ix) Total Shares . The total number of shares of New Spansion Common Stock and other common stock of the Company
+outstanding on the Ef fective Date shall not exceed 50,000,000 shares on a fully diluted basis (including shares issuable upon
+conversion of any convertible notes or other securities, and shares issuable upon exercise of options or warrants), but excluding up to
+6,000,000 shares that may be issued as equity incentive awards or pursuant to options granted to employees of the Company and its
+subsidiaries.
+(x) Amendments to Or ganizational Documents . The Amended and Restated Certificate of Incorporation and the Amended and
+Restated Bylaws of the Company and the other Debtors are in a form reasonably acceptable to the Backstop Party .
+(xi) Fees, Etc . All fees and other amounts required to be paid or reimbursed to the Backstop Party as of the Ef fective Date,
+including, without limitation, the Backstop Fee and the Transaction Expenses, shall have been paid or reimbursed in full.
+ 
+11th
+--- Page 14 ---
+(xii) Registration Rights Agreement . The Company shall have entered into the Registration Rights Agreement with the Backstop
+Party in accordance with Section 5(b) , in form and substance reasonably satisfactory to the Backstop Party .
+(c) Conditions to the Obligations of the Company . The obligation of the Company to ef fect the purchase of the Rights Of fering
+Shares pursuant to this Agreement on the Ef fective Date are subject to the following condition:
+(i) Representations and Warranties and Covenants . The representations and warranties of the Backstop Party set forth in this
+Agreement shall be true and correct in all material respects on the date hereof and on the Ef fective Date as if made on such date. The
+Backstop Party shall have complied in all material respects with all of their respective material obligations hereunder .
+Section 7. Indemnification and Limitation on Liability . Whether or not the Rights Of fering is consummated, the Company agrees to
+indemnify and hold harmless the Backstop Party , its Affiliates and their respective of ficers, directors, employees, advisors, stockholders,
+members, managers, partners, investment advisors, attorneys, accountants and agents (each, an “ Indemnified Person ”) from and against
+any and all losses, claims, damages and liabilities to which any such Indemnified Person may become subject arising out of or in
+connection with the Rights Of fering or this Agreement or any related transaction or any claim, litigation, investigation or proceeding
+relating to any of the foregoing, regardless of whether any Indemnified Person is a party thereto, and to reimburse each Indemnified Person
+upon demand for any legal or other costs and expenses incurred in connection with investigating or defending, participating or testifying in
+any of the foregoing, provided, that  the foregoing indemnity will not, as to any Indemnified Person, apply to losses, claims, damages,
+liabilities or related expenses to the extent they are found by a final, non-appealable judgment of a court to have been incurred as a direct
+result of the willful misconduct, bad faith or gross negligence of such Indemnified Person. No Indemnified Person shall be liable to any
+Person for any punitive, exemplary , indirect or consequential damages in connection with its activities related to the Backstop
+Commitment or which may be alleged as a result of the Rights Of fering or this Agreement. The obligations set forth in this Section 7  shall
+survive any termination hereof, and shall remain in ef fect even if the Rights Of fering is not consummated. The foregoing provisions of this
+paragraph shall be in addition to any rights that the Backstop Party or any other indemnified person may have at common law or otherwise.
+Section 8. Survival of Representations and Warranties . The representations and warranties made in this Agreement will survive the
+execution and delivery of this Agreement for the length of the applicable statute of limitations with respect thereto.
+Section 9. Termination; Termination Fee .
+(a) The Backstop Party may terminate this Agreement by written notice to the Company:
+(i) if the Ef fective Date shall not have occurred by March 31, 2010;
+ 
+12
+--- Page 15 ---
+(ii) upon the failure of any of the conditions set forth in Section 6  hereof to be satisfied, which failure cannot be cured by
+March 31, 2010; or
+(iii) in the event of a material breach by the Company of this Agreement.
+(b) If the Company does not proceed with the Rights Of fering with the Backstop Commitment being provided by the Backstop
+Party pursuant to Section 1(b)  hereof by not later than March 31, 2010 (the “ Outside Date ”), the Company shall pay Silver Lake
+Management Company Sumeru, L.L.C. (an Affiliate of the Backstop Party) a termination fee in an amount equal to Three Million Dollars
+($3,000,000) (the “ Termination Fee ”), payable in cash as soon as reasonably practical, but not more than ten (10) Business Days following
+the earlier to occur of the Outside Date and the termination of the Backstop Commitment. The Company shall also pay to the Backstop
+Party any Transaction Expenses certified by the Backstop Party to be due and payable hereunder that have not been paid theretofore and
+such Termination Fee and Transaction Expenses shall constitute administrative expenses of the Company under section 364(c)(1) of the
+Bankruptcy Code.
+Section 10. Notices . All notices and other communications in connection with this Agreement will be in writing and will be deemed
+given (and will be deemed to have been duly given upon receipt) if delivered personally , sent via electronic facsimile (with confirmation),
+mailed by registered or certified mail (return receipt requested) or delivered by an express courier (with confirmation) to the parties at the
+following addresses (or at such other address for a party as will be specified by like notice):
+ 
+  (a) If to the Backstop Party or the Guarantor , to:
+c/o Silver Lake Sumeru Fund, L.P .
+2775 Sand Hill Road
+Suite 100
+Menlo Park, CA  94025
+Attn:    Karen King, Esq.
+Facsimile: (650) 234-2502
+and
+Milbank, Tweed, Hadley & McCloy LLP
+601 South Figueroa Street, 30  Floor
+Los Angeles, CA  90017
+Attn:  Gregory A. Bray , Esq.
+      and
+      Neil J Wertlieb, Esq.
+Facsimile: (213) 629-5063
+ 
+  (b) If to the Company , to:
+Spansion Inc.
+915 DeGuigne Dr .
+Sunnyvale, CA  94085
+ 
+13th
+--- Page 16 ---
+Attention: General Counsel
+Facsimile: (408) 616-6659
+with a copy to:
+Latham & Watkins LLP
+140 Scott Drive
+Menlo Park, CA  94025
+Attn: Tad J. Freese, Esq.
+Facsimile: (650) 463-2600
+Section 1 1. Assignment; Third-Party Beneficiaries . Neither this Agreement nor any of the rights, interests or obligations under this
+Agreement will be assigned by any of the parties (whether by operation of law or otherwise) without the prior written consent of the other
+parties. Notwithstanding the previous sentence, this Agreement, or the Backstop Party’ s obligations hereunder , may be assigned, delegated
+or transferred, in whole or in part, by the Backstop Party to any entity or person over which the Backstop Party or any of its Affiliates
+exercises investment authority , including, without limitation, with respect to voting and dispositive rights. Notwithstanding the foregoing
+or any other provisions herein, no such assignment will relieve the assigning Backstop Party or the Guarantor of its obligations hereunder
+if such assignee fails to perform such obligations. Except as provided in Section 7  with respect to the Indemnified Persons, this Agreement
+(including the documents and instruments referred to in this Agreement) is not intended to and does not confer upon any person other than
+the parties hereto any rights or remedies under this Agreement. Notwithstanding the foregoing or any other provisions herein to the
+contrary , the Backstop Party may not assign any of its rights or obligations under this Agreement, to the extent such assignment would
+affect the securities laws exemptions applicable to this transaction.
+Section 12. Prior Negotiations; Entire Agreement . This Agreement (including the exhibits hereto and the documents and instruments
+referred to in this Agreement) constitutes the entire agreement of the parties and supersedes all prior agreements, arrangements or
+understandings, whether written or oral, between the parties with respect to the subject matter of this Agreement.
+Section 13. Governing Law; Jurisdiction . This Agreement shall be governed by , and construed in accordance with, the laws of the
+State of Delaware, regardless of the laws that might otherwise govern under applicable principles of conflict of laws of the State of
+Delaware. By its execution and delivery of this Agreement, each of the parties hereto hereby irrevocably and unconditionally agrees for
+itself that the Bankruptcy Court shall have exclusive jurisdiction over any legal action, suit, or proceeding against it with respect to any
+matter under or arising out of or in connection with this Agreement or for recognition or enforcement of any judgment rendered in any such
+action, suit, or proceeding; provided, however , that if the Bankruptcy Court abstains from exercising jurisdiction, or is otherwise without
+jurisdiction, then any such legal action, suit, or proceeding shall be brought exclusively in a Federal District Court in the State of Delaware.
+By execution and delivery of this Agreement, each of the parties hereto hereby irrevocably accepts and submits to the nonexclusive
+jurisdiction of such court, generally and unconditionally , with respect to any such action, suit, or proceeding.
+ 
+14
+--- Page 17 ---
+Section 14. Counterparts . This Agreement may be executed in any number of counterparts, all of which will be considered one and
+the same agreement and will become ef fective when counterparts have been signed by each of the parties and delivered to the other party
+(including via facsimile or other electronic transmission), it being understood that each party need not sign the same counterpart.
+Section 15. Waivers and Amendments . This Agreement may be amended, modified, superseded, cancelled, renewed or extended, and
+the terms and conditions of this Agreement may be waived, only by a written instrument signed by the parties or , in the case of a waiver , by
+the party waiving compliance, and subject, to the extent required, to the approval of the Bankruptcy Court. No delay on the part of any
+party in exercising any right, power or privilege pursuant to this Agreement will operate as a waiver thereof, nor will any waiver on the
+part of any party of any right, power or privilege pursuant to this Agreement, nor will any single or partial exercise of any right, power or
+privilege pursuant to this Agreement, preclude any other or further exercise thereof or the exercise of any other right, power or privilege
+pursuant to this Agreement. The rights and remedies provided pursuant to this Agreement are cumulative and are not exclusive of any
+rights or remedies which any party otherwise may have at law or in equity .
+Section 16. Headings . The headings in this Agreement are for reference purposes only and will not in any way af fect the meaning or
+interpretation of this Agreement.
+Section 17. Specific Performance . The parties acknowledge and agree that any breach of the terms of this Agreement would give rise
+to irreparable harm for which money damages would not be an adequate remedy , and, accordingly , the parties agree that, in addition to any
+other remedies, each will be entitled to enforce the terms of this Agreement by a decree of specific performance without the necessity of
+proving the inadequacy of money damages as a remedy and without the necessity of posting bond.
+Section 18. Guaranty . The Guarantor hereby guarantees the p

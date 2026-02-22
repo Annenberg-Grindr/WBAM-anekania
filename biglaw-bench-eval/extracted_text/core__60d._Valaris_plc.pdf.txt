@@ -1,0 +1,976 @@
+--- Page 1 ---
+EX-10.2 3 tm2027797d1_ex10-2.htm EXHIBIT 10.2
+Exhibit 10.2
+ 
+Execution Version
+ 
+ 
+BACKSTOP COMMITMENT AGREEMENT
+ 
+AMONG
+ 
+VALARIS PLC
+ 
+AND
+ 
+THE OTHER DEBTORS PARTY HERETO
+ 
+AND
+ 
+THE BACKSTOP PARTIES PARTY HERETO
+ 
+Dated as of August 18, 2020
+ 
+ 
+--- Page 2 ---
+ 
+ 
+TABLE OF CONTENTS
+ 
+  Page
+   
+ARTICLE I DEFINITIONS 2
+   
+Section 1.1Definitions 2
+   
+Section 1.2Additional Defined Terms 13
+   
+Section 1.3Construction 15
+   
+ARTICLE II BACKSTOP COMMITMENT 16
+   
+Section 2.1The Rights Offering 16
+   
+Section 2.2Backstop Commitment; Holdback Commitment 17
+   
+Section 2.3Backstop Party Default 17
+   
+Section 2.4Backstop Escrow Account Funding 18
+   
+Section 2.5Closing 19
+   
+Section 2.6Designation and Assignment Rights 20
+   
+Section 2.7Additional Backstop Parties 21
+   
+ARTICLE III BACKSTOP PREMIUM, EQUITY ALLOCATION AND EXPENSE REIMBURSEMENT 22
+   
+Section 3.1Backstop Premium; Commitment Fee 22
+   
+Section 3.2Payment of Backstop Premium 23
+   
+Section 3.4Equity Allocation 24
+   
+Section 3.5New Secured Notes 24
+   
+ARTICLE IV REPRESENTATIONS AND WARRANTIES OF THE DEBTORS 25
+   
+Section 4.1Organization and Qualification 25
+   
+Section 4.2Corporate Power and Authority 25
+   
+Section 4.3Execution and Delivery; Enforceability 26
+   
+Section 4.4Authorized and Issued Share Capital 26
+   
+Section 4.5Issuance 27
+   
+Section 4.6No Conflict 27
+   
+Section 4.7Consents and Approvals 28
+   
+Section 4.8Arm’s Length 28
+   
+Section 4.9Financial Statements; Undisclosed Liabilities 29
+--- Page 3 ---
+   
+Section 4.10Company SEC Documents and Disclosure Statement 29
+   
+Section 4.11Absence of Certain Changes 29
+   
+Section 4.12No Violation; Compliance with Laws 29
+   
+Section 4.13Proceedings 30
+   
+Section 4.14Labor Relations 30
+ 
+i
+--- Page 4 ---
+ 
+ 
+TABLE OF CONTENTS
+ 
+  Page
+   
+Section 4.15Intellectual Property 31
+   
+Section 4.16Title to Real and Personal Property 31
+   
+Section 4.17No Undisclosed Relationships 32
+   
+Section 4.18Licenses and Permits 32
+   
+Section 4.19Environmental 33
+   
+Section 4.20Tax Matters 34
+   
+Section 4.21Company Plans 35
+   
+Section 4.22Internal Control Over Financial Reporting 37
+   
+Section 4.23Disclosure Controls and Procedures 37
+   
+Section 4.24Material Contracts 37
+   
+Section 4.25No Unlawful Payments 37
+   
+Section 4.26Compliance with Money Laundering Laws 38
+   
+Section 4.27Compliance with Sanctions Laws 38
+   
+Section 4.28No Broker’s Fees 38
+   
+Section 4.29No Registration Rights 38
+   
+Section 4.30Ownership of Drilling Units 39
+   
+Section 4.31Insurance 39
+   
+Section 4.32Investment Company Act 39
+   
+Section 4.33Alternative Restructuring 39
+   
+Section 4.34No Other Representations or Warranties 39
+   
+ARTICLE V REPRESENTATIONS AND WARRANTIES OF THE BACKSTOP PARTIES 40
+   
+Section 5.1Incorporation 40
+   
+Section 5.2Corporate Power and Authority 40
+   
+Section 5.3Execution and Delivery 40
+   
+Section 5.4No Conflict 40
+   
+Section 5.5Consents and Approvals 40
+   
+Section 5.6No Registration. 41
+--- Page 5 ---
+   
+Section 5.7Purchasing Intent 41
+   
+Section 5.8Sophistication; Investigation 41
+   
+Section 5.9No Broker’s Fees 41
+   
+Section 5.10Sufficiency of Funds 41
+   
+Section 5.11Proceedings 42
+   
+Section 5.12Arm’s Length 42
+ 
+ii
+--- Page 6 ---
+ 
+ 
+TABLE OF CONTENTS
+ 
+  Page
+   
+ARTICLE VI ADDITIONAL COVENANTS 42
+   
+Section 6.1Approval of the Requisite Backstop Parties 42
+   
+Section 6.2Orders; Plan and Disclosure Statement 42
+   
+Section 6.3Covenants of the Company 43
+   
+Section 6.4Antitrust Approval 45
+   
+Section 6.5Access to Information 47
+   
+Section 6.6Financial Information 47
+   
+Section 6.7Alternative Restructuring Proposals 47
+   
+Section 6.8Commercially Reasonable Efforts 48
+   
+Section 6.9Issuer Joinder. 49
+   
+Section 6.10New Board of Directors 49
+   
+Section 6.11Registration Rights Agreement 49
+   
+Section 6.12Form D and Blue Sky 50
+   
+Section 6.13No Integration; No General Solicitation 50
+   
+Section 6.14Fungibility and Liquidity 50
+   
+Section 6.15Use of Proceeds 51
+   
+Section 6.16Legends 51
+   
+ARTICLE VII CONDITIONS TO THE OBLIGATIONS OF THE PARTIES 52
+   
+Section 7.1Conditions to the Obligation of the Backstop Parties 52
+   
+Section 7.2Waiver of Conditions to Obligation of Backstop Parties 54
+   
+Section 7.3Conditions to the Obligation of the Company 54
+   
+ARTICLE VIII INDEMNIFICATION AND CONTRIBUTION 55
+   
+Section 8.1Indemnification Obligations 55
+   
+Section 8.2Indemnification Procedure 56
+   
+Section 8.3Settlement of Indemnified Claims 57
+   
+Section 8.4Contribution 57
+   
+Section 8.5Treatment of Indemnification Payments 57
+--- Page 7 ---
+   
+Section 8.6Survival 57
+   
+ARTICLE IX TERMINATION 58
+   
+Section 9.1Termination Rights 58
+   
+Section 9.2Effect of Termination 60
+   
+ARTICLE X GENERAL PROVISIONS 61
+   
+Section 10.1Notices 61
+   
+Section 10.2Assignment; Third Party Beneficiaries 62
+   
+Section 10.3Prior Negotiations; Entire Agreement 62
+ 
+iii
+--- Page 8 ---
+ 
+ 
+TABLE OF CONTENTS
+ 
+  Page
+   
+Section 10.4Governing Law; Venue 63
+   
+Section 10.5Waiver of Jury Trial 63
+   
+Section 10.6Counterparts 63
+   
+Section 10.7Waivers and Amendments; Rights Cumulative 64
+   
+Section 10.8Headings 64
+   
+Section 10.9Specific Performance 65
+   
+Section 10.10Damages 65
+   
+Section 10.11No Reliance 65
+   
+Section 10.12Publicity 65
+   
+Section 10.13Settlement Discussions 65
+ 
+SCHEDULES AND EXHIBITS
+ 
+Schedule 1        Backstop Commitment Percentage and Holdback Commitment Percentage
+ 
+Exhibit A          Joinder Agreement- Backstop Parties
+Exhibit B          Joinder Agreement - Issuer
+ 
+iv
+--- Page 9 ---
+ 
+ 
+BACKSTOP COMMITMENT AGREEMENT
+ 
+THIS BACKSTOP COMMITMENT AGREEMENT (this “Agreement”), dated as of August 18, 2020, is made by
+and among Valaris plc, a company organized under the Laws of England and Wales (the “Company”) and each of its direct and indirect
+debtor subsidiaries that file chapter 11 cases (the “Chapter 11 Cases”) under Title 11 of the United States Code, 11 U.S.C. §§ 101-1532
+(as it may be amended from time to time, the “Bankruptcy Code”) in the Bankruptcy Court (together with the Company, each a
+“Debtor” and, collectively, the “Debtors”), on the one hand, and the Backstop Parties set forth on Schedule 1 hereto, as may be
+amended, supplemented or otherwise modified from time to time in accordance with this Agreement (each referred to herein,
+individually, as a “Backstop Party” and, collectively, as the “Backstop Parties”), on the other hand. The Company, the other Debtors
+and each Backstop Party is referred to herein, individually, as a “Party” and, collectively, as the “Parties”.
+ 
+RECITALS
+ 
+WHEREAS, the Company, the other Debtors and the Backstop Parties have entered into a Restructuring Support
+Agreement, dated as of August 18, 2020 (including the terms and conditions set forth in the Restructuring Term Sheet attached as
+Exhibit B to the Restructuring Support Agreement (the “Restructuring Term Sheet” and collectively, including all exhibits attached
+thereto, as may be amended, supplemented or otherwise modified from time to time, the “Restructuring Support Agreement”)),
+which provides for the restructuring of the Debtors’ capital structure and financial obligations pursuant to a plan of reorganization (the
+“Plan”) to be filed in the Chapter 11 Cases implementing the terms and conditions of the Restructuring;
+ 
+WHEREAS, the Debtors plan to file with the Bankruptcy Court, in accordance with the terms of the Restructuring
+Support Agreement, motions seeking entry of, among others, the Disclosure Statement Order and the Confirmation Order;
+ 
+WHEREAS, pursuant to the Restructuring Support Agreement, the Plan and this Agreement, the Issuer will conduct
+the Rights Offering (as defined below) of rights (the “Rights”) to purchase on the Effective Date, for an aggregate purchase price of
+Five Hundred Million Dollars ($500,000,000), Five Hundred Million Dollars ($500,000,000) in aggregate principal amount of New
+Secured Notes (as defined below);
+ 
+WHEREAS, participants in the Rights Offering shall receive New Shares equal to 30% of the New Shares issued and
+outstanding immediately after the Effective Date (subject to dilution by the New Warrants and the MIP) (the “Participation Equity”),
+allocated proportionally among such participants based on the principal amount of New Secured Notes purchased by each such
+participant relative to the total principal amount of New Secured Notes offered in the Rights Offering;
+ 
+WHEREAS, pursuant to the terms of this Agreement, the members of the Ad Hoc Group (the “Initial Backstop
+Parties”) have agreed to purchase, in the aggregate, One Hundred Eight-Seven Million Five Hundred Thousand Dollars $187,500,000
+in principal amount of New Secured Notes (“Holdback Notes”) to be offered in the Rights Offering, representing in the aggregate
+37.5% of the total principal amount of New Secured Notes issued in the Rights Offering, and shall receive the corresponding amount of
+Participation Equity (the “Holdback Shares” and together with the Holdback Notes, the “Holdback Securities”); and
+ 
+--- Page 10 ---
+ 
+ 
+WHEREAS, subject to the terms and conditions contained in this Agreement and the Restructuring Support
+Agreement, each Initial Backstop Party has agreed to purchase (on a several and not joint basis) its Backstop Commitment Percentage
+of the Unsubscribed Securities and Additional Notes.
+ 
+NOW, THEREFORE, in consideration of the mutual promises, agreements, representations, warranties and covenants
+contained herein, each of the Parties hereby agrees as follows:
+ 
+ARTICLE I
+ 
+DEFINITIONS
+ 
+Section 1.1   Definitions. Capitalized terms used but not otherwise defined herein shall have the meanings ascribed
+thereto in the Restructuring Support Agreement. Except as otherwise expressly provided in this Agreement, or unless the context
+otherwise requires, whenever used in this Agreement (including any Exhibits and Schedules hereto), the following terms shall have the
+respective meanings specified therefor below:
+ 
+“Ad Hoc Group” means the ad hoc group of noteholders represented by Kramer Levin Naftalis & Frankel LLP, Akin
+Gump LLP, Houlihan, and Porter Hedges LLP.
+ 
+“Additional Backstop Party” means each Person that is a qualified institutional buyer (as defined in Rule 144A
+under the Securities Act) or an Institutional Accredited Investor (which is an “accredited investor” as such term is defined in
+Rule 501(a)(1), (2), (3) or (7) under the Securities Act) and that is a holder of an Senior Notes Claim that agrees to participate in the
+Backstop Commitment by joining this Agreement and the Restructuring Support Agreement pursuant to Article II of this Agreement.
+ 
+“Affiliate” means, with respect to any Person, any other Person directly or indirectly controlling, controlled by, or
+under common control with, such Person as of the date on which, or at any time during the period for which, the determination of
+affiliation is being made; provided that no Backstop Party shall be deemed an Affiliate of the Company or any of the other Debtors. For
+purposes of this definition, the term “control” (including the correlative meanings of the terms “controlled by” and “under common
+control with”), as used with respect to any Person, means the possession, directly or indirectly, of the power to direct or cause the
+direction of the management policies of such Person.
+ 
+“Akin Gump” means Akin Gump LLP, as English legal counsel to the Ad Hoc Group.
+ 
+“Alternative Restructuring Proposal” has the meaning set forth in the Restructuring Support Agreement.
+ 
+“American Deposit Management” means American Deposit Management, LLC.
+ 
+2
+--- Page 11 ---
+ 
+ 
+“Antitrust Authorities” means any Governmental Entity having jurisdiction pursuant to the Antitrust Laws,
+including the United States Federal Trade Commission, the Antitrust Division of the United States Department of Justice, and the
+attorneys general of the several states of the United States, and “Antitrust Authority” means any of them.
+ 
+“Antitrust Approvals” means any notification, authorization, approval, consent, filing, application, non-objection,
+expiration or termination of applicable waiting period (including any extension thereof), exemption, determination of lack of
+jurisdiction, waiver, variance, filing, permission, qualification, registration or notification required or, if agreed between the Company
+and the Requisite Backstop Parties (in each case, acting reasonably) advisable, under any Antitrust Laws.
+ 
+“Antitrust Laws” means any Law governing agreements in restraint of trade, monopolization, merger or pre-merger
+notification, the lessening of competition through merger or acquisition or anti-competitive conduct, including the Sherman Act, as
+amended, the Clayton Act, as amended, the HSR Act and the Federal Trade Commission Act.
+ 
+“ARO Note” shall mean that certain 10-year shareholder note receivable issued to the Group by Saudi Aramco
+Rowan Offshore Drilling Company (or any successor thereto), which is described in the Company’s Form 10-Q for the quarter ended
+June 30, 2020.
+ 
+“ARO JVA” shall mean that certain joint venture agreement, dated November 21, 2016, as amended, by and between
+Rowan Rex Limited and Saudi Aramco Development Company and any documents related thereto.
+ 
+“Articles of Association” means the amended and restated articles of association of the Company as of the Closing
+Date or the articles of association or similar organizational documents of Newco Valaris (as applicable), which shall be in form and
+substance reasonably satisfactory to the Requisite Backstop Parties.
+ 
+“Available Securities” means the Backstop Securities, Holdback Securities and/or Additional Notes that any
+Backstop Party fails to purchase as a result of a Backstop Party Default by such Backstop Party.
+ 
+“Backstop Commitment Percentage” means, with respect to any Initial Backstop Party, such Initial Backstop
+Party’s percentage of the Backstop Commitment as set forth opposite such Backstop Party’s name under the column titled “Backstop
+Commitment Percentage” on Schedule 1 and with respect to any Additional Backstop Party, a percentage equal to the Deemed Claim
+Amount of such Additional Backstop Party relative to the Deemed Claim Amount of all Backstop Parties, as set forth opposite such
+Backstop Party’s name under the column titled “Backstop Commitment Percentage” on Schedule 1 (as it may be amended,
+supplemented or otherwise modified from time to time in accordance with this Agreement). Schedule 1 shall be redacted in any public
+filings with the SEC, the Bankruptcy Court or otherwise and shall be updated from time to time to reflect the addition of Additional
+Backstop Parties that become party hereto, which updates shall be provided to the Initial Backstop Parties upon reasonable request of
+counsel. Any adjustment to Schedule 1 to reflect Additional Backstop Parties shall be calculated by adjusting downwards each Initial
+Backstop Party’s then-existing Backstop Commitment Percentage on a pro rata basis, based on the relative Deemed Claim Amount of
+any such new Additional Backstop Parties divided by the Deemed Claim Amounts of all Backstop Parties.
+ 
+3
+--- Page 12 ---
+ 
+ 
+“Backstop Party” means an Initial Backstop Party or an Additional Backstop Party.
+ 
+“Backstop Party Default” means the failure by any Backstop Party to deliver and pay the aggregate Purchase Price
+for such Backstop Party’s (i) Backstop Commitment Percentage of Backstop Securities or Additional Notes and/or (ii) Holdback
+Commitment Percentage of Holdback Securities by the Backstop Escrow Funding Date in accordance with Section 2.4(b) and
+Section 3.5.
+ 
+“Backstop Securities” means the Unsubscribed Securities purchased by the Backstop Parties pursuant to the terms
+hereof.
+ 
+“Bankruptcy Court” means the United States Bankruptcy Court in which the Chapter 11 Cases are commenced or
+another United States Bankruptcy Court with jurisdiction over the Chapter 11 Cases.
+ 
+“Board” means the board of directors of the Company.
+ 
+“Business Day” means any day, other than a Saturday, Sunday, or other day on which commercial banks are
+authorized to close under the Laws of, or are in fact closed in, the state of New York or in London, England.
+ 
+“Claims Amount” means the amount of the Claim with respect to each of (i) Valaris Bond Claims, (ii) Jersey Bond
+Claims, (iii) Pride Bond Claims, (iv) Ensco International Bond Claims and (v) Legacy Rowan Bond Claims.
+ 
+“Claims Multiplier” means, with respect to (i) Valaris Bond Claims, 1.0x, (ii) Jersey Bond Claims, 2.0x, (iii) Pride
+Bond Claims, 1.7x, (iv) Ensco International Bond Claims, 1.15x and (v) Legacy Rowan Bond Claims, 1.27x.
+ 
+“Code” means the Internal Revenue Code of 1986, as amended, and the regulations promulgated and the rulings
+issued thereunder.
+ 
+“Collective Bargaining Agreements” means any and all written agreements, memoranda of understanding,
+contracts, letters, side letters and contractual obligations of any kind, nature and description, that have been entered into between any
+employer and any Employee Representative.
+ 
+“Company Disclosure Schedule” means the disclosure schedules delivered by the Company to the Backstop Parties
+on the date of this Agreement.
+ 
+“Company Plans” means each“employee benefit plan” within the meaning of Section 3(3) of ERISA, whether or not
+subject to ERISA, and all other compensation and benefits plans, policies, programs, contracts, or arrangements, whether or not subject
+to ERISA, in each case, that are sponsored, maintained, contributed or required to be contributed to by the Company or any of the other
+Debtors, or under which the Company or any of the other Debtors has any liability.
+ 
+4
+--- Page 13 ---
+ 
+ 
+“Company SEC Documents” means all of the reports, schedules, forms, statements and other documents (including
+exhibits and other information incorporated therein) filed with the SEC by the Company.
+ 
+“Competitor” means (i) any Person whose primary business consists of offshore oil and gas drilling and (ii) any
+Affiliate of any such Person identified in clause (i).
+ 
+“Contract” means any agreement, contract or instrument, including any loan, note, bond, mortgage, indenture,
+guarantee, deed of trust, license, franchise, commitment, lease, franchise agreement, letter of intent, memorandum of understanding or
+other obligation, and any amendments thereto, whether written or oral, but excluding any Company Plan.
+ 
+“Cover Purchaser” means each Person (excluding any Debtors) acquiring Available Securities pursuant to a Cover
+Transaction.
+ 
+“Cover Transaction” means a circumstance in which the Issuer, Company or any Affiliate thereof funds all or a
+portion of the Deficiency Amount through available cash and/or the Issuer, Company or any Affiliate thereof arranges for the sale of
+any remaining Available Securities to any other Person.
+ 
+“COVID-19” means both the viral pneumonia named coronavirus disease 2019 (COVID-19) by the World Health
+Organization and the virus named Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) by the International Committee
+on Taxaonomy of Viruses and any mutations thereof or related or associated epidemics, pandemics or disease outbreaks.
+ 
+“Deemed Claim Amount” means, for any Person, the sum of each Claims Amount of such Person multiplied by the
+applicable Claims Multiplier.
+ 
+“Defaulting Backstop Party” means, at any time, any Backstop Party that caused a Backstop Party Default that is
+continuing at such time.
+ 
+“Deficiency Amount” means the difference between (x) the Rights Offering Amount plus the Commitment Fee,
+minus (y) the aggregate amount on deposit in the Rights Offering Escrow Accounts, calculated as of the first (1st) Business Day
+following the expiration of the Backstop Party Replacement Period (after giving effect to a Backstop Party Replacement).
+ 
+“Disqualified Person” means any Person if, at such time, such Person or any of its Affiliates (other than any such
+Affiliate that is separated from such Person by a full information wall) (a) is a Competitor, (ii) is a portfolio company or (iii) owns a
+Disqualifying Interest.
+ 
+“Disqualifying Interest” means the beneficial ownership of more than 25% of the Equity Securities in a Competitor
+(after giving effect to a hypothetical conversion, or exercise, as applicable, of any issued and outstanding Equity Securities of such
+Competitor which are convertible or exercisable (directly or indirectly) into such Equity Security, without regard to whether such other
+Equity Securities are then convertible or exercisable in accordance with their terms or the terms of the organizational documents of
+such Competitor).
+ 
+5
+--- Page 14 ---
+ 
+ 
+“DTC” means The Depository Trust Company.
+ 
+“Effective Date” has the meaning of the term “Plan Effective Date” as set forth in the Restructuring Support
+Agreement.
+ 
+“End Date” means the date that is ninety days (90) days after the Outside Date.
+ 
+“Equity Securities” means, collectively, the shares (or any class thereof), common stock, preferred stock, limited
+liability company interests, units, and any other equity, ownership, or profits interests of any Person, and options, warrants, rights, or
+other securities or agreements to acquire or subscribe for, or which are convertible into the shares (or any class thereof) of, common
+stock, preferred stock, limited liability company interests, units, or other equity, ownership, or profits interests of any Person (in each
+case whether or not arising under or in connection with any employment agreement).
+ 
+“ERISA” means the Employee Retirement Income Security Act of 1974, as amended, and the rules and regulations
+promulgated thereunder.
+ 
+“Exchange Act” means the Securities Exchange Act of 1934, as amended, and the rules and regulation of the SEC
+thereunder.
+ 
+“Final Order” means, as applicable, an order or judgment of the Bankruptcy Court, or any other court of competent
+jurisdiction, as entered on the docket in any Chapter 11 Case or the docket of any other court of competent jurisdiction, that has not
+been reversed, stayed, modified or amended, and as to which the time to appeal or seek certiorari or move, under Bankruptcy Rule 9023
+or Rule 59 of the Federal Rules of Civil Procedure, for a new trial, reargument or rehearing has expired, and no appeal or petition for
+certiorari or other proceeding for a new trial, reargument or rehearing has been timely taken, or as to which any appeal that has been
+taken or any petition for certiorari that has been timely filed has been withdrawn or resolved by the highest court to which the order or
+judgment was appealed or from which certiorari was sought or the new trial, reargument or rehearing shall have been denied or resulted
+in no modification of such order, or has otherwise been dismissed with prejudice; provided that the possibility that a motion under
+Rule 60 of the Federal Rules of Civil Procedure, or any analogous rule under the Bankruptcy Rules, may be filed relating to such order
+shall not prevent such order from being a Final Order.
+ 
+“General Rights Offering Escrow Account” means the escrow account established pursuant to the Rights Offering
+Procedures pursuant to which Rights Offering Participants are required to fund the Purchase Price for the Rights Offering Securities
+purchased in the Rights Offering.
+ 
+“Governmental Entity” means any U.S. or non-U.S. multinational, federal, state, municipal, local, judicial,
+administrative, legislative or regulatory or competition, antitrust or foreign investment authority, agency, department, commission,
+regulator court, or tribunal of competent jurisdiction or any quasi-governmental or private body exercising any administrative,
+executive, judicial, legislative, police, regulatory, taxing, importing or other governmental or quasi-governmental authority (including
+any branch, department or official thereof).
+ 
+6
+--- Page 15 ---
+ 
+ 
+“Government Approvals” means any notification, authorization, approval, consent, filing, application, non-
+objection, expiration or termination of applicable waiting period (including any extension thereof), exemption, determination of lack of
+jurisdiction, waiver, variance, filing, permission, qualification, registration or notification required under any applicable Laws,
+including Antitrust Approvals.
+ 
+“Group” has the meaning set forth in the Restructuring Support Agreement.
+ 
+“Holdback Commitment Percentage” means, with respect to any Backstop Party, the percentage set forth opposite
+such Backstop Party’s name under the column titled “Holdback Commitment Percentage” on Schedule 1 (as it may be amended,
+supplemented or otherwise modified from time to time in accordance with this Agreement); provided that such amount shall be subject
+to adjustment in accordance with Section 2.7(b). Schedule 1, which shall be redacted in any public filings with the SEC, the Bankruptcy
+Court or otherwise, shall be updated from time to time to reflect the addition of Additional Backstop Parties that become party hereto,
+which such updates shall be provided to the Initial Backstop Parties upon reasonable request of counsel.
+ 
+“Houlihan” means Houlihan Lokey Capital, Inc., as financial advisor to the Ad Hoc Group.
+ 
+“HSR Act” means the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended.
+ 
+“HSR Filing” means the filing of the Notification and Report Form pursuant to the HSR Act with respect to the
+transactions contemplated by this Agreement with the Antitrust Division of the United States Department of Justice and the United
+States Federal Trade Commission.
+ 
+“IRS” means the United States Internal Revenue Service.
+ 
+“Issuer” means the Company or other Person which is or is to be the ultimate parent company of the Reorganized
+Debtors on the date of the Closing.
+ 
+“Knowledge of the Company” means the actual knowledge, after reasonable inquiry of their direct reports, of the
+chief executive officer, chief financial officer, chief operating officer or general counsel of the Company.
+ 
+“Kramer Levin” means Kramer Levin Naftalis & Frankel LLP, as legal counsel to the Ad Hoc Group.
+ 
+“Law” means any federal, state, local, or foreign law (including common law), statute, code, ordinance, rule,
+regulation, order, ruling, judgment, treaty, or convention in each case, that is validly adopted, promulgated, issued, or entered by a
+Governmental Entity of competent jurisdiction (including the Bankruptcy Court).
+ 
+7
+--- Page 16 ---
+ 
+ 
+“Lien” means any lien, adverse claim, charge, option, right of first refusal, servitude, security interest, mortgage,
+pledge, deed of trust, easement, encumbrance, restriction on transfer, conditional sale or other title retention agreement, defect in title or
+other restrictions of a similar kind.
+ 
+“Market Event” means:
+ 
+(a)            a change in the global, national or regional political conditions (including civil unrest, riots, hostilities, acts
+of war, sabotage, terrorism or military actions, or any escalation or material worsening of any such actions) or in the general global,
+national or regional financial or economic conditions affecting the industries, regions and markets in which the Issuer or any of the
+Debtors operates, including any change in the United States or applicable foreign economies or securities, commodities or financial
+markets, or force majeure events or “acts of God”;
+ 
+(b)           changes in the market price or trading volume of the Claims or equity or debt securities of the Company, the
+Issuer or any other Debtor (but not the underlying facts giving rise to such changes unless such fast are otherwise excluded pursuant to
+the clauses contained in this definition);
+ 
+(c)           any changes or developments in prices for oil, natural gas or other commodities;
+ 
+(d)           any action by OPEC+;
+ 
+(e)           a suspension or material limitation in trading of securities on the New York Stock Exchange;
+ 
+(f)            any change in exchange controls or a disruption of settlement systems;
+ 
+(g)           earthquakes, any weather-related event, natural disasters or outbreak or escalation of hostilities or acts of
+war or terrorism;
+ 
+(h)           a material disruption of commercial banking activities;
+ 
+(i)            any changes after the date hereof in applicable Law or GAAP or enforcement thereof;
+ 
+(j)            any epidemic, pandemic or disease outbreak (including the COVID-19 pandemic), or any Law, regulation,
+statute, directive, pronouncement or guideline issued by a Governmental Entity, the Centers for Disease Control and Prevention, the
+World Health Organization or industry group providing for business closures, “sheltering-in-place,” curfews or other restrictions that
+relate to, or arise out of, an epidemic, pandemic or disease outbreak (including the COVID-19 pandemic) or any change in such Law,
+regulation, statute, directive, pronouncement or guideline or interpretation thereof following the date of this Agreement or any material
+worsening of such conditions threatened or existing as of the date of this Agreement; and
+ 
+8
+--- Page 17 ---
+ 
+ 
+(l)            declarations of national emergencies in the countries where the Issuer or any Debtor conducts a material
+portion of its business.
+ 
+“Material Adverse Effect” means one or more Events or a series of Events that taken alone or together has a
+material adverse effect on (i) the Group’s ability to implement the Restructuring Transactions or (ii) the financial condition of the
+Group taken as a whole, other than any Event arising from or related to the following:
+ 
+(a)           a breach of any financing arrangement (i) which has been waived, including, without limitation, under this
+Agreement or any other document in each case with the consent of the Requisite Backstop Parties, (ii) which arises as a result of the
+Restructuring Transactions (including any of the factors identified in (e) below) or (iii) provided that the Company or any other Debtor
+is taking reasonable steps to remedy the breach;
+ 
+(b)           (i) the failure to meet any projections or estimated revenues or profits or (ii) the occurrence of exceeding
+any estimated costs or expenses (provided that the underlying cause of any such failure or occurrence may constitute, or be taken into
+account in determining, a Material Adverse Effect to the extent not otherwise excluded under this definition of “Material Adverse
+Effect”);
+ 
+(c)           any enforcement action which has been stayed, suspended or dismissed;
+ 
+(d)           any litigation or similar action against the Issuer or any Debtor which arises from or relates to the
+Restructuring Transactions with respect to the Issuer’s or Debtors’ capital structure and is being defended by the Issuer or a Debtor in
+good faith;
+ 
+(e)            any Market Event, provided that this exception shall not apply to the extent that any such Market Event is
+disproportionately adverse to the Group, taken as a whole, as compared to other companies in the industries in which the Group
+operates;
+ 
+(f)            the commencement or pendency of any UK Restructuring Plan, any Chapter 11 Case, any Shareholder
+Scheme, any Administration or any Ancillary Proceedings, if any, or any other aspect of the Implementation Mechanisms in accordance
+and consistent with this Agreement;
+ 
+(g)            the execution, announcement or performance of this Agreement or other Definitive Documents or the
+transactions contemplated hereby or thereby (including any act or omission of the Issuer or any other Debtor expressly required or
+prohibited, as applicable, by this Agreement or consented to or required by the Requisite Backstop Parties in writing); or
+ 
+(j)            the occurrence of a Backstop Party Default.
+ 
+“Materials of Environmental Concern” means any gasoline or petroleum (including crude oil or any fraction
+thereof) or petroleum products, polychlorinated biphenyls, urea-formaldehyde insulation, asbestos, pollutants, contaminants,
+radioactive materials, and any other hazardous or toxic substances, that are regulated pursuant to or could give rise to liability under any
+Environmental Law.
+ 
+9
+--- Page 18 ---
+ 
+ 
+“MIP” has the meaning set forth in the Restructuring Term Sheet.
+ 
+“New Secured Notes” has the meaning set forth in the Restructuring Term Sheet.
+ 
+“New Shares” shall mean the ordinary shares issued by the Issuer on the Effective Date in accordance with the Plan
+and the Reorganized Valaris Corporate Documents.
+ 
+“Order” means any judgment, order, award, injunction, writ, permit, license or decree of any Governmental Entity or
+arbitrator.
+ 
+“Outside Date” means June 18, 2021, subject to extension to August 18, 2021 in accordance with Section 3.1(e) or
+otherwise as agreed by the Requisite Backstop Parties in their sole discretion; provided that no Backstop Party’s Backstop Commitment
+and/or Holdback Commitment may be extended beyond the End Date without prior written consent of such Backstop Party.
+ 
+“Owned Real Property” means all real property and interests in real property owned, in whole or in part, directly or
+indirectly by the Company and its Subsidiaries, together with all buildings, structures, fixtures and improvements now or subsequently
+located thereon, and all easements, rights of way, reservations, privileges, appurtenances and other estates and rights pertaining thereto.
+ 
+“Permitted Liens” means (i) Liens for Taxes, assessments, and other governmental levies, fees or charges that
+(A) are not due and payable as of the Closing Date or (B) are being contested in good faith by appropriate proceedings and for which
+adequate reserves have been made with respect thereto; (ii) zoning, building codes and other land use Laws regulating the use or
+occupancy of any Owned Real Property or the activities conducted thereon that are imposed by any Governmental Entity having
+jurisdiction over such real property; provided that no such zoning, building codes and other land use Laws prohibit or, individually or in
+the aggregate materially impair, the use or occupancy of such Owned Real Property or the operation of the business of the Company
+and its Subsidiaries; (iii) easements, covenants, conditions, restrictions and other similar matters affecting title to any Owned Real
+Property and other title defects that do not or would not, individually or in the aggregate, materially impair the use or occupancy of
+such real property or the operation of the Company’s or any of its Subsidiaries’ business or, individually or in the aggregate, materially
+adversely affect the value of any Owned Real Property; (iv) mortgages on Owned Real Property or a lessor’s interest in real property
+subject to Real Property Leases or leasehold mortgage on any Real Property Lease, (v) Liens that, pursuant to the Plan and the
+Confirmation Order, will be discharged and released on the Effective Date; (vi) solely with respect to the Company’s drilling units and
+Owned Real Property, operators’, vendors’, suppliers of necessaries to the Company’s drilling units, carriers’, warehousemen’s,
+repairmen’s, mechanics’, workmen’s, materialmen’s, construction or shipyard liens (during repair or upgrade periods) or other like
+Liens arising by operation of law in the ordinary course of business or statutory landlord’s liens, each of which is in respect of
+obligations that have not been outstanding more than ninety (90) days (so long as no action has been taken to file or enforce such Liens
+within said ninety (90) day period) or which are being contested in good faith by appropriate proceedings and for which adequate
+reserves have been made with respect thereto and (vii) Liens which do not impair, other than in an immaterial respect, the ability of the
+Debtors (taken as a whole) to operate in the ordinary course of business.
+ 
+10
+--- Page 19 ---
+ 
+ 
+“Person” means an individual, firm, corporation (including any non-profit corporation), partnership, limited liability
+company, joint venture, association, trust, Governmental Entity or other entity or organization.
+ 
+“Porter Hedges” means Porter Hedges LLP, as local counsel to the Ad Hoc Group.
+ 
+“Purchase Price” means, as applicable, an amount equal to 100% of the principal amount of the New Secured Notes
+offered in the Rights Offering ($500,000,000) or, in the case of an individual Backstop Party, 100% of the principal amount of the New
+Secured Notes purchased by such Backstop Party.
+ 
+“Qualifying Senior Notes Claims” means Senior Notes Claims that have not previously been used (by the Initial
+Backstop Parties, their transferees or otherwise) as the basis for participation in the Backstop Commitment and the Holdback
+Commitment.
+ 
+“Real Property Leases” means those leases, subleases, licenses, concessions and other agreements, as amended,
+modified or restated, pursuant to which the Company or one of its Subsidiaries holds a leasehold or subleasehold estate in, or is granted
+the right to use or occupy, any land, buildings, structures, improvements, fixtures or other interest in real property used in the
+Company’s or its Subsidiaries’ business.
+ 
+“Release” means any spilling, leaking, pumping, pouring, emitting, emptying, discharging, injecting, escaping,
+leaching, dumping, or disposing into the environment.
+ 
+“Reorganized Valaris Corporate Documents” the organizational and governance documents for the Reorganized
+Debtors and any subsidiaries thereof, including, as applicable, the articles of association, the certificates or articles of incorporation and
+bylaws, certificates of formation, partnership agreements, operating agreements, limited liability company agreements, limited
+partnership agreements, and any similar documents of the Reorganized Debtors, in form and substance reasonably satisfactory to the
+Requisite Backstop Parties.
+ 
+“Reorganized Debtors” means the Issuer and Debtors from and after the Effective Date.
+ 
+“Representatives” means, with respect to any Person, such Person’s directors, officers, members, partners, managers,
+employees, agents, investment bankers, attorneys, accountants, advisors and other representatives.
+ 
+“Requisite Backstop Parties” means, collectively, the Initial Backstop Parties (excluding any Defaulting Backstop
+Parties) holding at least 50.01% of the aggregate Backstop Commitment Percentages of the Initial Backstop Parties (excluding any
+Defaulting Backstop Parties); provided that for purposes of this definition, each such Initial Backstop Party shall be deemed to hold the
+Backstop Commitment Percentages held by such Initial Backstop Party’s Related Purchasers.
+ 
+11
+--- Page 20 ---
+ 
+ 
+“Restructuring” has the meaning given to the term “Restructuring Transactions” set forth in the Restructuring Term
+Sheet.
+ 
+“Rights Offering” has the meaning set forth in the Restructuring Term Sheet.
+ 
+“Rights Offering Amount” means $500,000,000.
+ 
+“Rights Offering Escrow Accounts” means, collectively, the Backstop Escrow Account and the General Rights
+Offering Escrow Accounts.
+ 
+“Rights Offering Expiration Time” means the time and the date on which the rights offering subscription form must
+be duly delivered to the Rights Offering Subscription Agent in accordance with the Rights Offering Procedures, together with the
+applicable Purchase Price.
+ 
+“Rights Offering Participants” means those Persons who duly subscribe for Rights Offering Securities in
+accordance with the Rights Offering Procedures.
+ 
+“Rights Offering Procedures” means the procedures with respect to the Rights Offering that are approved by the
+Bankruptcy Court pursuant to the Disclosure Statement Order, which procedures shall be on terms and conditions materially consistent
+with the terms of this Agreement and in form and substance reasonably satisfactory to the Requisite Backstop Parties and the Company.
+ 
+“Rights Offering Securities” means the New Secured Notes (together with the corresponding Participation Equity)
+offered in the Rights Offering.
+ 
+“Rights Offering Subscription Agent” means a subscription agent appointed by the Debtors and reasonably
+satisfactory to the Requisite Backstop Parties.
+ 
+“SEC” means the U.S. Securities and Exchange Commission.
+ 
+“Securities Act” means the Securities Act of 1933, as amended.
+ 
+“Subsidiary” means, with respect to any Person, any corporation, partnership, joint venture or other legal entity as to
+which such Person (either alone or through or together with any other subsidiary), (i) owns, directly or indirectly, more than fifty
+percent (50%) of the stock or other equity interests, (ii) has the power to elect a majority of the board of directors or similar governing
+body or (iii) has the power to direct the business and policies.
+ 
+“Taxes” means all taxes, assessments, duties, levies or other mandatory governmental charges paid to a
+Governmental Entity, including all federal, state, local, foreign and other income, franchise, profits, gross receipts, capital gains, share
+capital, transfer, property, sales, use, value-added, occupation, excise, severance, windfall profits, stamp, payroll, social security,
+withholding and other taxes, assessments, duties, levies or other mandatory governmental charges of any kind whatsoever paid to a
+Governmental Entity (whether payable directly or by withholding and whether or not requiring the filing of a Tax Return), all estimated
+taxes, deficiency assessments, additions to tax, penalties and interest thereon and shall include any liability for such amounts as a result
+of being a member of a combined, consolidated, unitary or affiliated group.
+ 
+12
+--- Page 21 ---
+ 
+ 
+“Transfer” has the meaning set forth in the Restructuring Support Agreement.
+ 
+“Unlegended Securities” means any New Secured Notes or New Shares acquired by the Backstop Parties (including
+any Related Purchaser or Ultimate Purchaser) pursuant to this Agreement and the Plan, including New Secured Notes or New Shares
+issued in connection with the Rights Offering, that are no longer subject to the Note Legend or the Share Legend, as applicable.
+ 
+“Unregistered Notes” means any New Secured Notes issued in reliance on the exemption provided by Section 4(a)
+(2) under the Securities Act or another available exemption.
+ 
+“Unregistered Securities” means, collectively, Unregistered Notes and Unregistered Shares.
+ 
+“Unregistered Shares” means any New Shares issued in reliance on the exemption provided by Section 4(a)
+(2) under the Securities Act or another available exemption.
+ 
+“Unsubscribed Securities” means the Rights Offering Securities that have not been duly purchased by the Rights
+Offering Participants in accordance with the Rights Offering Procedures and the Plan, excluding Rights Offering Securities committed
+to be purchased pursuant to Section 2.1(b) (Subscription Covenant) and Section 2.2(b).
+ 
+Section 1.2   Additional Defined Terms. In addition to the terms defined in Section 1.1, additional defined terms used
+herein shall have the respective meanings assigned thereto in the Sections indicated in the table below.
+ 
+Defined Term   Section
+Additional Notes   Section 3.5
+Agreement   Preamble
+Backstop Commitment   Section 2.2(a)
+Backstop Premium   Section 3.1(a)
+Backstop Escrow Account   Section 2.4(a)
+Backstop Escrow Funding Date   Section 2.4(b)
+Backstop Party   Preamble
+Backstop Party Replacement   Section 2.3(a)
+Backstop Party Replacement Period   Section 2.3(a)
+Bankruptcy Code   Preamble
+BCA Joinder   Section 2.7(a)
+Chapter 11 Cases   Preamble
+Closing   Section 2.5(a)
+Closing Date   Section 2.5(a)
+Commitment Fee   Section 3.1(b)
+Company   Preamble
+Company Fleet Report   Section 4.30
+Cover Transaction Period   Section 2.3(e)
+Debtor   Preamble
+Definitions   Section 1.1
+ 
+13
+--- Page 22 ---
+ 
+ 
+Employee Representative   Section 4.14(a)
+Environmental Laws   Section 4.19(a)
+Excess Shares   Section 6.11
+Expense Reimbursement   Section 3.3
+Extension Fee   Section 3.1(e)
+Filing Party   Section 6.4(b)
+Financial Reports   Section 6.6(a)
+Financial Statements   Section 4.9(a)
+Foreign Benefit Plan   Section 4.21(h)
+Funding Notice   Section 2.4(a)
+GAAP   Section 4.9(a)
+Holdback Commitment   Section 2.2(b)
+Holdback Notes   Recitals
+Holdback Securities   Recitals
+Holdback Shares   Recitals
+Holder   Section 2.1(a)
+Holder Subscription Rights   Section 2.1(a)
+Indemnified Claim   Section 8.2
+Indemnified Person   Section 8.1
+Indemnifying Party   Section 8.1
+Initial Backstop Parties   Recitals
+Intellectual Property Rights   Section 4.15
+Joint Filing Party   Section 6.4(c)
+Losses   Section 8.1
+Material Contracts   Section 4.24
+Money Laundering Laws   Section 4.26
+Multiemployer Plan   Section 4.21(b)
+Note Legend   Section 6.16(b)
+Party   Preamble
+Participation Equity   Recitals
+Permitted Fleet Changes   Section 4.30(a)
+Plan   Recitals
+Pre-Closing Period   Section 6.3(a)
+Proceedings   Section 4.13
+Qualifying Senior Notes Claims   Section 2.7(a)
+Registrable Securities   Section 6.11
+Registration Rights Agreement   Section 6.11
+Related Purchaser   Section 2.6(a)
+Replacing Backstop Parties   Section 2.3(a)
+Restructuring Support Agreement   Recitals
+Restructuring Term Sheet   Recitals
+Right   Recitals
+Rights Offering Commitment   Section 2.2(a)
+RSA Joinder   Section 2.7(a)
+Share Legend   Section 6.16(a)
+Tax Return   Section 4.20(a)
+ 
+14
+--- Page 23 ---
+ 
+ 
+Transaction Agreements   Section 4.2(a)
+Ultimate Purchaser   Section 2.6(b)
+U.S. Benefit Plans   Section 4.21(a)
+willful or intentional breach   Section 9.2
+ 
+Section 1.3   Construction. In this Agreement, unless the context otherwise requires:
+ 
+(a)           references to Articles, Sections, Exhibits and Schedules are references to the articles and sections or
+subsections of, and the exhibits and schedules attached to, this Agreement;
+ 
+(b)           the descriptive headings of the Articles and Sections of this Agreement are inserted for convenience only, do
+not constitute a part of this Agreement and shall not affect in any way the meaning or interpretation of this Agreement;
+ 
+(c)           references in this Agreement to “writing” or comparable expressions include a reference to a written
+document transmitted by means of electronic mail in portable document format (.pdf), facsimile transmission or comparable
+means of communication;
+ 
+(d)           words expressed in the singular number shall include the plural and vice versa; words expressed in the
+masculine shall include the feminine and neuter gender and vice versa;
+ 
+(e)           the words “hereof”, “herein”, “hereto” and “hereunder”, and words of similar import, when used in this
+Agreement, shall refer to this Agreement as a whole, including all Exhibits and Schedules attached to this Agreement, and not
+to any provision of this Agreement;
+ 
+(f)            the term this “Agreement” shall be construed as a reference to this Agreement as the same may have been,
+or may from time to time be, amended, modified, varied, novated or supplemented;
+ 
+(g)           “include”, “includes” and “including” are deemed to be followed by “without limitation” whether or not
+they are in fact followed by such words;
+ 
+(h)           references to “day” or “days” are to calendar days;
+ 
+(i)            references to “the date hereof” means as of the date of this Agreement;
+ 
+(j)            unless otherwise specified, references to a statute means such statute as amended from time to time and
+includes any successor legislation thereto and any regulations promulgated thereunder in effect on the date of this Agreement;
+and
+ 
+(k)           references to “dollars” or “$” are to United States of America dollars.
+ 
+15
+--- Page 24 ---
+ 
+ 
+ARTICLE II
+ 
+BACKSTOP COMMITMENT
+ 
+Section 2.1   The Rights Offering.
+ 
+(a)            Rights Offering Allocation. On and subject to the terms and conditions hereof, the Debtors and Issuer, if
+applicable, shall conduct the Rights Offering pursuant to and in accordance with the Plan, the Rights Offering Procedures and the
+Disclosure Statement Order. The Backstop Parties shall be offered the Holdback Notes offered in the Rights Offering, together with the
+corresponding Holdback Shares, allocated among such Backstop Parties based on the Holdback Commitment Percentage of such
+Backstop Parties (subject to any adjustments thereto in accordance with Section 2.7), and the remaining $312,500,000 of the New
+Secured Notes offered in the Rights Offering, together with the corresponding Participation Equity, will be offered to the holders of
+Senior Notes Claims (including, for the avoidance of doubt, the Backstop Parties) (each such holder, a “Holder”), allocated among
+such Holders based on the Deemed Claim Amount of each such Holder relative to the Deemed Claim Amount of all such Holders (such
+amount, per Holder, the “Holder Subscription Rights”). For the avoidance of doubt, in no event will (a) any Backstop Party or Holder
+have oversubscription Rights or privileges or (b) Rights offered in the Rights Offering be detachable from the Claims with which they
+are associated.
+ 
+(b)            Subscription Covenant. On and subject to the terms and conditions hereof, including entry of the
+Confirmation Order, each Backstop Party agrees, severally and not jointly, to fully exercise all Rights that are issued to it pursuant to
+the Rights Offering and duly purchase all Rights Offering Securities issuable to it in relation thereto, in accordance with the Rights
+Offering Procedures and the Plan. Any Defaulting Backstop Party shall be liable, severally and not jointly, to each non-Defaulting
+Backstop Party, the Debtors and the Issuer as a result of any breach of its obligations hereunder.
+ 
+(c)            If requested by the Requisite Backstop Parties, from time to time prior to the expiration of the Offering
+Period (as defined in the Rights Offering Procedures), the Company or Issuer (as appropriate) shall notify, or instruct the Rights
+Offering Subscription Agent to notify, as promptly as practicable and in any event, will instruct the Rights Offering Subscription Agent
+to provide within forty-eight (48) hours of receipt of such reque

@@ -1,0 +1,734 @@
+--- Page 1 ---
+EX-10.1 2 glc_ex10z1.htm STOCK PURCHASE AGREEMENT
+ 
+STOCK PURCHASE AGREEMENT
+THIS STOCK PUR CHASE AGREE MENT  (this “Agreement ”) is made and entered
+into as of July ___, 2015 (the “Effective Date ”) by and among JANIS M. TILFORD  (the
+“Shareholder ”), the sole shareh older of the Company , TILFORD, INC. , a South Carolina
+corporation (the “Company ”) and TNH ACQUISITION, LLC,  a Georgia limited  liability
+company (“ Purchaser ”).
+WITNESSETH :
+WHEREAS, the Shareholder owns the number of shares of common stock of the
+Company set forth opposite her name on Exhibit “A” which shares in the aggregate represen t
+one hundr ed percen t (100%) of the issued and outstanding capital stock of the Company (the
+“Stock ”); and
+WHEREAS,  the Company owns certain land, buildings, improvements, furniture,
+fixtures and equipm ent comprising a skilled nursing facility located at 117 Bellefield Road,
+Ridgeway , South Carolina 29130 consisting of two buildings containing 68 licensed beds and 44
+licensed beds, and certain property on the other side of Bellefield Road comprising a spray  field
+for treated wastewater  (the “ Facility ”); and
+WHEREAS,  the Company owns  various equipment, inventories and other assets related
+to the operation of the Facility; and
+WHEREAS , the Facility is leased to Fairfield Home, LLC, a South Carolina limited
+liability company (“Tenant ”) pursuant to a certain oral month to month lease agreement (the
+“Lease ”); and
+WHEREAS , Shareholder desires to sell her entire right, title and interest in and to the
+Stock to Purchaser , and Purchaser desires to purchase Shareholder ’s entire right, title and interest
+in and to the Stock from Shareholder , subject to and upon the terms and cond itions hereinafter
+set forth.
+NOW , THEREFORE , in consideration of the mutual coven ants herein contained and
+other good and valuable consideration, the mutual receipt and legal sufficien cy of which are
+hereby acknowledged, the parties, intending to be legally bound, hereby agree as follows:
+HNZW/513844_8doc/4232-17
+--- Page 2 ---
+1.1ARTICLE 1
+DEFINITIONS
+Capitalized Terms .  Capitalized terms used in this Agreement shall have the
+meanings set forth below or in the section of this Agreement referred to below .  Such terms, as so
+defined, shall include in the singular , the plural, and in the plural, the singular .
+“Agreement ”  shall mean this Stock Purchase Agreement, together with all Schedules
+and Exhibits attached hereto, as it and they may be amended from time to time as herein
+provided.
+“Business Day”  shall mean any day other than a Saturday , Sunday or any other day on
+which banking institutions in the State of South Carolina are authorized by law or executive
+action to close.
+“Closing ”  shall mean the closing of the transaction contemplated by this Agreement.
+“Closing Date ”  shall mean the first day of the month following the month in which
+Purchaser (or its designated operator) obtains all required licenses from the State of South
+Carolina to operate the Facility but no later than September 30, 2015, or if extended by Purchaser
+pursuant to Section 2.2 hereof, no later than October 31, 2015.
+“Contracts ”  shall mean all of the Company’ s service contracts, equipment leases,
+booking agreements, warranties and guaranties, and other arrangements or agreements which
+relate exclusively to the ownership, repair, maintenance, management, leasing or operation of the
+Facility .
+“Deposit ”  shall mean the amount of Fifty Thousand and 00/100s Dollars ($50,000.00)
+deposited by Purchaser with Escrow Agent simultaneously with the entering hereof, and, if the
+Closing Date is extended until October 31, 2015 by the Purchaser pursuant to Section 2.2 hereof
+an additional of Fifty Thousand and 00/100s Dollars ($50,000.00) such that, in such event the
+Deposit shall mean One Hundred Thousand and No/100ths Dollars ($100,000.00) .
+ “Escr ow Agent ”  shall mean Hughes White Kralicek, P.C. as agent for the Title
+Company .
+“Envir onmental Law ”  shall mean the Comprehensive Environmental Response,
+Compensation and Liability Act of 1980, as amended, including the Superfund Amendments and
+Reauthorization Act of 1986 (42 U.S.C . Sections 9601 et seq.), the Resource Conservation and
+Recovery Act of 1976 (42 U.S.C. Section 6901 et seq.), the Clean Water Act (33 U.S.C. Sections
+466 et seq.), the Safe Drinking Water Act Sections 1401 (14 U.S.C. Section 1450 ), the Hazardous
+Materials Transporta tion Act (79 U.S.C. Sections 1801 et seq.), the Toxic Substances Control Act
+(15 U.S.C . Sections 2601-2629) and any other federal, state, or local law, regulation, or
+ordinance regarding environmental conditions or hazards.
+2
+HNZW/513844_8.doc/4232-17
+--- Page 3 ---
+“ERISA ” shall mean the Employee Retirement Income Security Act of 1974, as
+amended.
+“FF&E ”  shall mean, collec tively , all appliances, machinery , devices, fixtures, equipme nt
+(including, without limitation, all kitchen equipment), furniture, furnishings, partitions, signs or
+trade fixtures or other tangible personal property owned by the Company and located at the
+Facility .
+ “Hazardous Substa nce”  shall mean any chemical, substance, material, object,
+condition, or waste harmful to human health or safety or to the environment due to its
+radioactivity , ignitability , corrosivity , reactivity , explosivity , toxicity , carcinogenicity ,
+infectiousness, or other harmful or potentially harmful properties or effects, including, without
+limitation, petroleum or petroleum products, and all of those chemicals, substances, materials,
+objects, conditions, wastes, or combinat ions of them which are now or become listed, defined or
+regulated in any manner by any Environmental Law .
+“Impr ovements ”  shall mean, collectively , all buildings and other structures and
+improvements situated on, af fixed or appurtenant to the Land on which the Facility is located.
+“Inspection Period ”  shall mean the period beginning on the Effective Date and expiring
+at 5:00 p.m. eastern time on the thirtieth (30th) day after the Ef fective Date.
+ “Land ”  shall mean the parcel or parcels of land described on Exhibit “B” attached
+hereto on which the Facility is located, together with all appurtenances thereto.  The Land shall
+include sufficient real property located across Bellefield Road from the real property upon which
+the Impro vements are located, to comp rise and constitute an adequate spray field (the “Spray
+Field ”) for wastewater generated from use and occupancy of the Facility and its Improvements.
+Shareholder shall at her expense have a survey prepared separating the Spray Field from the
+balance of the real property (and improvements thereto, if any, collectively the “Balance ”) and
+convey the said Balance to the Shareholder or a third party prior to Closing.  The Balance is not
+and shall not be a part of the Facility and will not be owned by the Company at Closing.
+“Purchase Price ”  shall mean Three Million and 00/100s Dollars ($3,000,000.00).
+ “Real Property”  shall mean, collec tively , the Land and the Improvements related to the
+Facility .
+“Seller  shall mean the Shareholder .
+“Tax Code”  shall mean the Intern al Revenue Code of 1986 and, to the extent applicable,
+the Treasury Regulations promulgated thereunder , each as from time to time amended.
+“Title Company ”  shall mean Chicago Title Insurance Company or such other reputable
+national title insurance company as may be selected by Purchaser .
+3
+HNZW/513844_8.doc/4232-17
+--- Page 4 ---
+2.1
+2.2
+2.3
+(a)
+(b)
+2.4
+(a)
+(b)
+(c)
+(d) (d)ARTICLE 2
+PURCHASE AND SALE; CLOSING
+Purchase and Sale.  In consideration of the payment of the Purchase Price by
+Purchaser to Shareholder and for other good and valuable consideration, Shareholder hereby
+agrees to sell to Purchaser , and Purchaser hereby agrees to purchase from Shareholder , all of
+Shareholder ’s right, title and interest in and to the Stock for the Purchase Price,  subject to and in
+accordance with the terms and conditions of this Agreement.
+Closing .  If the closing conditions in Article 4 and Article 5 are satisfied, the
+purchase and sale of the Stock shall be consummated on the Closing Date by the release of the
+documents and funds held in escrow by the Escrow Agent.  Purchaser shall have the right at any
+time prior to September 30, 2015, to extend the Closing Date to October 31, 2015 upon written
+notice to Shareholde r and simultaneous deposit of an additional $50,000.00 with Escrow Agent
+(which, together with the initial deposit of $50,000.00 shall then comprise the Deposit as herein
+defined)..  
+Purchase Price .   The aggregate purchase price to be paid for the Stock shall be
+the Purchase Price.  The Purchase Price shall be paid as follows:
+Deposit .  Within three (3) Business Days following the Effective Date, Purchaser
+shall depo sit the Initial Deposit of $50,000.00 with the Escrow Agent by wire transfer of
+immediately available funds.
+Cash Consideration .  The sum of Three Million and 00/100s Dollars
+($3,000,000.00) (including the Deposit) , subject to adjustment as provided in Article 9, shall be
+deposited into escrow with the Escrow  Agent by wire transfer of immediately available funds
+and released to Shareholder at the Closing.
+Duties of Escr ow Agent .
+Holding of Deposit .  The Escrow Agent shall hold the Deposit in a non-interest
+bearing account and shall pay the Deposit to the party entitled thereto in accordance with the
+terms of this Agreement.
+IRS Stock Sales Reporting .  The Escrow Agent shall act as “the person
+responsible for closing” the transactions  contemplated hereby pursuant to Sectio n 6045(e) of the
+Tax Code, and the Escrow Agent shall prepare and file all informational return s, including IRS
+Form 1099-B, and shall otherwise comply with the provisions of said Section 6045(e).
+Escrow Agreement .  Simultaneously with the execution and delivery of this
+Agreement, Seller , Purchaser and Escro w Agent shall execute and deliver an escrow agreement
+in the form attached hereto as Exhibit “C” .
+CPL.  Prior to execution and delivery of the Escrow Agreement Escrow
+Agent shall deliver to Shareholder and Purchaser a Closing Protection Letter issued by the Title
+Company , addressed to the Shareholder and Purchaser and assuring each of them  of performance
+of the duties of the Escrow Agent, by Escrow Agent.
+4
+HNZW/513844_8.doc/4232-17
+--- Page 5 ---
+3.1
+(a)
+(b)
+3.2ARTICLE 3
+DILIGENCE
+Inspections and Other  Diligence Activities .
+Property Inspections .  During the Inspection Period and thereafter until the
+Closing or the earlier termination of this Agreement, the Company shall permit Purchaser and its
+representatives to conduct non-invasiv e physical inspections of the Real Property and the
+Facility; provided , however , Purchase r shall not be permitted to perform any environmental
+investigations or invasive testing which are beyond the scope of typical so-called “Phase I”
+investigation witho ut the Company’ s prior written consent, which consent shall not be
+unreasonably withheld or delayed.   Except for the administrator of the Facility (whom Purchaser
+may conta ct), Purchaser shall not contac t any employees or any residents of the Facility without
+the Comp any’s prior written consent.  All such inspections shall be perform ed in a manner
+consistent with this Agreement and so as to minimize any interference or disruptions to the
+residents or the operations of the Facility .  Purchaser shall notify the Company at least one (1)
+Business Day prior to making any such inspections.  For purposes of the preceding sentence
+only, notice may be given by e-mail to Janis M. Tilford at jmpbt@bellsouth.net  with a copy to
+Austin Sheheen at ASheheen@shgcpa.com .
+Diligence Materials .  From and after the Effective Date until the Closing or the
+earlier termination of this Agreement, Shareholder shall deliver to Purchaser  for Purchaser ’s
+review true, correct and complete copies of any materials pertaining to the Real Property , the
+Facility and/or the Company that are reasonably requested by Purchaser to the extent such
+materials are within Shareholder ’s possession or control.  
+Termination of Agreement .  Purchas er shall have the right to terminate this
+Agreement at any time prior to the expiration of the Inspection Period by giving written notice
+thereof to the Company and Sharehold er (with a copy to Escrow Agent), in which event the
+Escrow Agent shall return the Deposit to Purchaser and neither party shall have any further rights
+or obligations hereunder; provided, however , in such event Purchaser shall be liable for, and shall
+pay to Company the costs of repairs, if any necessitated or caused by Purchaser ’s inspection of
+the Real Property and the Facility pursuant to Section 3.1(a).
+5
+HNZW/513844_8.doc/4232-17
+--- Page 6 ---
+3.3
+3.4
+3.5Title and Survey .  Within five (5) Business Days follow ing the Effective Date,
+the Company shall deliver to Purchaser copies of the most recent title policies and surveys of the
+Real Property that are in the Company’ s possession or control (if any).  Purchaser shall have the
+right to obtain new or updated title commitments and/or surveys for the Real Property and
+Purchaser shall provide copies of any such updates to the Company within five (5) Business
+Days after its receipt thereof.  At least ten (10) Business Days prior to the expiration of the
+Inspection Period, Purchaser shall give the Company notice of any title exceptions or other
+matters set forth on the Company’ s title policies or surveys or any updates thereof as to which
+Purchaser objects in its sole and absolute discretion.  The Company shall have the right, but not
+the obligation, to remove, satisfy or otherwise cure any such exception or other matter as to
+which Purchaser so objects. If the Company is unable or unwilling to take such actions as may be
+required to cure such objections, the Company shall give Purchaser notice thereof; it being
+understood and agreed that the failure of the Company to give such notice within three (3)
+Business Days after its receipt of Purch aser’s notice of objection shall be deemed an election by
+the Company not to remedy such matters.  If the Company shall be unable or unwilling to
+remove any title defects to which Purch aser has so objected, Purchaser shall elect either (a) to
+terminate this Agreement (in whole but not in part) or (b) to proceed to Closing notwithstanding
+such title defect without any abatement or reduction in the Purchase Price on account thereof.
+ Purchaser shall make any such election by written notice to the Company given on or prior to
+the expiration of the Inspection Period; provided , however , if the Company commences to cure a
+title defect and then elects not to complete such cure, Purchaser shall have the right to terminate
+this Agree ment by written notice to the Company within three (3) Busines s Days after the
+Company notifies Purchaser thereof.  The failure of Purchaser to give such notice shall be
+deemed an election by Purchaser to proceed to Closing in accordance with clause (b) above.  
+Confidentiality .  Purchase r shall not disclose or otherw ise use any data or other
+information concern ing the Company or the Facility for any purpose other than for evaluating the
+transaction contemp lated hereunder in the course of its due diligence as provided herein, and
+Purchaser shall keep all such data and information strictly confidential.  Notwithstanding the
+foregoing, the Company acknowledges that Purchaser may disclose such data and information by
+furnishing copies thereof to third party consultants in the normal course of Purchaser ’s due
+diligence provided that such consultants agree to be bound by the terms and conditions of this
+Section 3.4 .
+Return of Materials .  If the Closing does not take place as herein contemplated
+for any reason, Purchaser shall prompt ly return all materials delivered to it by the Company
+pursuant to this Agreement.
+6
+HNZW/513844_8.doc/4232-17
+--- Page 7 ---
+4.1
+(a)
+(b)
+(c)
+(d)
+(e)
+(f)
+4.2
+4.3ARTICLE 4
+CONDITIONS TO PURCHASER’S OBLIGA TION TO CLOSE
+The obligation of Purchaser to acquire the Stock shall be subject to the satisfact ion of the
+following conditions precedent on and as of the Closing Date:
+Closing Documents .  The Com pany shall have delivered to Escrow Agent and
+shall have  authorize d and directed Escrow Agent to record or release to Purchaser (as applicable)
+the following:
+Stock Transfer Power .  A stock transfer power duly executed by Shareholder
+conveying the Stock to Purchaser substantially in the form of Exhibit “D” .
+Settlement Statemen t.  A settlement statement showing the Purchase Price and all
+adjustment thereto in accordance with the terms and conditions of this Agreement, which
+settlement statement  shall be in a form and substance reasonably satisfactory to Shareholder and
+Purchaser , duly executed by Shareholder .
+Title Affidavits .  Such  usual and customary  affidavits as the Title Company may
+reasonably require, including, without limitation, a so-called owner ’s affidavit in such form as
+will perm it the Title Company to issue its title policy without exceptions for parties-in-
+possession or mechanic’ s liens.
+Termination of the  Lease and Management Agreement .  Termination agreements
+for the Lease and Management Agreem ent in form and substance acceptable to Purchaser shall
+be executed and delivered to Purchaser .
+Operations Transfer Agreement .  An operations transfer agreement in form and
+substance acceptable to Purchaser and/or its designated operator executed on behalf of Tenant.
+Other Conveyance Documents .  Such other conveyance documents and
+instruments as Purchaser or the Title Company may reasonably require and as are consistent with
+this Agreement and are customary in like transactions in the State of South Carolina.
+Repr esentations and Warranties .  All representations and warranties of
+Shareholder and the Company herein shall be true, correct and complete in all material respects
+on and as of the Closing Date, and Shareholder and the Company shall certify in writing at such
+Closing that each of such representatio ns and warranties are true, correct and complete in all
+material respects on and as of the Closing Date.
+Covenants .  Shareholder and the Company shall have performed in all material
+respects all covenants and obligation s required to be performed by the Company and/or
+Shareholder on or before the Closing Date.
+7
+HNZW/513844_8.doc/4232-17
+--- Page 8 ---
+4.4
+4.5
+4.6
+5.1
+5.2
+5.3
+5.4Condition of the Facility .  The Facility shall, on the Closing Date, be in
+substantially the same condition as it was on the Effective Date, normal wear and tear excepted;
+provided , however , if a casualty or condemnation occurs with respect to the Facility , Article 10
+shall govern the rights and obligations of the parties hereunder .
+Title Policy .  The Title Company shall be committe d, subject only to payment of
+its usual and customary premium at the Closing, to issue a title policy insuring that fee simple
+title to the Real Property on which the Facility is located is vested in the Company .
+Accounts Payable .  At or prior to the Closing, the Company shall have paid in
+full all of the Company’ s accounts payable, including, without limitation, (i) principal and
+interest owed with respect to any debt secured by a mortgage on the Real Property , (ii) real
+property , personal property and income taxes and (iii) amounts owed under any Contracts.   
+ARTICLE 5
+CONDITIONS TO SHAREHOLDER’S OBLIGA TION TO CLOSE
+The oblig ation of Shareholder to convey the Stock to Purchaser is subject to the
+satisfaction of the following conditions precedent on and as of the Closing Date:
+Purchase Price .  Purchas er shall have delivered the Purchase Price to Escrow
+Agent and shall have authorized and directed Escrow Agent to pay the same to Shareholder .
+Closing Documents .  Purchaser shall have delivered to Escrow Agent duly
+executed and acknowledged counterp arts of the documents described in Article 4, where
+applicable, and shall have authorized and directed Escrow Agent to release the same to
+Purchaser .
+Repr esentations and Warranties .  All representations and warranties of
+Purchaser herein shall be true, correct and complete in all material respects on and as of the
+Closing Date, and Purchaser shall certify in writing at the Closing that each of the
+representations and warranties made by Purchaser herein are true, correct and complete in all
+material respects on and as of the Closing Date.
+Purchaser ’s Coven ants.  Purchase r shall have performed in all material respects
+all covenants and obligations required to be performed by Purchaser on or before the Closing
+Date.
+8
+HNZW/513844_8.doc/4232-17
+--- Page 9 ---
+6.1
+(a)
+(b)
+(c)
+(d)
+(e)ARTICLE 6
+REPRESENT ATIONS AND WARRANTIES OF  SHAREHOLDER AND COMP ANY
+Repr esentations and Warranties . To induce Purchaser to enter into this
+Agreement, Shareholder and the Company jointly and severally represent and warrant to
+Purchaser as follows:
+Status and Authority .  The Company is a corporation duly formed, validly existing
+and in good standing under the laws of its state of formation, and has all requisite power and
+authority under the laws of such state and its charter documents to enter into and perform its
+obligations under this Agreement and to consummate the transactions contemplated hereby and
+thereby .
+Action .  The Company has taken (or will have taken prior to Closing) all
+necessary action to authorize the execution, delivery and performance of this Agreement and
+upon the execution and delivery of this Agreement and/or any document to be delivered by the
+Company hereunder  or thereunder , this Agreement and such documents shall constitute the valid
+and binding obligations and agreements of the Company , enforceable against the Company in
+accordance with their respective terms,  except as enforceability may be limited by bankruptcy ,
+insolvency , reorganization, moratorium or similar laws of general application affecting the rights
+and remedies of creditors.
+No Violations of Agreements .  Neither the execu tion, delivery or performance of
+this Agreement by the Company or Shareholder , nor compliance with the terms and provisions
+hereof, will result in any breach of the terms, conditions or provisions of, or conflict with or
+constitute a default under , or result in the creation of any lien, charge or encumbrance upon the
+Company pursuant to the terms of any indenture, mortgage, deed of trust, note, evidence of
+indebtedness or any other agreement or instrument by which the Company or Shareholder is
+bound.
+Litigation .  There are no pending investigations, actions or proceedings which
+questions the validity of this Agreement or any action taken or to be taken pursuant hereto or
+thereto.  The Compa ny has not received  any written notice regarding any pending or threatened
+litigation or administrative proceeding s which could reasonably be expect ed to materially
+adversely affect the Company or the Facility or the Company’ s right to enter into this Agreement
+or to consu mmate the transactions conte mplated by this Agreement.  The Company is not subject
+to any judgment, order , writ, injunction,  decree or award of any court, arbitrator  or governmental
+department, agency , board, bureau or instrumentality issued or entered in a proceeding to which
+the Company or the Facility is or was a party .
+Notices of Violation .  Except as otherwi se disclosed to Purchaser in writing, as of
+the Effective Date, the Company has not received any written notice from any governmental
+authority claiming that the Company and/or the Facility is in material violation of any applicable
+law, code, rule, regulation, ordinance, license or permit (including, withou t limitation, any
+Environmental Law).
+9
+HNZW/513844_8.doc/4232-17
+--- Page 10 ---
+(f)
+(g)
+(h)
+(i)
+(j)Hazardous Substances .  The Company has not unlawfully  used, generated,
+transported, treated,  constructed, deposited, stored, disposed, placed or located  at, on, under or
+from the Real Property any flammabl e explosives, radioactive materials, hazardous or toxic
+substances, material s or wastes, polluta nts or contaminants defined, listed or regulated by any
+applicable local, state or federal environmental laws in material violatio n of any such
+environmental laws where such violat ion could reasonably be expected to have an material
+adverse ef fect on the Facility .
+Power and Authority of Shareholder .  Shareholder has the right, power and
+capacity to execute,  deliver and perform  this Agreement and the other agreements contemplated
+herein to which Shareholder is a party (collectively , the “Shareholder Transaction Agreements ”)
+and to consummate the transactions contemplated hereby .  This Agreement has been duly and
+validly executed and delivered by Shareholder and constitutes Shareholder ’s legal, valid and
+binding obligation, enforceable against Shareholder in accordance with its terms, except as
+enforceability may be limited by applic able equitable principles or by bankruptcy , insolvency ,
+reorganization, moratorium, or similar  laws affecting, creditors’  rights gener ally, and by the
+exercise of judicial discretion in accordance with equitable principles.
+No Conflict .  The execution and delivery of this Agreement by Shareholder , the
+consummation of the transactions contemplated herein by Shareholder , and the performance of
+the covenants and agreements of Shareholder , will not, with or without the giving of notice or the
+lapse of time, or both, (a) violate, conflict with or result in a breach or defau lt under or cause
+termination of any term or condition of any mortgage, indenture, contract, license, permit,
+instrument, trust document, or other agreement, document or instrument to which Shareholder is
+a party or by which Shareholder or any of her properties may be bound; or (b) violate any
+provision of any law or any order or any legal requirement, to which Shareholde r is a party or by
+which Shareholder or her properties may be bound.
+Ownership of the Stock .  Shareholder owns, of record and beneficially , good and
+valid title to the Stock in the amount set forth next to Shareholder ’s name on Exhibit “A” and
+such shares of Stock (a) are validly issued, fully paid and nonassessable, and (b) are free and
+clear of any liens, with no defects of title whatsoever and constitute one hundred percent (100%)
+of the issued and outstanding shares  of the Company .  Other than the shares of Stock,
+Shareholder owns no shares of capital stock of the Company or any other equity security of the
+Company  and no right of any kind to have any such equity security issued.  Upon the Closing,
+Purchaser shall have obtained good and valid title to the Stock free and clear of any liens, and
+with no defects of title whatsoever .  Shareholder has full and exclusive power , right and authority
+to vote the shares of Stock. Shareholder is not a party to or bound by any agreement affecting or
+relating to Shareholder ’s right to transfer (including any right of first refusal) or vote the shares,
+and Shareholder is not a party to any contract, agreement or understanding that obligates the
+Company to repurchase, redeem or otherwise acquire any shares of capital stock or other
+securities of the Company .
+Required Consents .  No consent, approval, authorization, or action by any third
+party or governmen tal body is requir ed in connection with the execution and delivery by
+Shareholder of this Agreement or the consummation by Shareholder of the transactions
+contemplated herein.
+10
+HNZW/513844_8.doc/4232-17
+--- Page 11 ---
+(k)
+(l)
+(m)
+(n)
+(i)
+(ii)
+(A)
+ (B)
+(o)
+(i)Absence of Other Claims .  No prior offer, issue, redemption, call, purchase, sale,
+merger, transfer , involvement in any transfer , negotiation or other transaction of any nature or
+kind with respect to any capital stock (including shares, offers, options, warrants, or debt
+convertible into shares, options or warrants) of the Company owned by Shareholder has given or
+may give rise to (a) any valid claim or action by any person (including, without limitation, any
+former or present holder of any of the shares of stock owned by Shareholder); or (b) and, to the
+knowledge of Shareholder , no fact or circumstance exists which could give rise to any such right,
+claim, action or interest on behalf of any person.
+Litigation and Absence of Undisclosed Liabilities; Current Investigation.   There
+are no claims, charges, arbitrations, actions, suits, proceedings, or investigatio ns pending or, to
+the knowledge of Shareholder , threatened against, relating to Shareholder , at law or in equity , or
+before or by any governmental body , which will prevent Shareholder from consummating the
+transactions contemplated by this Agreement.
+Disclosure .  No representation or warranty or other statement made by
+Shareholder or the Company in this Agreement omits to state a material fact necessary to make
+any of them, in light of the circumstances in which it was made, not misleading.
+Authority .
+The Company has the right, legal capacity , full power and authority
+to enter into this Agreement and the other agreements contemplated herein to which the
+Company is a party (the “Company Transaction Agreements ”) and to perform its obligations
+hereunder and thereunder and to consummate the transactions contemplated herein and thereby .
+ This Agreement has been duly and validly executed and delivered by the Company .
+Neither the execution or delivery of this Agreement, nor the
+consummation or performance by the Company or Shareholder of any of the transactions
+contemplated hereby will, directly or indirectly (with or without notice or lapse of time or both):
+violate the Articles of Incorporation, Bylaws or other governing
+documents of the Company;
+violate, contravene or conflict with any provisions of law or any
+order or legal requir ement to which the Company or Shareholder is subject or by
+which the Company , Shareholder , the Stock or any of the properties or assets of
+the Company may be bound or give any governmental body or other person the
+right to challenge any of the contemplat ed transactions or to exercise any remedy
+or obtain any relief under , any order or legal requirement to which the Company ,
+Shareholder , the Stock or any of the properties or assets of the Company may be
+subject, except as would not, individual ly or in the aggregate, result in a material
+adverse ef fect;
+Personal Property .
+Schedule 6.1(p)(i)  sets forth a complete and accurate list and
+description of all the personal property that the Company owns, has agreed (or has an option) to
+purchase, sell or lease, or may be obligated to purchase, sell or lease.
+11
+HNZW/513844_8.doc/4232-17
+--- Page 12 ---
+(ii)
+(p)
+(q)
+(i)
+(ii)
+(r)
+(s)The Comp any (i) has good and valid title to all the personal and
+mixed, tangible and intangible properties and assets which it purports to own or which it uses in
+the conduc t of its business (except for inventory); and (ii) owns such personal property free and
+clear of all liens of any nature whatsoever , including any mortgages, leases, chattel mortgages,
+conditional sales contracts, collateral, security arrangements and other title or interest retention
+arrangements.  All properties and assets of the Company are in the possession of the Company .  
+Leases . Schedule 6.1(q)  contains a complete and accurate list of all leases
+pursuant to which the Company leases personal property from others.  The Company has made
+available to Purchaser true, correct and complete copies of such leases.
+Contractual Obligations.
+Schedule 6.1(r)(i)  sets forth  a true, correct, and complete list of all
+Contracts.
+Each Cont ract is in full force and effect and there are not now any
+existing defaults or events of default, real or claimed with respect to the Company and the other
+parties thereto, or events which with notice or lapse of time or both would constitute defaults, the
+consequence of which, severally or in the aggregate, would have a material adverse effect on the
+Company .  The Contracts are valid and enforceable in accordance with their respective terms
+with respe ct to the Company and, to the Company’ s knowledge, each other party thereto, except
+as enforceability may be limited by applicable equitable principles or by bankru ptcy, insolvency ,
+reorganization, moratorium or similar laws affecting creditors’  rights generally , and to the
+exercise of judicial discretion in accord ance with general equitable principles.  There exists no
+actual or, to the Com pany’ s knowledge,  threatened, termination, cancellation, or limitation of, or
+any amend ment, modification, or change to, any Contract that would have a material adverse
+effect on the comp any.  The Compan y has made available to Purchaser true, correct and
+complete copies of all Contracts.
+Indebtedness .  Schedule 6.1(s)  sets forth a true, correct and complete list
+and description of all instruments or other documents relating to any direct or indirect
+indebtedness for borrowed money of the Company , as well as indebtedness by way of lease-
+purchase arrangements, guarantees, undertakings on which others rely in extending credit and all
+conditional sales contracts, chattel mortgages and other security arrangements with respect to
+personal property used or owned by the Company . The Company has made available to
+Purchaser a true, correct and complete copy of each of the items required to be listed on
+Schedule 6.1(s) .
+Licenses and Permits .  Schedule 6.1(t)  contains a complet e and accurate
+list of each license and permit that is held by the Company .  
+12
+HNZW/513844_8.doc/4232-17
+--- Page 13 ---
+(t)
+(u)
+(v)
+(w)
+(i)Taxes.  The Company has timely filed, and as of the Closing Date will
+have timely filed, all federal income tax returns, and all material state, county and local income,
+franchise, property , sales, use, and other tax returns relating to the Company required to be filed
+on or prior to the Closing Date, and such returns are and will be true and correct in all material
+respects.  The Comp any has paid, or by the Closing Date will have paid, all federal, state, county
+and local income, franchise, property , sales, use and all other taxes and assessments (including
+penalties and interest in respect thereof,  if any) that have become or are due with respect to the
+Company regarding any period ended on or prior to the Closing Date whether shown on such
+returns or not.  No tax liens have been filed against the properties or assets of the Company or
+the Facility and, to the knowledge of the Company , no claim for any additional tax or assessment
+is being asserted against the Company in connection therewith by any taxing authority .  All taxes
+required to be withheld on or prior to the Closing Date from employees of the Company for
+income taxes, social security taxes and other employment taxes have been properly withheld, in
+all material respects, and, if required on or prior to the Closing Date, have been deposited with
+the appropriate governmental body .
+Financial Statements .  Schedule 6.1(v)  contains the compiled balance
+sheets and statements of income of the Company as of December 31, 2014, and the compiled
+balance sheet of the Company as of December 31, 2014, and the related statement of income for
+the period then ende d (collectively , the “Financial Statement s”).  The Financial Statements are,
+in all material respects, true, correct and complete and present fairly the financial position of the
+Company as of the dates thereof, and the related results of its operations for the years then ended.
+ The compiled balance sheet as of _____________, 2015 (the “Interim Balance Sheet Date ”)
+included in the Financial Statements is referred to herein as the “Interim Balance Sheet .” The
+Financial Statement s are compilations that have been prepared on an income tax basis of
+accounting in accordance with the books and records of the Company , applied on a consistent
+basis throughout the periods indicated, except that the Interim Balance Sheet is subject to normal
+year-end adjustments.
+No Undisclosed Liabilities .  Except as and to the extent reflected and
+adequately reserved against in the Interim Balance Sheet, liabilities and obligations incurred by
+the Comp any in the ordinary course of business, the Company had no material liability or
+obligation whatsoever , whether accrued, absolute, contingent or otherwise.
+Employees; Labor Matters .
+Schedule 6.1(x)  sets forth the names and current compensation
+(broken down by category , e.g., salary , bonus, commission) of all employees of the Company ,
+together with the date and amount of the last increase in compensation for each such person.  
+13
+HNZW/513844_8.doc/4232-17
+--- Page 14 ---
+(ii)
+(iii)
+(iv)
+(v)To the Company’ s knowledge, each foreign national employee of
+the Company is authorized to be presen t and employed in the United States.  The Company is in
+compliance in all material respects with all Laws, Orders, and Legal Requirements relating to the
+regulation of foreign nationals in the United States including, without limitation, those items
+relating to the employment and compensation of foreign nationals in the United States.
+ Moreover , there are no unresolved past, pending or, to the Company’ s knowledge, threatened
+administrative, regulatory or judicial actions, proceedings, investigations, obligations, liabilities,
+losses, decrees, judgments, penalties, fines, fees, demands, demand letters, orders, directives,
+claims, or notices of noncompliance or violation relating in any way to the Company or its
+operations in connection with the Comp any’s employment of foreign nationals.  As used herein,
+the term “foreign national” means a person who is not a citizen of the United States of America.
+The Company , within the last three (3) years, has not experienced
+any slowdown, work interruption, strike, or work stoppage.  The Company is not a party to and
+has no obligation pursuant to, any oral or written agreement, collective bargaining or otherwise,
+with any party regarding the rates of pay or working conditions of any of its employees nor is the
+Company obligated under any agreemen t to recognize or bargain with any labor organization or
+union on behalf of such employees.  Neither the Company , nor any member of the governing
+body of the Company , nor any of the Company’ s officers or employees, has been charged or
+threatened in writing with the charge of any unfair labor practice.  The Company is in
+compliance in all material respects with all applicable legal requirements concerning the
+employer -employee relationship in respect of its employees.  The Company has paid, or will pay
+in a timely manner , any wages, bonuses, or commissions required to be paid to its employees for
+all service s performed by them to the Closing Date.  The Company does not have any
+employment contrac t, consulting agreement (other than the management agreement between
+Fairfield Home, LLC, the tenant of the Facility , and Laurel Baye Healthcare, LLC, to provide
+management for the Facility , the “Management Agreement”), termination or severance
+agreement, salary continuation agreement, change of control agreement or any other contract or
+other agreement, including offers for any of the above, respecting the terms and conditions of
+employment or payment of compensation to any current or former employee or other service
+provider of the Company .  To the knowledge of the Company , no employee of the Company is a
+party to, or is otherwise bound by, any contract, agreement or arrangeme nt between such
+employee and any other person that in any way adversely affects or will affect the performance
+of such Person’ s duties as an employee of the Company .
+Schedule 6.1(dd)(x)  sets forth the name  and title of each director
+and officer of the Company .  The sole director of the Company receives compensation from the
+Company for services as a director or of ficer of the Company .
+All persons classified by the Company as independent contractors
+have been properly classified in accord ance with all applicable legal requirements and no such
+person is eligible to participate in any Company benefit plan or would be eligible to participate if
+the Company’ s classification of such person as an independent contractor  is subsequently
+determined to be incorrect.  The Company has not received in writing a claim from any
+governmental body to the effect that the Company has improperly classified any person as an
+independent contrac tor, nor to the knowledge of the Company has any such claim been
+threatened.
+14
+HNZW/513844_8.doc/4232-17
+--- Page 15 ---
+(x)
+(i)
+(ii)
+(iii)Employee Benefits .  
+All Comp any benefit plans are listed on Schedule 6.1(y) .   The
+Company does not maintain, nor in the last five (5) years has it maintained or contributed to, any
+Company benefit plan.  Each Company  benefit plan has been administered in compliance in all
+material respects with the applicable provisions of ERISA, the Tax Code and other applicable
+Governmental Regu lations.  Each Company benefit plan which is intended to be qualified within
+the meaning of the Tax Code §401(a) is so qualified and has received a determination, opinion or
+advisory letter from the Internal Revenu e Service upon which it may rely regar ding its qualified
+status and nothing has occurred, whethe r by action or failure to act, that could cause the loss of
+such qualification.  No Company benef it plan is or has ever been subject to Title IV of ERISA,
+Section 412 of the Tax Code or Section 302 of ERISA, and neither Shareholder nor any ERISA
+Affiliate have incurred any liability under Title IV of ERISA.  No Company benefit plan
+provides or promise s to provide employee welfare benefits (as defined in ERISA §3(1)) to any
+current or former employee or his or her family members beyond termination of service or
+retirement, other than coverage mandated by law.  To the Company’ s knowledge , there have been
+no prohibited transactions or other fiduciary breaches with respect to any Company benefit plan.
+ No action or investigation with respect to any Company benefit plan or any trustees or
+fiduciaries thereof (other than routine claims for benefits) is pending or, to the Company’ s
+knowledge, threatened and no completed action or investigation has resulted in the imposition of
+any tax or penalty .  Each “nonqualified  deferred compensation plan” subject to the Tax Code
+§409A  is either exempt from coverage by the Tax Code §409A  or complies with the Tax Code
+§409A  and has been operated and timely amended since January 1, 2005 in good faith
+compliance with the Tax Code §409A  and all applicable guidance issued thereunder .
+The Company has never been a memb er of an affiliated service
+group under the Tax Code Section 414(m) and is not a party to an employee leasing arrangement
+covered by the Tax Code Section 414(n).
+The Company has made available to Purchaser:  (i) copies of all
+material documents setting forth the terms of each Company benefit plan, including all
+amendments thereto and all related trust documents; (ii) the three most recent annual reports
+(Form Series 5500), if any, required under ERISA  or the Tax Code in conn ection with each
+Company benefit plan; (iii) the most recent summary plan description, if any, required under
+ERISA  with respect to each Company benefit plan; (iv) all material written contracts,
+instruments or agreements relating to each Company benefit plan, including administrative
+service agreements and group insurance contracts; (v) the most recent IRS determination or
+opinion letter issued with respect to each Company benefit plan intended to be qualified under
+Section 401(a) of the Tax Code; (vi) all documents relating to any governm ental audit of a
+Company benefit plan; and (vii) all filings under the IRS’ Employee Plans Compliance
+Resolution System Program or any of its predecessors or the U.S. Department of Labor
+Delinquent Filer Program or Voluntary Fiduciary Correction Program.
+15
+HNZW/513844_8.doc/4232-17
+--- Page 16 ---
+(iv)
+(y)
+6.2
+6.3All payme nts required by each Company benefit plan with respect
+to all prior periods have been made or provided for by the Company in accordance with the
+provisions of the Company benefit plan, applicable law and generally accepted accounting
+principles.  The consummation of the transactions described herein (i) will not cause Purchaser
+or any of its ERISA  Affiliates to incur or suffer any liability , contingent or otherwise, relating to
+any Company benefit plan, and (ii) will not cause, alone or in combination with other events, the
+acceleration of payment of vesting of any benefit under a Company benefit plan.
+Insurance Policies .  Schedule 6.1(z) sets forth a comple te and accurate list
+and description of all insurance policies  in force naming the Company , or any employees thereof
+in their capacity as such, as an insured or beneficiary or as a loss payable payee, or for which the
+Company has paid or is obligated to pay all or part of the premiums.  The Company has not
+received notice of any pending or threatened termination or premium increase (retroactive or
+otherwise) with respect thereto, and the Company is in material compliance with all conditions
+contained therein.  There have been no lapses (whether cured or not) in the coverage provided
+under the insurance policies, during the term of such policies, as extended or renewed.  The
+Company has made available to Purchaser true, correct and complete copies of each of the
+policies required to be listed on Schedule 6.1(z) .
+Knowledge Define d.  All references in this Agreement to “the Company’ s
+knowledge” or words of similar import shall refer to the actual knowledge of Janis M. Tilford.
+Survival .  The representations and warranties made in this Agreement by the
+Company shall be continuing and shall be deemed remade as of the Closing Date, with the same
+force and effect as if made on, and as of, such date, subject to the Company’ s right to update
+such representations  and warranties by written notice to Purchaser prior to the Closing Date.  All
+representations and warranties made in this Agreement by the Company and Shareholder shall
+survive the Closing for a period of two (2) years.  Purchaser must notify the Company and
+Shareholder of any alleged breach of any representation on or before the day preceding the
+second anniversary of the Closing Date, and no action or proceeding may be commenced against
+the Compa ny for any breach of any representation or warranty after the day preceding the second
+anniversary of the Closing Date.
+16
+HNZW/513844_8.doc/4232-17
+--- Page 17 ---
+6.4 AS-IS .
+7.1
+(a)
+(b)  EXCEPT  AS OTHER WISE EXPRESSL Y PROVIDED IN THIS
+AGREEMENT , SHAREHOLDER AND THE COMP ANY  HAVE NOT  MADE, AND
+PURCHASER HAS NOT  RELIE D UPON, ANY  INFORMA TION, PROMISE,
+REPRESENT ATION OR WARRANTY , EXPRESS OR IMPLIED, REG ARDING THE
+COMP ANY  OR THE FACILITY , INCLUDING, WITHOUT  LIMI TATION, ANY
+INFORMA TION, PROMISE, REPRE SENT ATION OR WARRANTY  REG ARDING THE
+PHYSICAL  CONDITION OR VALUE OF THE FACILITY , TITLE TO OR THE
+BOUNDARIES OF ANY  OF THE REAL PROPER TY, PEST  CONTROL  MATTERS, SOIL
+CONDITIONS, THE PRESENCE, EXISTENCE OR ABSENCE OF HAZARDOUS
+SUBST ANCES, TOXIC SUBST ANCES OR OTHER ENVIRONMENT AL MATTERS,
+COMPLIANCE WITH BUILDING, HEAL TH, SAFETY , LAND USE AND ZONING LAWS,
+REGULA TIONS AND ORDERS, STRUCTURAL  AND OTHER ENGINEERING
+CHARACTERISTICS, TRAFFIC PATTERNS, MARKET  DATA, ECONOMIC CONDITIONS
+OR PROJECTIONS , AND ANY  OTHE R INFORMA TION PERTAINING TO THE FACILITY
+OR THE MARKET  AND PHYSICAL  ENVIRONMENT  IN WHICH IT MAY BE LOCA TED
+AND SELLER EXPRESSL Y DISCLAIMS ALL  WARRANTIES RELEV ANT  TO THE
+COMP ANY  OR THE FACILITY , EITHER EXPRESS OR IMPLIED, INCLUDING
+MERCHANT ABILITY , FITNESS FOR A PARTICULAR PURPOSE, AND  SUIT ABILITY
+FOR ITS INTENDE D USE.  PURCHAS ER ACKNOWLEDGES THA T (A) PURCHASER IS A
+SOPHISTICA TED OWNER OF FACILITY  SIMILAR TO THE FACILITY , (B) PURCHASER
+HAS ENT ERED INTO THIS AGREEMENT  WITH THE INTENTION OF MAKING AND
+RELYING UPON ITS OWN INVESTIGA TION OR THA T OF THIRD PARTIES WITH
+RESPECT  TO THE PHYSICAL, ENVIRONMENT AL, ECONOMIC AND LEGAL
+CONDITION OF THE COMP ANY  AND THE FACILITY  AND (C) PURCHASER IS NOT
+RELYING UPON ANY  STATEMENTS, REPRESENT ATIONS OR WARRANTIES OF ANY
+KIND, AND IS ACQUIRING THE FACILITY  IN “AS IS, WHERE IS” CONDITION,
+EXCEPT  AS SPECIFICALL Y SET  FOR TH IN THIS AGREEMENT .
+ARTICLE 7
+REPRESENT ATIONS AND WARRANTIES OF  PURCHASER
+Repr esentations of Purchaser .  To induc e the Company and Sharehold er to enter
+in this Agreement, Purchaser represen ts and warrants to the Company and Shareholder as
+follows:
+Status and Authority of Purchaser .  Purchaser is a limited liability company duly
+formed, validly existing and in good standing under the laws of its state of formation, and has all
+requisite power and authority under the laws of such state and its charter documents to enter into
+and perform its obligations under this Agreement and to consummate the transactions
+contemplated hereby and thereby .
+Action of Purchase r, Etc.  Purchase r has taken (or will have taken prior to
+Closing) all necessary action to authorize the execution, delivery and performance of this
+Agreement and upon the execution and delivery of this Agreement and/or any document to be
+delivered by Purchaser hereunder or thereunder , this Agreement and such documents shall
+17
+HNZW/513844_8.doc/4232-17
+--- Page 18 ---
+(c)
+(d)
+(e)constitute the valid and binding obliga tions and agreements of Purchaser , enforceable against
+Purchaser in accordance with their respective terms, except as enforceability may be limited by
+bankruptcy , insolvency , reorganization, moratorium or similar laws of general application
+affecting the rights and remedies of creditors.
+Purchase of Unregistered Stock.   Purchaser specifically warrants, acknowl

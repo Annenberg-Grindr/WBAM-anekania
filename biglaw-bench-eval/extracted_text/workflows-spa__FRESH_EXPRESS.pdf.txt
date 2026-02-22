@@ -1,0 +1,590 @@
+--- Page 1 ---
+EX-99.1 2 exhibit991-greenstockpurch.htm EX-99.1
+Exhibit 99.1
+EXECUTION VERSION
+Certain identified information has been omitted from this exhibit because it is not material and of the type that
+the registrant treats as private or confidential. A complete listing of omitted information is available at the end of this
+document.
+STOCK PURCHASE AGREEMENT
+dated as of January 30, 2023
+by and among
+FRESH EXPRESS ACQUISITIONS LLC,
+DOLE FRESH VEGET ABLES, INC.,
+BUD ANTLE, INC.,
+DOLE FOOD COMP ANY , INC.,
+solely for the purposes set forth herein,
+and
+FRESH EXPRESS INCORPORA TED,
+solely for the purposes set forth herein
+--- Page 2 ---
+TABLE OF CONTENTS
+Page
+Article 1 DEFINITIONS 1
+Section 1.01     Definitions 1
+Section 1.02     Rules of Construction 19
+Article 2 PURCHASE AND SALE 21
+Section 2.01     Purchase and Sale of the Shares 21
+Section 2.02     Payment of the Purchase Price 21
+Section 2.03     Closing 21
+Section 2.04     Payments at Closing 21
+Section 2.05     Closing Deliveries by the Seller 22
+Section 2.06     Closing Deliveries by the Purchaser 23
+Section 2.07     Pre-Closing Adjustment to Purchase Price 23
+Section 2.08     Post-Closing Adjustment to Purchase Price 24
+Section 2.09     Insurance Policy Cost Reimbursement 27
+Section 2.10     Withholding 28
+Article 3 REPRESENT ATIONS AND WARRANTIES OF THE SELLER and the seller guarantor 28
+Section 3.01     Organization 29
+Section 3.02     Due Authorization; Enforceability 29
+Section 3.03     Governmental Consents and Approvals 29
+Section 3.04     Title to the Shares 30
+Section 3.05     No Conflict 30
+Section 3.06     Sufficient Cash 30
+Article 4 REPRESENT ATIONS AND WARRANTIES OF THE COMP ANY 31
+Section 4.01     Organization, Authority and Qualification of the Company 31
+Section 4.02     Subsidiaries 31
+Section 4.03     Due Authorization; Enforceability 31
+Section 4.04     Capitalization; Of ficers and Directors. 32
+Section 4.05     Governmental Consents and Approvals 33
+Section 4.06     No Conflict 33
+Section 4.07     Financial Information 34
+Section 4.08     Permits 35
+Section 4.09     Absence of Certain Changes 35
+Section 4.10     Absence of Litigation 35
+Section 4.1 1    Compliance with Laws 35
+Section 4.12     Food Safety Requirements 36
+Section 4.13     Material Contracts 36
+Section 4.14     Customers and Suppliers 39
+Section 4.15     Intellectual Property 39
+Section 4.16     Real Property 41
+i
+--- Page 3 ---
+Section 4.17     Affiliate Transactions 44
+Section 4.18     Insurance 44
+Section 4.19     Taxes 44
+Section 4.20     Environmental Matters 45
+Section 4.21     Employee Benefit Plans 46
+Section 4.22     Labor Matters. 48
+Section 4.23     No Brokers 50
+Section 4.24     Tangible Personal Property; Inventory; Accounts Receivable. 50
+Article 5 REPRESENT ATIONS AND WARRANTIES OF THE PURCHASER AND THE Purchaser
+GUARANT OR 51
+Section 5.01     Organization 51
+Section 5.02     Due Authorization; Enforceability 51
+Section 5.03     Governmental Consents and Approvals 52
+Section 5.04     No Conflict 52
+Section 5.05     Absence of Litigation 52
+Section 5.06     Investment Intention 52
+Section 5.07     Solvency 53
+Section 5.08     Availability of Funds 53
+Section 5.09     No Other Information 53
+Section 5.10     No Brokers 54
+Article 6 COVENANTS AND ADDITIONAL  AGREEMENTS 54
+Section 6.01     Conduct of Business Prior to the Closing 54
+Section 6.02     Access to Information; Preservation of Records 58
+Section 6.03     Confidentiality 59
+Section 6.04     Reasonable Best Ef forts; Regulatory and Other Authorizations; Consents 60
+Section 6.05     Legal Privileges 63
+Section 6.06     Employee Matters 63
+Section 6.07     Further Action 65
+Section 6.08     Insurance 65
+Section 6.09     Cash at Closing 70
+Section 6.10     R&W  Policy 71
+Section 6.1 1    Real Estate Covenants 72
+Section 6.12     Certain Covenants. 73
+Section 6.13     Termination of Related Party Contracts 74
+Section 6.14     Release 74
+Section 6.15     Exclusivity . 75
+Section 6.16     Non-Assignable Assets 76
+Section 6.17     Further Assurances; Unintentionally Omitted Assets; Parent Guarantees. 77
+Section 6.18     Transition Services 78
+Article 7 CONDITIONS TO CLOSING 79
+Section 7.01     Conditions to Obligations of the Seller and the Company 79
+ii
+--- Page 4 ---
+Section 7.02     Conditions to Obligations of the Purchaser 79
+Article 8 SUR VIVAL; INDEMNIFICA TION 80
+Section 8.01     Survival 80
+Section 8.02     Indemnification of the Purchaser 81
+Section 8.03     Indemnification of the Seller 83
+Section 8.04     Procedures for Indemnification Claims. 84
+Section 8.05     Additional Limits on Rights to Indemnification 86
+Section 8.06     Subrogation 87
+Section 8.07     Payment of Indemnification Claims 87
+Section 8.08     Tax Treatment of Payments 87
+Section 8.09     Exclusive Remedy 88
+Article 9 TERMINA TION 88
+Section 9.01     Termination 88
+Section 9.02     Effect of Termination 89
+Article 10 TAXES 89
+Section 10.01     Transaction Tax Deductions 89
+Section 10.02     Prohibited Tax Activities 90
+Section 10.03     Tax Records; Cooperation; Audits 90
+Section 10.04     Tax Claims 91
+Section 10.05     Tax Returns 91
+Section 10.06     Termination of Tax Sharing Agreements 92
+Section 10.07     Certain Consolidated Return Elections 92
+Article 1 1 GENERAL  PROVISIONS 93
+Section 1 1.01     Expenses 93
+Section 1 1.02     Notices 93
+Section 1 1.03     Headings 94
+Section 1 1.04     Severability 94
+Section 1 1.05     Entire Agreement 94
+Section 1 1.06     Assignment 94
+Section 1 1.07     No Third-Party Beneficiaries 94
+Section 1 1.08     Amendment 95
+Section 1 1.09     Extension; Waiver 95
+Section 1 1.10     Governing Law; Jurisdiction 95
+Section 1 1.11    Waiver of Jury Trial 95
+Section 1 1.12     Public Announcements 95
+Section 1 1.13     Specific Performance 96
+Section 1 1.14     Counterparts; Ef fectiveness 96
+Section 1 1.15     Certain Legal Representation Matters 96
+Section 1 1.16     Guarantee 97
+Exhibit A    Closing Financial Data Example
+iii
+--- Page 5 ---
+Exhibit B     Form of FIRPT A Certificate
+Exhibit C     Form of License Agreement
+Exhibit D     Form of Transition Services Agreement
+Exhibit E     Form of Retention Award Agreement
+Exhibit F     Form of Assignment Agreement
+iv
+--- Page 6 ---
+STOCK PURCHASE AGREEMENT
+THIS STOCK PUR CHASE AGREEME NT (this “Agreement ”), dated as of January 30, 2023, is entered into by
+and among Fresh Express Acquisitions LLC, a Delaware limited liability company (the “Purchaser ”), Dole Fresh
+Vegetables, Inc., a California corporatio n (the “Seller ”), Bud Antle, Inc., a California corporation (the “Company ”), and
+solely for the purposes set forth herein, Dole Food Company , Inc., a North Carolina corporation (the “Seller Guarantor ”),
+and Fresh Express Incorporated, a Delaware corporation (the “Purchaser Guarantor ”). Each of the Purchaser , the Seller , the
+Company , the Seller Guarantor and the Purchaser Guarantor are referred to from time to time herein individually as a
+“Party ” and collectively as the “ Parties ”.
+R E C I T A L S:
+WHEREAS, the Company is primarily engaged in the manufacture and sale of salads and fresh vegetables, which
+includes produce like iceber g, romaine , leaf lettuces, cauliflower , broccoli, celery , asparagus, artichokes, green onions,
+sprouts, radishes and cabbage (such activities, as currently conducted by the Seller, the Seller Guarantor , the Company and
+its Subsidiaries (as defined below), the “ Business ”);
+WHEREAS, the Seller owns all of the issued and outstanding shares of common stock, par value $5.0000 per
+share, of the Company (the “ Shares ”); and
+WHEREAS, upon the terms and subjec t to the conditions set forth herein, the Purchaser desires to purchase from
+the Seller , and the Seller desires to sell to the Purchaser , the Shares.
+NOW , THEREFORE, in consideration of the foregoing and the mutual agreements and covenants hereinafter set
+forth, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, the
+Parties, intending to be legally bound, hereby agree as follows:
+Article 1
+DEFINITIONS
+Section 1.01 Definitions . In this Agreement, unless the context otherwise requires, the following terms shall have
+the following meanings:
+“Accounting Firm ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Accounting Principles ” shall mean GAAP  on a basis (to the extent not inconsistent with GAAP) consi stent
+with the accounting  principles, policies, procedures, categorizations, definitions, methods, practices and techniques
+consistently applied by the Company and its Subsidiaries in preparing the Business Financial Statements.
+“Action ” shall mean any judicial, administrativ e, governmental or arbitral action, suit, audit, investigation,
+claim or proceeding (public or private).
+“Additional Insurance ” shall have the meaning ascribed to such term in Section 6.10(b) .
+“Adjuster ” shall have the meaning ascribed to such term in Section 6.08(f) .
+--- Page 7 ---
+“Adjuster Election Notice ” shall have the meaning ascribed to such term in Section 6.08(f) .
+“Affiliate ” shall mean, with respect to any Perso n, any Person directly or indirectly controlling, controlled
+by or under common  control with such other Person. For purposes of determinin g whether a Person is an Affiliate, the term
+“control” and its correlative forms “cont rolled by” and “under common control with” shall mean the possession, directly or
+indirectly , of the power to direct or cause the direction of the management and policies of a Person, whether through
+ownership of securities, by contract or otherwise. For the avoidance of doubt, the Company and its Subsidiaries are
+Affiliates of the Seller prior to the Closing and Affiliates of the Purchaser immediately after the Closing.
+“Agreement ” shall have the meaning ascribed to such term in the preamble hereof.
+“Applicable Guaranteed Assets ” shall have the meaning ascribed to such term in Section 8.03(a)(ii) .
+“Assignment Agreement ” shall mean the assignment and assumption agreement to be entered into as of
+immediately prior to the Closing by and among the Seller , the Seller Guarantor and the Company (and one or more
+designees of the Purchaser , if applicable) in substantially the form of Exhibit F attached hereto (and the transactions
+contemplated thereby , the “ Assignment ”).
+“Books and Records ” shall have the meaning ascribed to such term in Section 6.02(c) .
+“Business ” shall have the meaning ascribed to such term in the recitals hereof.
+“Business Day” shall mean a day other than a Saturday , Sunday or other day on which commercial banks in
+the States of New York or California are authorized or required by Law to close.
+“Business Employee ” shall mean, as of the date of this Agreement, each individual employed by the
+Company and its Subsidiaries and the Delayed Transfer Employees.
+“Business Financial Statements ” shall have the meaning ascribed to such term in Section 4.07(a) .
+“Cap” shall have the meaning ascribed to such term in Section 8.02(d)(iii) .
+“Cash and Cash Equivalents ” shall mean, as of immediately prior to the Closing, cash and cash equivalents
+(including bank account balances and marketable securities) of the Company and its Subsidiaries determined in accordance
+with the Accounting Principles. Notwithstanding anything to the contrary in this Agreement, “Cash and Cash Equivalents”
+shall (a) include the aggregate amount of any cash resulting from uncashed or uncleared checks, wires, drafts and credit
+card receivables deposited, initiated, charged or otherwise received by the Company or any of its Subsidiaries, as
+applicable, prior to such time that clear thereafter , in each case, to the extent there has been a reduction of receivables on
+account thereof, and (b) be reduced by (i) the aggregate amount of any issued but uncleared outbound checks, wires, drafts
+and credit card payables deposited, initiated or charged, as applicable, prior to such time that clear thereafter , in each case,
+to the extent there has been a reduction of current liabilities on account thereof and (ii) all Restricted Cash.
+--- Page 8 ---
+“Change in Control Payments ” shall mean any transaction, retention,  change in control or similar bonus,
+severance payment or other Company Service Provider -related change in control payment payable by the Company or any
+of its Subsidiaries as of or after the Closing Date (including the employer portio n of any withholding, payroll, employment
+or similar Taxes, if any, associated therewith) as a result of, or in connection with, the consummation of the Transactions,
+excluding (a) the retention payments payable pursuant to those arrangements set forth on Schedule 1.01(a) of the Seller
+Disclosure Letter (and the employer portion of any withholding, payroll, employment or similar Taxes, if any, associated
+therewith), which shall be paid solely by the Seller , (b) any such payments that arise under , are triggered by or are payable
+pursuant to arrangements implemented by, or actions taken after the Closing by, the Purchaser or any of its Affiliates and
+(c) the Retention Awards.
+“Claim Notice ” shall have the meaning ascribed to such term in Section 8.04(a) .
+“Closing ” shall have the meaning ascribed to such term in Section 2.03 .
+“Closing Balance Sheet ” shall have the meaning ascribed to such term in Section 2.08(a)(i) .
+“Closing Cash and Cash Equivalents ” shall have the meaning ascribed to such term in Section 2.08(a)(iii) .
+“Closing Company Indebtedness ” shall have the meaning ascribed to such term in Section 2.08(a)(ii) .
+“Closing Company Transaction Expenses ” shall have the meaning ascribed to such term in Section 2.08(a)
+(v).
+“Closing Date ” shall have the meaning ascribed to such term in Section 2.03 .
+“Closing Financial Data ” shall have the meaning ascribed to such term in Section 2.08(a) .
+“Closing Insurance Policy Costs ” shall have the meaning ascribed to such term in Section 2.08(a)(vi) .
+“Closing Purchase Price ” shall mean the Purchase Price, as it may be adjusted pursuant to Section 2.07(c)
+and Section 2.07(d) , minus  the Estim ated Com pany Indebtedness, plus the Estim ated Cash  and Cash Equivale nts, minus
+the Estimated Company Transaction Expenses.
+“Closing Working Capital ” shall have the meaning ascribed to such term in Section 2.08(a)(iv) .
+“Code ” shall mean the Internal Revenue Code of 1986, as amended.
+“Collective Bar gaining Agreements ” shall have the meaning ascribed to such term in Section 4.22(b) .
+“Company ” shall have the meaning ascribed to such term in the preamble hereof.
+“Company Balance Sheet ” shall have the meaning ascribed to such term in Section 4.07(b) .
+--- Page 9 ---
+“Company Employee Plan” shall mean each Employee Plan to which one or more of the Company and its
+Subsidiaries exclusi vely is a party or that is sponsored or maintained exclusive ly by one or more of the Company and its
+Subsidiaries and each Employee Plan set forth on Schedule 1.01(b) of the Seller Disclosure Letter .
+“Company Indebtedness ” shall mean all Indebtedness as of immediately prior to the Closing.
+“Company Service Provider ” shall mean each current or former employee, director , officer, individual
+consultant or other individual service provider of the Company or any of its Subsidiaries (or the Seller or any of its
+Affiliates in respect of the Business).
+“Company Systems ” shall have the meaning ascribed to such term in Section 4.15(g) .
+“Company Transaction Expenses ” shall mean the sum of (a) all fees and expenses incurred, reimbursable or
+otherwise payable by the Company or any Subsidiary of the Company in connection with the sale process for the Company
+or otherwise relating to the negotiation and documentation of the Transaction Documents and the consummation of the
+Transactions, including all fees, expenses, disbursements and other similar amounts payable with respect to legal,
+accounting and other service providers and professionals in connection therewith, in each case, solely to the extent not paid
+prior to the Closing , (b) all Change in Control Payments and (c) (i) one hund red percent (100%) of all Transfer Taxes
+related to or arising  out of the Assignment or any other pre-Closing transfer of property or assets and (ii) fifty percent
+(50%) of any other Transfer Taxes.
+“Confidentiality Agreement ” shall mean the confidentiality agreement, entered into as of October 6, 2022,
+by and among the Purchaser , the Seller and Affiliates of the Seller .
+“Continuing Employees ” shall have the meaning ascribed to such term in Section 6.06(a) .
+“Contract ” shall mean any written or oral contra ct, agreement, mortgage, deed of trust, bond, indenture,
+lease, license, note, franchise, certificate, option, warrant, right, instrument or other legally binding commitment or
+obligation.
+“Coverage Termination ” shall have the meaning ascribed to such term in Section 2.09 .
+“Covered Losses ” shall have the meaning ascribed to such term in Section 6.08(f) .
+“COVID-19 ” shall mean the Coronavirus Disease 2019, or any similar or related disease caused by the
+SARS-CoV -2 virus, or any strand, mutation, variant or evolution thereof.
+“COVID-19 Measures ” shall mean any quarantine, “shelter in place,” “stay at home,” workforce reduction,
+social distancing, shut down, closure, sequester or any other applicable requirement by applicable Law, governmental
+order , action, directive, guidelines or recommendations by any Governmental Authority in connection with or in response
+to the COVID-19 pandemic or endemic.
+“Credit Agreement ” means that certain Credit Agreement, dated as of March 26, 2021, by and among Dole
+plc, a public limited company incorpora ted under the laws of Ireland with registration number 606201, the Subsidiaries of
+Dole plc party there to as a Borrower or Guarantor , the lenders and other partie s party thereto from time to time, Bank of
+America, N.A.,
+--- Page 10 ---
+as Term B Administrative Agent, and Coöperatieve Rabobank U.A. New York Branch, as Pro Rata Administrative Agent
+and as Collateral Agent, as amended, restated, amended and restated, supplemented or otherwise modified from time to
+time (including pursuant to Amendment No. 1, dated as of August 3, 2021).
+“Deductible Amount ” shall have the meaning ascribed to such term in Section 8.02(d)(ii) .
+“Delayed Transfer Employees ” shall mean the individuals set forth on Schedule 1.01(c) of the Seller
+Disclosure Letter .
+“Dispute Notice ” shall have the meaning ascribed to such term in Section 8.04(c) .
+“Employee Plan” shall mean each “employee benefit plan” (within the meaning of Section 3(3) of ERISA,
+whether or not subject to ERISA) and each other material stock option or other equity or equity-based compensation,
+employment, severance, individual consulting, termination, change in control, retention, bonus, incentive, deferred
+compensation, pension, retirement, health, welfare, fringe benefit, vacation, paid time off, post-retirement welfare benefit
+or other employee benefit plan, program, policy , agreement or arrangement, (x) in which any Company Service Provider
+(or eligible dependent thereof) participa tes or is eligible to participate, (y) with respect to which the Company or any of its
+Subsidiaries has any current or potential liability or (z) which is maintained, contributed or required to be contributed to or
+sponsored by the Company or any of its Subsidiaries, in each case, excluding (i) any plan, program or arrangement that is
+maintained exclusiv ely by any Governmental Authority , (ii) any Collective Bargaining Agreement (including any benefit
+payable thereunder) and (iii) any Multiemployer Plan.
+“Encumbrance ” shall mean any security interest of any nature, pledge, mortgage, lien, charge, claim, deed
+of trust, option, right of first refusal, easement, servitude, adverse interest, hypothecation or, with respect to securities,
+restriction on transfer of title or voting , except for any restrictions on transfer generally arising under any applicable
+federal or state securities Laws.
+“End Date ” shall have the meaning ascribed to such term in Section 9.01(c) .
+“Enforceability Exceptions ” shall have the meaning ascribed to such term in Section 3.02 .
+“Environmental Laws ” shall mean any applicable Law relating to (a) pollution or the protection, restoration
+or remediation of, or prevention of harm to, the environment or the protection of the natural environment, including natural
+resources, (b) the protection of human health and safety as it pertains to exposure to Hazardous Substances, (c) the
+manufacture, processing, registration, distribution, formulation, packaging or labeling of Hazardous Substances or
+products containing Hazardous Substanc es, (d) the transport or handling, use, presence, generation, treatment, incineration,
+landfilling, milling, storage, disposal,  Release of or exposure to any Hazardous Substance or (e) recordkeeping,
+notification, disclosure and reporting requirements respecting Hazardous Substances.
+“Equity Interests ” shall mean, with respect to any Person , any shares of capital stock or equity interests or
+securities convertible, exchangeable or exercisable therefor , or any other rights or instruments that are linked in any way to
+the price of such shares of capital stock or equity interests, or securities convertible, exchangeable or exercisable therefor
+or the value of all or a part, in each case, of such Person.
+--- Page 11 ---
+“ERISA ” shall mean the Employee Retirement Income Security Act of 1974, as amended, and the rules and
+regulations promulgated thereunder .
+“ERISA  Affiliate ” shall mean each entity , trade or business that is, or was at the relevant time, a member of
+a group described in Section 414(b), (c), (m) or (o) of the Code or Section 4001(b)(1) of ERISA  that includes or included
+the Company or any of its Subsidiaries, or that is, or was at the relevant time, a member of the same “controlled group” as
+the Company or any of its Subsidiaries pursuant to Section 4001(a)(14) of ERISA.
+“Estimated Cash and Cash Equivalents ” shall have the meaning ascribed to such term in Section 2.07(a)(ii) .
+“Estimated Closing Financial Data ” shall have the meaning ascribed to such term in Section 2.07(a) .
+“Estimated Closing Insurance Policy Costs ” shall have the meaning ascribed to such term in Section 2.07(a)
+(v).
+“Estimated Closing Working Capital ” shall have the meaning ascribed to such term in Section 2.07(a)(iii) .
+“Estimated Company Indebtedness ” shall have the meaning ascribed to such term in Section 2.07(a)(i) .
+“Estimated Compan y Transaction Expenses ” shall have the meaning ascribed to such term in
+Section 2.07(a)(iv) .
+“Excess Claim ” shall have the meaning ascribed to such term in Section 6.08(d)(iii) .
+“Excluded Assets ” shall mean the assets set forth on Schedule 1.01(d) of the Seller Disclosure Letter .
+“FDA ” shall mean the United States Food & Drug Administration.
+“Final Closing Cash and Cash Equivalents ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Final Closing Indebtedness ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Final Closing Insurance Policy Costs ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Final Closing Working Capital ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Final Company Transaction Expenses ” shall have the meaning ascribed to such term in Section 2.08(c) .
+“Final Renewal Insurance Policy Costs ” shall have the meaning ascribed to such term in Section 2.09 .
+--- Page 12 ---
+“FIRPT A Certificate ” shall have the meaning ascribed to such term in Section 2.05(f) .
+“Food Safety Requirements ” shall mean any Law or Permit of, or any Contract with, any Governmental
+Authority (including any multinational authority) having jurisdiction that is related to food safety , food sanitation or the
+handling, preparation, labeling, transportation, packaging or storage of food products.
+“Foreign Benefit Plan ” shall have the meaning ascribed to such term in Section 4.21(j) .
+“Fraud ” shall mean, with respect to any Party , the making of a representation or warranty contained in this
+Agreement or any other Transaction Document by such Party (or with respect to the Seller , the Company) with a specific
+intent to deceive another Party or to induce such other Party to enter into this Agreement and to receive a benefit from such
+deception, in each case, constituting fraud pursuant to the laws of the State of Delaware; provided , that at the time such
+representation was made (a) such representation was inaccurate, (b) such Party (or with respect to the Seller , the Company)
+had actual knowledge (and not imputed or constructive knowledge), that on the date hereof such representation (as
+qualified by the Seller Disclosure Letter in the case of the Seller or the Company) was actually breached, (c) such Party (or
+with respect to the Seller , the Company) had the specific intent to induce such other Party to whom the representation is
+made to rely on such inaccurate representation and (d) such other Party suffered injury as a result of such inaccuracy . The
+term “Fraud” does not include any claim for equitable fraud, promissory fraud, unfair dealings fraud or any torts (including
+a claim for fraud) based on negligence.
+“FTC” shall mean the Federal Trade Commission.
+“Fundamental Representations ” shall have the meaning ascribed to such term in Section 7.02(a) .
+“GAAP ” shall mean accounting principles generally accepted in the United States in effect as of the Closing
+or, in respect of the Business Financial Statements, the date of the applicable Business Financial Statement.
+“Governmental Authority ” shall mean any government or governmental, administrative or regulatory body
+thereof, whether U.S. federal, state, local or foreign, any agency or instrumentality thereof and any court, tribunal or
+judicial or arbitral body thereof.
+“Governmental Orde r” shall mean any order, writ, judgment, stipulation, determination or award made,
+issued or entered into by or with any Governmental Authority .
+“Guaranteed Assets ” shall have the meaning ascribed to such term in Section 8.03(a)(ii) .
+“Guarantor ” shall have the meaning ascribed to such term in Section 8.03(a)(ii) .
+“Hazardous Substan ce” shall mean any (a) constituent, material, substance, chemical, or waste (or
+combination thereof) that is listed, defined, designated, regulated or classified as hazardous, explosive, corrosive,
+flammable, infectious, toxic, carcinoge nic, mutagenic, radioactive, dangerous , a pollutant, a contaminant, or words of
+similar meaning or effect under any Environmental Law, (b) substance that requires removal or remediation under any
+Environmental Law, (c) substance that can give rise to Liability under any Environmental Law or the presence of which
+requires investigation, clean up, removal, abatement, remediation
+--- Page 13 ---
+or other corrective or remedial action under any Environmental Laws, and (d) petroleum or petroleum by-products,
+asbestos or asbestos-containing materials or products, per- and polyfluoroalk yl substances, polychlorinated biphenyls
+(PCBs) or materials containing same, radioactive materials, lead-based paints or materials, or radon.
+“HSR Act” shall mean the Hart-Scott-Rodino Antitrust Improvements Act of 1976, as amended, and the
+rules and regulations promulgated thereunder .
+“Indebtedness ” shall mean, without duplication, with respect to the Company or any of its Subsidiaries, the
+outstanding principal amount of and accrued and unpaid interest on, and any termination fees, prepayment premiums,
+penalties, make-whole payments, breakage costs or other fees, costs or expenses incurred in connection with the
+prepayment, repayment, redemption, payof f, amendment, modification or supplement of, in each case calculated in
+accordance with the Accounting Princi ples, (a) indebtedness for borrowed money (but specifically excluding operating
+lease liabilities accrued for under ASC 842), (b) obligations and liabilities with respect to intercompany balances payable
+to the Seller or any Affiliate of the Selle r, net of all intercompany balances receivable from the Seller or any Affiliate of the
+Seller to the extent such receivables are subject to the constructive trust (Encum brance) imposed by PACA  in favor of the
+Company or any of its Subsidiaries (the aggregate amount resulting therefrom, determined as of immediately prior to the
+Closing, the “Closing Net Intercompany Balance ”),(c) indebtedness evidenced by a note, bond, debenture, mortgage or
+similar instrument or debt security , (d) obligations created or arising under any conditional sale or other title retention
+agreement with respect to acquired property , (e) obligations in respect of letters of credit, bankers’  acceptances and similar
+facilities issued for the account of such Person (but solely to the extent drawn and not paid), (f) indebtedness secured by
+any Encumbrance (other than a Permitted Encumbrance) on any assets of such Person, (g) installment payment obligations
+or other similar payment obligations of (i) deferred or contingent purchase price relating to any acquisition of the assets or
+securities of any Person (other than accounts payable to creditors for inventory acquired in the ordinary course of
+business), and any pending purchase price adjustments (including working capital adjustments) in connection with any
+such acquisition, or (ii) long-term deferred rent or other deferred payment obligations under leased, licensed or subleased
+real property , (h) performance or surety bonds, performance guaranties or similar financial commitments to the extent
+drawn or funded with cash collateral, (i) obligations of such Person payable in respect of interest rate protection, hedges or
+similar arrangements, including swaps, caps and collars, (j) any unfunded or underfunded liabilities pursuant to any
+pension, retirement or nonqualified deferred compensation plan or arrangement, any contributions (other than an employee
+contribution) required to be made under any Company Employee Plan that contains a cash or deferred arrangement
+intended to qualify under Section 401(k ) of the Code for any periods prior to the Closing that have not been remitted to
+such plan prior to the Closing, any unpaid severance obligations with respect to Company Service Providers terminated
+prior to the Closing,  and any earned but unpaid compensation (including salary , bonuses and paid time off) for any period
+prior to the Closing  Date, in each case, together with the employer portion of any withholding, payroll, employment or
+similar Taxes, if any, associated therew ith, and (k) obligations of the type referred to in clauses (a) through (j) above of
+other Persons for the payment of which such Person is directly or indirectly responsible or liable, as obligor , guarantor ,
+surety or otherwise, including any guara ntee of such obligations, in the case of each of clauses (a) through (k), to the extent
+not included in the determination of Working Capital; provided , however , that Indebtedness shall not include indebtedness
+owing between (i) the Company and any of its Subsidiaries, or (ii) any Subsidiaries of the Company .
+“Indemnified Party ” shall have the meaning ascribed to such term in Section 8.04(a) . 
+--- Page 14 ---
+“Indemnifying Party ” shall have the meaning ascribed to such term in Section 8.04(a) .
+“Individual Basket Amount ” shall have the meaning ascribed to such term in Section 8.02(d)(i) .
+“Insurance Claim ” shall have the meaning ascribed to such term in Section 6.08(d) .
+“Insurance Claim Notice ” shall have the meaning ascribed to such term in Section 6.08(d) .
+“Insurance Claim Review Period ” shall have the meaning ascribed to such term in Section 6.08(e) .
+“Insurance Policies ” shall have the meaning ascribed to such term in Section 0Section 4.18 .
+“Intellectual Property ” shall mean all intellectual property rights of any kind or nature, including (a) patents,
+patent applications, statutory invention registrations, registered designs and similar or equivalent rights in inventions and
+designs, (b) tradem arks, trade dress, trade names, brand names, corporate names, service marks, certification marks,
+designs, logos, sloga ns and other indica tions of origin, the goodwill associated with the foregoing and registrations in any
+jurisdiction of, and applications in any jurisdiction to register , the foregoing, (c) registered and unregistered copyrights,
+works of authorship (including rights in software as a work of authorship), copyrightable works (published or unpublished)
+and all applications and registrations therefor , (d) rights associated with domain names, uniform resource locators, Internet
+Protocol addresses and social media handles and identifiers, (e) trade secrets, know-how and industrial secret rights, rights
+in confidential information (including in non-public technical information, inventions, data, databases, data collections,
+designs, formulae, processes, testing procedures, testing results and business, financial, sales and marketing plans and
+other proprietary intellectual property rights in any jurisdiction with respect to the foregoing), and (f) Actions and rights to
+sue at law or in equity for past, present and future infringement, misappropriation, dilution or other violation or impairment
+of any of the foregoing, including the right to receive all proceeds and damages therefrom.
+“Interfering Activitie s” shall mean (a) encouraging, soliciting, or inducing, or in any manner attempt ing to
+encourage, solicit, or induce, any Person employed by, as agent of, or a service provider to, the Business or the Company
+or any of its Subsi diaries within the nine (9)-month period prior to the Closing, other than any Company Service
+Provider(s) whom the Company does not continue to employ or engage following the Closing, to terminate (or, in the case
+of an agent or servic e provider , terminate or materially reduce) such Person’ s employment, agency or service, as the case
+may be, with the Company or any of its Subsidiaries, or (b) hiring any Person who was employed by, an agent of, or a
+service provider to, the Business or the Company or any of its Subsidiaries, other than any Company Service Provider
+whom the Company  does not continue to employ or engage following the Closin g, within the six (6)-month period prior to
+the date of such hiring; provided , that “Interfering Activities” shall not include (x) general advertising not targeted at
+employees of the Company or any of its Subsidiaries, (y) hiring an individual where the initial contact with such individual
+regarding such hiring arose from (1) any such general advertising or (2) initial contact by such individual that was
+unsolicited directly or indirectly by the Seller , any of its Affiliates or any of their respective Representatives, or (z) hiring
+any employee whose employment with the Company or any of its Subsidiaries has been terminated by the Company or any
+of its Subsidiaries at any time prior to any solicitation by the Seller or any of its Affiliates or Representatives.
+--- Page 15 ---
+“IRS” shall mean the Internal Revenue Service.
+“Key Employees ” shall mean the individuals set forth on Schedule 1.01(e) of the Seller Disclosure Letter .
+“Known ,” “Known by,” “Knowledge ” or “To the Knowledge ” (and any similar phrase) shall mean (a) with
+respect to the Comp any, to the actual knowledge of the individuals set forth on Schedule 1.01(f) of the Seller Disclosure
+Letter , in each case, after taking into account any knowledge such Persons reasonably would have obtained after
+reasonable inquiry of direct reports and (b) with respect to the Purchaser or the Purchaser Guarantor , to the actual
+knowledge of Sascha Knobloch and John Olivo, in each case, after taking into account any knowledge such Persons
+reasonably would have obtained after reasonable inquiry of direct reports.
+“Law” shall mean any statute, law, ordinance, regulation, rule, code or other requirement of any
+Governmental Authority .
+“Lease ” shall mean each real property lease, sublease, license or occupancy agreement (together with any
+amendments, guarantees and modificatio ns thereto) to which the Seller or any of its Affiliates (in each case, with respect to
+the Business), the Company or one of its Subsidiaries is a party .
+“Leased Real Property ” shall have the meaning ascribed to such term in Section 4.16(b) .
+“Liability ” shall mean any debt, loss, damage, adverse claim, fine, penalty , liability or obligation of any
+kind, whether direct  or indirect, known  or unknown, asserted or unasserted, accrued or unaccrued, absolute, contingent,
+matured or unmatured, liquidated or unliquidated, disputed or undisputed, due or to become due and whether in contract,
+tort, strict liability or otherwise.
+“License Agreement ” shall mean the license agreement to be entered into as of the Closing Date by and
+among the Purchaser , the Seller Guarantor and the Company in substantially the form of Exhibit C  attached hereto.
+“Losses ” shall mean (a) for purposes of Section 6.08, “Loss” or such similar term as is defined in the
+relevant Post-Closing Insurance Policy and (b) for all other purposes of this Agreement, Liabilities, costs or expenses,
+including reasonable  attorneys’  fees; provided , however , that, in the case of this clause (b), “Losses” shall not include (i)
+except to the extent  payable to a third party , punitive or exemplary damages or (ii) any additional exclusions from the
+definition of “Loss” or “Losses” or such similar term as is defined in the R&W  Policy (it being understood that silence
+shall not be an exclusion for purposes of this clause (ii)).
+“Material Adverse Effect” shall mean a change, event, development or circumstance, the effect of which  is
+both mate rial and adverse to (x) the business, assets, results of operations or financial condition of the Company and its
+Subsidiaries, taken as a whole, or (y) the ability of the Seller , the Company or any of their respective Affiliates to timely
+consummate the Transactions; provided , however , that for purposes of the foregoing clause (x) only, no change, event or
+circumstance resulting from, relating to or arising out of the following shall constitute a Material Adverse Effect, nor shall
+any of the following  otherwise be taken  into account in determining whether a Material Adverse Effect has occurred or
+would reasonably be expected to occur: (a) general economic, political, business or regulatory conditions, including
+changes in (i) financ ial or credit market conditions or (ii) interest rates or curren cy exchange rates; (b) conditions generally
+affecting any of the industries in which the Business operates; (c)
+--- Page 16 ---
+the outbreak or escalation of war, military action or acts of terrorism, or changes due to natural disasters or pandemics
+(including the COVID-19 pandemic or endemic); (d) changes in Law or in GAAP  or interpretations thereof; (e) any failure
+of the Business to meet any financial or non-financial projections, forecasts or estimates (it being understood that the
+underlying facts and circumstances giving rise to such failure that are not otherwise excluded from the definition of
+Material Adverse Effect may be taken  into account in determining whether there has been, or would reasonably be
+expected to be, a Material Adverse Effect); (f) any actions taken, or failures to take action, in each case, to which the
+Purchaser has expressly consented in writing; (g) the execution or announcement of, or the taking of any action expressly
+contemplated by, or other third party awareness of, this Agreement or the Transactions, including by reason of the identity
+of the Purchaser or any communication by the Purchaser regarding the plans or intentions of the Purchaser with respect to
+the conduct of the Business; (h) compliance by the Seller , the Company and its Subsidiaries with the express terms of this
+Agreement (other than Section 6.01(a) ); or (i) any increase in the cost or change in the availability of any financi ng
+available to the Purchaser to consummate the Transactions (it being understood that the underlying facts and circumstances
+giving rise to such increase in the cost or change in the availability of such financing that are not otherwise excluded from
+the definition of Material Adverse Effect may be taken into account in determining whether there has been, or would
+reasonably be expected to be, a Material Adverse Effect); provided , further , that in the case of clauses (a), (b), (c) and (d)
+above, such change, event, development or circumstance shall be taken into account to the extent it has a disproportionate
+adverse impact on the business, assets, results of operations or financial conditi on of the Company and its Subsidiaries or
+the Business, taken as a whole, compared to other companies operating in the industries in which the Business operates.
+“Material Contracts ” shall have the meaning ascribed to such term in Section 4.13(a) .
+“Material Customers ” shall have the meaning ascribed to such term in Section 4.14(a) .
+“Material Suppliers ” shall have the meaning ascribed to such term in Section 4.14(a) .
+“Multiemployer Plan” shall have the meaning set forth in Section 3(37) of ERISA  or Section 414(f) of the
+Code.
+“Negotiation Period ” shall have the meaning ascribed to such term in Section 8.04(c) .
+“Net Adjustment Amount ” shall mean an amount, which may be positive or negative, equal to (a) the
+amount, if any, by which Final Closing Cash and Cash Equivalents exceeds Estimated Cash and Cash Equivalents, minus
+(b) the amount, if any, by which Final Closing Cash and Cash Equivalents is less than Estimated Cash and Cash
+Equivalents, plus (c) the amount, if any, by which Final Closing Working Capital exceeds Estimated Closing Working
+Capital, minus  (d) the amount, if any, by which Final Closing Working Capital is less than (i.e., more negative than)
+Estimated Closing Working Capital, minus  (e) the amount, if any, by which Final Closing Indebtedness exceeds Estimated
+Company Indebtedness, plus (f) the amount if any, by which Final Closing Indebtedness is less than Estimated Company
+Indebtedness, minus  (g) the amount, if any, by which Final Company Transaction Expenses exceeds Estimated Company
+Transaction Expenses, plus (h) the amount, if any, by which Final Company Transaction Expenses is less than Estimated
+Company Transaction Expenses, minus  (i) the amount, if any, by which Final Closing Insurance Policy Costs exceed
+Estimated Closing Insurance Policy Costs, plus (j) the amount, if any, by which Final Closing Insurance Policy Costs are
+less than Estimated Closing Insurance Policy Costs.
+--- Page 17 ---
+“Owned Intellectual Property ” shall have the meaning ascribed to such term in Section 4.15(a) .
+“Owned Real Property ” shall have the meaning ascribed to such term in Section 4.16(a) .
+“PACA ” shall mean the Perishable Agricultural Commodities Act, 1930.
+“Parent Guarantees ” shall have the meaning ascribed to such term in Section 8.03(a)(ii) .
+“Party ” or “ Parties ” shall have the meaning ascribed to such term in the preamble hereof.
+“Permit ” shall mean all approvals, licenses,  permits, authorizations and certificates issued by any
+Governmental Authority .
+“Permitted Encumbra nces” shall mean each of the following: (a) Encumbrances incurred or deposits made
+in the ordinary course of business in connection with workers’  compensation, unemployment insurance and other types of
+social security or to secure the perform ance of tenders, in each case relating to obligations not yet due and payable,
+statutory obligations, surety and appeal bonds, bids, leases, government Contracts, performance and return of money bonds
+and similar obligations; (b) Encumbran ces under purchase money and capital lease arrangements, mechanics’, carriers’,
+workers’, repairers’, materialmen’ s, warehousemen’ s, laborers’, suppliers’, and vendors’  liens and other similar
+Encumbrances which have arisen in the ordinary course of business, are immaterial individually and in the aggregate and
+(i) are not yet due and payable or (ii) the amount or validity of which is being contested in good faith by appropriate
+proceedings and in each case for which adequate reserves have been made on the Business Financial Statements with
+respect thereto in accordance with GAAP; (c) Encumbrances approved by the Purchaser; (d) Encumbrances created
+pursuant to the Credit Agreement that are released and dischar ged in full prior to or upon the Closing; (e) Encumbrances
+for Taxes, assessmen ts or other charges of a Governmental Authority not yet due and payable or contested in good faith by
+appropriate proceedings and for which adequate reserves have been made on the Business Financial Statements with
+respect thereto in accordance with GAAP; (f) Encumbrances imposed or promulgated by operation of applicable Law with
+respect to real property and improvemen ts that do not, individually or in the aggregate, materially and adversely impact the
+value or marketability or current use, occupancy , or operation of such real property and improvements and are not violated
+in any material respe ct by the current use, occupancy or operation of such real property and improvements or the operation
+of the Company and its Subsidiaries; (g) statutory or contractual Encumbrances of landlords arising in connection with any
+Lease which, individually or in the aggregate, do not adversely impact in any material respect the current use, occupancy ,
+or operation of such real property and improvements; (h) non-exclusive licen ses of Intellectual Property or immaterial
+exclusive licenses of Intellectual Proper ty, in each case, granted in the ordinary  course of business; (i) liens arising under
+conditional sales contracts and equipm ent leases with third parties entered into in the ordinary course of business and
+which are not otherwise material; (j) all matters of record, covenants, conditions, restrictions, reciprocal easement
+agreements, utility , access and rights of way and other non-monetary encumbrances on title with respect to real property ,
+none of which interfere materially with the ordinary conduct of the Busine ss or detract materially from or interfere
+materially with the use, occupancy , value or marketab ility of title of the assets subject there to; (k) Encumbrances or
+matters disclosed on preliminary title reports or title insurance policies, each to the extent delivered to Purchaser; (l) any
+Encumbrance that is an easement, declaration, covenant, condition, reservation, right-of-way , restriction, encroachment,
+servitude, permits and oil, gas, mineral, and any mining reservations, rights, licenses, leases, and other char ge,
+--- Page 18 ---
+instrument or encumbrance affecting title to real estate or the underlying fee interest of any Lease to the extent the same
+does not interfere materially with the ordinary conduct of the Business or detract materially from or interfere materially
+with the use, occupancy value or marketabili ty of title or the underlying fee interest  of such Lease; (m) public roads and
+highways or title to any portion of the real property lying within the right-of-wa y or boundary of any public road or private
+road that do not materially impair the occupancy , use or value of such real property; and (n) Encumbrances set forth on
+Schedule 1.01(g) of the Seller Disclosure Letter .
+“Person ” shall mean any individual, corporation, general partnership, limited partners hip, limited liability
+company , limited liability partnership, association, trust or any other entity or organization, including a government or
+political subdivision or an agency or instrumentality thereof.
+“Post-Closing Insura nce Policies ” shall mean, colle ctively , the Year One Insurance Policies and the
+Renewal Insurance Policies.
+“Pre-Closing Period ” shall have the meaning ascribed to such term in Section 6.01(a) .
+“Pre-Closing Tax Period ” shall mean any taxable period ending on or before the Closing Date and the
+portion ending on and including the Closing Date of any Straddle Period.
+“Pre-Closing Tax Returns ” shall have the meaning ascribed to such term in Section 10.05(c) .
+“Pre-Closing Taxes” shall mean (a) any Liability for Taxes of the Company or its Subsidiaries for Pre-
+Closing Tax Periods; (b) any Liability resulting by reason of the several liability of the Company pursuant to Treasury
+Regulations Section  1.1502-6 or any analogous state, local or foreign law or regulation attributable to the Company having
+been a member of any consolidated, combined or unitary group prior to the Closing; (c) any Liability for Taxes to the
+extent solely attributable to a breach by the Seller or any of its Affiliates of any covenant contained in Article 10; and (d)
+any Liabil ity for Taxes of any other Person pursuant to any Contract entered into by the Company or any of its Subsidiaries
+before the Closing.
+“Proposal ” shall have the meaning ascribed to such term in Section 6.15 .
+“Purchase Price ” shall mean an amount equal to $307 ,800,000, less two (2) times the Target Insurance
+Policy Costs ( i.e., $15,000,000).
+“Purchaser ” shall have the meaning ascribed to such term in the preamble hereof.
+“Purchaser Benefit Plan ” shall have the meaning ascribed to such term in Section 6.06(c) .
+“Purchaser Claims ” shall have the meaning ascribed to such term in Section 6.14(b) .
+“Purchaser Guarantor ” shall have the meaning ascribed to such term in the preamble hereof.
+“Purchaser Indemnified Parties ” shall have the meaning ascribed to such term in Section 8.02(a) .
+--- Page 19 ---
+“Purchaser Obligations ” shall have the meaning ascribed to such term in Section 1 1.16(a) .
+“Purchaser Release ” shall have the meaning ascribed to such term in Section 6.14(b) .
+“R&W  Policy ” shall have the meaning ascribed to such term in Section 6

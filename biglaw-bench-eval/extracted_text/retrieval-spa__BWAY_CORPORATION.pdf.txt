@@ -1,0 +1,531 @@
+--- Page 1 ---
+EX-10.1 2 dex101.htm STOCK PURCHASE AGREEMENT
+Exhibit 10.1
+  
+STOCK PURCHASE AGREEMENT
+between
+BWAY CORPORA TION
+and
+THE PERSONS IDENTIFIED AS SELLERS ON THE SIGNA TURE P AGES HERET O
+Dated as of August 20, 2009
+  
+--- Page 2 ---
+Table of Contents
+ 
+ 
+         Page
+ARTICLE 1   SALE AND PURCHASE OF SHARES    1
+Section 1.1   Sale and Purchase of Shares    1
+Section 1.2   Closing    1
+Section 1.3   Purchase Price Adjustment    2
+Section 1.4   Withholding    3
+Section 1.5   Sellers’  Representative    3
+ARTICLE 2   REPRESENT ATIONS AND WARRANTIES OF THE SELLERS    4
+Section 2.1   Corporate Status    4
+Section 2.2   Corporate and Governmental Authorization    4
+Section 2.3   Non-Contravention    5
+Section 2.4   Capitalization; Title to Shares    5
+Section 2.5   No Subsidiary or Ownership Interests    6
+Section 2.6   Financial Statements; Accounting Controls    6
+Section 2.7   No Undisclosed Material Liabilities    7
+Section 2.8   Absence of Certain Changes    7
+Section 2.9   Material Contracts    9
+Section 2.10   Properties   11
+Section 2.1 1   Intellectual Property   12
+Section 2.12   Litigation   12
+Section 2.13   Compliance with Laws; Licenses and Permits   12
+Section 2.14   Environmental, Health and Safety Matters   13
+Section 2.15   Employees, Labor Matters, etc.   14
+Section 2.16   Employee Benefit Plans and Related Matters; ERISA   14
+Section 2.17   Tax Matters   16
+Section 2.18   Insurance   18
+Section 2.19   Finders’  Fees   19
+Section 2.20   Transactions with Affiliates   19
+Section 2.21   Customers   19
+Section 2.22   Inventories   19
+Section 2.23   Receivables   19
+Section 2.24   Bank Accounts   20
+ARTICLE 3   REPRESENT ATIONS AND WARRANTIES OF BUYER   20
+Section 3.1   Corporate Status   20
+Section 3.2   Corporate and Governmental Authorization   20
+Section 3.3   Non-Contravention   20
+Section 3.4   Purchase for Investment   21
+Section 3.5   Litigation   21
+Section 3.6   Finders’  Fees   21
+ 
+i
+--- Page 3 ---
+Table of Contents
+(continued)
+ 
+         Page
+ARTICLE 4   CER TAIN COVENANTS   21
+Section 4.1   Conduct of the Business   21
+Section 4.2   Confidentiality   21
+Section 4.3   Further Assurances   22
+Section 4.4   Public Announcements   22
+Section 4.5   Resignations   22
+Section 4.6   Mutual Release and Waiver of Claims   22
+ARTICLE 5   TAX MA TTERS   23
+Section 5.1   Books and Records; Cooperation   23
+Section 5.2   Transfer Taxes   23
+Section 5.3   Tax Agreements   23
+Section 5.4   No Section 108(i) Election   23
+ARTICLE 6   CONDITIONS PRECEDENT   24
+Section 6.1   Conditions to Obligations of Buyer and the Sellers   24
+Section 6.2   Conditions to Obligations of Buyer   24
+Section 6.3   Condition to Obligations of the Sellers   27
+ARTICLE 7   TERMINA TION   27
+Section 7.1   Termination   27
+Section 7.2   Effect of Termination   28
+ARTICLE 8   INDEMNIFICA TION   28
+Section 8.1   Survival   28
+Section 8.2   Indemnification by the Sellers   29
+Section 8.3   Indemnification by Buyer   29
+Section 8.4   Limitations on Indemnity   29
+Section 8.5   Notification of Claims; Third Party Claims   31
+Section 8.6   Exclusive Remedy   32
+Section 8.7   Treatment of Indemnification Payments   33
+ARTICLE 9   DEFINITIONS   33
+Section 9.1   Certain Terms   33
+Section 9.2   Construction   41
+ARTICLE 10   MISCELLANEOUS   41
+Section 10.1   Notices   41
+ 
+ii
+--- Page 4 ---
+Table of Contents
+(continued)
+ 
+ 
+         Page
+Section 10.2   Amendment; Waivers, etc.   43
+Section 10.3   Expenses   43
+Section 10.4   Governing Law , etc.   43
+Section 10.5   Successors and Assigns   44
+Section 10.6   Entire Agreement   44
+Section 10.7   Severability   44
+Section 10.8   Counterparts; Ef fectiveness; Third Party Beneficiaries   45
+Schedule I   Allocation Schedule   
+Schedule II   Preferred Stock Redemption Amount   
+Exhibit A   Legal Opinion of Chuhak & Tecson, P .C.   
+Exhibit B   Landlord Estoppel Certificate   
+ 
+iii
+--- Page 5 ---
+STOCK PURCHASE AGREEMENT
+This ST OCK PURCHASE AGREEMENT , dated as of August 20, 2009 (this “ Agreement ”), is made by and among BW AY Corporation, a
+Delaware corporation (“ Buyer ”) and each of the Persons identified as “ Sellers ” on the signature pages hereto (each a “ Seller ” and collectively , the
+“Sellers ”). Capitalized terms used herein shall have the meanings assigned to such terms in the text of this Agreement or in Section 9.1.
+R E C I T A L S:
+WHEREAS, the Sellers own all of the issued and outstanding shares of common stock, having no par value per share (the “ Common Stock ”) of
+Central Can Company , Inc., a Delaware corporation (the “ Company ”) (the “ Shares ”); and
+WHEREAS, the Sellers wish to sell the Shares to Buyer , and Buyer wishes to purchase the Shares from the Sellers, on the terms and conditions
+set forth in this Agreement.
+NOW , THEREFORE, the parties agree as follows:
+ARTICLE 1
+Sale and Purchase of Shares
+Section 1.1 Sale and Purchase of Shares . Subject to the terms and conditions hereof, at the Closing, the Sellers shall sell the Shares to Buyer , free
+and clear of all Liens, and Buyer shall purchase the Shares from the Sellers, for an amount in the aggregate equal to the Purchase Price, such Purchase
+Price subject to adjustment as set forth in Section 1.3(b).
+Section 1.2 Closing . The closing of the sale and purchase of the Shares (the “ Closing ”) shall take place remotely by the exchange of documents
+and signatures by facsimile or electronic mail with originals to follow by overnight courier on August 20, 2009, unless another time, date or place is
+agreed to in writing by the parties. The date on which the Closing occurs is referred to hereinafter as the “ Closing Date ”. The deliveries described in
+ARTICLE 6 shall be mutually interdependent and shall be regarded as occurring simultaneously , and no such delivery shall become ef fective or shall
+be deemed to have occurred until all of the other deliveries provided for in ARTICLE 6 shall also have occurred or been waived in writing. Such
+deliveries shall be deemed to have occurred, and the Closing shall be deemed ef fective as of 12:01 a.m. C.D.T . on the Closing Date. At the Closing:
+(a) Sellers shall deliver to Buyer , one or more certificates representing all of the Shares, duly endorsed in blank or accompanied by stock powers
+or other instruments of transfer duly executed in blank, and bearing or accompanied by all requisite stock transfer stamps;
+ 
+1
+--- Page 6 ---
+(b) Buyer shall pay to the Sellers, by wire transfer of immediately available funds to accounts, which shall be designated by the Sellers’
+Representative at least three Business Days prior to the Closing Date, a pro rata portion, determined in accordance with the allocations set forth on
+Schedule I  (the “ Allocation Schedule ”), of amounts which in the aggregate equal the sum of the Purchase Price, minus  (i) the amount of Estimated
+Indebtedness, minus  (ii) the amount of Estimated Company Transaction Expenses, minus  (iii) the amount of the DN Advisory Fee, minus  (iv) the
+amount of the Preferred Stock Redemption Amount and ( v) without double-counting any amounts taken into account in clauses (i), (ii) or (iii) above,
+any amounts paid by Buyer pursuant to Section 6.2(d) or Section 6.2(i), (the “ Base Purchase Price ”);
+(c)Buyer shall pay to each of the Preferred Shareholders, on behalf of the Company , the Preferred Stock Redemption Amount, in the amounts set
+forth on Schedule II  by wire transfer in immediately available funds to accounts which shall be designated by each Preferred Shareholder; and
+(d) Buyer shall pay to DN Partners, LLC, by wire transfer of immediately available funds to an account which shall be designated by the Sellers’
+Representative at least three Business Days prior to the Closing Date, an amount equal to the DN Advisory Fee.
+Section 1.3 Purchase Price Adjustment .
+(a) Closing of the Books on the Closing Date . In preparation for the Closing, the Sellers shall use their reasonable best ef forts to cause a full
+balance sheet closing to take place on the Closing Date as if it were the last day of a fiscal period for the Company .
+(b) Pre-Closing Adjustment . At least one Business Day prior to the Closing Date, the Sellers’  Representative shall prepare based on all available
+information and deliver to Buyer a statement (the “ Estimated Closing Statement ”) consisting of ( i) an estimated calculation in reasonable detail of the
+aggregate amount of Indebtedness (other than the U.S. Steel Note, all obligations of the Company under credit cards issued by Fifth Third Bank, the
+obligations to Soudronic which are scheduled to be paid after Closing, and the payments due to Severstal Wheeling and Kemeny Overseas Packaging
+(BAO Steel), all of which Company shall pay in accordance with their terms after the Closing) of the Company as of immediately prior to the Closing
+(“Estimated Indebtedness ”), (ii) an estimated calculation in reasonable detail of the aggregate unpaid Company Transaction Expenses as of
+immediately prior to the Closing (the “ Estimated Company Transaction Expenses ”), (iii) the amount of the DN Advisory Fee, and ( iv) the amount to be
+paid to the holders of the Preferred Stock as contemplated by Section 6.2(i).
+ 
+2
+--- Page 7 ---
+Section 1.4 Withholding . Notwithstanding any other provision of this Agreement, and for the avoidance of doubt, ( a) each payment made
+pursuant to this Agreement shall be made net of any Taxes required by applicable Law to be deducted or withheld from such payment and ( b) any
+amounts deducted or withheld from any such payment shall be remitted to the applicable Governmental Authority and shall be treated for all purposes
+of this Agreement as having been paid. The party making any such deduction or withholding shall furnish to the other party of ficial receipts (or copies
+thereof) evidencing the payment of any such Taxes.
+Section 1.5 Sellers’  Representative .
+(a) Ef fective upon the execution of this Agreement and without the further act of any Person, DN Partners, LLC shall be irrevocably appointed as
+agent and attorney-in-fact (the “ Sellers’  Representative ”) for each of the Sellers with full power of substitution and full power and authority to
+represent each such Seller and his or its successors with respect to all matters arising under this Agreement. Without limiting the generality of the
+foregoing, the Sellers’  Representative shall have full power and authority , on behalf of each Seller and his, her or its successors, to interpret all the
+terms and provisions of this Agreement, to dispute or fail to dispute any claim, to assert claims, to negotiate and compromise any dispute which may
+arise under this Agreement, to sign documents with respect to any such dispute and to authorize delivery of any payments to be made with respect
+thereto. If for any reason DN Partners, LLC is unable to serve as the Sellers’  Representative or while serving as the Sellers’  Representative resigns as or
+otherwise ceases to be the Sellers’  Representative, the Sellers, by vote of a majority of the percentages set forth on the Allocation Schedule, shall
+appoint another Seller as a substitute Sellers’  Representative.
+(b) The Sellers’  Representative shall not have any duties or responsibilities, except those expressly set forth herein, or any fiduciary relationship
+with any Person, and no implied covenants, functions, responsibilities, duties, obligations or liabilities on the part of the Sellers’  Representative shall be
+read into this Agreement or otherwise be imposed on the Sellers’  Representative. In performing his or her functions and duties under this Agreement,
+the Sellers’  Representative shall act solely as the agent for the Sellers, and the Sellers’  Representative shall not assume nor shall be deemed to have
+assumed any obligation or relationship of trust or agency with or for any other Person. All actions, decisions and instructions of the Sellers’
+Representative shall be conclusive and binding upon all of the Sellers as if expressly signed and ratified by him, her or it, and the Sellers’
+Representative shall not be liable to any of the Sellers or to Buyer for any act done or omitted hereunder as the Sellers’  Representative except for any
+loss resulting from fraud or willful misconduct on the part of the Sellers’  Representative and arising out of or in connection with the acceptance or
+administration of the Sellers’  Representative’ s duties hereunder .
+ 
+3
+--- Page 8 ---
+(c) Buyer shall be entitled to deal exclusively with the Sellers’  Representative on all matters relating to this Agreement, and any and all claims
+and notices of Sellers shall be asserted through the Sellers’  Representative. Buyer and its Affiliates (including, after the Closing, the Company) shall be
+entitled to rely conclusively , and shall be fully protected in relying conclusively (without further evidence or independent investigation of any kind
+whatsoever), on the power and authority of the Sellers’  Representative and on any document executed or purported to be executed on behalf of any of
+the Sellers by the Sellers’  Representative, and on any other action taken or purported to be taken on behalf of any of the Sellers by the Sellers’
+Representative, as fully binding upon such Sellers.
+(d) Buyer and its Affiliates (including, after the Closing, the Company) shall have no liability to any of the Sellers for any acts or omissions of
+the Sellers’  Representative, or any acts or omissions taken or not taken by any Persons at the direction of the Sellers’  Representative.
+ARTICLE 2
+Representations and Warranties of the Sellers
+The Sellers represent and warrant to Buyer , as of the date hereof and as of the Closing Date, as follows:
+Section 2.1 Corporate Status . The Company is a corporation duly or ganized, validly existing and in good standing under the Laws of the State of
+Delaware and has all requisite corporate power and authority to carry on its business as now conducted. The Company is duly qualified to do business
+as a foreign corporation and is in good standing in each of the jurisdictions specified in Section 2.1 of the Sellers’  Disclosure Letter , which includes
+each jurisdiction in which the nature of its business or the properties owned, leased or operated by it makes such qualification necessary . The Sellers
+have delivered to Buyer complete copies of the Or ganizational Documents of the Company as currently in ef fect, and the Company is not in violation
+of any provision of such Or ganizational Documents.
+Section 2.2 Corporate and Governmental Authorization .
+(a) The Sellers have all requisite power and authority to execute and deliver this Agreement, to perform their obligations hereunder and to
+consummate the transactions contemplated hereby . The execution and delivery of this Agreement, the performance of the Sellers’  obligations hereunder
+and the consummation of the transactions contemplated hereby have been duly authorized by all requisite action of the Sellers. The Sellers have duly
+executed and delivered this Agreement. This Agreement constitutes the legal, valid and binding obligation of the Sellers enforceable against the Sellers
+in accordance with its terms, except as such enforcement may be limited by applicable bankruptcy , insolvency , reor ganization, receivership,
+moratorium, fraudulent transfer and conveyance
+ 
+4
+--- Page 9 ---
+laws and other similar laws of general application relating to or af fecting the rights and remedies of creditors.
+(b) The execution and delivery of this Agreement by the Sellers and the performance of their obligations hereunder require no action by or in
+respect of, or filing with, any Governmental Authority , other than any actions or filings under Laws the absence of which would not be, individually or
+in the aggregate, materially adverse to the Company , or materially impair the ability of the Sellers to consummate the transactions contemplated hereby
+or the ability of the Company to continue to conduct its business following the Closing.
+Section 2.3 Non-Contravention . The execution and delivery of this Agreement by the Sellers and the performance of their obligations hereunder
+do not and will not ( a) conflict with or breach any provision of the Or ganizational Documents of the Sellers or the Company , (b) assuming compliance
+with the matters referred to in Section 2.2(b), conflict with or breach any provision of any applicable Law , (c) except as set forth on Section 2.3 of the
+Sellers’  Disclosure Letter , require any consent of or other action by any Person under , constitute a default or an event that, with or without notice or
+lapse of time or both, would constitute a default under , or cause or permit termination, cancellation, acceleration or other change of any right or
+obligation or the loss of any benefit under , any provision of any material agreement or other instrument to which any Seller or the Company is a party
+(including any Material Contract) or any material Permit af fecting the assets or business of the Company or ( d) result in the creation or imposition of
+any Lien other than Permitted Liens on any Assets.
+Section 2.4 Capitalization; Title to Shares .
+(a) The authorized capital stock of the Company consists of ( i) 10,000 shares of Common Stock, of which 7,350 shares are issued and
+outstanding and ( ii) 10,000 shares of Preferred Stock, of which 5,000 shares are issued and outstanding. The Shares have been duly authorized and
+validly issued and are fully paid and nonassessable. Each Seller owns the Shares set forth on Section 2.4(a) of the Sellers’  Disclosure Letter ,
+beneficially and of record, free and clear of any Lien. Upon delivery of and payment for the Shares at the Closing, Buyer will acquire good and valid
+title to all of the Shares, free and clear of any Lien. As of the Closing, all shares of Preferred Stock shall have been validly redeemed by the Company
+as provided in this Agreement and no such shares shall remain outstanding.
+(b) Except as set forth in Section 2.4(a), there are no outstanding ( i) shares of capital stock of or other voting or equity interests in the Company ,
+(ii) securities of the Company convertible into or exercisable or exchangeable for shares of capital stock of or other voting or equity interests in the
+Company , (iii) options or other rights or agreements, commitments or understandings of any kind to acquire from the Company , or other obligation of
+the Sellers or the Company to issue, transfer or sell, any shares of capital stock of
+ 
+5
+--- Page 10 ---
+or other voting or equity interests in the Company or securities convertible into or exercisable or exchangeable for shares of capital stock of or other
+voting or equity interests in the Company , (iv) voting trusts, proxies or other similar agreements or understandings to which the Sellers or the Company
+is a party or by which the Sellers or the Company is bound with respect to the voting of any shares of capital stock of or other voting or equity interests
+in the Company or ( v) contractual obligations or commitments of any character restricting the transfer of, or requiring the registration for sale of, any
+shares of capital stock of or other voting or equity interests in the Company (the items in clauses (i), (ii) and (iii) being referred to collectively as the
+“Company Securities ”). There are no outstanding obligations of the Company to repurchase, redeem or otherwise acquire any Company Securities.
+Section 2.5 No Subsidiary or Ownership Interests . The Company does not own any shares of capital stock of or other voting or equity interests in
+(including any securities exercisable or exchangeable for or convertible into shares of capital stock of or other voting or equity interests in) any Person.
+Section 2.6 Financial Statements; Accounting Controls .
+(a) The Sellers have delivered to Buyer complete copies of ( i) audited financial statements of the Company at and for the periods ended
+December 31, 2007 and December 31, 2008 (the last such date, the “ Balance Sheet Date ”), together with the report of the Company’ s independent
+auditors thereon (collectively , the “ Audited Financial Statements ”) and ( ii) unaudited interim financial statements of the Company at and for the period
+ended June 30, 2009 (the “ Unaudited Financial Statements ”), including in the case of each of clauses (i) and (ii) a balance sheet and statements of
+income or operations, cash flows and retained earnings or shareholders’  equity (the Audited Financial Statements and the Unaudited Financial
+Statements, collectively , the “ Financial Statements ”). The Financial Statements have been prepared in accordance with United States generally
+accepted accounting principles (“ GAAP ”) applied on a consistent basis (except as may be indicated in the notes thereto) and, except as set forth in
+Section 2.6 (a) of Seller ’s Disclosure Letter , present fairly in all material respects the financial position, results of operations and cash flows of the
+Company at and for the respective periods indicated (subject, in the case of the Unaudited Financial Statements, to the absence of footnotes and to
+normal year -end adjustments which will not be material to the Company).
+(b) The Company has devised and maintained systems of internal accounting controls with respect to the Business suf ficient to provide
+reasonable assurances that ( i) all transactions are executed in accordance with management’ s general or specific authorization, ( ii) all transactions are
+recorded as necessary to permit the preparation of financial statements in conformity with GAAP  and to maintain proper accountability for items,
+(iii) access to their property and assets is permitted only in accordance with management’ s general or specific authorization and ( iv) recorded
+accountability for items is compared with actual levels at
+ 
+6
+--- Page 11 ---
+reasonable intervals and appropriate action is taken with respect to any dif ferences.
+Section 2.7 No Undisclosed Material Liabilities . The Company has no material liabilities or obligations, whether absolute, known, unknown,
+accrued, contingent or otherwise and whether due or to become due, except ( a) as set forth in Section 2.7 of the Sellers’  Disclosure Letter , (b) liabilities
+and obligations to the extent disclosed or reserved against in the Reference Balance Sheet or specifically disclosed in the notes thereto and ( c) liabilities
+and obligations that were incurred after the Balance Sheet Date in the ordinary course of business consistent with past practice.
+Section 2.8 Absence of Certain Changes . Since the Balance Sheet Date (or in the case of clause (e) below , since August 1, 2009), except as set
+forth in Section 2.8 of the Sellers’  Disclosure Letter and except to the extent disclosed in footnotes to the Financial Statements, the business of the
+Company has been conducted in the ordinary course consistent with past practice and there has not been:
+(a) To Seller ’s Knowledge, any event, development or state of circumstances that has had or would reasonably be expected to have,
+individually or in the aggregate, a Material Adverse Ef fect;
+(b) any declaration or payment of any dividend or other distribution with respect to any Company Securities, or (except as provided
+in Section 6.2(i)) any redemption or other acquisition by the Company of any Company Securities;
+(c) any amendment or modification of the Or ganizational Documents of the Company or of the terms of any Company Securities;
+(d) any incurrence of any Indebtedness by the Company , other than pursuant to existing credit facilities of Company , including,
+without limitation, all obligations of the Company under credit cards issued by Fifth Third Bank;
+(e) any repayment of any portion of any Indebtedness of the Company , other than daily fluctuations in the Company’ s revolving line
+of credit with Fifth Third Bank;
+(f) any creation or other incurrence of any Lien on any material Asset of the Company other than Permitted Liens;
+(g) any loan, advance or capital contribution to or investment in any Person by the Company;
+ 
+7
+--- Page 12 ---
+(h) any material damage, destruction or other casualty loss (whether or not covered by insurance) af fecting the Business or the Assets;
+(i) any ( i) change in any method of accounting or accounting principles or practices by the Company except for any such change
+required by reason of a concurrent change in GAAP  or (ii) revaluation of any material Assets;
+(j) any ( i) grant or payment of any severance or termination pay to (or amendment to any such existing arrangement with) any current
+or former director , officer, employee or independent contractor of the Company , (ii) increase in benefits payable under any existing
+severance or termination pay policies or employment agreements, ( iii) establishment, adoption or amendment of any employment,
+severance, termination, retention or change of control, deferred compensation or other similar agreement entered into with any director ,
+officer or employee of the Company , (iv) establishment, adoption or amendment of any collective bar gaining, bonus, profit-sharing, thrift,
+pension, retirement, deferred compensation, stock option, restricted stock or other benefit plan or arrangement covering any director ,
+officer or employee of the Company , (v) amendment, modification or termination of any existing Company Benefit Plan in any manner that
+would increase the liability of the Company , (vi) grant of new equity awards to any director , officer, employee or independent contractor of
+the Company , (vii) acceleration of the vesting or payment of, or funding or in any other way securing the payment, compensation or
+benefits under , any Company Benefit Plan or ( viii) other increases in salaries, bonuses or other compensation or benefits payable to any
+director , officer, employee or independent contractor of the Company;
+(k) any capital expenditures or commitments for capital expenditures, in an amount in excess of $2,000,000 in the aggregate, by the
+Company;
+(l) any material Tax election made or changed, any annual Tax accounting period changed, any method of Tax accounting adopted or
+changed, any material amended Tax Returns or claims for material Tax refunds filed, any material closing agreement entered into, any
+material proposed Tax adjustments or assessments, any material Tax claim, audit or assessment settled, or any right to claim a material Tax
+refund, of fset or other reduction in Tax liability surrendered, in each case, by the Company;
+ 
+8
+--- Page 13 ---
+(m) any material payments made to, discounting in favor of or any other consideration extended to customers or suppliers by the
+Company , other than in the ordinary course of business consistent with past practice;
+(n) any failure to pay or satisfy when due any material liability of the Company;
+(o) any sale, transfer , lease, exclusive license or other disposition of any Asset, except for Inventory sold in the ordinary course of
+business consistent with past practice;
+(p) any acquisition of capital stock or assets of any other Person;
+(q) any amendment, cancellation, compromise or waiver of any material claim or right of the Company; or
+(r) any agreement or commitment by the Company to do any of the foregoing or any action or omission by the Company that would
+reasonably be expected to result in any of the foregoing.
+Section 2.9 Material Contracts .
+(a) Except as disclosed in Section 2.9 of the Sellers’  Disclosure Letter , the Company is not a party to or bound by:
+(i) any agreement relating to Indebtedness (whether incurred, assumed, guaranteed or secured by any asset);
+(ii) any letters of credit;
+(iii) any joint venture, partnership, limited liability company or other similar agreements or arrangements (including any agreement
+providing for joint research, development or marketing);
+(iv) any agreement or series of related agreements, including any option agreement, relating to the acquisition or disposition of any
+business, capital stock or assets of any other Person or any material real property (whether by mer ger, sale of stock, sale of assets or otherwise);
+(v) any Leases;
+(vi) any agreement that ( A) limits the freedom of the Company to compete in any line of business or with any Person or in any area or that
+would so limit the freedom of Buyer or its Affiliates or the Company after the Closing or ( B) contains
+ 
+9
+--- Page 14 ---
+exclusivity obligations or restrictions binding on the Company or that would be binding on Buyer or any of its Affiliates after the Closing;
+(vii) any agreement or series of related agreements for the purchase of materials, supplies, goods, services, equipment or other assets
+(including sales, distribution, agency and similar agreements) that provides for aggregate payments by the Company over the remaining term of
+such agreement or related agreements of $500,000 or more or under which the Company made payments of $1,000,000 or more during the
+twelve-month period ending on the Balance Sheet Date;
+(viii) any sales, distribution, agency or other similar agreement providing for the sale by the Company of materials, supplies, goods,
+services, equipment or other assets that provides for aggregate payments to the Company over the remaining term of the agreement of $500,000
+or more or under which payments of $1,000,000 or more were made to the Company during the twelve-month period ending on the Balance
+Sheet Date; or
+(ix) any agreement under which ( A) any Person has directly or indirectly guaranteed any liabilities or obligations of the Company or
+(B) the Company has directly or indirectly guaranteed any liabilities or obligations of any other Person (in each case other than endorsements for
+the purpose of collection in the ordinary course of business).
+(b) Each agreement, commitment, arrangement or plan disclosed in the Sellers’  Disclosure Letter or required to be disclosed therein pursuant to
+this Section 2.9 or Section 2.10, 2.1 1, 2.15, 2.16 or 2.20 (each, a “ Material Contract ”) is a valid and binding agreement of the Company , except as such
+enforcement may be limited by: (A) any applicable bankruptcy , insolvency , reor ganization, receivership, moratorium, fraudulent transfer and
+conveyance laws and other similar laws of general application relating to or af fecting the rights and remedies of creditors; or (B) general principles of
+equity , whether considered in a proceeding at law or equity , and is in full force and ef fect, and neither the Company nor , to the Knowledge of the
+Sellers, any other party thereto is in default or breach in any material respect under (or is alleged to be in default or breach in any material respect
+under) the terms of, or has provided or received any notice of any intention to terminate, any such Material Contract, and, to the Knowledge of the
+Sellers, no event or circumstance has occurred that, with notice or lapse of time or both, would constitute an event of default thereunder or result in a
+termination thereof or would cause or permit the acceleration of or other changes of or to any right or obligation or the loss of any benefit thereunder .
+Complete copies of each such Material Contract (including all modifications and amendments thereto and waivers thereunder) have been delivered to
+Buyer .
+ 
+10
+--- Page 15 ---
+Section 2.10  Properties .
+(a) Title to Assets . The Company has good and valid title to, or otherwise have the right to use pursuant to a valid and enforceable lease, license
+or similar contractual arrangement, all of the assets (real and personal, tangible and intangible), that are used or held for use in connection with the
+Business or are reflected on the Reference Balance Sheet or were acquired after the date of the Reference Balance Sheet (collectively , the “ Assets ”)
+except for Inventory sold in the ordinary course of business consistent with past practice, in each case free and clear of any Lien other than Permitted
+Liens. Any Permitted Liens on the Assets, individually or in the aggregate, do not materially interfere with the current use of any such Asset by the
+Company or materially detract from the value of any such Asset.
+(b) Sufficiency of Assets . The Assets constitute all of the assets required for the conduct of the Business. To the Knowledge of the Sellers, (i) the
+plants, buildings, structures and material equipment included in the Assets are in good repair and operating condition, subject only to ordinary wear and
+tear, and are adequate and suitable for the purposes for which they are presently being used or held for use and ( ii) there are no facts or conditions
+affecting any material Assets that would reasonably be expected, individually or in the aggregate, to interfere with the use, occupancy or operation of
+such Assets.
+(c) Owned Real Property . The Company owns no real property .
+(d) Leased Real Property . Section 2.10(d) of the Sellers’  Disclosure Letter lists all real property leased by the Company (the “ Leased Real
+Property ”, and the lease pursuant to which such real property is leased, together with any amendments and modifications thereto, the “ Lease s”). The
+Company has good and valid leasehold interests in the Leases, free and clear of any Liens other than Permitted Liens and easements, covenants and
+other encumbrances and restrictions of record that do not materially impair the current use of the Facility . The Company is not a sublessor or grantor
+under any sublease or other instrument granting to any other Person any right to the possession, lease, occupancy or enjoyment of any Leased Real
+Property .
+(e) Facility . To the Knowledge of the Sellers, the Facility ( i) is in good operating condition and repair , subject to normal wear and tear , (ii) is
+supplied with adequate utilities and other services necessary for the current use of the Facility , and ( iii) except as set forth on Section 2.10(e) of the
+Sellers’  Disclosure Letter , is structurally sound and free of material defects that would interfere with the current use of the Facility , with no material
+unperformed alterations or repairs by the lessor or lessee required by the applicable Lease or any applicable Law or Permit.
+ 
+11
+--- Page 16 ---
+Section 2.1 1 Intellectual Property .
+(a) Owned Intellectual Property . Section 2.1 1(a) of the Sellers’  Disclosure Letter lists all Intellectual Property owned by the Company (the
+“Owned Intellectual Property ”) that is registered or subject to an application for registration. The Company is the exclusive owner of the Owned
+Intellectual Property set forth in Section 2.1 1(a) of the Sellers’  Disclosure Letter and, to the Knowledge of the Sellers, of the Trade Secrets owned by
+the Company . All Persons (including current and former employees and independent contractors) who create or contribute to material Owned
+Intellectual Property have validly and irrevocably assigned to the Company in writing all of their rights therein that did not initially vest with the
+Company by operation of law .
+(b) Licenses and Other Agreements . Section 2.1 1(b) of the Sellers’  Disclosure Letter lists all agreements to which the Company is a party or is
+otherwise bound that relate to Intellectual Property , including ( i) licenses of Intellectual Property to the Company by any other Person (other than any
+“shrink wrap licenses”), ( ii) licenses of Intellectual Property to any other Person by the Company , (iii) agreements otherwise granting or restricting the
+right to use Intellectual Property and ( iv) agreements transferring, assigning, indemnifying with respect to or otherwise relating to Intellectual Property
+used or held for use in the Business, in each case to the extent material to the Business.
+(c ) No Infringement . The conduct of the Business does not infringe or otherwise conflict with the rights of any Person in respect of any
+Intellectual Property . To the Knowledge of the Sellers, none of the Owned Intellectual Property is being infringed or otherwise used or being made
+available for use by any Person without a license or permission from the Company , except as set forth in Section 2.1 1(c) of the Sellers’  Disclosure
+Letter .
+Section 2.12 Litigation . Except as set forth in Section 2.12 of the Sellers’  Disclosure Letter , (a) there is no Litigation pending or , to the
+Knowledge of the Sellers, threatened against or af fecting the Company or any of the Assets and ( b) there are no settlement agreements or similar
+written agreements with any Governmental Authority and no outstanding orders, judgments, stipulations, decrees, injunctions, determinations or
+awards issued by any Governmental Authority against or adversely af fecting the Company or any of the Assets.
+Section 2.13 Compliance with Laws; Licenses and Permits .
+(a) The Company is, and since January 1, 2004 have been, in compliance in all material respects with applicable laws, statutes, ordinances, rules,
+regulations, judgments, injunctions, orders and decrees (“ Laws ”) and, to the Knowledge of the Sellers, is not under investigation with respect to any
+material violation of any applicable Laws.
+ 
+12
+--- Page 17 ---
+(b) The Company has all licenses, franchises, permits, certificates, approvals or other similar authorizations issued by Governmental Authorities
+and af fecting, or relating to, the Assets or required for the operation of the Business (the “ Permits ”), except for such Permits the failure of which to
+hold would not be, individually or in the aggregate, materially adverse to the Company , or materially impair the ability of the Sellers to consummate
+the transactions contemplated hereby or the ability of the Company to continue to operate the Business following the Closing. Except as set forth in
+Section 2.13(b) of the Sellers’  Disclosure Letter , (i) the Permits are valid and in full force and ef fect, ( ii) the Company is not in default under , and no
+condition exists that with notice or lapse of time or both would constitute a default under , the Permits and ( iii) none of the Permits will be terminated or
+impaired or become terminable, in whole or in part, as a result of the transactions contemplated hereby .
+Section 2.14 Environmental, Health and Safety Matters . Except as set forth in Section 2.14 of the Sellers’  Disclosure Letter:
+(a) The Company has complied and is in compliance in all material respects with all applicable Environmental Laws and has obtained and is in
+compliance in all material respects with all applicable Environmental Permits.
+(b) Since January 1, 2004, no notice of violation or alleged violation, notification of liability or potential liability or request for information has
+been received by the Company relating to or arising out of any Environmental Law . No order has been issued and is currently in ef fect, and since
+January 1, 2004, no penalty or fine has been assessed, involving the Company relating to or arising out of any Environmental Law .
+(c )No Release of Hazardous Substances by the Company or any of its predecessors in interest has occurred since February 1, 1990 at, on, above,
+under or from any properties currently or formerly owned, leased, operated or used by the Company or any predecessors in interest, that has resulted or
+would reasonably be expected to result in any Remedial Action.
+(d) Neither the Company nor any predecessors in interest, nor to the Knowledge of Sellers, any other Person caused or taken any action since
+February 1, 1990 that would reasonably be expected to result in any material liability or obligation relating to ( i) the environmental conditions at, on,
+above, under or about any properties or assets currently or formerly owned, leased, operated or used by the Company or any predecessors in interest or
+(ii) the past or present use, management, handling, transport, treatment, generation, storage, disposal, Release or threatened Release of, or exposure to,
+Hazardous Substances.
+(e) The Sellers have provided to Buyer all environmental site assessments, audits, investigations and studies in the possession, custody or control
+of the Sellers or the Company , relating to properties or assets currently or formerly owned, leased, operated or used by the Company .
+ 
+13
+--- Page 18 ---
+Section 2.15 Employees, Labor Matters, etc .
+(a) The Company is not a party to or otherwise bound by any collective bar gaining agreement, and there are no labor unions or other
+organizations or groups representing, purporting to represent, or to the Knowledge of Sellers, attempting to represent any employees employed by the
+Company . Since January 1, 2006 there has not occurred or , to the Knowledge of the Sellers, been threatened any material strike, slowdown, picketing,
+work stoppage, concerted refusal to work overtime by , or lockout of, or other similar labor activity or or ganizing campaign with respect to, any
+employees of the Company . The Company is in material compliance with all applicable Laws respecting labor , employment, fair employment
+practices, terms and conditions of employment, workers’  compensation, occupational safety and health requirements, plant closings, wages and hours,
+withholding of taxes, employment discrimination, disability rights or benefits, equal opportunity , labor relations, worker classification, employee leave
+issues and unemployment insurance and related matters. Except as disclosed in Section 2.15 of the Sellers’  Disclosure Letter and except for instances
+that would not be, individually or in the aggregate, material, the Company has not received notice of ( i) any unfair labor practice char ge or complaint
+against the Company pending before the National Labor Relations Board or any other Governmental Authority , (ii) any char ge or complaint against the
+Company pending before the Equal Employment Opportunity Commission or any other Governmental Authority responsible for the prevention of
+unlawful employment practices or ( iii) any complaint or lawsuit against the Company concerning employees or former employees of the Company
+alleging employment discrimination or violations of occupational safety and health requirements pending before a court of competent jurisdiction.
+(b) Prior to the Closing Date, the Company will not have incurred any liability under the Worker Adjustment and Retraining Notification Act or
+any similar state or local Law that remains unsatisfied as of the Closing Date.
+Section 2.16 Employee Benefit Plans and Related Matters; ERISA .
+(a) Disclosure . Section 2.16(a) of the Sellers’  Disclosure Letter lists all Company Benefit Plans (including a written description of any oral
+Company Benefit Plans). With respect to each such Company Benefit Plan, the Sellers have provided or made available to Buyer complete and correct
+copies of ( i) all related plan documents, trust agreements, insurance contracts or other funding arrangements, ( ii) the two most recent actuarial and trust
+reports for both ERISA  funding and financial statement purposes, ( iii) the two most recent Forms 5500 with all attachments required to have been filed
+with the IRS or the Department of Labor , and all schedules thereto, ( iv) the most recent IRS determination letter with respect to each Company Benefit
+Plan, ( v) all current summary
+ 
+14
+--- Page 19 ---
+plan descriptions, ( vi) all material communications received from or sent to the IRS, the Pension Benefit Guaranty Corporation, the Department of
+Labor or any other Governmental Authority (including a written description of any oral communication) and ( vii) all current employee handbooks and
+manuals. The Company has not communicated to any current or former employee any intention or commitment to amend or modify any Company
+Benefit Plan or to establish or implement any other employee or retiree benefit or compensation plan or arrangement.
+(b) Qualification . Each Company Benefit Plan intended to be qualified under section 401(a) of the Code, and the trust (if any) forming a part
+thereof, has received a favorable determination letter from the IRS indicating it is so qualified and, to the Knowledge of the Sellers, there are no
+existing circumstances or events that would reasonably be expected to adversely af fect the qualified status of any plan. Each Company Benefit Plan has
+been operated in all material respects in accordance with applicable Law .
+(c) Liability; Compliance .
+(i) Each Company Benefit Plan that is subject to the minimum funding standards of the Code or ERISA  satisfies such standards under
+sections 412 and 302 of the Code and ERISA, respectively , and no waiver of such funding has been sought or obtained. In addition, no such
+Company Benefit Plan incurred an “accumulated funding deficiency” within the meaning of the predecessors to sections 412 or 302 of the Code
+and ERISA, respectively , whether or not waived.
+(ii) Neither the Company nor any of its ERISA  Affiliates have incurred (either directly or indirectly , including as a result of an
+indemnification obligation) any liability under or pursuant to Title I or IV  of ERISA  or the penalty , excise Tax or joint and several liability
+provisions of the Code relating to employee benefit plans, and no event, transaction or condition has occurred or exists that could result in any
+such liability to the Company , any of its ERISA  Affiliates or , following the Closing Date, Buyer or any of its Affiliates. All contributions and
+premiums required to have been paid by the Company or any of its ERISA  Affiliates to any Company Benefit Plan under the terms of any such
+plan or its related trust, insurance contract or other funding arrangement, or pursuant to any applicable Law (including ERISA  and the Code) or
+collective bar gaining agreement have been paid within the time prescribed by any such plan, agreement or applicable Law .
+(iii) Other than routine claims for benefits, there are no pending or , to the Knowledge of the Sellers, threatened or anticipated claims ( A) by
+or on behalf of any Company Benefit Plan or any employee or beneficiary covered under any Company Benefit Plan, or otherwise involving any
+Company Benefit Plan or its assets, or ( B) by or on behalf of any current or
+ 
+15
+--- Page 20 ---
+former employee of the Company relating to his or her employment, termination of employment, compensation or employee benefits. None of
+the Company Benefit Plans is presently under audit or examination (nor has notice been received of a potential audit or examination) by the IRS,
+the Department of Labor or any other Governmental Authority , domestic or foreign.
+(iv) The Company has no liability in respect of post-retirement health, medical or life insurance benefits for retired, former or current
+employees of the Company except as required to avoid the excise tax under section 4980B of the Code.
+(v) The execution, delivery and performance of this Agreement by the Company and the consummation by the Company of the transactions
+contemplated by this Agreement will not (alone or in combination with any other event) ( A) except as set forth on Section 2.16(c)(v) in the
+Sellers’  Disclosure Letter , entitle any current or former employee, consultant, of ficer or director of the Company to severance pay or any other
+payment, ( B) except as set forth on Section 2.16(c)(v) in the Sellers’  Disclosure Letter , result in any payment becoming due, accelerate the time
+of payment or vesting of benefits, or increase the amount of compensation due to any such employee, consultant, of ficer or director , (C) result in
+any for giveness of indebtedness, trigger any funding obligation under any Company Benefit Plan or impose any restrictions or limitations on the
+Company’ s rights to administer , amend or terminate any Company Benefit Plan or ( D) result in any payment (whether in cash or property or the
+vesting of property) to any “disqualified individual” (as such term is defined in Treasury Regulation section 1.280G-1) that could reasonably be
+construed, individually or in combination with any other such payment, to constitute an “excess parachute payment” (as defined in section
+280G(b)(1) of the Code). No Person is entitled to receive any additional payment (including any tax gross-up or other payment) from the
+Company as a result of the imposition of the excise taxes required by section 4999 of the Code or any taxes required by section 409A  of the
+Code.
+Section 2.17 Tax Matters . Except as set forth in Section 2.17 of the Sellers’  Disclosure Letter:
+(a) Filing and Payment . To the Knowledge of Sellers, all Tax Returns required to be filed by , on behalf of or with respect to the Company have
+been duly and timely filed and are complete and correct in all material respects. Section 2.17(a) of the Sellers’  Disclosure Letter lists all of the states,
+territories and jurisdictions in which such income, franchise, sales or use Tax Returns with respect to the Company were filed for the past three years,
+and complete copies of all such Tax Returns have been made available to Buyer . All Taxes (whether or not reflected on such Tax Returns) required to
+be paid with respect to, or that could give rise to a Lien
+ 
+16
+--- Page 21 ---
+on the Assets of, the Company have been duly and timely paid. All Taxes owed by the Company for any taxable period (or a portion thereof) ending on
+or prior to the Closing Date which are not yet due and payable have been or will be on or prior to the Closing Date properly reserved for on the books
+and records of the Company and reflected on the Financial Statements. All Taxes required to be withheld by the Company have been duly and timely
+withheld, and such withheld Taxes have been either duly and timely paid to the proper Governmental Authority or properly set aside in accounts for
+such purpose.
+(b) Financial Records . All accounting entries (including char ges and accruals) for Taxes with respect to the Company reflected on the books of
+the Company (excluding any provision for deferred income taxes 
